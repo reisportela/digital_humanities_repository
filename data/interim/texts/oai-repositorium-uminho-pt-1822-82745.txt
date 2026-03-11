@@ -1,0 +1,2014 @@
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+Sabrina Santos Machado Alves 
+ 
+Projeto Liderα:  
+Plataforma de Liderança Feminina em Tecnologia
+Projeto Liderα: Plataforma de Liderança Feminina em Tecnologia Sabrina Santos Machado Alves  
+
+ 
+ 
+
+i 
+ 
+ 
+ 
+ 
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+Sabrina Santos Machado Alves 
+ 
+Projeto Liderα 
+Plataforma de liderança 
+feminina em tecnologia 
+ 
+ 
+Relatório de Projeto  
+Mestrado em Humanidades Digitais 
+ 
+ 
+ 
+ 
+ 
+ 
+Orientadores 
+Sílvia Lima Gonçalves Araújo 
+                                                      Ana Cláudia Homem de Albergaria 
+ 
+ 
+                                                           Fevereiro de 2023 
+
+i 
+ 
+Direitos de autor e condições de utilização do trabalho por terceiros 
+ 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras e 
+boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos conexos. 
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada.  
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não previstas 
+no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da Universidade do Minho. 
+ 
+Licença concedida aos utilizadores deste trabalho  
+ 
+https://creativecommons.org/licenses/by/4.0/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ii 
+ 
+Declaração de integridade  
+ 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo que não 
+recorri à prática de plágio nem a qualquer forma de utilização indevida ou falsificação de informações ou 
+resultados em nenhuma das etapas conducente à sua elaboração. Mais declaro que conheço e que 
+respeitei o Código de Conduta Ética da Universidade do Minho.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+ 
+Agradecimentos 
+ 
+À minha família, por cruzar comigo um oceano para que eu pudesse realizar este sonho acadêmico. Por 
+todas as dificuldades , incertezas e adaptações que tiveram de passar nos últimos dois anos , ao meu 
+marido Raul e filhos Sara e Davi meu eterno amor e agradecimento. 
+Aos mestres professores do curso de Humanidades Digitais da Universidade do Minho que sempre me 
+estimularam a ir além, com carinho e paciência na transferência do seu conhecimento. 
+Às minhas orientadoras, Prof. Sílvia Araújo e Ana Albergaria por acreditarem desde o início neste projeto 
+e dedicarem seu tempo valioso a olhar as linhas e entrelinhas dos meus desejos de igualdade e equidade 
+aqui descritos. 
+À Mark Up, empresa em que atuo,  que me permitiu conciliar a vida profissional e estudantil  cruzando 
+fronteiras e fusos Brasil-Portugal. 
+Às mulheres profissionais em tecnologia que aceitaram fazer parte deste projeto ao disponibilizar seus 
+dados e suas histórias para uma estudante desconhecida e insistente. 
+À todas nós, mulheres , que precisamos sempre ser melhores, mais fortes, mais criativas, mais 
+independentes, mais estudiosas e, acima de tudo, mais unidas para tornar este mundo melhor.  
+E por fim, a Deus, senhor da minha vida  com quem estão meus pais, Sônia e Luiz , e minha filha Liz, 
+certamente a olharem e cuidarem de mim. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+Resumo  
+A escada de ascensão profissional para as mulheres tem mais degraus. Além das competências técnicas 
+e habilidades comportamentais, sociais e de gestão, elas precisam romper paradigmas construídos há 
+gerações sob a ótica do gênero . A ideia de que homens e mulheres  são diferentes na sua forma de 
+pensar, agir e liderar criou um abismo para o acesso das mulheres às áreas chamadas de STEM, sigla 
+em inglês para Ciências, Tecnologia, Engenharia e Matemática. O impacto não está apenas nos setores, 
+mas também no alcance dos altos cargos e salários. Foi pensando no acesso das mulheres portuguesas 
+à liderança em empresas de tecnologia  que o projeto Liderα surgiu, no âmbito do Mestrado em 
+Humanidades Digitais. A proposta é colocar uma lupa sobr e os conceitos de igualdade e equidade 
+profissionais e desenvolver uma plataforma com uso de recursos interativos capaz de mapear quem são, 
+onde trabalham, em que áreas tecnológicas atuam, que habilidades técnicas e competências sociais e 
+relacionais possuem  as mulheres profissionais de hoje . É nosso objetivo contribuir  para uma maior  
+visibilidade dessas profissionais e fomentar o acesso de mais mulheres à área de tecnologia através de 
+mentorias positivas entre elas. 
+ 
+Palavras-chave  
+Liderança feminina; Tecnologia; Valorização; Mentoria; Mapeamento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+Abstract 
+The career ladder for women has more rungs. In addition to technical competences and behavioral, social 
+and management skills, they need to break paradigms built for generations from the perspective of 
+gender. The idea that men and women are different in the way they think, act and lead has created a 
+chasm for women's access to areas called STEM, an acronym for Science, Technology, Engineering and 
+Mathematics. The impact is not only in the sectors, but also in the reach of high positions and salaries. 
+It was thinking about the access of Portuguese women to leadership in technology companies that the 
+Liderα project emerged, within the scope of the Master in Digital Humanities. The proposal is to put a 
+magnifying glass on the concepts of equality and professional equity and to develop a platform with the 
+use of interactive resources, capable of mapping who they are, where they work, in which technological 
+areas they work , what technical skills and social and relational competences today´s women 
+professionals have. It is our objective to contribute to a greater visibility of these professionals and to 
+encourage the access of more women to the technology area through positive mentorships among them. 
+ 
+Key Words 
+Female Leadership; Technology; Appreciation; Mentoring; Mapping. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+Índice de ilustrações 
+Figura 1 Objetivos do Projeto Liderα ................................................................................................... 9 
+Figura 2 Campanha “Imagine” CPB London ..................................................................................... 16 
+Figura 3 Imagem publicada no Dia Internacional da Mulher .............................................................. 18 
+Figura 4 Dados do assédio profissional no mundo ............................................................................. 25 
+Figura 5 Protótipo de visualização dos dados Liderα ......................................................................... 28 
+Figura 6 Exemplo de seleção no filtro Empresa ................................................................................. 29 
+Figura 7 Protótipo visualização Glossário - Liderα .............................................................................. 30 
+Figura 8 Visualização da seleção do verbete Desenvolvimento ........................................................... 31 
+Figura 9 Topo inquérito de cadastro Liderα ....................................................................................... 35 
+Figura 10 Aceite cadastro Liderα ...................................................................................................... 36 
+Figura 11 Etapas do desenvolvimento do Projeto Liderα.................................................................... 58 
+ 
+Gráfico 1 Respondentes Liderα- Última habilitação escolar ................................................................ 39 
+Gráfico 2 Respondentes Liderα- Número de pessoas que lidera ........................................................ 42 
+Gráfico 3 Respondentes Liderα- Lidera alguma mulher ..................................................................... 43 
+Gráfico 4 Respondentes Liderα- Quantas mulheres lidera .................................................................. 44 
+Gráfico 5 Respondentes Liderα- Principais áreas de atuação ............................................................. 45 
+Gráfico 6 Respondentes Liderα- Principais habilidades ...................................................................... 47 
+Gráfico 7 Teia – Habilidades da Área de Desenvolvimento ................................................................. 48 
+Gráfico 8 Teia - Habilidades da Área de Softwares ............................................................................. 48 
+Gráfico 9 Teia - Habilidades da Área de Programação ....................................................................... 49 
+ 
+Tabela 1 Lista das empresas de tecnologia com atuação em Portugal pesquisadas ........................... 32 
+Tabela 2 Número de profissionais cadastradas por empresa que trabalha ......................................... 39 
+Tabela 3 Número de profissionais cadastradas por cargo .................................................................. 41 
+Tabela 4 Resumo das competências e recursos ................................................................................ 59 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+Sumário 
+Direitos de autor e condições de utilização do trabalho por terceiros ............................................ i 
+Declaração de integridade ......................................................................................................... ii 
+Agradecimentos ........................................................................................................................ iii 
+Resumo.................................................................................................................................... iv 
+Abstract..................................................................................................................................... v 
+Índice de ilustrações ................................................................................................................. vi 
+1. Introdução ......................................................................................................................... 9 
+1.1 Objetivos..........................................................................................................................9 
+1.2 Estrutura do Relatório.....................................................................................................11 
+2. A história da liderança .................................................................................................... 12 
+2.1 Os líderes nas empresas................................................................................................14 
+2.2 A luta pela liderança feminina........................................................................................16 
+2.2.1 Campanhas e Projetos Feministas...........................................................................17 
+2.2.2 Os números da desigualdade............................................................................18 
+3. Homens e mulheres: o cérebro do líder ........................................................................... 20 
+4. A liderança feminina em tecnologia ................................................................................. 23 
+5. O Projeto Liderα ............................................................................................................. 26 
+6. Construção da Plataforma Lang2Science......................................................................... 27 
+6.1 Desenvolvimento dos Recursos Interativos......................................................................28 
+6.2 Funcionalidades da Plataforma Liderα............................................................................29 
+6.3 Glossário de Termos em Tecnologia..........................................................................30 
+6.4 Base de Dados do Liderα...............................................................................................31 
+6.4.1 Seleção das Mulheres........................................................................................32 
+6.4.2 Inquérito de acesso ao Projeto...........................................................................34 
+7 Mapeamento e análise dos dados ............................................................................... ....37 
+7.1 Tratamento dos dados.....................................................................................................37 
+7.1.1 Área de atuação.......................................................................................................38 
+7.1.2 Habilitação Escolar...................................................................................................38 
+7.1.3 Empresa em que trabalha.........................................................................................39 
+7.1.4 Cargos ocupados......................................................................................................40 
+7.1.5 Equipas que lidera....................................................................................................42 
+7.1.6 Áreas de atuação......................................................................................................44 
+7.1.7 Habilidades..............................................................................................................46 
+
+viii 
+ 
+7.1.8 Áreas de Atuação x Habilidades...............................................................................47 
+7.2 Persona.........................................................................................................................49 
+7.3 Resumo das Análises de Dados......................................................................................50 
+7.4 Depoimentos das Mulheres Liderα.................................................................................50 
+8 SEÇÃO 4 - Mentoria Liderα e projeto Piloto...................................................................... 53 
+9 Conclusão .................................................................................................................... ..58 
+9.1 Etapas realizadas e competências e recursos mobilizados..............................................58 
+9.2 Perspectivas Futuras......................................................................................................62 
+10. Bibliografia ..................................................................................................................... ..63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+ 
+1. Introdução 
+O grande objetivo do Projeto Lider α é contribuir para que mais mulheres portuguesas 
+possam entrar e crescer na área da tecnologia de modo a romper o status quo. O 
+projeto, portanto, se enquadra em dois dos dezessete Objetivos de Desenvolvimento Sustentável 
+(ODS) adotados pela quase totalidade dos países do mundo, no contexto das Nações Unidas, que 
+definem as prioridades e aspirações do desenvolvimento sustentável global para 2030:  
+1. Igualdade de Gênero – alcançar a igualdade de gênero e empoderar todas as mulheres e 
+raparigas; 
+2.  Trabalho Digno e Crescimento Econômico – promover o crescimento econômico inclusivo 
+e sustentável, o emprego pleno e produtivo e o trabalho digno para todos.  
+O Liderα está em desenvolvimento e integrará a plataforma Lang2science, que possuirá recursos 
+para permitir que a comunidade crie e compartilhe conhecimen to a partir de pesquisas 
+acadêmicas. O desenvolvimento está sendo viabilizado no âmbito do projeto de investigação 
+PortLinguE (ref. PTDC/LLT -LIG/31113/2017) financiado pela FCT (Faculdade de Ciências e 
+Tecnologia) da Universidade do Minho.  
+1.1 Objetivos 
+Assim, pensando no impacto social futuro, traçamos um caminho de objetivos anterio res 
+específicos da realização do projeto para dar foco e direcionamento ao estudo acadêmico, 
+conforme se vê na figura abaixo. 
+Figura 1 Objetivos do Projeto Liderα 
+ 
+Fonte: elaboração própria 
+CONSCIENTIZAÇÃO: através da análise e comentários das publicações de diversos autores 
+sobre o cenário da desigualdade de gênero, sua relação histórica com a nossa sociedade , 
+
+
+10 
+ 
+procuraremos esclarecer alguns conceitos na tentativa de expor questões sensíveis no alcance da 
+liderança profissional por mulheres das áreas de tecnologia.  
+ANÁLISE DA BASE DE DADOS: amparada na coleta, tratamento e visualização de dados 
+primários de mulheres líderes portuguesas na área de tecnologia, colhidos em inquérito 
+desenvolvido especialmente para o projeto. Para esse fim , usaremos os números de forma a  
+entender e validar o contexto teórico apresentado na fase anterior. 
+MENTORIA: criação e teste de um modelo de apoio entre mulheres, onde profissionais atuais 
+colaboram com estudantes ou profissionais em início de carreira. Um espaço de conexão e troca 
+de saberes, a permitir que o aprendizado que as líderes tiveram durante sua jornada profissional 
+possa ser compartilhado entre mais mulheres para ajudá -las a tomar decisões, escol her 
+estratégias e traçar rotas menos longas ou difíceis para chegar aonde querem estar 
+profissionalmente. 
+DESENVOLVIMENTO DA PLATAFORMA: a tecnologia propriamente dita mobilizada no âmbito 
+deste projeto  que dará visibilidade aos dados coletados, nomeadamen te empresas, regiões, 
+cargos, áreas de atuação, hard e soft skills de mulheres que hoje estão a atuar na área. 
+Na plataforma Liderα, as mulheres estudantes ou com interesse profissional poderão: 
+- Identificar áreas de atuação em tecnologia, como exemplo, robótica, inteligência artificial, 
+cibersegurança etc. com maior participação feminina;  
+- Perceber as habilidades que as profissionais mais valorizam; 
+- Descobrir quais empresas de tecnologia se encaixam no seu perfil, entre outras informações 
+GERAR CONHECIMENTO: à medida em que mais mulheres adiram ao projeto e disponibilizam 
+os seus dados, a plataforma Lider α poderá se tornar uma fonte relevante sobre o cenário das 
+lideranças femininas em tecnologia em Portugal, que colabora no ingresso de mais mulheres nesta 
+área e promove discussões sobre temas de igualdade de gênero nas empresas, constituindo uma 
+base para projetos educativos e sociais relacionados ao feminismo etc. Dar a conhecer esse 
+universo de informações permitirá atuar de forma direcionada na mudança do cenário atual, nosso 
+maior propósito aqui. 
+
+11 
+ 
+IMPACTO SOCIAL: Do conhecimento à ação,  é nosso intuito colaborar para que mulheres de 
+tecnologia tenham cada vez mais espaço, salários cada vez mais similares e que ocupem cargos 
+de liderança à frente das empresas a mudar o cenário atual. 
+O objetivo final listado acima é complexo, com resultados a longo prazo, mas que começa por 
+cada pequena iniciativa, como esta do Lider α apoiada pelo Mestrado em  Humanidades Digitais 
+da Universidade do Minho. 
+ 
+1.2 Estrutura do Relatório 
+Este relatório será dividido em cinco seções para facilitar a compreensão e alinhamento aos 
+objetivos do projeto, detalhados acima: 
+• Aprofundamento Teórico  – análise de autores relacionados aos temas tratados pelo 
+projeto, como a história da lide rança, diferenças entre formas de liderar de homens e 
+mulheres, igualdade e equidade de gêneros no ambiente profissional , liderança feminina 
+nas corporações  e temas similares voltados especificamente  à área de tecnologia. O 
+propósito da seção é trazer informações do contexto histórico e cenário atual da liderança 
+feminina em Portugal. 
+ 
+• Definições do Projeto Liderα – onde vamos apresentar as características da Plataforma 
+em si, sua interface de visualização e ferramentas interativas. É também nessa seção que 
+explicaremos como foi feita a coleta dos primeiros dados das mulheres profissionais em 
+tecnologia que aceitaram fazer parte do projeto.  
+ 
+• Dados das Mulheres Lider α – visualizaremos os gráficos e analisaremos  os primeiros 
+dados coletados para o projeto. Será possível perceber um pouco mais sobre quem são, 
+onde estão, em que áreas de tecnologia atuam e que habilidades possuem as primeiras 
+participantes. Conheceremos também parte de suas histórias através d os depoimentos 
+coletados. 
+ 
+• Mentoria Piloto – nesta seção explicaremos a iniciativa de Mentoria, ação do projeto que 
+conecta mulheres profissionais às mulheres em início de carreira  e apresentaremos os 
+resultados da sua primeira realização em formato piloto. 
+
+12 
+ 
+ 
+• Conclusão e Perspectivas Futuras – reforçaremos as etapas realizadas ao longo do projeto 
+e os recursos mobilizados para alcançar os objetivos definidos. Trataremos também das 
+perspectivas de ampliação do Liderα daqui para frente.  
+ 
+ 
+2. A história da liderança 
+Se considerarmos o tempo em que o mundo existe, nós - homo sapiens sapiens - somos apenas 
+bebês a engatinhar. Surgimos recentemente na história e atravessamos um processo evolutivo  
+único, diferente de todos os demais animais , em que migramos de indivíduos livres para grupos 
+fixos, a criar com isso todas as atividades e constituições sociais que conhecemos hoje.  
+Com hábitos nômades, vivíamos a nos locomover em função do alimento, do clima e da proteção 
+de predadores a levar con osco a família e companheiros de viagem  e alguns poucos pertences 
+como ferramentas feitas à mão e peles extraídas dos animais que caç ávamos. Não tínhamos 
+líderes formais. Seguíamos de acordo com  nossas regras próprias e migrávamos de um bando 
+para outro em função de afinidades e interesses em comum.  
+Ainda que fiquemos tentados a pensar que as coisas eram caóticas nesse tempo, sem regras e 
+sem liderança, uma completa selvageria, os especialistas acreditam que essa foi uma fase d e 
+igualdade de gênero. Christopher Boehm - citado em Bregman (2020, p.107) -, um antropólogo 
+americano que realizou 339 estudos sobre estes períodos históricos, chegou à conclusão que as 
+diferenças de poder entre as pessoas naquela época eram temporárias apenas por necessidade 
+de uma voz com mais conhecimentos ou habilidades ou ainda carisma , que pudesse ajudar o 
+grupo numa situação específica. Assim, durante a maior parte da nossa história evolutiva, concluiu 
+Boehm, homens e mulheres viviam como iguais: 
+Ao contrário do estereótipo do homem das cavernas batendo no peito como um 
+gorila, de pavio curto e brandindo um porrete, nossos ancestrais  machos 
+provavelmente estavam mais para protofeministas. Cientistas suspeitam que a 
+igualdade entre os sexos  conferiu ao Homo Sapiens uma vantagem importante 
+em relação a outros hominídeos, como os neandertais. 
+
+13 
+ 
+É interessante saber que essas comunidades  primitivas tinham características que estamos a 
+buscar hoje, em pleno século XXI. De acordo com Bregman (2020, p.108), os homens da época 
+passavam mais tempo com os filhos  e toda a tribo se responsabilizava pelas tarefas  e cuidados 
+com as crianças. A autoridade também era dividida com as mulheres, que tinham inclusive mais 
+liberdade em relação à vida amorosa.  
+Foi só depois, com o surgimento das bases daquilo que chamamos de civilização , é que a coisa 
+mudou. No caso das mulheres, para pior  em alguns aspectos . Em determinado momento , o 
+homem nômade decidiu parar de migrar e aprendeu a plantar. A agricultura exigia um esforço que 
+não estávamos acostumados e começamos a não querer mais dividir o alimento  tão difícil de 
+obter. O que cada  um planta sse seria o que cada um come ria. As terras começaram a ser 
+cercadas. Foi o início da propriedade privada.   
+Rousseau, filósofo do iluminismo, tem uma importante frase a respeito desse momento da nossa 
+história citada por Bregman (2020, p.111): “Quando o primeiro homem, depois de cercar um 
+pedaço de terra, pensou em dizer ‘Isto é meu ’...foi aí que tudo começou a dar errado ”. A 
+desigualdade surge a partir do momento em que a terra, os animais, as ferramentas ou mesmo 
+outras pessoas, incluindo as mulheres, passam a pertencer a alguém. 
+Para manter esse formato de sociedade, que agora envolvia grandes tensões e disputas de terras, 
+surgiu a figura do líder. A liderança, vinculada não mais à sabedoria e carisma, mas especialmente 
+à força, ao poder e às habilidades militares necessárias à proteção da propriedade, tornou-se então 
+essencialmente masculina. O resto da história já sabemos bem. 
+Ainda nos dias de hoje é o perfil do homem - protetor, de pensamento racional, com grande 
+capacidade de comando e resolução - que permanece estereotipado à frente dos lares, dos cargos 
+públicos, dos grupos militares e, claro, das empresas. Veremos mais à frente que essa visão de 
+que homens e mulheres possuem habilidades e características intrínsecas de liderança diferentes 
+é pura falácia perpetuada por gerações.  
+O fato é que ficamos a nos perguntar: Mas como seria se a história tivesse sido diferente, com 
+homens e mulheres com representatividade similar em cargos de liderança? Será que teríamos 
+vivido as mesmas guerras? Ditaduras e sistemas escravagistas teriam vigorado  por tantos anos? 
+Ouviríamos falar em nazismo ou fascismo? A violência doméstica existiria? E o feminicídio?  
+
+14 
+ 
+Os salários para profissionais de mesma função, independente do sexo, seriam iguais? Nunca 
+saberemos, nem nos cabe supor.  
+Não podemos determinar que os grandes males da humanidade ocorreram porque a maioria das 
+decisões estavam a ser tomadas por homens , mas talvez a ausência d e igualdade, que quase 
+sempre foi ingrediente nas passagens mais nebulosas da nossa história , tenha tido sua 
+importância.  
+Pensar que o mundo poderia ser totalmente diferente e que a igualdade  e equidade ainda são 
+possíveis de serem conquistadas, já que está na nossa origem como seres humanos, é um alento. 
+É sobre igualdade - de direitos, deveres, salários e acessos ao topo da cadeia - que falaremos nas 
+próximas páginas, na tentativa de trazer um novo olhar sobre os inúmeros estudos e pesquisas 
+nessa área que alertam sobre a necessidade de repensarmos a nossa sociedade para 
+construirmos um futuro próspero e promissor juntos.  
+ 
+2.1 Os líderes nas empresas 
+Foi no livro “Os Princípios da Administração Científica” de Taylor publicado em 1911 que o papel 
+do líder, que na história antiga tinha cunho essencialmente político e militar, surgiu pela primeira 
+vez relacionado às empresas. A ideia do  autor, considerado o pai da administração científica  - 
+aquela cartesiana , metódica, onde cada atividade  laboral deveria ser controlada através de 
+instruções sistemáticas seguindo procedimentos e normas – era de que sempre existiria alguém 
+acima de todos os outros para fazer valer as regras.  
+Na época fazia  todo sentido ! Afinal, como seria possível em um ambiente onde  as pessoas  
+desempenhavam um papel estritamente operacional, sem espaço para qua lquer autonomia ou 
+criatividade, garantir a ordem e o cumprimento das tarefas? As indústrias precisavam de alguém 
+de olho no chão da fábrica. Alguém de pulso firme e conhecedor de toda a operação. Alguém que 
+fosse respeitado ou mesmo temido. Um líder. Um homem. 
+O líder era na essência um supervisor funcional, sem qualquer preocupação com as questões 
+ligadas ao desenvolvimento humano ou à qualidade de vida, menos ainda com espírito de equipe 
+ou plano de carreira, termos que só vieram a ganhar espaço na agen da das empresas muito 
+recentemente. Seu papel era exclusivamente garantir a sequência de esforços continuados  nos 
+
+15 
+ 
+tempos pré-programados de modo a manter a alta produtividade  empresarial, como citado por 
+Taylor. 
+A sociedade evoluiu, as empresas também e o significado de liderança não é mais o mesmo.  
+Yukl (1998, p.3) trata a liderança como um “processo de influência intencional de uma pessoa 
+sobre outras para guiar, estruturar e facilitar atividades e relações dentro de um grupo ou 
+organização”. 
+Essa ideia desmistifica o papel do líder autoritário a dar ordens e cobrar resultados, para pôr a 
+lupa nas características de persuasão, facilitação, de guiar pelo exemplo para extrair o melhor das 
+suas equipas. Alguém dedicado a construir fortes redes sociais. 
+Os lí deres não devem ser só profissionais  tecnicamente competentes, mas 
+também centrados em redes sociais cuidadas e multifuncionai s. A qualidade de 
+um líder pode, em última instância, ser medida pela qualidade das redes que for 
+capaz de construir , assim como pelas práticas de liderança que permitem aos 
+seus colaboradores e equipas criar e desenvolver redes sociais interna e 
+externamente vigorosas . (Rego & Cunha , 2009) citado por (Moller & Gomes , 
+2012, p.6) 
+Ora, se antes o foco do líder estava na tarefa, agora começava a ser direcionado às pessoas e à 
+capacidade de exercer uma grande influência social . Um bom líder precisava  saber lidar com 
+gente, gerenciá-los positivamente através de ideias, experiências e atitudes. Menos ordem e mais 
+exemplo. Menos falar e mais ouvir. Menos indivíduo e mais coletivo. Menos comando e mais 
+participação.  
+Desta forma, liderar torna -se um processo de interação em que uns poucos influenciam muitos 
+outros, seja para tomar decisões, para motivar pessoas, ou para outro propósito. O líder carrasco, 
+como costumo cham á-lo, começa  a perder  seu posto e um novo olhar sobre a liderança 
+humanizada ganha força e facilita o acesso das  mulheres, que neste momento já lutavam pelo s 
+seus espaços no mercado de trabalho. 
+ 
+
+16 
+ 
+2.2 A luta pela liderança feminina 
+A entrada das mulheres em cargos de gestão não foi natural ou mesmo pacífica como deveria ter 
+sido. Ocorreu a partir da década de 50 até meados dos anos 70 do século XX, impulsionada pela 
+necessidade de adaptar e inovar das empresas, porém marcada por dive rsas manifestações de 
+oposição masculina. Muitos autores da época descreviam bons chefes em termos masculinos e 
+dedicavam a eles os aspectos essenciais de uma liderança produtiva e eficaz.  
+Na década de 80 , entre 1982 e 1984, dois fenômenos foram descritos por Margaret Rossite r1, 
+historiadora americana da área das ciências  que dedicou sua vida aos estudos sobre liderança 
+feminina. O primeiro, chamado de Segregação Vertical, estava relacionado às chances remotas 
+que as mulheres  daquela época  tinham de ascender profissionalmente, de assumir maiores 
+responsabilidades, ganhar reconhecimento e obter qualificações mais especializadas. Em outras 
+palavras, quanto mais alta a posição menos mulheres estariam lá. 
+O segundo fenômeno, batizado de Segregação Territorial, estava relacionado ao agrupamento das 
+mulheres em determinadas  disciplinas científicas. Assim, as mulheres deveriam estar mais 
+direcionadas a uma ou outra área, sendo difícil o seu acesso na ciência como um todo.  
+Esses fenômenos, infelizmente, persistem até os dias atuais. Neste último Dia Internacional das 
+Mulheres, 8 de março de 2022, a Crispin Porter + Bogusky (CPB)2, uma agência inglesa, trabalhou 
+em conjunto com o instituto de Pesquisa Perspectus Global para avaliar como crianças ainda são 
+afetadas por preconceitos inconscientes de gênero, criando a campanha que se pode ver a seguir.   
+Figura 2 Campanha “Imagine” CPB London 
+ 
+ 
+ 
+ 
+ 
+                                                       Fonte: (Ad News, 2022) 
+ 
+1 https://www.smithsonianmag.com/science-nature/unheralded-women-scientists-finally-getting-their-
+due-180973082/ 
+2 https://cpblondon.com/news/ad-agency-cpb-london-launches-imagine-campaign-to-tackle-gender-
+bias/ 
+
+
+17 
+ 
+É assustador pensar que ainda hoje  as nossas crianças têm a mesma visão distorcida e 
+preconceituosa que tem sido pauta de tantas bandeiras e discussões feministas em prol da 
+igualdade no ambiente profissional desde a década de 50. Nos faz ter a certeza de que um longo 
+caminho de quebra de par adigmas, diálogos e ações efetivas nesse setor ainda precisa ser 
+percorrido para um dia olharmos para esses cartazes e não mais vermos sempre um homem 
+numa posição superior e uma mulher em fragilidade.  
+  
+2.2.1 Campanhas e Projetos Feministas 
+Muitos estudos e projetos têm sido desenvolvidos com apoio de grandes representações político-
+econômicas mundiais em prol da igualdade de gênero. A ONU, inclusive, lançou em setembro de 
+2021 um novo pacote de medidas para recuperação econômica e transformação global com foco 
+feminista. O plano chamado de “Para Além da Covid -19: Um Plano Feminista para 
+Sustentabilidade e Justiça Social” tem como objetivo colocar igualdade de gênero, sustentabilidade 
+ambiental e justiça social no centro dos esforços do desenvolvimento global. A Organização divulga 
+que, entre 2019 e 2020, 54 milhões de mulheres ficaram desempregadas , sendo elas as mais 
+afetadas pelos impactos da pandemia. 
+A igualdade de gênero passa a ser um dos Objetivos de Desenvolvimento Sustentável das Nações 
+Unidas, escolhido como foco deste trabalho acadêmico. O ODS, com metas para 2030, pretende 
+“melhorar os indicadores socioeconômicos ao redor do globo combatendo a pobreza e a fome, a 
+mudança climática, promovendo educação de qualidade e colocando mais mulheres em posições 
+de liderança pelo mundo, entre outros avanços. ”, conforme citado no portal das Nações Unidas 
+para a Europa Ocidental3. 
+O Fundo Elas 4, criado no Brasil em 2020, tornou -se o primeiro do país a investir recursos em 
+projetos femininos voltados especialmente à educação, trabalho, saúde e segurança de mulheres 
+menos favorecidas.  A ação de carácter independente reúne recurso s vindo de apoiadores da 
+iniciativa privada e transfere para mais de 390 projetos , além de atuar junto às integrantes, 
+oferecendo capacitação e gestão das atividades sociais. 
+ 
+3 unric.org/pt - 
+4 Fundo ELAS (fundosocialelas.org) 
+
+18 
+ 
+Em Portugal, a plataforma feminista.pt5 foi criada para ser um hub de pr ojetos femininos do país 
+em diversas áreas de atuação, a ajudar mulheres a encontrarem o apoio que precisam. Já estão 
+cadastradas na página 454 organizações portuguesas somadas à uma agenda atualizada dos 
+inúmeros eventos e ações voltados aos direitos fundamentais das mulheres. 
+Em 2022, a campanha #breakthebias, iniciativa do Internacional Women’s Day, teve repercussão 
+global ao pedir que as mulheres cruzassem os braços em formato de X para demonstrar sua 
+oposição à desi gualdade no ambiente de trabalho compartilhando suas fotos e falas nas redes 
+sociais. O manifesto tinha um apelo poderoso: “Seja deliberado ou inconsciente, o preconceito 
+torna a ascensão profissional femi nina um verdadeiro desafio. Falar sobre isso, discutir esses 
+números, denunciar ativamente o preconceito de gênero e os estereótipos de liderança é mais que 
+necessário, é absolutamente urgente.”6  
+Figura 3 Imagem publicada no Dia Internacional da Mulher 
+ 
+Fonte: (Women in Tech, 2022) 
+2.2.2 Os números da desigualdade  
+A desigualdade entre homens e mulheres na sociedade tem sido perpetuada em todas as esferas, 
+sejam elas sociais, políticas, econômicas, acadêmicas ou privadas  e é na alta gestão que seu 
+impacto se torna profundo.  
+ 
+5 https://feminista.pt 
+6 IWD: International Women's Day 2023 theme (internationalwomensda y.com) 
+
+
+19 
+ 
+Em 2021, um livro chamado “4 out 74” escrito pela última presidente mulher da Assembleia Geral 
+e ex-chanceler do Equador, María Fernanda Espinosa 7, foi publicado com o propósito d e chamar 
+atenção para o fato de que em 74 anos de Assembleia Geral da ONU apenas 4 mulheres 
+alcançaram a cadeira da presidência. Não se pode dizer que se trata de uma instituição igualitária 
+afinal. De acordo com Nogueira  (2006) citado por Moller & Gomes (2012, p.1), os dados 
+confirmam que o número de mulheres decresce na razão inversa em que se ascende aos mais 
+altos níveis de hierarquia. Ele chegou a essa conclusão em 2006, mas cá estamos 16 anos depois 
+em cenário muito parecido. 
+De acordo com o Portal Europeu da Juventude (2021), “as mulheres estão sub-representadas em 
+posições de liderança em vários domínios: política, economia, ciência e investigação. Apenas 7,5 % 
+dos presidentes dos conselhos de administração e 7,7  % dos diretores executivos de empresas 
+são mulheres”, e ainda “as mulheres ganham, em média, 16  % menos do que os homens na 
+União Europeia, com diferenças significativas entre os países”8. 
+Além de serem menos representadas , as mulheres ainda têm uma jornada de ascensão mais 
+longa que os homens. Em média, elas alcançam a liderança na  faixa etária entre 50 e 54 anos, 
+enquanto os homens chegam ao top mais cedo (Lima, 2013, p.6).  
+O Instituto Europeu para Igualdade de Gênero (EIGE) criou uma ferramenta para medir o progresso 
+da igualdade nas empresas da União Europeia. Chamado de Gender Equality Index9, ele mede as 
+diferenças entre homens e mulheres no poder, em relação ao dinheiro, saúde, trabalho , entre 
+outros. Três gerações ainda seriam necessárias para, diz o estudo, alcançarmos a tão sonhada 
+igualdade. Os números de 2021 mostram que as mulheres precisariam ganhar ao menos 21% a 
+mais no salário para chegarem ao mesmo Padrão de Poder Aquisitivo (PP A) dos homens, 
+avaliando-se setores da indústria, construção civil e serviços.  
+Especificamente nas áreas profissionais STEM , sigla em inglês para Ciências, Tecnologia, 
+Engenharia e Matemática, as informações apresentadas por Needle (2021) também demonstram 
+disparidades importantes e começam ainda na escola. De acordo com o autor, a Universidade de 
+Cornell perguntou a alunos do ensino médio  onde eles se viam aos 30 anos . Entre os meninos, 
+26% tinham planos ocupacionais nas áreas STEM em comparação com 13% das meninas.  
+ 
+7 https://news.un.org/pt/story/2021/09/1762822 
+8 Dia Europeu da Igualdade Salarial: mulheres ganham menos 16,2% do que os homens (acegis.com)  
+9 Gender Equality Index | European Institute for Gender Equality (europa.eu)  
+
+20 
+ 
+O reflexo desse contexto se vê nas empresas. Em 2020, uma pesquisa da Gartner mostra que 
+apenas 31% dos funcionários de TI são mulheres e no seleto grupo GAFAM  (Google, Apple, 
+Facebook, Amazon e Microsoft) o número estaria entre 28% e 42%. 
+Mas os números não são só negativos. O estudo #BreakTheBias – Gender Equity at Work (2022) 
+realizado pelo ManpowerGroup com 516 empresas portuguesas afirma que 78% delas monitoram 
+a igualdade de gênero  regularmente e 25% pretendem fazer crescer o número de mulheres em 
+posições de gestão. Além disso, mais de 60% das empresas portuguesas refere que quer mesmo 
+alcançar estas metas até 2023, o que coloca o tema entre as prioridades de investimentos.  
+O importante é não deixarmos de pressionar e exigir resultados concretos  e imediatos, para não 
+avançarmos por mais uma década em baixa velocidade. 
+  
+3. Homens e mulheres: o cérebro do líder 
+Dizem que os homens decidem com a razão e as mulheres com o coração. Não é bem assim. Até 
+porque, tomar decisão alguma é competência cardíaca. Está mesmo no cérebro  a área 
+responsável pelos atributos racionais que nos guiam, homens e mulheres, nas infinitas decisões 
+que tomamos diariamente, desde o que tomar  no pequeno almoço  até qual fio cortar para 
+desativar uma bomba. 
+De acordo com estudo publicado  em junho de 2021  na revista científica Neuroscience & 
+Biobehavioral Reviews,  as pequenas diferenças anatômicas ou de atividade entre cérebros 
+masculinos e femininos não são significativas para confirmar uma diferença cerebral com impacto 
+nas nossas personalidades ou formas de liderar.  
+O estudo aponta que, no geral, o  tamanho total do cérebro dos homens é cerca 
+de 11% maior do que o das mulheres, mas nenhuma área específica do cérebro 
+é desproporcionalmente maior em homens ou mulheres, e que o tamanho do 
+cérebro é proporcional ao tamanho do corpo: a diferença cerebral entre os sexos 
+é, na verdade, menor do que out ros órgãos internos, como coração, pulmões e 
+rins, que variam de 17% a 25% de diferença. Assim, nenhuma região cerebral 
+individual varia mais do que cerca de 1% entre homens e mulheres. (Vieira, 2021) 
+
+21 
+ 
+Ou seja, os homens têm cérebro maior se forem eles maiores que as mulheres como um todo. 
+Assim como homens pequenos têm cérebros menores também. 
+Ao aceitar que sob o aspecto da anatomia cerebral não haveria motivos para homens e mulheres 
+sermos líderes com diferentes características , nos resta ria ainda os fatores comportamentais  e 
+emocionais. Um segundo estudo sobre esse tema, apresentado em 2021 pela Thomas 
+International e chamado de “Mulheres nos Negócios: América Latina”, testou com homens e 
+mulheres executivos e sêniores de 13 países  a teoria de que lideramos de forma diferente por 
+questões de personalidade e inteligência emocional.  
+Eles partiram de duas grandes dúvidas: A personalidade de liderança feminina e masculina são 
+diferentes no nível executivo? Caso não, esses líderes teriam então níveis diferentes de inteligência 
+emocional?  
+Os pesquisadores chegaram a duas respostas bastante claras: Não. E não também. 
+(...) chegaram à conclusão, a partir dos dados, de que mulheres e homens tinham 
+estatisticamente a mesma probabilidade de ter níveis ideais de todas as 
+características analisadas. Entre os traços de personalida de observados 
+destacam-se a conscienciosidade, resiliência, curiosidade, audácia, tolerância às 
+diferenças e competitividade. Enquanto isso, na avaliação de inteligência 
+emocional foram levados em conta a assertividade, gestão da emoção, 
+adaptabilidade, au tomotivação, autoestima e empatia, entre outros aspectos. 
+Logo, mulheres e homens apresentavam a mesma probabilidade de possuir os 
+traços de personalidade associados a ser um líder sênior de sucesso.  (Alves, 
+2021) 
+Mas então , se temos cérebros anatomicamente parecidos  e somos capazes de desenvolver  
+comportamentos, personalidade e inteligência emocional também iguais, de onde vem a ideia de 
+mente racional masculina versus mente humana e emotiva feminina?  
+É possível que talvez a diferença entre nós não seja exatamente uma questão de sexo, mas sim 
+uma questão de gênero. O gênero inclui a construção cultural e as expectativas que a sociedade 
+
+22 
+ 
+tem sobre comportamentos, pensamentos e características que acompanham o sexo do indivíduo. 
+Dessa forma, quanto mais alimentamos uma percepção equivocada de que somos diferentes, com 
+mulheres choronas para um lado e homens durões para o outro, mais essa imagem solidifica a 
+concepção de como os gêneros deveriam se portar nos ambientes sociais e, portanto, na liderança. 
+O jeito de chefiar masculino , sob o ponto de vista do gênero,  seria então caracterizado pela 
+competitividade, autoridade, alto controlo e resolução de problemas de forma analítica e sem 
+emoções. Já as mulheres teriam um estilo de gestão mais inclusivo e relacional.  
+Teixeira (2001), citado por Moller & Gomes  (2012, p.3), chama a atenção para o facto de as 
+mulheres possuírem atributos essenciais para uma boa liderança como “generosidade, harmonia, 
+capacidade de comunicação com o grupo, capacidade de liderar de forma mais participativa e 
+cooperativa e menos centrada no líder, capacidade de negociação e resolução de problemas 
+baseada na empatia e racionalidade ”. Autores como ele ajudam a desfazer a ideia de que existe 
+um jeito feminino inferior a um jeito masculino superior de liderar, a desmistificar estereótipos de 
+gênero. 
+Uma análise inquietante apresentada por Mann  (1995) citada por Moller & Gomes (2012, p.13) 
+afirma que mulheres que ocupam posições mais altas não parecem querer ajudar as mulheres 
+mais novas a também crescerem na carreira e , ainda, que mulheres nestas posições passa m a 
+agir como homens:  
+(...) em alguns casos, as mulheres que ultrapassaram os patamares das outras 
+mulheres nas organizações conseguiram -no porque adoptaram atitudes, 
+linguagem e comportamentos masculinos. Noutros casos, as mulheres que 
+atingiram escalões mais altos, depois de muitos anos de duro trabalho e 
+paciência, podem ressentir -se das mulheres mais novas que querem rápido 
+avanço para grandes lugares, sem trabalharem tanto.  
+Essa informação traz duas abordagens  importantes. A primeira é a confirmação de uma cultura 
+estereotipada que nos faz pensar que existe um jeito de agir masculino e um jeito de agir feminino 
+predeterminado, o que já vimos nas linhas anteriores que não se confirma ram nem sob o ponto 
+de vista biológico nem sob aspectos emocionais e comportamentais.  
+
+23 
+ 
+Essa falsa construção de gênero em torno do sucesso masculino levaria as mulheres a assumirem 
+um comportamento que as tornasse m adequadas à posição de líder.  Consciente ou 
+inconscientemente essa mudança para se encaixar seria notada especialmente em áreas 
+excessivamente masculinas e refletida nos jargões que costumamos falar sem perceber: “ter que 
+ser macho para fazer”, “precisas de culhões para encarar”, “uma mulher de bigodes” etc. 
+A outra diz respeito à falta de cooperação e apoio entre mulheres, que no caso deste projeto  
+acadêmico é o âmago da questão. Se esta for uma verdade absoluta , a Plataforma Liderα não 
+terá sucesso já que reside no suporte de informações e apoio que  uma líder pode dar a outra 
+mulher em início de carreira. Acreditar que as mulheres têm conseguido transpor aos poucos as 
+barreiras construídas entre elas, para se unirem, se empoderarem e fortalecer a sororidade e o 
+suporte mútuo é, sim, parte importante do Liderα, que trataremos mais à frente.   
+ 
+4. A liderança feminina em tecnologia 
+Muitos autores discutem as relações de gênero e a desproporcional participação feminina nas 
+áreas de Ciências e Tecnologia (C&T) com pontos de vista diversos sobre sua causa  - desde 
+questões de ordem sociocultural, econômicas até cognitivas. O fato é que são muito mais homens 
+cientistas, astronautas, desenvolvedores, engenheiros e especialistas em tecnologias de forma 
+geral. Para Silveirinha (2011, p.8 ) as mulheres não só foram sistematicamente excluídas de 
+participar na construção da ciência, como foram consideradas incapazes de um uso público da 
+razão, sendo o seu lugar a esfera privada. 
+Luciane & Muzi  (n.d. p.3) cita que foi em 1965  que uma socióloga nova iorquina, Alice Rossi, 
+trouxe à luz pela primeira vez a baixa representatividade feminina nas ciências. Seu texto trazia 
+uma pergunta inquietante que , ainda, nós fazemos nos dias de hoje : Why so few  (Por que tão 
+poucas)? 
+Mesmo não existindo uma discriminação formal ao acesso das mulheres à comunidade científica 
+e tecnológica , existiria para Austrilino  (2006) citado por Rezende & Quirino  (2017, p.2), um 
+problema estrutural que começa ria na inadequação das estruturas das instituições acadêmicas, 
+em sua maioria dirigidas por homens. Mas, se pensarmos um pouco, percebemos que tem algo 
+que nos acompanha antes mesmo de sabermos ler: a cultura de brincar, em  que meninos são 
+presenteados com games eletrônicos, carros, ferramentas de mecânica e kits de laboratório 
+
+24 
+ 
+enquanto para as meninas estão destinadas bonecas, peluches, cozinhas e conjuntos de vassoura 
+e pá. Crescemos a pensar que não somos tão boas em mate mática, química e física  e somos 
+mais adequadas para as humanidades e para a saúde. 
+De acordo com Rezende & Quirino (2017, p.3), no Brasil por exemplo, até 2002, apenas 14% dos 
+empregos formais nas áreas tecnológicas eram ocupados por mulheres, ao passo que nas áreas 
+de saúde, tais como odontologia, elas representavam 51%. Cenário semelhante é visto em diversas 
+partes do mundo. 
+As meninas que conseguem se contrapor ao status quo e perseveram até a universidade, mestrado 
+e doutoramento têm ainda outro desafio para enfrentar, a de conciliar a vida profissional com os 
+filhos e as tarefas domésticas, que recaem quase sempre sobre si. Muitas desistem pelo caminho.  
+(...) permanece a dificuldade das mulheres em conciliar a carreira científica com 
+a vida familiar. É difícil conciliar a produção científica com a gestação e a 
+maternidade. Isto pode ser constatado observando-se dados que mostram que 
+essas mulheres têm uma maternidade tardia ou optam por não ter filhos.” 
+(Mascarenhas, 2003, p. 24) citada por  (Rezende & Quirino, 2017, p.4). 
+Também é preciso citar outro fator por trás dos ambientes onde prevalecem homens: a dificuldade 
+emocional de as mulheres ultrapassarem a barreira do sexismo nas empresas.  
+Leta (2003) citada por Rezende & Quirino (2017, p7) traz explicações inquietantes para justificar 
+o fato de muitas profissionais de tecnologia deixarem a profissão:  “As razões pelas quais as 
+mulheres não avançam (...) vão desde a falta de controle emocional das mulheres - que as tornam 
+menos resistentes às pressões frequentes dos cargos de comando – à educação das mulheres 
+que não lhes favorece o desenvolvimento do fator agressividade, fundamental nesses cargos”. Ou 
+seja, para uma mulher ser reconhecida e valorizada a ponto de crescer na  carreira precisaria 
+suportar uma forte pressão psicológica. O que não se explica é se a pressão é a mesma para 
+ambos os sexos. 
+As empresas com maioria masculina também escondem um lado obscuro por vezes até criminoso, 
+marcado por assédios sexuais e morais. 
+
+25 
+ 
+Um corpo crescente de pesquisas aponta para uma causa nova e convincente: as 
+mulheres ganham menos por causa do assédio sexual que enfrentam no trabalho. 
+Meses de revelações sobre assédio sexual e abuso de mulheres em todas as 
+indústrias lançam uma nova luz sobre por que as mulheres não "se inclinam" 
+para empregos mais bem remunerados com mais frequência. (...) posições mais 
+altas, grandes empregos com salários também geralmente representam maiores 
+riscos de assédio sexual, diz Joni Hersch, economista da Universidade Vanderbilt. 
+(Womenintechnetwork.com, n.d.) 
+A seguir podemos ver dados publicados em 2019 pela consultoria Gartner apresentando a União 
+Europeia com os maiores percentuais de casos de assédio no ambiente de trabalho. 
+Figura 4 Dados do assédio profissional no mundo 
+ 
+Fonte: traineerh.com, n.d. 
+Três pesquisadores psicólogos, Amy Blackstone, Christopher Uggen e Heather McLaughlin (2019), 
+chegaram à conclusão de que o assédio tem o potencial de diminuir seis vezes e meia a chance 
+dessa mulher permanecer no trabalho, com 80% das vítimas a deixar o emprego em dois anos. 
+
+
+26 
+ 
+5. O Projeto Liderα 
+Needle (2021) apresenta uma pesquisa onde as pessoas concordam que é responsabilidade das 
+escolas fazer uma mudança neste cenário de desigualdade entre homens e mulheres no domínio 
+tecnológico. Seria no ambiente estudantil que se deveria plantar as sementes do incentivo para as 
+gerações futuras, a atrair mais meninas para as atividades de tecnologia ao apresentar modelos 
+que as pudesse inspirar e ser para elas referência. O papel da escola seria importante não só na 
+construção dessa paixão, mas sobretudo para a desconstrução dos estereótipos, nom eadamente 
+desde a elaboração dos manuais aos métodos pedagógicos. 
+Além das referências positivas no ambiente escolar ainda na infância, n ão podemos esquecer 
+outros fatores que influenciam diretamente nas escolhas ou oportunidades para as mulheres em 
+termos profissionais que variam em função da cultura, do território, da idade, da religião. 
+O fato é que é preciso atuar diretamente na questão da desigualdade na liderança. Não ter apenas 
+mais mulheres como também mais mulheres líderes a ganhar o mesmo que os homens ao 
+desempenhar funções similares. 
+Neste ponto, a escola pode ser apoiada  por outras instituições não governamentais, públicas e 
+privadas e por pressão civil com sua força cada vez mais criativa, para dar voz às iniciativas que 
+possam colaborar para a mudança do cenário. Essa é a ideia do Projeto Liderα. 
+Liderα usa o símbolo grego para significar a valorização das mulheres -alpha. Se constitui numa 
+plataforma onde será possível visualizar quem são as lideranças femininas portuguesas em 
+tecnologia e conhecer um pouco mais suas habilidades digitais, temas de interesses , histórias e 
+até mesmo promover conexões entre elas e outras mulheres que ainda estão na jornada.  
+Dar-se-á uma atenção especial ao mapeamento dos temas digitais em que essas mulheres estão 
+a atuar no momento, como robótica, inteligência artificial, cibersegurança, entre outros, permitindo 
+que estudantes e profissionais em início de carreira possam acompanhar o universo de 
+possibilidades em constante evolução da área das tecnologias. 
+A rede terá a construção de um dataset robusto, por trás de uma landing page de registo onde as 
+mulheres preencherão um inquérito digital contendo perguntas sobre características profissionais, 
+interesses e habilidades que desenvolveram na área de tecnologia, que vai alimentar a visualização 
+dos dados. 
+
+27 
+ 
+Inicialmente enviaremos mensagens através do Linkedin para um número de mulheres com o 
+perfil adequado, convidando-as a fazer parte do Projeto e a partir daí divulgamos amplamente para 
+inscrição direta na plataforma. O Liderα se torna representativ o e relevante na medida em que  
+mais mulheres participam e fortalecem a sororidade e o apoio feminino coletivo.  
+Com os dados coletados será possível visualizar então quem são, onde estão, quais skills e 
+assuntos estão envolvidas. A plataforma pretende valorizar e dar visibilidade às mulheres e com 
+seus dados ser farol para tantas outras, bem como servir de consulta livre para formadores de 
+opinião, imprensa e a sociedade como um todo. 
+A tecnologia utilizada deverá permitir a catalogação dos dados de forma aberta (cada usuária 
+insere e atualiza suas informações) e estar disponível gratuitamente para quaisquer mulheres que 
+respondam ao critério de serem portuguesas, da área de tecnologia e com cargos de gestão. Sua 
+interface será multimodal e intuitiva, com destaque à visualização das Líderes e suas informações 
+coletadas.  Os cadastros serão realizados com atenção aos princípios do Regulamento Geral de 
+Proteção d e Dados ( RGPD) e ao dar aceite toda usuária deverá consentir com um Termo de 
+Utilização. 
+ 
+6. Construção da Plataforma Lang2Science 
+A plataforma Lang2science – que está a ser desenvolvida no âmbito do projeto de investigação 
+PortLinguE (ref. PTDC/LLT -LIG/31113/2017) é um projeto financiado pela FCT. Será uma 
+plataforma que possui recursos para permitir que a comunidade crie e compartilhe conhecimento 
+a partir de pesquisas acadêmicas. Um desses recursos, o “Projetos” facilita a apresentação de 
+informações em hierarquias com uma visualização interativa, simples e instigante. Os usuários 
+terão acesso a conteúdos multimodais (vídeos, podcasts, publicações) ao clicar em componentes 
+de um recurso interativo de visualização. 
+Outro recurso são os glossários, onde será possível criar um banco de termos relacionados a um 
+projeto específico ou outros conteúdos que interessem à comunidade acadêmica, reunindo 
+conhecimento em um só sítio. 
+Em outras palavras, o Lang2Science será uma plataforma que vai permitir à comunidade construir 
+recursos de interação entre equipas  e a comunidade  e torná -los acessíveis numa página que 
+integra outros projetos, entre eles, o Liderα. 
+
+28 
+ 
+6.1 Desenvolvimento dos Recursos Interativos 
+Liderα é um dos projetos do Lang2 Science com foco no mapeamento das lideranças femininas 
+em tecnologia. Uma página web alimentada por uma base de dados que contém as informações 
+das mulheres que aceitaram participar do projeto, tendo como critérios serem profissionais líderes 
+em tecnologia e atuar em Portugal. 
+A visualização da plataforma já está em etapa final e foi desenvolvida em Apache ECharts - uma 
+biblioteca de código aberto  em linguagem JavaScript  - por uma estudante do Mestrado em 
+Humanidades Digitais, a Mariana Pereira, no âmbito do seu projeto de dissertação, em 
+colaboração com o Miguel Fernandes (Mestrado em Sistema de Informação) e sob orientação dos 
+Professores Bruno Azevedo e Sílvia Araújo, investigadora principal do Projeto PortLinguE.  
+A seguir , podemos visualizar  o protótipo d a página de navegação do Lider α, onde é possível 
+interagir com dois níveis de informação: as empresas de tecnologia em Portugal (colocadas no 
+primeiro nível) e as áreas da tecnologia em que estas atuam  (colocadas no segundo nível), de 
+acordo com a base de dados compilada em torno das mulheres que atuam nessas empresas. 
+Figura 5 Protótipo de visualização dos dados Liderα 
+ 
+Fonte: elaborado pela aluna Mariana Pereira, no âmbito do projeto Lang2Science 
+Ao selecionar uma empresa ou uma área de atuação é possível visualizar  numa janela que se 
+expande à direita a lista das mulheres que trabalham na empresa/área escolhida.  
+
+
+29 
+ 
+A informação visualizável contém o nome e apelido de cada profissional, seu cargo atual e região 
+de trabalho, um breve relato da sua história de vida e um quadro de hard e soft skills que a mesma 
+possui. 
+Figura 6 Exemplo de seleção no filtro Empresa 
+ 
+Fonte: elaborado pela aluna Mariana Pereira, no âmbito do projeto Lang2Science 
+O exemplo acima está a utilizar dados reais e realça a capacidade da plataforma de colaborar com 
+outras mulheres na compreensão do mercado de trabalho e do perfil das suas atuais profissionais. 
+Através desta visualização simples e intuitiva será possível no futuro, portanto, perceber uma série 
+de informações relevantes na medida em que a base cresce e passa a representar uma amostra 
+cada vez mais completa do mercado.  
+6.2 Funcionalidades da Plataforma Liderα 
+A principal funcionalidade da plataforma Liderα é dar visibilidade aos dados coletados, permitindo 
+filtrar diversas informações em poucos cliques. Entre elas, podemos citar: 
+- Quais são as empresas de tecnologia com maior número de mulheres; 
+- Em quais regiões se concentram essas empresas; 
+- Quais as principais áreas de atuação de uma empresa de tecnologia específica; 
+- Quem são as mulheres que trabalham nessas empresas e/ou que cargos ocupam; 
+
+
+30 
+ 
+- Quais são os principais cargos em tecnologia que têm abrigado mais mulheres; 
+- Quais são as habilidades inerentes a uma determinada área de atuação; 
+- Quais as histórias por trás dessas mulheres. 
+Além disso, a plataforma oferecerá ainda um Glossário, onde iremos visualizar o descritivo dos 
+principais conceitos subjacentes a essa atuação na esfera da tecnologia  para facilitar a 
+compreensão das diferenças nas atividades e objetivos de cada uma, conforme vemos a seguir. 
+6.3 Glossário de Termos em Tecnologia 
+Os exemplos abaixo demonstram a visualização de dois termos do Glossário Liderα a explicar ao 
+usuário o que é Business Intelligence e Desenvolvimento de forma objetiva. À medida em que mais 
+áreas forem sendo inseridas pelas profissionais participantes da base de dados, maior e mais 
+completa será a lista de verbetes, reunindo em um só lugar as explicações das mais diversas áreas 
+em tecnologia. 
+Figura 7 Protótipo visualização Glossário - Liderα 
+ 
+Fonte: elaborado pela aluna Mariana Pereira, no âmbito do projeto Lang2Science 
+ 
+
+
+31 
+ 
+Figura 8 Visualização da seleção do verbete Desenvolvimento 
+ 
+Fonte: elaborado pela aluna Mariana Pereira, no âmbito do projeto Lang2Science 
+Dar visibilidade a essa informação se torna cada vez mais importante para podermos acompanhar 
+e dar luz ao rápido surgimento de novas áreas e termos técnicos em tecnologia.  
+6.4 Base de Dados do Liderα 
+A busca pelos dados foi a parte mais complexa do projeto já que seu uso dependia da autorização 
+das mulheres em ceder as suas respostas em apoio à iniciativa. Apesar de existir a possibilidade 
+de extrair diretamente algumas informações de uma página profissional como o Linkedin, optamos 
+por produzir um inquérito específico do  Liderα, com perguntas estratégicas para entendermos 
+melhor os temas e habilidades mais relevantes nas diversas áreas da tecnologia. Dessa forma, os 
+dados abaixo descritos são primários, colhidos diretamente na fonte, com autorização10 do seu uso 
+para fins acadêmicos. 
+ 
+ 
+ 
+10 Primeira pergunta do questionário digital: “Aceita ser uma mulher participante da Plataforma Lidera? 
+O registo tem fins acadêmicos e não tem qualquer custo. As informações serão utilizadas para 
+compreender quem são, onde trabalham, o que fazem e quais as características das profissionais que 
+atuam em empresas de tecnologia. É possível retirar o registo a qualquer tempo caso não queira mais 
+participar.” 
+
+
+32 
+ 
+6.4.1 Seleção das Mulheres 
+ 
+Para chegar às mulheres que atendiam ao perfil de líderes em tecnologia a atuar em Portugal, 
+começamos por estabelecer os critérios de filtragem, nomeadamente: 
+a) Líderes: profissionais mulheres com cargos de liderança. Para melhor compreensão deste 
+critério, entendemos como l iderança a habilidade de influenciar pessoas para trabalharem 
+entusiasticamente visando atingir os objetivos identificados , segundo Hunter (2004). Neste 
+caso, foram consideradas como líderes as mulheres à frente de  cargos de gestão  e/ou 
+responsável por times, independente da sua posição hierárquica. 
+b) Tecnologia: áreas diretamente ligadas à tecnologia – uma das 5 STEM (ciência, tecnologia, 
+engenharia e matemática ) -, desde a gestão de projetos até o desenvolvimento ou 
+programação propriamente ditos; 
+c) Portugal: mulheres portuguesas que trabalhem  no país  em empresas de tecnologia 
+portuguesas ou multinacionais com unidades em território nacional. 
+Importante salientar que o projeto se destina aos indivíduos que se identificam como mulheres, 
+independentemente de serem cis ou trans.  
+Com base nesses filtros iniciamos em março de 2022 uma pesquisa de empresas de tecnologia 
+em Portugal , através das quais buscaríamos as profissionais. Foram 38 as instituições 
+selecionadas, listadas abaixo: 
+Tabela 1 Lista das empresas de tecnologia com atuação em Portugal pesquisadas 
+AdNovum Portugal 
+Aptoide 
+Blip.pt 
+Capgemini Portugal 
+Cisco 
+Checkmarx Portugal 
+Cloudflare 
+Create IT 
+Critical Software 
+
+33 
+ 
+Critical Techworks 
+EDP 
+Equal ExpertS 
+Ernst & Young 
+Estoril Sol Digital 
+Feedzai 
+HN Services Portugal 
+Imaginary Cloud 
+Lisbon Nearshore 
+Microsoft Portugal 
+Mindera 
+Natixis 
+New Work Portugal 
+OLX Group 
+OutSystems 
+Pipedrive 
+Premium Minds 
+SAS Institute Software 
+Siemens Portugal  
+Sky 
+Talkdesk 
+tb.lx 
+Tribetech 
+Tridonic Portugal 
+Unbabel 
+Uniplaces 
+Vodafone Portugal 
+Volkswagen Digital Solutions 
+WIT Software 
+ 
+Fonte: elaboração própria 
+
+34 
+ 
+A partir dessa lista, através do Linkedin, filtramos as profissionais vinculadas a essas empresas a 
+manter em planilha apenas aquelas ligadas diretamente às funções de tecnologia e em cargos de 
+gestão. Nesse ponto, já se começou a perceber quão poucas elas são. É preciso descartar cerca 
+de 10 a 15 perfis masculinos até encontrar uma mulher funcionária dessas empresas listadas. E 
+ainda assim, quando encontra, a maioria delas ou estão vinculadas apenas às áreas de recursos 
+humanos ou comunicação e marketing , como também não possuem um cargo de gestão  em 
+tecnologia. 
+Feita essa primeira triagem, foram sele cionadas 216 mulheres que atendiam aos critérios e que 
+receberam uma mensagem  entre os dias 1º de abril  e 14 de junho  de 2022, via Linkedin, a 
+apresentar o Liderα e solicitar apoio no preenchimento do inquérito como forma de autorizar o 
+uso dos seus dados.   
+Dentre essas, 36 ( 16,6%) responderam positivamente, realizaram o seu cadastro e se tornaram 
+as primeiras profissionais a fazerem parte do Liderα. Acreditamos que esse é um bom resultado 
+a considerar  que a comunicação foi  feita apenas  através de uma rede social com perfil 
+desconhecido. Possivelmente, com a plataforma on-line chancelada pela marca da Universidade 
+do Minho poderemos ter um percentual ainda maior de adesão. 
+Abaixo a mensagem enviada para todas as 216 mulheres igualmente: 
+“Olá (nome da participante), me chamo Sabrina, estou a liderar um projeto da Univ. do Minho 
+(Braga) com o propósito de ajudar mais mulheres a terem acesso e crescerem em carreiras de 
+tecnologia. Peço apenas para nos ajudar nesse estudo, ao responder esse f ormulário: 
+https://forms.gle/NkD6Z8yinb8P3fxo6.  Obrigada” 
+A mensagem inicial, por limites de caracteres aplicadas pelo Linkedin, era curta e objetiva, a levar 
+a profissional para o link de resposta ao inquérito onde ela teria informações mais detalhadas para 
+decidir ou não se responderia às perguntas listadas. 
+ 
+6.4.2 Inquérito de acesso ao Projeto 
+O formulário de inquérito foi criado no Google Forms com aplicação de layout do projeto Lider α. 
+Inicialmente foi colocada como ação obrigatória a coleta de e -mails das respondentes, porém, 
+devido à baixa adesão e a alguns feedbacks recebidos sobre a falta de confiança em permitir o 
+
+35 
+ 
+uso do e-mail, a ação foi retirada. Dessa forma, a participante ficaria a preencher o e-mail de forma 
+voluntária e o número de respondentes passou a aumentar gradativamente. 
+Ao clicar no link do inquérito , o texto abaixo dava as boas -vindas ao Liderα e trazia dados do 
+cenário para que as profissionais compreendessem a relevância do tema e de sua participação , 
+conforme vemos a seguir. 
+Figura 9 Topo inquérito de cadastro Lidera 
+ 
+Fonte: elaboração própria 
+ “Olá! Se você está aqui é porque és mulher e trabalha ou tem interesse na área de tecnologia. 
+Seja bem-vinda!  
+Esta é a ficha de registo da Plataforma Liderα, um projeto da Universidade do Minho que pretende 
+reunir as informações das mulheres portuguesas líderes em tecnologia para ajudar outras 
+mulheres a crescer e prosperar também nessa área. Uma rede aberta, pública e 100% gratuita de 
+cooperação e sororidade que precisa de si para mudar um cenário ainda muito masculino. 
+Um relatório recente d a Tech Nation que analisou a diversidade em empresas de tecnologia do 
+Reino Unido revelou que 77% dos cargos de diretor de tecnologia são preenchidos por homens e 
+que apenas 19% da força de trabalho de tecnologia são mulheres. Essa também é uma realidade 
+em Portugal e na maioria dos países. Um desafio que a indústria de tecnologia enfrenta é mostrar 
+mais exemplos de mulheres em tecnologia para inspirar e incentivar as gerações futuras, 
+alimentando a paixão pela tecnologia em estudantes do sexo feminino em uma idade jovem. 
+
+
+36 
+ 
+Por isso seu registo é tão importante!  Ele é feito rapidamente e os dados coletados não serão 
+utilizados para outras finalidades, que não as aqui descritas, mantida a confidencialidade e 
+proteção dos seus dados pessoais.” 
+A primeira pergunta do inquérito, então, era o aceite a garantir a autorização para utilização de 
+suas informações para esse projeto, que vemos a seguir. 
+Figura 10 Aceite cadastro Liderα 
+ 
+Fonte: elaboração própria 
+Em caso negativo, o formulário era encerrado  e agradecíamos a resposta . Se positivo, a 
+participante - agora oficialmente parte do Lider α - responderia às 15 questões entre fechadas e 
+abertas a contar um pouco da sua realidade profissional, área de atuação, empresa em que 
+trabalhava, habilidades e temas de tecnologia mais afins com sua atividade. As questões seguem 
+listadas abaixo. 
+FORMULÁRIO LIDERα 
+1. Qual seu nome e apelido?  
+2. Qual sua profissão? 
+3. Qual sua última habilitação escolar? 
+4. Sua região de atuação principal em Portugal 
+5. Em qual empresa atua atualmente? 
+6. Cargo que ocupa 
+7. Número de pessoas que lidera 
+8. Número de MULHERES que lidera 
+9. Quais palavras-chaves melhor descreveriam sua atuação profissional (múltipla 
+escolha) 
+
+
+37 
+ 
+10. Quais palavras-chaves melhor descreveriam suas principais habilidades profissionais 
+(múltipla escolha) 
+11. Gostaria de partilhar conosco um pouco da sua história de mulher na área das 
+tecnologias? Certamente irá inspirar outras mulheres 
+12. Gostaria de fazer alguma análise / comentário sobre alguma dificuldade que tens, por 
+ser mulher, ao atuar em tecnologia? 
+13. Gostaria de indicar seu Linkedin ou site profissional? 
+14. Poderia nos ajudar a indicar outras mulheres de tecnologia em Portugal para fazerem 
+parte do Lider α? Basta encaminhar a ela o link deste formulário ou deixar o e -mail 
+dela aqui, para entrarmos em contacto 
+15. Gostaria de apoiar ainda mais outras mulheres a se tornarem líderes em tecnologia? 
+Você pode fazer a diferença! Se tem interesse em saber mais sobre como ajudar com 
+conteúdo e orientações profissionais, responda SIM, que entraremos em contacto 
+consigo. 
+ 
+7 Mapeamento e análise dos dados 
+A partir dos dados disponibiliza dos foi possível realizar alguns cruzamentos que trazem maior 
+clareza sobre a realidade do universo profissional feminino em tecnologia de Portugal, a serem 
+apresentados nas próximas páginas.  Para além dessas análises é possível ainda, através da 
+plataforma Liderα, realizar filtros de busca que permitem descobrir mais detalhes das empresas, 
+das l íderes e de suas atividades e habilidades profissionais  em tecnologias , informações que 
+podem ajudar a direcionar esforços acadêmicos e caminhos profissionais de outras mulheres. 
+ 
+7.1 Tratamento dos dados 
+A base de dados foi ordenada e tratada para permitir uma melhor utilização dos dados, a exemplo 
+da criação de escalas para definir a quantidade de pessoas lideradas por cada profissional 
+respondente. Assim, respostas como 1, 2 e 3 pessoas foram inseridas na escala “Até 3 pessoas”. 
+Dessa forma, a visibilidade do dado tornou-se mais simples e objetiva na transmissão correta da 
+informação. 
+ 
+
+38 
+ 
+7.1.1 Área de atuação 
+A maioria das mulheres atuando em tecnologia encontra -se vinculada à área metropolitana de 
+Lisboa, notadamente em função da maior presença de empresas desse setor na capital. Como vê-
+se a seguir, 67% das respondentes selecionaram essa zona de atuação profissional principal. 
+Foram ouvidas representantes de 18 empresas de tecnologia na área metropolitana de Lisboa, 7 
+empresas ao Norte, 3 no Centro e apenas 1 no Alentejo, a empresa SalesForce11. 
+Gráfico 1 Respondentes Liderα- Região de Atuação principal em Portugal 
+ 
+Fonte: elaboração própria 
+Entre 2009 e 2019, de acordo com o Pordata.pt, o número de empresas não financeiras cresceu 
+em Lisboa passando de 105 mil para 120 mil empresas. Em termos de igualdade salarial, ainda 
+de acordo com a mesma fonte, em 2019, os trabalhadores por conta de outrem do município de 
+Lisboa ganhavam em média 1.856 euros mensais contra 1.480 euros das mulheres.. 
+ 
+7.1.2 Habilitação Escolar 
+Em relação à habilitação escolar, a maioria das respondentes  (47%) tinham mestrado, como se 
+pode ver no gráfico a seguir. 
+ 
+11 CRM Software & Cloud Computing Solutions - Salesforce EMEA 
+3%
+67%
+8%
+22%
+Alentejo Área Metropolitana Lisboa Centro Norte
+
+39 
+ 
+Gráfico 1 Respondentes Liderα- Última habilitação escolar 
+ 
+Fonte: elaboração própria 
+Os mestrados passaram a ser um pré -requisito para a empregabilidade desde o Processo de 
+Bolonha em 2006, quando as licenciaturas em Portugal tiveram seus cursos reduzidos de 4 ou 5 
+para 3 anos apenas, e os mestrados passaram a ser oferecidos pelas universidades de forma 
+integrada à licenciatura. 
+No entanto, é possível perceber que a área de tecnologia também recebe profissionais de ensino 
+secundário, bacharelato e cursos tecnológicos , chegando a 9% da amostra aqui testada, 
+especificamente de mulheres já profissionais e atuando em cargos de liderança. 
+ 
+7.1.3 Empresa em que trabalha 
+Das 38 empresas pr é-selecionadas obteve -se resposta de profissionais a atuar em 26 delas, 
+algumas com mais de uma representante, conforme tabela abaixo com as instituições e o número 
+de mulheres que participaram da pesquisa. 
+Tabela 2 Número de profissionais cadastradas por empresa que trabalha 
+ASKBLUE 1 
+BANCO MONTEPIO 1 
+BLIP 3 
+BOSCH 1 
+3%
+3%
+3%
+6%
+14%
+25%
+47%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+Bacharelato
+Curso Tecnológico / Profissional / Outros
+Ensino Secundário
+Doutoramento
+Pós-graduação
+Licenciatura
+Mestrado
+
+40 
+ 
+CHECKMARX 1 
+CISCO 2 
+CLARANET 1 
+CLOUDFLARE 2 
+CLOUDWARE 1 
+DAIMLER TRUCKS AND BUSES 1 
+DECO 1 
+ESTORIL SOL 1 
+FEEDZAI 2 
+GLINTT 1 
+KEEP IT SIMPLE 1 
+LETS GET CHECKED 1 
+MICROSOFT 2 
+NOS 1 
+OUTSYSTEMS 5 
+PIPEDRIVE 1 
+PRODUCT LEAGUE 1 
+RECRUITER IT 1 
+SALESFORCE 1 
+SMARTDEV 1 
+TB.LX 1 
+TEKYA 1 
+Fonte: elaboração própria 
+7.1.4 Cargos ocupados 
+As nomenclaturas dos cargos são as mais variadas possíveis , demonstrando uma grande 
+variedade de funções e hierarquias dentro da área de tecnologia. Para essa pergunta no inquérito 
+optou-se por deixar a resposta aberta para que pudessem citar o seu cargo específico. 
+É possível perceber  a presença de cargos vinculados à s metodologias ágeis, como a Scrum  ou 
+Kanban, que necessitam de profissionais como o Product Owner e o Gerente de Projetos para 
+garantir a condução e alinhamento dos trabalhos aos objetivos da empresa ou cliente.  
+
+41 
+ 
+Em geral, esses profissionais trabalham em Squads, equipes multidisciplinares que atuam focadas 
+na entrega de um produto ou serviço em comum.  
+As metodologias ágeis têm sido um forte componente dentro da área de tecnologia, a abrir  
+mercado para profissionais que não necessariamente programam ou entende m de códigos, mas 
+que são bons em gerenciar equipas dentro de prazos e metas estabelecidas. 
+Abaixo os cargos das nossas entrevistadas e a quantidade de respondentes de cada um deles. 
+Tabela 3 Número de profissionais cadastradas por cargo 
+Analista funcional 1 
+Associate UX Designer 1 
+Consulting Lead 1 
+Consultora 1 
+Customer Success Manager 2 
+Data analyst 1 
+Developer 2 
+Founder 1 
+Frontend Developer 1 
+Gerente de projetos 1 
+Global head customer support 1 
+IT consultant 1 
+IT Governance & Solutions Director 1 
+LDR 1 
+Lead of Quality Assurance 1 
+Lead Product Owner 1 
+Lead Software Engineer 2 
+Manager 1 
+Operations Manager 1 
+Outsystems Developer 1 
+Product Owner 3 
+Programadora 1 
+Risk and Fraud agent 1 
+
+42 
+ 
+Sales Manager 1 
+Senior Business Analyst 1 
+Senior Frontend Engineer 1 
+Senior IT ops 1 
+Senior Manager 1 
+Senior Operations Analyst 1 
+Senior Product Designer 1 
+Software QE 1 
+Fonte: elaboração própria 
+7.1.5 Equipas que lidera 
+O dado a seguir refere -se ao número de pessoas que a profissional lidera na empresa em que 
+trabalha. Aqui entendemos que não necessariamente um cargo de liderança é um cargo de gestão 
+de pessoas na área das tecnologias, visto que profissionais em posiç ões como Product Owner, 
+Operations Manager, Senior Analyst ou Senior Product Design responderam não possuir ninguém 
+sob sua liderança , mas possu em um papel estratégico  ao atuar frente a o utros departamentos 
+como uma estrutura hierárquica por projeto. 56% das mulheres respondentes não lideram uma 
+equipa, 25% lideram  1, 2 ou 3 pessoas e apenas 3% (correspondente a 1 das 36 mulheres 
+respondentes) possui uma grande equipa com cerca de 30 colaboradores ao seu comando.  
+O baixo número de mulheres em cargos de gestão  mas sem liderança direta é relevante e pode 
+ser mais um indicador de desigualdade entre a liderança feminina e masculina. 
+Vejamos os resultados abaixo: 
+Gráfico 2 Respondentes Liderα- Número de pessoas que lidera 
+ 
+Fonte: elaboração própria 
+56%
+25%
+8%
+6%
+3%
+3%
+0 0,1 0,2 0,3 0,4 0,5 0,6
+Nenhuma
+Até 3 pessoas
+De 4 a 6 pessoas
+De 11 a 20 pessoas
+De 7 a 10 pessoas
+Acima de 20 pessoas
+
+43 
+ 
+A informação mais inusitada, porém, se refere às profissionais mulheres que lideram ou não outras 
+mulheres. Das 13 mulheres que possuem algum a equipa sobre sua gestão, 9 inclui pelo menos 
+1 mulher. No entanto, elas nem sempre são maioria mesmo quando a chefe também é feminina.  
+Uma das respondentes, da empresa Bosch, chamou a atenção por liderar um grupo de 30 
+pessoas, mas apenas uma delas é mulher também.  
+Já outras empresas parecem fomentar o acesso das mulheres de forma um pouco menos 
+desigual. A PipeDrive12 possui uma liderança feminina em Customer Support que lidera um grupo 
+de 7 pessoas onde a maioria (4) são mulheres. A OutSystems 13 possui uma área de 
+Desenvolvimento com 14 liderados, sendo 6 deles mulheres. 
+O Banco Montepio, dentro da coleta realizada, possui 8 mulheres numa área de 15 profissionais 
+dedicados à IT Governance & Solutions. 
+Nenhuma profissional consultada, responsável por um time de qualquer tamanho, tem apenas 
+mulheres sob sua gestão. 
+Abaixo os dados extraídos do formulário Liderα: 
+Gráfico 3 Respondentes Liderα - Lidera alguma mulher
+ 
+Fonte: elaboração própria 
+ 
+12 CRM de vendas e software de gerenciamento de funil | Pipedrive 
+13 High-Performance Low-Code for App Development | OutSystems 
+56%
+25%
+19%
+0%
+Não lidera Lidera alguma mulher Só lidera homens Só lidera mulheres
+
+44 
+ 
+Gráfico 4 Respondentes Liderα- Quantas mulheres lidera 
+ 
+Fonte: elaboração própria 
+7.1.6 Áreas de atuação 
+Entre as mulheres pesquisadas as principais áreas de atuação foram Desenvolvimento (15,78%), 
+Software (13,41%), Programação (11,24%) e a própria área de Tecnologia que de uma forma 
+abrangente resume como palavra -chave a atividade profissional, citada por 13,95% das 
+respondentes. A seguir, surgem áreas de intervenç ão tais como  BI (Business Inte lligence) com 
+5,73%, Suporte Técnico (4,54%), Mobile (4,32%), Qualidade (4%) , Data Security (3,78%) e Cloud 
+Computing (3,35%). 
+Para essa questão foi criada uma lista de  20 opções de áreas de a tuação em tecnologia . Elas 
+estavam livres para selecionar  múltiplas áreas ou ainda citar alguma não listada.  Há, portanto, 
+líderes femininas que atuam com diferentes frentes profissionais, a somar experiências diversas. 
+É importante visualizar também o que elas estão fazendo com menor participação para identificar 
+gaps de acesso  profissional, como por exemplo as áreas em ascensão como IOT (Internet of 
+Things), Machine Learning e UX (User Experience) Design que tiveram baixa representatividade 
+nessa amostra. 
+A maioria das mulheres que lidera outras mulheres selecionou as áreas de atuação Suporte 
+Técnico, Softwares, Qualidade e Desenvolvimento. 
+61%
+14% 11%
+3% 3% 3% 3% 3%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Não lidera 0 1 2 3 4 6 8
+
+45 
+ 
+Gráfico 5 Respondentes Liderα- Principais áreas de atuação 
+ 
+Fonte: elaboração própria 
+Para facilitar o entendimento das áreas listadas, criamos um pequeno glossário de atividades 
+profissionais em tecnologias, priorizando as áreas mais citadas acima extraído do site 
+digital.br.synnex.com. São elas: 
+• Desenvolvimento – áreas responsáveis pelo desenvolvimento de ideias e soluções. Para 
+isso, utiliza m diferentes linguagens de programação e possuem também habilidades 
+técnicas. Uma das funções d a desenvolvedora (dev) é criar soluções tecnológicas  para 
+atender as necessidades específicas de um produto (software ou outros) ou serviço. 
+ 
+• Programação – são áreas técnicas especializad as em escrever códigos de uma ou 
+mais linguagens de programação, como Java, Phyton, etc. 
+ 
+• Software – ou engenharia de software, são áreas que projetam e guiam o desenvolvimento 
+de programas, aplicativos e sistemas, de forma que atendam aos requisitos e cumpram 
+as funções determinadas. 
+ 
+• Business Intelligence – área que oferece o apoio para as decisões de forma inteligente, 
+por meio de um processo de captação e análise de dados. 
+ 
+• Data Security – monitora a segurança de  bancos de  dados digitais, a reduzir ações  
+destrutivas ou indesejadas de usuários não autorizados, como um ataque cibernético ou 
+violação de dados. 
+
+
+46 
+ 
+• Cloud Computing – responsável pela tecnologia que usa a conectividade para hospedar 
+os mais variados recursos, programas e informações em nuvem.  
+ 
+• Mobile – é a área especializada em criar aplicativos para smartphones, tablets e qualquer 
+dispositivo móvel (para Android, IOS ou outro sistema operacional).  
+• Qualidade – monitora o nível de qualidade do código desenvolvido, de modo a atender 
+todos os requisitos necessários para que o sistema execute suas funções de forma ágil e 
+segura. 
+• Suporte Técnico – presta uma gama de serviços com o objetivo de fornecer assistência a 
+uma infraestrutura tecnológica. Tem a responsabilidade de garantir o funcionamento de 
+ferramentas, servidores, máquinas/equipamentos e sistemas de TI de uma empresa. 
+ 
+7.1.7 Habilidades 
+Para identificar as principais habilidades que uma profissional de tecnologia possui, tanto técnicas 
+como comportamentais (hard skills / soft skills) listamos 20 alternativas com possibilidade de 
+múltipla seleção. O propósito dessa questão foi entender quais tipos de habilidades são mais 
+necessárias para seguir uma carreira em tecnologia, de modo a ajudar novas entrantes a 
+direcionar seus esforços de aprendizagem.  
+Como pode-se notar na Figura 12 a seguir, a habilidade de Trabalhar em Equipa obteve a maioria 
+das respostas (9,51%) o que desfaz qualquer imagem de que o trabalho em tecnologia é 
+basicamente entre humano e máquina. A interação entre as pessoas aqui se faz presente, e nesse 
+caso, pode ser ainda mais rica e plural se essa equipa conte mplar uma diversidade de gênero , 
+cor, credo, cultura, etc.  
+Das 29 mulheres que escolheram a habilidade Trabalhar em Equipa, 21 não lidera nenhuma outra 
+mulher.  
+A respondente da Bosch que lidera apenas 1 mulher em uma equipa de 30 pessoas não marcou 
+a opção Trabalhar em Equipa, mas selecionou Empatia, Gestão, Paixão, Aprendizado Contínuo e 
+Comunicação como suas principais habilidades.  
+ 
+
+47 
+ 
+Abaixo a visualização dos dados: 
+Gráfico 6 Respondentes Liderα- Principais habilidades 
+ 
+Fonte: elaboração própria 
+A seguir foram referidas as skills da Comunicação (7,78%) também ligada ao relacionamento 
+interpessoal, o Raciocínio Lógico (7,35%)  e a Empatia (6,92% ), a mostrar que as habilidades ou 
+qualidades de se portar bem e lidar de forma saudável com as outras pessoas  têm sido muito 
+importantes também em tecnologia. 
+Foram ainda mencionadas as skills de Adaptabilidade (6,81%), Pensamento Crítico (6,70%) e, em 
+igual percentual, Resiliência e Produtividade (6,49%). 
+ 
+7.1.8 Áreas de Atuação x Habilidades  
+A base de dados coletada permitiu realizar um cruzamento entre as principais áreas de atuação e 
+suas habilidades correspondentes para ajudar a perceber se existe alguma diferença entre os 
+perfis femininos das diferentes áreas de tecnologia.  
+Abaixo apresentamos os 3  gráficos teias, referentes às 3 principais áreas citadas 
+(Desenvolvimento, Softwares e Programação) , onde é possível perceber uma pequena mudança 
+no perfil profissional a depender da atividade realizada.  
+Para quem trabalha com Desenvolvimento as skills de Produtividade, Planeamento, Gestão e Foco 
+ficaram especialmente acentuadas  em comparação com as profissionais de Softwares  e 
+Programação, por exemplo.  
+
+
+48 
+ 
+Gráfico 7 Teia – Habilidades da Área de Desenvolvimento 
+ 
+Fonte: elaboração própria 
+ 
+Gráfico 8 Teia - Habilidades da Área de Softwares 
+ 
+Fonte: elaboração própria 
+ 
+
+
+49 
+ 
+Gráfico 9 Teia - Habilidades da Área de Programação 
+ 
+Fonte: elaboração própria 
+ 
+7.2 Persona 
+Ao analisar todos os dados chegamos ao que seria o perfil  preponderante da s mulheres que 
+responderam positivamente ao Liderα. Se fosse possível visualizar essa mulher profissional da 
+área de tecnologia em Portugal estaríamos a ver uma pessoa14 do sexo feminino com o perfil 
+descrito a seguir.  
+Comunicativa e empática, a viver na área metropolitana de Lisboa  e 
+trabalhar numa grande empresa de tecnologia, a OutSystem, onde é Product 
+Owner de projetos de desenvolvimento de softwares. Apesar de sua função 
+ser cuidar do projeto, não possui uma hierarquia formal sobre os demais 
+profissionais, grande maioria homens que são no caso desenvolvedores  e 
+programadores. Ela possui mestrado e tem uma boa capacidade de raciocínio lógico e 
+comunicação formal. 
+ 
+14 Imagem produzida por inteligência artificial extraída do site thispersondoesnotexist.com. 
+ 
+
+
+50 
+ 
+7.3 Resumo das Análises de Dados 
+Vimos no detalhamento dos dados a presentados que a área de tecnologia é vasta em suas 
+atividades e funções, o que permite que mulheres com ou sem habilidades técnicas possam atuar 
+junto a times de grandes empresas. Não é preciso, portanto, saber lidar com códigos e 
+programações para ser uma profissional de tecnologia. Com uma boa capacidade de trabalho em 
+equipa, comunicação eficiente, conhecimento do negócio e raciocínio lógico é possível trabalhar 
+em projetos de tecnologia e crescer nesta carreira. 
+Mas elas não ficam por aí. Assumem as mais variadas posições em grandes empresas globais, de 
+designers a engenheiras de front-end, a confirmar que nenhuma função é exclusiva para homens. 
+Infelizmente ainda são minoria, a trabalhar em equipas majoritariamente masculinas em que 
+tiveram que mostrar o seu valor e superar os preconceitos de um “mercado sexista”, aqui a usar 
+suas próprias palavras. Vamos conhec er um pouco mais de suas histórias através dos 
+depoimentos deixados espontaneamente no inquérito. 
+7.4 Depoimentos das Mulheres Liderα 
+Além das questões objetivas analisadas acima, o inquérito abriu espaço  também para ouvir as 
+histórias dessas mulheres, como forma de dar-lhes voz e compreender melhor o que está por trás 
+dos números. 
+ A ideia era basicamente perceber se de fato o contexto de desigualdade que apresentamos nesse 
+projeto se valida va na vida real, com mulheres que vivenciaram a experiência de crescer 
+profissionalmente em ambiente maioritariamente masculino. 
+Abaixo listamos alguns dos depoimentos mais expressivos que apenas fortalecem o entendimento 
+do quão árduo ainda é o caminho profissional para as mulheres.  
+Os comentários estão anonimizados  para proteger as autoras . Indica-se apenas os seus cargos 
+atuais: 
+“Fui uma rapariga numa turma de Eng enharia Eletrônica de 60 rapazes. Uma rapariga em cada 
+equipa num mundo profissional. Ainda assim, na frente da corrida.” Senior Manager 
+“Por sermos mulheres, temos que estar sempre fortes e lutar para conseguir nossa posição no 
+mercado de trabalho. E algumas vezes ser entrevistada por home ns, não é muito fácil. Por isso, 
+tive que ser forte, e enfrentar todos os obstáculos que tive até chegar cá.” FrontEnd Developer 
+
+51 
+ 
+“Simplesmente desde pequena que tinha uma paixão por tecnologia e sempre tive na minha 
+cabeça que queria ir para engenharia informática. Adorava matemática por isso foi fácil ver o meu 
+caminho na área. Na universidade, o amor à área só aumentou e a única coisa que foi difícil  foi 
+inicialmente pensar que estava num curso que era completamente dominado por homens (e eu 
+era super introvertida).” Lead Software Engineer 
+“Considero-me uma apaixonada pelas TI. Tenho dois cursos profissionais na área da Informática, 
+licenciatura em In formática de Gestão e um MBA. Tenho mais de 12 anos de experiência 
+profissional, mas sempre trabalhei com poucas ou nenhumas mulheres na equipa. De modo a 
+não me sentir tão sozinha criei um projeto que tem como objetivo descomplicar a tecnologia e 
+apoiar outras mulheres nesta área.” Senior Business Analyst 
+“Não tenho dificuldades e, se tiver, ultrapasso como os homens.” Developer 
+“Sinto que ainda é um mercado sexista e que apesar das empresas estarem mais engajadas e 
+interessadas em falar sobre o tema, sinto que faltam iniciativas para assegurar as mesmas 
+oportunidades dentro das empresas. Além disso, já senti que por ser mulher imigrante tive desafios 
+extras de "provar" o valor do meu trabalho e de ter mais dificuldades em estabelecer 
+relacionamentos profissionais por conta da minha origem (inclusive com comentários xenófobos 
+por parte de colegas de trabalho em diversas ocasiões).” Lead Product Owner 
+“O nosso lugar é em qualquer lugar e não nos podemos esquecer disso.” Senior Manager 
+“Felizmente grande parte das mentalidades estão a mudar, mas ainda há mentalidades que 
+duvidam das capacidades de uma mulher na área da tecnologia.” Software Tester 
+“Alguma desigualdade salarial ainda presente”. Operations Manager 
+“A decisão/avaliação é 100% masculina, mesmo as mulheres preferem o estilo de liderança 
+masculina. Obedecer, fazer o que é pedido sem espírito crítico.” Sales Manager 
+“É muito mais difícil encontrar trabalho em tecnologia quando não se tem conhecimento nem 
+formação técnica e penso que especialmente quando se é mulher.” Customer Su ccess 
+Manager 
+“Existe pouca representatividade de mulheres nas tecnologias, especialmente em  cargos mais 
+altos.” Customer Success Manager 
+
+52 
+ 
+“Dificuldades significativas por ser mulher, tenho a felicidade de dizer que a nível profissional não 
+senti. Senti nalgumas situações um tratamento diferente, mas sempre me tentei adaptar e virar 
+isso a meu favor, sempre que possível. Onde talvez tenha sentido mais desconfiança foi na 
+faculdade.” Consulting Lead 
+“Muita! Já tive situações de machismo por ser a única desenvolvedora mulher no projeto alocado.” 
+FrontEnd Developer 
+“Um dos detalhes é que inevitavelmente ouvem -se muitas piadas machistas. Nunca foi um 
+problema para mim porque facilmente aceitava como brincadeira e nunca senti que as minhas 
+capacidades fossem questionadas. “ Software Engineer 
+“É um mundo liderado por homens, muitos abertos a trabalhar com bons profissionais 
+independentemente de qual o seu sexo. Mas uma franja ainda b aixa em relação ao nosso 
+conhecimento, disponibilidade (porque somos mães) e pela capacidade de liderar equipas e/ou 
+projetos.” UX Manager 
+“A persistência é a palavra de ordem! Entre 2 cvs homem vs mulher , a tendência é selecionar o 
+homem, mas teremos que ser nós a abrir caminhos para as gerações vindouras, a traçar e a 
+alcançar os nossos objectivos. Na minha primeira entrevista na área das tecnologias, perguntaram-
+me como me sentiria a trabalhar no meio de homens jovens, sendo que eu já tinha 36 e era 
+mulher, logo estaria fora de todos os padrões, segundo o entrevistador........enfim, consegui a 
+vaga... estou a trabalhar há 7 anos na empresa e s ou reconhecida pelo meu trabalho.”  
+SalesForce Developer 
+“Gostava de assumir uma posição de liderança, mas é difícil, quer por fatores externos, quer até 
+pela minha dificuldade em acreditar em mim e que sou capaz.” Senior Business Analyst 
+Este último comentário, entre todos, pareceu o mais sensível pois quando uma mulher deixa de 
+acreditar em suas próprias capacidades pela possível opressão da cultura em que está inserida, 
+se torna muito mais difícil para ela conseguir quebrar os mesmos paradigmas que a aprisionam. 
+O ciclo de não acreditar em si – não ser respeitada pelo outro – torna-se um ciclo infinito.  
+É por isso que iniciativas como o Liderα, dentre tantos outros projetos, tem o objetivo de colaborar 
+no empoderamento das mulheres, para que elas próprias, juntas, sejam capazes de desmistificar 
+a visão que vem sendo repetidamente “vendida” no mercado de trabalho.  
+
+53 
+ 
+Vale ressaltar, que dentre tod os esses depoimentos, três mulheres declararam não ter tido 
+qualquer dificuldade no ambiente profissional de tecnologia por questões de gênero. 
+ 
+8 SEÇÃO 4 - Mentoria Liderα e projeto Piloto 
+Além dos objetivos principais da Plataforma Lider α, pretende-se ir além a permitir que algumas 
+das mulheres cadastradas possam se voluntariar para ajudar diretamente outra mulher que 
+precise de orientação profissional. Esta conexão, que chamamos Mentoria , será mais uma 
+funcionalidade da plataforma.  
+A ideia  é que a o se cadastrar no projeto, as líderes tenham opção de s e classificarem como 
+Mentoras; 
+• Cada Mentora terá o compromisso de dar mentoria a estudantes ou profissionais em 
+início de carreira que precisem de sua ajuda com informações, con selhos, avaliação do 
+curriculum ou mesmo indicações de fontes e materiais de estudo . Essa será uma ação 
+social voluntária; 
+• Fica a critério de cada uma a quantidade de mulheres que irá apoiar , a que tempo e de 
+que forma, podendo resultar em uma reunião virtual, um bate-papo por telefone ou ainda 
+um encontro presencial. O importante é que elas encontrem um meio comum em que 
+possam avançar com a ação de mentoria; 
+• Ao preencherem seu cadastro, as  Mentoras descrevem brevemente quem são, em que 
+áreas atuam, onde trabal ham, suas principais habilidades e o resumo de sua trajetória 
+profissional inspiradora para que as demais mulheres, aqui chamadas de Mentoradas, 
+possam escolhê-las como mentoras;  
+• As Mentoradas poderão ser quaisquer mulheres portuguesas acima dos 18 anos c om o 
+objetivo de vir a ser uma líder ou ainda fortalecer seu posto atual de liderança, imbuídas 
+do propósito de aprender com sua Mentora; 
+• Ao preencherem seu cadastro, as Mentoradas também descrevem brevemente quem 
+são, em que áreas atuam, se trabalham, suas principais habilidades e o resumo dos seus 
+objetivos profissionais ou história inspiradora que mostre o porquê deveriam ser apoiadas 
+pelas Mentoras; 
+
+54 
+ 
+• A conexão entre elas só se dará se a Mentora for escolhida pela Mentorada (botão de 
+solicitar Mentoria) e se a Mentora der aceite.  
+A partir daí se inicia um processo de mentoria que nada mais é que o apoio personalizado das 
+Mentoras às suas Mentoradas sempre no sentido de ajudá-las a crescer profissionalmente na área 
+de tecnologia. As Mentoras poderão dedicar algum tempo para enviar informações relevantes, 
+notícias, referências bibliográficas, cas os reais e demais conteúdos que achar importantes para 
+atender às necessidades das suas Mentoradas, bem como responder diretamente às suas 
+perguntas. Em outras palavras, deverão compartilhar seus aprendizados e orientá-las sobre como 
+proceder em situações reais específicas para serem bem-sucedidas em suas carreiras. 
+Essa será uma oportunidade única que uma estudante ou profissional terá de ouvir conselhos 
+diretamente de uma líder que pode ser determinante na sua carreira e que talvez não fosse 
+possível em outro ambiente. A tecnologia será apenas o meio para unir solidariedade e vontade 
+de aprender em uma experiência transformadora. 
+Como forma de aumentar a rede para que cada vez mais mulheres possam ter essa oportunidade 
+a plataforma permitirá: 
+1. Que as Mentoras possam também indicar Mentoradas que se destacaram na mentoria, 
+apresentando habilidades de liderança, para se tornarem Mentoras de outras mulheres; 
+2. Que as Mentoras possam participar de mais ciclos de mentoria, se quiserem dar 
+continuidade ao trabalho sem limite de tempo; 
+3. Que as Mentoras possam convidar outras Mentoradas para também vivenciarem a 
+experiência. 
+ 
+Mentoria Piloto 
+Algumas questões, no entanto, pareceram a princípio impactar na viabilidade da ação, como: 
+- As mulheres líderes iriam de fato se voluntariar a dedicar tempo para ajudar outrem? 
+- Que disponibilidade de tempo seria essa, para que de fato o contato entre el as desse algum 
+resultado? 
+- Que tipo de resultados poderíamos esperar dessa relação? 
+
+55 
+ 
+- Como saber se o conteúdo da Mentora seria relevante para a Mentorada significando de fato uma 
+ajuda útil? 
+Para responder essas questões decidimos então realizar um projeto piloto, reunindo pela primeira 
+vez uma Mentora e suas Mentoradas para avaliar a exequibilidade da ideia. 
+Em julho de 2022, enviamos o primeiro convite a uma profissional de tecnologia cadastrada no 
+Liderα que foi imediatamente aceit o parecendo indicar que a sororidade existe e que podemos 
+contar com ela. 
+A Mentora, uma Product Owner em uma grande empresa global de tecnologia sediada no Porto , 
+se disponibilizou a ajudar no que fosse preciso. Ela possuía em seu curriculum, além da 
+experiência profissional em tecnologia, cursos de forma dora, apta a colaborar efetivamente na 
+formação de outros profissionais. O perfil era perfeito , pois além de atuar numa área que possui 
+conhecimento sobre diversas etapas do trabalho em tech, também tinha a facilidade em ensinar. 
+Com essa Mentora em mãos, partimos para a busca das Mentoradas, alunas do primeiro ano do 
+Mestrado em Humanidades Digitais  da Universidade do Minho . Foram 4 estudantes que se 
+mostraram interessadas, todas elas sem experiência profissional em tecnologia, mas com vontade 
+de ingressar na área. A maioria t inha sua base de formação em Letras e, portanto, est avam 
+interessadas e ao mesmo tempo inseguras em como fazer essa migração. 
+As necessidades das Mentoradas foram coletadas em formulário preenchido por elas, para que a 
+Mentora pudesse se preparar devidamente.  
+Abaixo listamos as três perguntas principais e respectivas respostas de maior relevância, de forma 
+anonimizada: 
+1. Já teve ou tem alguma experiência profissional? 
+- “Sim, como chefe de departamento de Recursos Humanos, mas foi uma experiência que desejo 
+não repetir, já que é uma área que não tenho interesse e a empresa não era comunicativa nem 
+tinha objetivos para além de criar os produtos que criava.” Mentorada 1 
+- “Sim, mas não relacionada com a área da tecnologia. Toda a experiência profissional que obtive 
+veio de trabalhos em loja e bar.” Mentorada 2 
+
+56 
+ 
+- “Sim, em restauração. Era desafiante, porque lidei com diferentes pessoas e tive que aprender 
+a ser comunicativa e a enfrentar algumas coisas que são difíceis.” Mentorada 3 
+- “Não. Nunca tive nenhuma experiência profissional”. Mentorada 4 
+2. Qual a sua principal motivação para atuar na área de tecnologia? 
+- “A possibilidade de ser criativa e trabalhar numa área que sempre considerei como hobby. ” 
+Mentorada 1 
+- “Sinto que é algo que nos envolve de diversas formas e é algo que puxa pelo meu lado lógico e 
+criativo ao mesmo tempo. Após 2 anos a tentar arranjar trabalho na minha área, optei por tentar 
+ir por outro caminho, onde acabei por encontrar áreas dentro da tecnologia pelas quais ganhei 
+muito gosto e me deram motivação para aprender mais e mais.” Mentorada 2 
+- “É uma área que me cativa.” Mentorada 3 
+- “Uma área que me interessa, em especial a parte criativa da mesma.”  Mentorada 4 
+3. Como acredita que a sua mentora pode te ajudar a entrar/crescer na carreira 
+profissional na área de tecnologia? 
+- “Quero ajuda em descobrir se a área da comunicação é algo a que o meu perfil se adequa ou se 
+é outra área da tecnologia (como os videojogos). Embora ach ar que a comunicação e o digital 
+sejam o meu interesse, também quero um primeiro impulso para um bom estágio.” Mentorada 
+1 
+- “Preciso de alguém que me guie em todos os sentidos dentro do mundo de trabalho, desde que 
+programas e aptidões devo desenvolver mais, sobre o que é mais procurado dentro da minha área 
+de interesse, de saber efetivamente como é o dia a dia de quem trabalha na área, e se possível 
+contacto com pessoas da minha área de interesse que me possam ajudar a desenvolver todas as 
+capacidades necessárias para entrar neste mundo de trabalho.” Mentorada 2 
+- “Preciso de orientação profissional, de perceber que ferramentas preciso de adquirir a nível 
+pessoal para ser uma profissional competente , ajudar-me a escolher a melhor área para mim, 
+ajudar-me a escolher possíveis estágios.” Mentorada 3 
+Após essa coleta de informações, a Mentora p ôde se preparar para o primeiro encontro virtual 
+com as estudantes trazendo algumas respostas que para elas eram relevantes.  
+
+57 
+ 
+A reunião se deu no dia 14 de julho de 2022 na plataforma Zoom e em grupo durante 1hora e 30 
+minutos e teve como escopo dicas de fontes, cursos e oportunidades de trabalho em tecnologia, 
+bem como o dia a dia do trabalho , os departamentos da empresa, as atividades que era m 
+executadas pela Mentora, sua história, principais competências e desafios da profissão. 
+Ao final da mentoria, alguns depoimentos foram coletados com as mentoradas sobre sua 
+percepção da experiência: 
+- “Gostei imenso! Ela ajudou exatamente no que estava à espera e fiquei muito interessada na 
+empresa dela.” Mentorada 1 
+- “Achei ótima, que foi muito bem-organizada e muito útil para o meu futuro.” Mentorada 2 
+- “Achei bom, mas acho que era necessário ter já existido alguma individualidade e experiência de 
+alguém na área de interesse de cada aluna.” Mentorada 3 
+- “Gostei bastante pois par a além de ter um percurso muito interessante, foi acessível e acabou 
+por responder às minhas dúvidas e deu conselhos muito importantes para a área/ profissão que 
+desejo, dando um bom esclarecimento sobre a mesma.” Mentorada 4 
+- “Era uma pessoa muito interessante e educada, só que não na área em que eu quero trabalhar.” 
+Mentorada 3 
+- “Para além de saber melhor o que se realmente faz na área que quero também ganhei mais 
+conhecimentos sobre as habilitações que as empresas desejam para a mesma e como as p osso 
+ganhar.” Mentorada 1 
+Com base nessas respostas pretendemos estimular que as Mentoradas busquem perfis o mais 
+compatível possível com seus interesses de carreira ao filtrar as opções de Mentoras disponíveis 
+na plataforma sendo, portanto, mais assertivo na relação entre ambas.  
+Com este projeto piloto, acima de tudo, foi possível perceber o potencial positivo que tem a ideia 
+de ajudar de fato meninas a entrarem ou crescerem em carreiras de tecnologia apenas através da 
+sua conexão com profissionais já atuando no mercado de trabalho. Um a pequena colaboração 
+que pode fazer a diferença. 
+ 
+ 
+
+58 
+ 
+9 Conclusão  
+A vontade de realizar esse projeto surgiu há muito tempo, durante meu percurso profissional como 
+planner publicitária, ao perceber as dificuldades das mulheres em geral de assumirem cargos de 
+liderança e serem remuneradas como os homens. Ao longo de 20 ano s de profissão precisei 
+quebrar muitas barreiras e desde cedo assumi posições estratégicas sempre cercada de pares 
+masculinos e recebendo menos pela mesma função.  
+Avançar no percurso acadêmico e introduzir os conceitos de lifelong learning na minha carreira 
+sempre foram um prazer, mas também era uma obrigação. Eu precisava estar sempre preparada, 
+com conhecimento técnico e teórico, sempre a par dos temas relevantes, sempre pronta para 
+defender pontos de vista ou me tornaria um elo frágil dentro do ambiente  competitivo e desigual 
+em que estava inserida. 
+O Mestrado em Humanidades Digitais foi um ponto de virada. Uni à minha formação em 
+comunicação, propaganda e marketing  conceitos e ferramentas de tecnologia para tornar o 
+trabalho mais automatizado, contempor âneo e relevante em face à revolução tecnológica que 
+vivemos. Além disso, tive a oportunidade de escolher o tema da igualdade e equidade como 
+projeto, a usar as competências e recursos adquiridos ao longo da jornada acadêmica em prol de 
+um bem maior.  
+9.1 Etapas realizadas e competências e recursos mobilizados 
+Abaixo resumem-se as etapas fundamentais da construção deste documento realizadas entre 
+janeiro e outubro de 2022, para o alcance dos objetivos propostos no projeto.  
+Figura 11 Etapas do desenvolvimento do Projeto Lidera 
+ 
+Fonte: elaboração própria 
+ 
+
+
+59 
+ 
+E a  tabela a seguir resume o trabalho realizado no decorrer d o projeto, apresentando as 
+competências adquiridas e recursos utilizados no alcance de cada objetivo inicialmente definido --  
+figura 1 -, de forma a facilitar a compreensão de todo o caminho acadêmico percorrido. 
+Tabela 4 Resumo das competências e recursos  
+mobilizados em cada objetivo do projeto 
+ 
+ 
+1. CONSCIENTIZAÇÃO 
+Análise das publicações de diversos autores sobre o 
+cenário da desigualdade de gênero, sua relação histórica 
+com a nossa sociedade e esclarecimento de conceitos na 
+tentativa de expor questões sensíveis no alcance da 
+liderança profissional por mulheres das áreas de 
+tecnologia. 
+ 
+ 
+COMPETÊNCIAS 
+• Pesquisa de autores 
+• Análise bibliográfica 
+• Organização das referências bibliográficas 
+ 
+RECURSOS 
+• Mendeley 
+ 
+ 
+2. ANÁLISE  
+DE BASE DE DADOS 
+ 
+Coleta, tratamento e visualização de dados primários de 
+mulheres líderes portuguesas na área de tecnologia, 
+colhidos em inquérito desenvolvido especialmente para o 
+projeto. 
+ 
+ 
+COMPETÊNCIAS 
+• Seleção de perfis Linkedin 
+• Criação de Inquérito Digital 
+• Coleta e tratamento de dados 
+• Criação de gráficos e tabelas de visualização dos 
+dados 
+ 
+RECURSOS 
+ 
+• Linked In 
+• Google Forms 
+• Excel 
+• Tableau 
+ Criação e teste de um modelo de apoio entre mulheres, 
+
+60 
+ 
+ 
+3. MENTORIA 
+ 
+onde profissionais atuais colaboram com estudantes ou 
+profissionais em início de carreira. 
+ 
+COMPETÊNCIAS 
+• Planeamento de todos os aspectos da Mentoria 
+• Realização de entrevistas em profundidade 
+• Seleção de Mentora 
+• Agendamento de reuniões 
+• Mediação 
+ 
+RECURSOS 
+ 
+• Google Forms 
+• Plataforma de transmissão Zoom 
+ 
+ 
+4. DESENVOLVIMENTO 
+DE RECURSOS 
+INTERATIVOS 
+ 
+EM ANDAMENTO. Tecnologia propriamente dita que dará 
+visibilidade aos dados coletados através da criação de um 
+projeto de mapeamento da liderança feminina no domínio 
+tech e seu glossário especializado. Biblioteca de Código 
+aberto a disponibilizar na plataforma Lang2Science.  
+ 
+COMPETÊNCIAS 
+• Definição da visualização dos dados 
+• Identificação de hierarquia das informações 
+• Navegabilidade e UX 
+• Coleta de verbetes para glossário 
+ 
+RECURSOS 
+ 
+• Figma 
+• Apache ECharts 
+• CSS e Html 
+• LinguagemJavaScript 
+ 
+ 
+5. GERAR 
+CONHECIMENTO E 
+IMPACTO SOCIAL 
+Dar a conhecer o universo de informações das mulheres 
+profissionais de tecnologia em Portugal permitindo atuar 
+de forma direcionada na mudança do cenário atual, com 
+impacto social em termos de igualdade de gênero e 
+equidade salarial. 
+ 
+ 
+• Capacidade de Gestão 
+• Organização 
+
+61 
+ 
+COMPETÊNCIAS 
+TRANSVERSAIS A TODAS AS 
+FASES DO PROJETO 
+• Dinamização 
+• Responsabilidade 
+• Propósito acadêmico 
+ 
+Fonte: elaboração própria 
+Os objetivos de GERAR CONHECIMENTO e IMPACTO SOCIAL ainda não são possíveis de 
+serem avaliados pois dependem da finalização da plataforma, da sua divulgação e utilização em 
+larga escala com data prevista para dezembro de 2022 e monitoramento constante a partir desta 
+data. 
+No entanto, para que pudessem ser viáveis , esses objetivos  também fomentaram o 
+desenvolvimento de competências transversais, assim como as demais etapas do projeto. 
+Como vimos na tabela  acima, para alcançar os objetivos propostos lancei mão da experiência 
+profissional em estratégia e gestão de projetos e das novas competências adquiridas no Mestrado 
+em Humanidades Digitais no âmbito da investigação, análise de dados através de linguagens de 
+programação e visualização de dados com ferramentas mais modernas e automatizadas. 
+No entanto, era preciso um passo anterior para confirmar com fontes confiáveis o que a percepção 
+do mercado de trabalho demonstrava  na prática . O embasamento teórico permitiu descobrir 
+autores que vêm tratando do tema igualdade de gênero no âmbito profissional desde a década de 
+60 e trouxe informações importantes para a construção da ideia da plataforma.  
+A história por trás da mudança do modelo social antigo quando os homo sapiens eram tidos como 
+protofeministas foi uma linda descoberta para mim e encheu-me de esperanças no futuro. 
+A partir da  leitura e fundamentação de autores e fontes diversas, antigas e mais recentes, com 
+exemplos de projetos, pesquisas e iniciativas feministas em variadas frentes de atuação pude 
+consolidar a ideia do Liderα. 
+O desafio agora era buscar parcerias. Mulheres que compreendessem a importância do tema e 
+disponibilizassem seus dados em prol do projeto e de outras mulheres que elas nem conheciam. 
+Essa foi a fase de pôr em teste a sororidade e o empoderamento feminino sobre os quais tanto 
+falamos e tão pouco praticamos. E a re sposta foi positiva. Foram meses de coleta de dados que 
+nos permitiram enxergar as informações aqui apresentadas e que nos dão uma boa expectativa 
+sobre o que será do projeto Liderα no futuro. 
+
+62 
+ 
+9.2 Perspectivas Futuras 
+O projeto Liderα tem um grande potencial se a ferramenta criada puder de fato alcançar um 
+número cada vez maior de mulheres. O que se pretende é contar com o apoio da Universidade do 
+Minho e das mulheres já inscritas para divulgar e compartilhar a plataforma no sentido de buscar 
+outras profissionais com interesse no cadastro, meninas estudantes ou profissionais de outras 
+áreas com intenção de migrar para tecnologia, bem como a sociedade como um todo  que vise 
+buscar informações sobre a participação das mulheres neste mercado. A  plataforma será aberta 
+e gratuita com este propósito. 
+Vimos que a taxa de conversão alcançada na introdução do projeto, ainda sem a existência da 
+plataforma pronta, foi de 16,6% das mulheres impactadas com uma única mensagem e que 
+aceitaram realizar o seu registo  de forma imediata . Sendo assim, se ao longo de 2023 
+conseguirmos divulgar o Lider α para 50 mulheres por mês, mantida a taxa de conversão, 
+chegaremos ao final do ano com mais de 135 profissionais cadastradas, o que nos dá uma base 
+qualitativa para informações e pesquisas cada vez mais exploratórias. 
+Além disso, pretende -se estimular  também o cadastro de Mentoras para que mais meninas 
+possam usufruir desse momento de contato direto com profissionais da área  de seu interesse, a 
+tornar o processo de mentoria uma das ferramentas mais ativas do projeto. 
+Neste sentido, uma gestão continuada da plataforma em parceria com a universidade se fará 
+necessária para atualizações, respostas aos usuários e divulgação constante com foco especial na 
+comunidade acadêmica e em todas as mulheres profissionais líderes em tecnologia espalhadas 
+por toda Portugal. 
+Esperamos poder chegar ao ponto de poder dizer com certeza que o Liderα foi responsável pelo 
+impacto real na vida profissional de uma mulher, ou de muitas delas. Aí então todo este trabalho 
+terá alcançado o seu propósito final. 
+ 
+ 
+ 
+ 
+
+63 
+ 
+10. Bibliografia 
+ 
+Alves, G. (2021). Estudo mostra semelhança na forma como mulheres e homens lideram. IBGC. 
+https://www.ibgc.org.br/blog/estudo-sobre-lideranca-entre-homens-mulheres-diversidade 
+Bregman, R. (2020). Humanidade - Uma história otimista do homem (4a edição). Crítica. 
+Lima, M. P. (2013). As mulheres na ciência da computação. Revista Estudos Feministas, 21(3), 
+793–816. https://doi.org/10.1590/S0104-026X2013000300003 
+Luciane, J., & Muzi, C. (n.d.). Mulheres no campo da Ciência e da Tecnologia : avanços e 
+desafios Women in the field of Science and Technology : advances and challenges. 1–11. 
+Moller, M. A. B., & Gomes, J. F. D. S. (2012). Quid Vincit? O impacto da Liderança feminina na 
+implicação organizacional. Análise Psicológica, 28(4), 683–697. 
+https://doi.org/10.14417/ap.389 
+Mora Machado, G. (2020). Área De Tecnologia E Inovação : Um Estudo De. 
+Needle, D. (2021). Women in tech statistics: The latest research and trends. Techtarget.Com. 
+https://whatis.techtarget.com/feature/Women-in-tech-statistics-The-latest-research-and-
+trends 
+Portal Europeu da Juventude. (2021). Direitos das mulheres: existe igualdade de género na 
+Europa? https://europa.eu/youth/get-involved/your-rights-and-inclusion/womens-rights-
+gender-equality-reality-europe_pt 
+Rezende, D. T., & Quirino, R. (2017). Mulheres Na Ciência E Tecnologia – Porque Tão Poucas ? 
+1. 1–12. 
+Silveirinha, M. (2011). Mulheres, Tecnologias e Comunicação: Para Além das Receitas. Media & 
+Jornalismo, 18, 62–83. 
+Taveira, M. (2018). A liderança feminina em Portugal : um estudo qualitativo. Intituto Politécnico 
+Do Porto. 
+ 
+ 
+ 
+
+64 
+ 
+Torres, K. B. V., Bernardes, R. M., Queiros, P. S. de, Vieira, T. M., Felix, J. C., Urzedo, A. P. F. M. 
+De, Souza, D. H. L., & Mendes, T. T. (2017). Inclusão Das Mulheres Nas Ciências E 
+Tecnologia: Ações Voltadas Para a Educação Básica. Expressa Extensão, 22(2), 140. 
+https://doi.org/10.15210/ee.v22i2.11847 
+Vieira, N. (2021). O cérebro masculino é diferente do cérebro feminino? Canal Tech. 
+https://canaltech.com.br/comportamento/o-cerebro-masculino-e-diferente-do-cerebro-
+feminino-183441/ 
+Womenintechnetwork.com. (n.d.). Sexual Harassment Explains A Lot About Why Women Get Paid 
+Less. Womenintechnetwork.Com. Retrieved April 1, 2022, from 
+https://womenintechnetwork.com/sexual-harassment-explains-a-lot-about-why-women-get-
+paid-less/

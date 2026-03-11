@@ -1,0 +1,1279 @@
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+Inês Catarina Teixeira Leão 
+Comunicação Digital do Projeto 
+Europeu PhD4Moz: Promovendo a 
+formação doutoral em ciências da 
+saúde em Moçambique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maio de 2025  
+Comunicação Digital do Projeto Europeu PhD4Moz: Promovendo a formação doutoral em ciências da 
+saúde em moçambique Inês Catarina Teixeira Leão UMinho | 2025 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Inês Catarina Teixeira Leão 
+ 
+ 
+Comunicação Digital do Projeto Europeu PhD4Moz: 
+Promovendo a formação doutoral em ciências da saúde em 
+Moçambique. 
+ 
+ 
+ 
+Relatório de Estágio 
+Mestrado em Humanidades Digitais 
+ 
+ 
+ 
+Trabalho realizado sob orientação de 
+Professora  Doutora  Sílvia Araújo 
+Professora Doutora Margarida Correia-Neves 
+ 
+ 
+ 
+maio de 2025 
+
+
+iv  
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+ 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras e boas práticas 
+internacionalmente aceites, no que concerne aos direitos de autor e direitos conexos. Assim, o presente trabalho pode ser utilizado nos 
+termos previstos na licença abaixo indicada. 
+Caso o  utilizador necessite  de permissão para poder fazer um uso do trabalho em  condições não previstas no 
+licenciamento indicado, deverá contactar o autor, através do RepositóriUM da Universidade do Minho. 
+ 
+
+v  
+AGRADECIMENTOS 
+ 
+ 
+Este relatório não seria possível sem o apoio de terceiros e, por isso, gostaria de expressar o meu profundo  
+agradecimento a todos os que contribuíram para a conclusão desta etapa final. 
+Em primeiro lugar, gostaria  de agradecer  à minha orientadora, a  Professora Sílvia Araújo,  cuja orientação e 
+conhecimento foram importantíssimos para a realização, tanto do website, tanto do relatório e por me ter apresentado  este 
+projeto. 
+Não menos importante, gostaria  de agradecer à  Professora Margarida Correia-Neves pela sua orientação, ajuda, 
+disponibilidade e atenção. A professora esteve presente em qualquer momento e perante qualquer dificuldade e sem dúvida alguma 
+que foi também graças a ela que consegui chegar ao resultado deste projeto, entre muitas reuniões e discussões sobre os  conteúdos 
+do website. 
+Ainda agradecer ao Instituto Nacional de Saúde de Moçambique, mais concretamente ao Mussa Chaleque, com quem 
+trabalhei lado a lado neste projeto no sentido de divulgar o PhD4Moz através das redes sociais  e do website e que sempre esteve  
+pronto a ajudar-me e a dar-me todas as informações necessárias. 
+Um agradecimento a todos os Professores do Mestrado em Humanidades Digitais, por todos os ensinamentos. A todos 
+os meus colegas do Mestrado em Humanidades Digitais, pela partilha e discussão de ideias e por se mostrarem  disponíveis em 
+qualquer dificuldade, deixo também o meu obrigada. 
+A todos os meus amigos que me deram o suporte emocional necessário para chegar até aqui, que ouviram os meus 
+problemas e que, acima de tudo, nunca permitiram que deixasse de acreditar em mim, agradeço -vos da forma mais sincera e 
+profunda. 
+Por fim, e não menos importante,  à minha família, os meus pais que sempre me deram o apoio necessário e o consolo nos dias 
+menos bons. Agradeço tudo o que fizeram por mim não só neste projeto, não só neste Mestrado, mas  em toda a  minha vida 
+pessoal, académica e profissional. 
+A todos vos agradeço, pois sozinha teria sido tudo muito mais difícil. 
+
+vi  
+DECLARAÇÃO DE INTEGRIDADE 
+ 
+ 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo que não recorri à prática de 
+plágio nem a qualquer forma de utilização indevida ou falsificação de informações ou resultados em nenhuma das etapas conducente à 
+sua elaboração. Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do Minho. 
+
+vii  
+SUMÁRIO 
+Este projeto curricular, inserido no Mestrado em Humanidades Digitais, teve como objetivo principal o 
+desenvolvimento de um website para o projeto europeu PhD4Moz. A criação desta plataforma digital visou a 
+divulgação de informações relevantes sobre o projeto, garantindo uma estética alinhada aos princípios do PhD4Moz. A 
+responsabilidade principal consistiu na conceção e desenvolvimento  do site utilizando a plataforma WordPress, 
+abrangendo a seleção e produção de  conteúdos adequados. O relatório apresenta uma introdução que  descreve o  
+projeto e as tarefas atribuídas. Segue -se uma revisão de literatura que aborda conceitos relacionados com 
+comunicação digital, design de websites educativos, usabilidade, acessibilidade, design minimalista e interface 
+do utilizador, bem como ferramentas digitais para a construção de sites. O relatório também descreve minuciosamente 
+todas as etapas do processo de criação do website, desde a fase inicial de planeamento até à configuração atual, 
+oferecendo uma visão clara do desenvolvimento. Este desenvolvimento resultou numa plataforma integrada e intuitiva 
+que facilita  a navegação e o acesso a informações pertinentes sobre o projeto. O site do PhD4Moz emerge como 
+uma contribuição significativa para a disponibilização de recursos informativos e formativos destinados aos estudantes 
+de doutoramento em Moçambique. É fundamental salientar que a interseção com as humanidades digitais 
+reforçou a capacidade do site para satisfazer as necessidades do público -alvo, garantindo um impacto 
+positivo na formação académica e profissional dos doutorandos.  
+Palavras-chave: PhD4Moz, Wordpress, Comunicação  Digital, Ciências da Saúde, Moçambique, Programa Doutoral 
+
+viii  
+ABSTRACT 
+This curricular project, part of the Master's in Digital Humanities, aimed primarily at developing a 
+website for the European project PhD4Moz. The creation of this digital platform focused on disseminating relevant 
+information about the  project, ensuring an aesthetic aligned with the principles of PhD4Moz. The main responsibility 
+involved the design and development of the site using the WordPress platform, encompassing the selection and 
+production of suitable content. The report presents an introduction that describes the project and the assigned 
+tasks. This is followed by a  literature review that addresses concepts related to  digital communication, the design of 
+educational websites, usability, accessibility, minimalist design, and user interface, as well as digital  tools for 
+website construction. The report also meticulously describes all the steps in the website  creation process, from the 
+initial planning phase to the current setup, providing a clear view of the development. The  PhD4Moz website emerges 
+as a significant contribution to providing informative and educational resources for PhD students in Mozambique. This 
+development resulted in an integrated and intuitive platform that facilitates navigation and access to relevant information 
+about the project. It is important to highlight that the intersection with digital humanities has enhanced the site’s 
+ability to meet the needs of the target audience, ensuring a positive impact on the academic and professional training of 
+the doctoral students. 
+ 
+Keywords: PhD4Moz; Wordpress, Digital Communication, Health Sciences, Mozambique,  Doctoral Program 
+
+ix  
+Índice 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS .................................................... iv 
+AGRADECIMENTOS .................................................................................................................................... v 
+DECLARAÇÃO DE INTEGRIDADE ..................................................................................................................... vi 
+STATEMENT OF INTEGRITY……………………………………………………………………………………………….vi 
+SUMÁRIO ............................................................................................................................................... vii 
+ABSTRACT ............................................................................................................................................. viii 
+ÍNDICE DE FIGURAS...................................................................................................................................... x 
+1. INTRODUÇÃO ................................................................................................................. 1 
+1.1 OBJETIVOS DO RELATÓRIO ................................................................................................................... 1 
+1.2 ESTRUTURA DO RELATÓRIO ................................................................................................................. 1 
+2. REVISÃO DA LITERATURA ........................................................................................................ 2 
+2.1 COMUNICAÇÃO  DIGITAL .................................................................................................................... 3 
+2.2 WEB COMMUNICATION ................................................................................................................... 4 
+2.3 SITES NA ÁREA EDUCACIONAL .............................................................................................................. 6 
+2.4 USABILIDADE E ACESSIBILIDADE NA WEB ............................................................................................... 6 
+2.5 DESIGN MINIMALISTA E INTERFACE DO UTILIZADOR ................................................................................... 7 
+2.6 FERRAMENTAS E TECNOLOGIAS PARA CONSTRUÇÃO DE SITES ................................................................... 8 
+3. DESENVOLVIMENTO DO WEBSITE ........................................................................................... 9 
+3.1 O PROJETO PHD4MOZ ................................................................................................................ 9 
+3.2 OBJETIVOS ................................................................................................................................. 10 
+3.3 METODOLOGIA ................................................................................................................... 12 
+3.3.1 FERRAMENTAS  UTILIZADAS ................................................................................................ 12 
+3.3.2 ABORDAGEM DE DESIGN E DESENVOLVIMENTO ......................................................................... 13 
+3.4 CRONOGRAMA DAS ATIVIDADES .................................................................................................. 15 
+3.5 PLANEAMENTO INICIAL DO WEBSITE ................................................................................................... 19 
+3.6 MENU PRINCIPAL E FOOTER ............................................................................................................. 21 
+3.7 PÁGINA INICIAL .............................................................................................................................. 22 
+3.8 O PROJETO .................................................................................................................................. 28 
+3.10 PLATAFORMA E-LEARNING ............................................................................................................... 30 
+3.11 NOTÍCIAS ................................................................................................................................... 31 
+3.12 CONTACTOS ............................................................................................................................. 34 
+3.13 PARCEIROS .............................................................................................................................. 35 
+3.14 GALERIA ................................................................................................................................... 36 
+3.15 IMAGENS INTEGRAIS DAS PÁGINAS DO WEBSITE ................................................................................... 37 
+4. CONSIDERAÇÕES FINAIS ................................................................................................... 45 
+5. REFERÊNCIAS BIBLIOGRÁFICAS ......................................................................................... 47 
+
+x  
+ÍNDICE DE FIGURAS 
+Figura 1 - Esqueleto do site PhD4Moz ......................................................................................... 20 
+Figura 2 - Legenda dos conteúdos do site PhD4Moz ........................................................................ 21 
+Figura 3 - Menu do site PhD4Moz igual em todas as páginas do projeto ........................................... 21 
+Figura 4 - Footer do site PhD4Moz igual em todas as páginas do projeto ............................................. 22 
+Figura 5 - Logótipo PhD4Moz do carrossel da página inicial ............................................................ 23 
+Figura 6 - Carrossel da página inicial do site PhD4Moz. .................................................................. 23 
+Figura 7 - Áreas de atuação do PhD4Moz .................................................................................... 24 
+Figura 8 - Grelha de notícias na página inicial do site PhD4Moz ..................................................... 24 
+Figura 9 - Fotografias da galeria carrossel  no site PhD4Moz .............................................................. 25 
+Figura 10 - Fotografias da galeria carrossel  no site PhD4Moz ............................................................ 25 
+Figura 11 - Frase em destaque da professora doutora Margarida Correia-Neves na página inicial do site  
+PhD4Moz  …….…………………………………………………………………………………………………………..26 
+Figura 12 - Feedback dos alunos do PhD4Moz, na página inicial do site PhD4Moz ……………..27 
+Figura 13 - Logótipos dos parceiros do projeto PhD4Moz na página inicial do site PhD4Moz ………………..28 
+Figura 14 - Página "O Projeto" do site PhD4Moz………………………………………………………………..29 
+Figura 15 - Página "Formação" do site PhD4Moz……………………………………………………………………..30 
+Figura 16 - Página da Plataforma E-learning do Projeto PhD4Moz…………………………………………………..31 
+Figura 17 - Exemplo 1 de uma notícia da página "Notícias" do site PhD4Moz ……….……32 
+Figura 18 - Exemplo 2 de uma notícia da página "Notícias" do site PhD4Moz ……………..33 
+Figura 19 - Flyer do curso de “Comunicação e Divulgação Científica” ............................................... 33 
+Figura 20 - Flyer do curso de “Boas Práticas Clínicas” ........................................................................... 34 
+Figura 21 - Página de Contactos do site PhD4Moz ................................................................................. 34 
+Figura 22 - Página de Parceiros do site PhD4Moz ................................................................................. 35 
+Figura 23 - Página de Galeria/Feedback  do site PhD4Moz ..................................................................... 36 
+
+xi  
+Figura 24 - Página Inicial integral do site PhD4Moz ................................................................................ 38 
+Figura 25 - Página “O Projeto” integral do site PhD4Moz ......................................................................... 39 
+Figura 26 - Página “Formação” integral do site PhD4Moz ....................................................................... 40 
+Figura 27 - Página “Notícias” integral do site PhD4Moz .......................................................................... 41 
+Figura 28 - Página “Contactos” integral do site PhD4Moz........................................................................ 42 
+Figura 29 - Página “Parceiros” integral do site PhD4Moz ........................................................................ 43 
+Figura 30 - Página “Galeria” integral do site PhD4Moz ............................................................................ 44 
+
+1  
+1. INTRODUÇÃO 
+Num mundo cada vez mais interligado pela comunicação digital, a criação de plataformas online 
+desempenha um papel crucial na divulgação de informações e no fortalecimento de redes colaborativas, especialmente 
+em contextos educacionais e científicos. A utilização de websites não só facilita o acesso rápido a informações, como 
+também fortalece a visibilidade de projetos  e de  iniciativas institucionais , neste caso . Neste âmbito, o presente 
+relatório documenta o trabalho desenvolvido ao longo do projeto final do mestrado em Humanidades Digitais, na 
+Universidade do Minho, que consistiu  na criação e desenvolvimento de um website para o projeto europeu 
+PhD4Moz. 
+ 
+1.1 OBJETIVOS DO RELATÓRIO 
+Este relatório tem como objetivo descrever e analisar o processo de desenvolvimento do website para o 
+PhD4Moz, um projeto cofinanciado pela União Europeia que visa fortalecer a formação doutoral em Ciências da 
+Saúde em Moçambique. Pretende -se explorar as metodologias adotadas, os desafios enfrentados e as soluções 
+implementadas para criar uma plataforma funcional e acessível. Além disso, será enfatizada a importância de 
+práticas de design centrado no utilizador e acessibilidade digital como componentes essenciais do projeto. 
+ 
+1.2 ESTRUTURA DO RELATÓRIO 
+Este documento está organizado da seguinte forma: numa primeira secção será apresentada  uma 
+visão geral do projeto PhD4Moz, incluindo seus objetivos, público-alvo e estratégias para promover a capacitação 
+em Moçambique. Em seguida, uma revisão de literatura abordará temas como comunicação digital, usabilidade web, 
+acessibilidade e design orientado para o utilizador. Posteriormente, o relatório descreve detalhadamente o 
+processo de desenvolvimento do website, desde a conceção inicial até à fase de testes e implementação final, 
+analisando o impacto do site como ferramenta de suporte para o PhD4Moz. 
+
+2  
+2. REVISÃO DA LITERATURA 
+Atualmente, a transformação digital tem moldado profundamente a forma como as instituições 
+educativas se apresentam e como interagem com o seu público. O desenvolvimento de plataformas online 
+para a promoção de programas de ensino, como o projeto PhD4Moz, alinha -se com a crescente importância 
+do uso de tecnologias digitais na educação superior. 
+Nos últimos anos, a transformação digital na educação tem sido analisada de diferentes perspectivas, 
+destacando-se o impacto das estratégias digitais no ensino superior. Segundo Santos et al. (2023), a transição 
+digital nas universidades europeias tem sido impulsionada por documentos oficiais que estruturam iniciativas 
+voltadas para a educação híbrida e remota. Além disso, um estudo recente publicado na Revista Nupem 
+(2020) destaca que a digitalização do ensino tem reconfigurado os modos de aprendizagem, exigindo novas 
+abordagens pedagógicas e ferramentas tecnológicas. Esses aspetos são reforçados por análises sobre os 
+desafios da digitalização discutidos na 10ª Conferência FORGES (2020), que apontam para as ambiguidades e 
+contradições do ensino digital, especialmente no contexto da educação a distância. 
+A crescente adoção de tecnologias da informação e comunicação (TICs) no ensino superior tem sido 
+um fator determinante para a evolução do processo educacional. Estudos recentes indicam que as TICs 
+proporcionam maior flexibilidade e adaptabilidade ao ensino, permitindo a continuidade do aprendizado 
+mesmo diante de desafios como a pandemia da COVID -19 (SciELO Brasil, 2024). Além disso, a inteligência 
+artificial tem sido explorada como uma ferramenta de suporte ao ensino, contribuindo para a personalização 
+da aprendizagem e a automação de tarefas administrativas (Henning et al., 2025). 
+De acordo com estudos recentes sobre comunicação institucional digital, a presença online eficaz é um 
+fator determinante na perceção pública de uma instituição, influenciando não apenas a atratividade dos programas, 
+mas também a legitimidade e a confiança transmitidas (Wieczorek-Kosmala et al., 2023). Neste contexto, a 
+utilização de plataformas como o WordPress e a criação de redes sociais para a divulgação de cursos de doutoramento 
+destaca-se como uma abordagem essencial para assegurar que os programas educativos tenham um alcance não só 
+local, mas também digital . 
+O design centrado no utilizador ( user experience ), aplicado no desenvolvimento do site, reflete uma das 
+grandes tendências do design digital atual: a necessidade de criar experiências inclusivas e acessíveis, que 
+garantam que a informação seja facilmente encontrada e compreendida por diferentes tipos de utilizadores. A 
+implementação de práticas de  SEO (Search Engine Optimization), integração com redes sociais, e o foco  na responsividade 
+do site são técnicas que não apenas melhoram a experiência do utilizador, mas também potenciam a visibilidade da 
+
+3  
+instituição, neste caso da página do PhD4Moz,  nos motores de pesquisa, aumentando assim a probabilidade de 
+atrair novos alunos e novos visitantes (UX Media, 2023; Overit, 2024). 
+É de salientar ainda que a pandemia da COVID -19 acelerou a digitalização dos processos educacionais e, hoje 
+mais do que nunca, as instituições enfrentam o desafio de manter uma presença online forte e dinâmica (World 
+Economic Forum, 2023; Rof, Bikfalvi & Marques, 2022). Neste sentido, a criação de um website para o projeto 
+PhD4Moz não só responde a uma necessidade atual de digitalização, como também demonstra uma adaptação 
+às exigências contemporâneas de acessibilidade e interatividade no ensino superior. 
+ 
+ 
+
+4  
+2.1 COMUNICAÇÃO DIGITAL 
+A comunicação digital constitui  um campo de  estudo e prática que se foca na  troca de informações, 
+mensagens e conteúdos por intermédio de tecnologias digitais, como a internet, dispositivos móveis, redes sociais e 
+outras plataformas online. "Digital communication therefore is the deployment  or use of digital technologies to 
+communicate  between people and electronic equipment." (Jibril, Ruqayya, & Bashir, 2023). O principal objetivo  da 
+comunicação digital  reside em manter as pessoas informadas sobre eventos e acontecimentos locais, nacionais e 
+globais, proporcionando uma interação mais rápida e abrangente face aos meios tradicionais de comunicação, 
+como jornais, revistas, rádio e televisão. Esta definição sublinha a natureza dinâmica e abrangente da comunicação 
+digital, que ultrapassa barreiras geográficas e permite o acesso imediato a uma diversidade de informações e 
+perspetivas. Ademais, reconhece a relevância  da produção textual como uma forma essencial de comunicação digital, 
+influenciada por mudanças significativas no panorama comunicacional contemporâneo.  
+No plano teórico, a comunicação digital tem sido amplamente debatida, acompanhando as 
+transformações tecnológicas e sociais da sociedade da informação "Greatest of communications have become 
+digital due to  the advantages of digital communication over analog communication" (Ahmed Mohammed Ahmed et al., 
+2016). As redes digitais, nomeadamente o Google ou a Wikipedia, possibilitaram uma reestruturação na 
+distribuição de informação, atribuindo um poder sem precedentes aos indivíduos para a produção e circulação 
+de mensagens.  A comunicação digital deixou de ser algo exclusivo aos especialistas (empresas, centros de pesquisa ou 
+instituições governamentais) e passou a ser possível também para cidadãos comuns.  A convergência mediática  é um 
+conceito central,  onde diferentes formatos e plataformas se complementam,  ampliando as possibilidades  de interação 
+entre utilizadores e criadores de conteúdos. 
+Outro ponto central é a interatividade e a participação ativa do público. O ciberespaço facilitou  a criação 
+de comunidades virtuais, permitindo que indivíduos se expressem, partilhem opiniões e participem em debates, o 
+que democratiza a comunicação e quebra os modelos hierárquicos tradicionais (Castells, 2012). Este cenário é 
+intensificado pelas redes sociais, que proporcionam  uma multiplicidade de vozes e narrativas, moldando a perceção 
+pública de eventos e temas sociais (Bennett & Segerberg, 2013).  
+A produção textual na comunicação digital assume novas configurações e é marcada pela hibridização de 
+gêneros e pela inclusão de elementos multimodais (Kress & van Leeuwen, 2006).  Os textos digitais frequentemente 
+combinam linguagens  formais e informais, adaptando-se ao contexto da plataforma e  ao público-alvo, o que 
+demonstra a flexibilidade e adaptabilidade necessárias para o consumo e interpretação eficaz das mensagens. 
+Assim, a comunicação digital não é apenas uma extensão dos meios tradicionais, mas representa uma 
+transformação profunda na forma como as pessoas acedem, partilham e interpretam informações (Thompson, 
+1995). Com a evolução constante da tecnologia, este campo continua a expandir -se, exigindo abordagens teóricas e 
+
+5  
+metodológicas que acompanhem as suas implicações culturais, sociais e éticas.
+
+6  
+2.2 WEB COMMUNICATION 
+A web communication refere-se ao processo de troca de informações através da World Wide Web (www) ou, de 
+uma maneira mais ampla,  da internet. Surgindo aquando da WWW, a web communication evoluiu ao longo do tempo 
+até chegar às redes sociais e ferramentas de comunicação instantânea que conhecemos hoje. O desenvolvimento 
+contínuo da  web continua a moldar a forma como as pessoas se comunicam e interagem online. Esse tipo de 
+comunicação abrange uma diversidade de formas, desde trocas de mensagens até interações mais complexas  que 
+envolvem elementos multimodais, nomeadamente texto, imagens, áudio ou vídeo.  O criador da www refere ainda que 
+"(...) The original idea of the web was that  it should be a collaborative space where you can communicate through sharing 
+information (...)” (Tim Berners -Lee, 1989).  
+As principais componentes da comunicação web incluem: websites, uma vez que a maioria das 
+interações online começa com a visita a um site ou a uma página web (Hoffman & Novak, 1996, p.50 -68); redes 
+sociais, onde as plataformas como o Facebook, Youtube, Instagram ou até mesmo LinkedIn são fundamentais para 
+a comunicação social online, através de mensagens, partilha de média e interação em tempo real (Kaplan & 
+Haenlein, 2010, p.59 -68); e- mail, por onde comunicar já é considerada uma atividade tradicional de comunicação 
+(Wang & Zhang, 2012); blogs e vlogs são ferramentas de texto e vídeo, respetivamente, populares na partilha de 
+informações, opiniões, entretenimento e até conhecimentos (Baker & McKenzie, 2016, p.3494-3501); fóruns e 
+comunidades online que proporcionam espaços para interações mais longas e discussões sobre tópicos específicos; 
+mensagens instantâneas e chat online, através de plataformas como o WhatsApp, Messenger e Telegram oferecem 
+uma comunicação rápida e direta. “(...)In general, social media has an impact on community activities that are better, more 
+effective and efficient in obtaining information that is not hindered by time, place and expensive costs, but in its use it sometimes 
+eliminates values and norms that apply in society (...)” (Rafiq, 2020). 
+A web communication é essencial nos dias de hoje, cruzando -se com vários aspetos da  vida quotidiana, 
+negócios, educação e até lazer/entretenimento.  A constante evolução da 
+
+7  
+tecnologia na web tem contribuído para formas mais avançadas e interativas de comunicação online. 
+Existem ainda diversas características e elementos-chave para que seja possível a comunicação pela 
+web: 
+• Multimodalidade: A comunicação digital envolve frequentemente diferentes modos, como texto, imagem, 
+áudio ou vídeo, permitindo uma expressão mais rica de informações e ideias. Ghunter Kress , 2020 
+defendia que a multimodalidade reconhece que vivemos num mundo saturado por múltiplos modos de 
+comunicação. Textos, imagens, sons e vídeos passaram a não existir isoladamente e, atualmente, 
+“coexistem, interagem e complementam-se”. 
+• Interatividade:  No mundo online, a interação é a chave para que a informação  se divulgue. Comentar, reagir, 
+criar conteúdo e opinar tornam a comunicação numa experiência bidirecional e multilateral. De acordo 
+com Henry Jenkins  a convergência cultural representa uma mudança na forma como consumimos 
+conteúdo no mundo digital. Não somos apenas consumidores passivos, mas participantes ativos que 
+contribuem e constroem narrativas próprias. A interatividade é a base dessa transformação, onde as 
+audiências não são apenas recetoras, mas também criadoras e distribuidoras de conteúdo. 
+• Acessibilidade Global: A comunicação web transcende barreiras geográficas, permitindo interações em escala 
+global. Isso é vital para a disseminação rápida de informações e para conectar pessoas ao redor do 
+mundo. Tendo o apelido de “pai da internet”  (“Vint Cerf, now vice president and Chief Internet Evangelist for 
+Google, is widely known as one of the “Fathers of the Internet”)” (Cerf, 2019) , Vint Cerf defendia que a 
+acessibilidade é um dos princípios fundamentais que sustentam a internet. É importante continuar a 
+trabalhar para garantir que todos possam beneficiar do conhecimento e recursos online, 
+independentemente de qualquer limitação física ou psicológica. 
+• Personalização: A web permite a personalização da experiência do utilizador desde recomendações 
+personalizadas, interfaces adaptáveis e conteúdo direcionado. Na perspetiva de Satya Nadella, Ceo 
+da Microsoft (Fleming, 2020), a personalização é mais do que um recurso, é também uma filosofia que 
+coloca o cliente no centro de tudo o que se pensa e realiza. 
+• Velocidade e Tempo Real: A comunicação web é caracterizada pela sua velocidade, com informações que são 
+transmitidas em tempo  real. Redes sociais,  blogs de notícias e plataformas de streaming exemplificam 
+esta dinâmica. Para Bill Gates (Co-fundador da Microsoft), um mundo onde a única constante é a mudança, a 
+velocidade em tempo real torna-se o diferencial competitivo mais significativo. 
+• Com esta revisão de literatura sobre web comunication exalta-se a complexidade e a evolução deste fenómeno 
+na sociedade atual. Ao analisar uma variedade de fontes, fica claro que a web communication 
+desempenha um papel fundamental na conectividade global, influenciando a forma como as pessoas 
+
+8  
+interagem, consomem informações, partilham conteúdo e  até constroem relações. Desde a criação da 
+internet até às plataformas sociais de hoje, testemunhamos uma transformação significativa na natureza da 
+comunicação, que molda a cultura, os negócios e até mesmo os processos políticos. As tendências 
+emergentes, como a ascensão das redes sociais, a disseminação de notícias falsas e a preocupação 
+com a privacidade online, destacam a necessidade contínua de pesquisa e reflexão crítica sobre as 
+implicações da web communication . 
+• A comunicação digital abrange tanto sinais analógicos como digitais, sendo necessário considerar as 
+exigências específicas de cada tipo de dado no desenvolvimento de sistemas modernos de comunicação, 
+como refere o autor: “Digital communication is used for signals that are inherently analog and continuous -
+time, such as speech and images, and signals that are inherently digital, such as text files. [...]” (John R. 
+Barry, Edward A. Lee, David G., 2003, p. 2). 
+
+9  
+ 
+2.3 SITES NA ÁREA EDUCACIONAL 
+A criação de sites direcionados para instituições educacionais e programas de pós- graduação, como o 
+PhD4Moz, tem vindo a ganhar cada vez mais importância na era digital. Estes sites são indispensáveis para disseminar 
+informações, atrair estudantes e criar uma comunidade académica mais ativa e interativa. De acordo com estudos 
+recentes, a estrutura de um site académico deve priorizar a clareza, a facilidade de navegação e a acessibilidade 
+(Preece et al., 2015). A navegação simples e com menus bem estruturados facilita o acesso rápido às 
+informações por parte do utilizador.  
+Segundo Abrahão  et al. (2017),  a experiência do utilizador em sites educacionais  deve responder a diversas 
+necessidades, desde a descoberta de conteúdo relevante até à facilitação do processo  de executar uma candidatura. 
+Um site bem projetado não só melhora a interação com os utilizadores, mas também aumenta a credibilidade e 
+a reputação da instituição/entidade . 
+
+10  
+2.4 USABILIDADE E ACESSIBILIDADE NA WEB 
+A usabilidade refere -se à facilidade com que os utilizadores conseguem navegar, encontrar e interagir com o 
+conteúdo num determinado site. Nielsen (2012) destaca que a usabilidade é 
+fundamental para garantir que os visitantes tenham uma experiência agradável e eficiente. Para  que os sites 
+educacionais ofereçam esta experiência devem incluir clareza no layout e simplificação de processos, como inscrições e 
+consultas a informações de cursos. Uma boa prática é aplicar a heurística de usabilidade de Nielsen, que orienta o  
+design de interfaces de utilizador amigáveis e intuitivas. 
+No que diz respeito à acessibilidade, a World Wide Web Consortium (W3C) é a principal entidade responsável 
+por estabelecer as diretrizes de construção de websites acessíveis a todos, incluindo pessoas com necessidades 
+especiais. As Diretrizes de Acessibilidade para o Conteúdo da Web estabelecem critérios como o uso de textos 
+alternativos para imagens, legendas para vídeos e a criação de interfaces compatíveis com leitores de ecrã 
+(W3C, 2018). Um site educacional deve ser acessível para todos os utilizadores, independentemente das 
+suas capacidades físicas ou cognitivas.  
+Ademais, projetos como o Inclusive Design for Learning (IDL) propõem que a acessibilidade seja  
+vista como uma parte integral do processo de design, ao invés de um complemento (Cooper et al., 2019). Isto 
+implica pensar nas diversas maneiras como o conteúdo pode ser percebido e interagido por diferentes tipos de 
+utilizadores desde o início do desenvolvimento. 
+ 
+ 
+2.5 DESIGN MINIMALISTA E INTERFACE DO UTILIZADOR 
+Nos últimos anos, o design minimalista tem se tornado uma tendência dominante na criação de websites 
+institucionais. O minimalismo preza pela simplicidade, tanto no visual, tanto  que respeita a interação, com o objetivo  de 
+melhorar a clareza e  a funcionalidade  do site (Krug, 2013). Esta abordagem é especialmente eficaz em sites 
+educacionais, onde a apresentação excessiva de informações pode sobrecarregar o utilizador e dificultar a 
+navegação. 
+De acordo com Norman (2013), o design minimalista reduz a "carga cognitiva" dos utilizadores, 
+permitindo que estes processem as informações de maneira mais eficiente. Elementos como a tipografia 
+limpa, o uso de espaços em branco e a hierarquia visual clara são características  centrais desse estilo. Esses 
+elementos ajudam a guiar o utilizador pelas páginas, destacando  o conteúdo mais relevante e eliminando quaisquer 
+distrações ou irrelevâncias. 
+ 
+ 
+
+11  
+2.6 FERRAMENTAS  E TECNOLOGIAS PARA CONSTRUÇÃO DE SITES 
+A utilização de Content Management Systems (CMS), como o WordPress, tem sido uma escolha popular para 
+a criação de sites educacionais devido à sua flexibilidade e escalabilidade (Williams  & Polaschek, 2015). O 
+WordPress oferece um diversificado leque de plugins e temas que permitem a personalização completa do site, desde 
+o design até à sua funcionalidade. Além disso, os CMS facilitam a atualização constante de conteúdo, o que é 
+essencial em projetos do mundo académico, como é o caso do PhD4Moz.  
+Não obstante, estudos mostram que, apesar da facilidade proporcionada pelas plataformas como o WordPress, 
+é importante seguir boas  práticas de  desenvolvimento  web para garantir que o  site seja otimizado em termos  de 
+velocidade, segurança e experiência do utlizador (Gassmann et al., 2019). Isto inclui uma escolha rigorosa de 
+plugins e a implementação de medidas de segurança para proteger dados e garantir a integridade do site.      
+
+12  
+3. DESENVOLVIMENTO DO WEBSITE 
+O desenvolvimento do site do projeto PhD4Moz envolveu várias fases, cada uma cuidadosamente 
+planeada e executada para garantir que o produto final atendesse às necessidades do projeto e oferecesse a 
+experiência de utilizador adequada. Abaixo, descrevem -se as etapas principais que nortearam o progresso do projeto. 
+3.1 O PROJETO PHD4MOZ 
+O PhD4Moz 1 é um projeto Erasmus+2 coordenado pela Escola de Medicina da Universidade 
+do Minho, em parceria com a  TecMinho, o Karolinska Institutet (Suécia)  e com o apoio voluntário da ORPHEUS, 
+além de três instituições de Moçambique: a Universidade Eduardo Mondlane, a Universidade Pedagógica de Maputo e 
+o Instituto Nacional de Saúde. Este projeto visa apoiar cerca de 150 estudantes de doutoramento,  70 orientadores e 
+20 docentes, e decorrerá entre 2023 e 2026. 
+O país tem desenvolvido esforços notáveis em criar condições para formar e reter pessoas qualificadas ao 
+mais alto nível, capazes de gerar conhecimento para ajudar a resolver os problemas de saúde do país. Esta 
+proposta, o PhD4Moz, visa promover esta capacitação em instituições moçambicanas que desempenham um 
+papel central na formação doutoral em Ciências da Saúde. Com o PhD4Moz, a experiência acumulada dos 
+parceiros europeus no desenvolvimento do ensino superior será captada e adaptada para promover uma 
+excelente formação doutoral em Ciências da Saúde em Moçambique.  
+A plataforma de aprendizagem online PhD4Moz apoiará o programa de formação e a transferência  de 
+competências, com vista a sustentar componentes de sucesso do programa. A formação melhorada para estudantes 
+e funcionários promoverá uma educação relevante e de alta qualidade, auxiliando na capacitação de estudantes de 
+doutoramento, supervisores e professores em Ciências da Saúde em Moçambique. Conforme proposto, a formação 
+também permitirá aos alunos gerir com mais competência o andamento e a conclusão do seu  doutoramento, apoiando 
+assim melhores taxas de conclusão.  
+ 
+ 
+ 
+ 
+ 
+ 
+1 O nome completo do projeto é "Fostering a sustainable platform to support  PhD training in health sciences in Mozambique", com  o acrónimo  PhD4Moz. 
+2 O Projeto está integrado no programa ERASMUS -EDU-2023-CBHE, com  ID 101128729, e é  supervisionado pela Agência Executiva Europeia  para a Educação  e Cultura  (EACEA).  O projeto  teve 
+início a 01 de novembro  de 2023 e terá a sua conclusão  a 31 de outubro  de 2026, totalizando  uma duração  de 36 meses.  
+
+13  
+Os grupos-alvo que beneficiarão diretamente do sucesso desta proposta são estudantes de doutoramento em 
+Ciências da Saúde, que desenvolvam os seus projetos de investigação em parceiros moçambicanos; instituições 
+(registadas em universidades  moçambicanas ou no estrangeiro); os seus supervisores; docentes diretamente 
+envolvidos na formação de doutoramento (os formadores europeus farão sempre parceria com professores 
+moçambicanos nas diferentes atividades de formação). 
+O projeto PhD4Moz tem um objetivo: fornecer bases de formação em competências transversais , 
+em conhecimentos disciplinares e na formação de formadores, que naturalmente  se espalharão e multiplicarão 
+pelo exemplo e pela mudança na representação de papéis. Os estudantes de doutoramento tornar -se-ão 
+orientadores no futuro; os supervisores continuarão a supervisionar; os treinadores continuarão a treinar mais 
+alunos. Como tal, a sustentabilidade e o crescimento estão incorporados no centro desta visão. 
+Os objetivos específicos do projeto são os seguintes: 
+• Formação em competências transversais: Co-organizar e ministrar 15 formações no primeiro ano 
+e 30 a partir do segundo, destinadas a cerca de 150 estudantes de doutoramento em Ciências da 
+Saúde em Maputo. 
+• Cursos em conhecimentos  disciplinares: Co-organizar e ministrar 4 cursos de formação em 
+conhecimentos disciplinares, com dois cursos repetidos, cada um com 20 vagas,  para estudantes de 
+doutoramento. 
+• Formação de supervisores: Co-organizar e ministrar formação para aproximadamente 70 supervisores de 
+doutoramento. 
+• Orientação para pares:  Implementar um programa de orientação anual para 20 pares  de estudantes de 
+doutoramento e orientadores, beneficiando um total de cerca de 60 pares ao longo do projeto.  
+Transferência de capacidades para docentes: Organizar cursos de formação em disciplinas, 
+competências transversais e supervisão, promovendo a transferência de capacidades para pelo menos 20 docentes  
+das instituições moçambicanas envolvidas.  
+ 
+ 
+3.2 OBJETIVOS 
+O presente trabalho pautou-se em seis objetivos principais que orientaram a criação do website para o 
+projeto PhD4Moz.  
+O primeiro objetivo baseia-se em desenvolver um site funcional e completo que atenda às 
+necessidades dos atuais (e futuros) beneficiários do projeto. Para isto, é essencial implementar todas as 
+funcionalidades necessárias e garantir que as mesmas sejam testadas de forma a assegurar uma navegação 
+fluida e intuitiva. Este  site visa servir como  uma plataforma de apoio à formação em Ciências da Saúde, permitindo 
+
+14  
+que os utilizadores encontrem facilmente informações relevantes sobre cursos, eventos e outro tipo de 
+oportunidades. 
+Em alinhamento  com o  primeiro, o segundo  objetivo é melhorar  a experiência do utilizador, através de um 
+design bem estruturado e minimalista. A interface deve ser fácil de usar por qualquer pessoa, independentemente 
+do seu nível de familiaridade com tecnologia. Este aspeto é crucial, pois uma boa experiência do utilizador pode 
+aumentar a satisfação e a taxa de retenção dos visitantes do site. 
+O terceiro objetivo consiste em garantir a acessibilidade e responsividade do site. É imprescindível que o 
+conteúdo seja acessível a todos os utilizadores, independentemente do dispositivo que estejam a usar ou das 
+suas condições de acessibilidade/cognitivas. Esta abordagem inclusiva assegura que o site possa alcançar um 
+público heterogéneo, promovendo a equidade na educação e no acesso à informação.  
+O quarto objetivo visa desenvolver habilidades em comunicação digital. A criação de uma página web e dos 
+conteúdos associados não só aperfeiçoa a capacidade de comunicar de forma eficaz, mas também apura a estratégia 
+digital, tornando a comunicação mais apelativa e interativa. Através  de conteúdos envolventes, o site pretende transmitir 
+claramente a missão e o propósito do projeto, estabelecendo uma conexão mais forte com o público-alvo. 
+O quinto objetivo é o desenvolvimento de competências digitais específicas, como a edição de vídeo, edição de 
+fotografia e criação de conteúdos textuais. Estas competências são essenciais no mundo digital e foram inicialmente 
+adquiridas ao longo do mestrado e posteriormente através da criação dos conteúdos para a página web, contribuindo 
+para uma prática profissional mais robusta  e alinhada com as exigências contemporâneas das humanidades 
+digitais. 
+Por último, o trabalho propõe -se realizar uma avaliação contínua do site e dos conteúdos, com o objetivo de 
+promover melhorias constantes e adaptá -los às necessidades emergentes dos utilizadores. Através da realização destes 
+objetivos, pretende-se criar um recurso valioso para o PhD4Moz e promover uma abordagem pedagógica que valoriza a 
+interatividade e a acessibilidade, refletindo as exigências contemporâneas  do ensino superior.  
+
+15  
+3.3 METODOLOGIA 
+A metodologia deste projeto estrutura -se em três componentes principais que orientaram o desenvolvimento  do site 
+do projeto PhD4Moz. Primeiro, apresento as Ferramentas  Utilizadas, onde são detalhados os recursos utilizados, desde a 
+plataforma aos plugins escolhidos. Em seguida, na Abordagem de Design e Desenvolvimento, descrevem-se as 
+fases de desenvolvimento e implementação, as práticas de acessibilidade e inclusão, a integração de conteúdos e os 
+processos de testes e verificação, essenciais para assegurar uma experiência de utilizador  não só eficiente, mas 
+também inclusiva. Por fim, em Recursos Utilizados , enumeram -se os softwares, equipamentos e o apoio da 
+equipa de colaboradores envolvidos no projeto, fundamentais para a execução das diversas etapas de criação do site. 
+ 
+3.3.1 FERRAMENTAS UTILIZADAS 
+Para garantir a eficiência, acessibilidade e qualidade do site PhD4Moz, foram selecionadas e integradas 
+ferramentas digitais que possibilitam um desenvolvimento otimizado e  uma experiência de utilizador aprimorada. 
+• WordPress: A plataforma principal escolhida para a construção do site devido à sua flexibilidade, 
+escalabilidade e facilidade de personalização, características ideais para o desenvolvimento de 
+projetos com necessidades específicas como o PhD4Moz. 
+• Plugins WordPress:  Para garantir uma experiência otimizada, vários plugins foram 
+incorporados, cada um com funcionalidades específicas para melhorar o desempenho, 
+acessibilidade e design  do site. Entre os principais, destacam -se: 
+o Smart Slider 3: Responsável pela criação de carrosséis dinâmicos, permitindo 
+destacar informações importantes e melhorar a experiência visual. 
+WP Accessibility: Implementado para assegurar que o site seja acessível a 
+todos, fornecendo funcionalidades como redimensionamento  de texto, navegação por 
+teclado, e ajustes de contraste para usuários com diferentes condições cognitivas e 
+visuais. 
+o Orbit Fox Companion: Utilizado para incrementar o design do site e adicionar 
+elementos visuais personalizados que complementam a identidade do projeto. 
+ 
+ 
+ 
+
+16  
+3.3.2 ABORDAGEM DE DESIGN E DESENVOLVIMENTO 
+A presente subsecção detalha o processo estratégico e as etapas técnicas adotadas para criar um site 
+intuitivo, acessível e visualmente atraente, atendendo às necessidades do projeto PhD4Moz e de seu público -alvo. 
+3.3.2.1 Desenvolvimento e Implementação 
+• O desenvolvimento do site foi feito a partir da personalização de um template WordPress, no qual foram 
+integrados novos componentes, como textos, plugins específicos, cores e imagens que atendem aos 
+padrões de comunicação digital. Foi adotado um design minimalista  e responsivo, garantindo que o 
+site seja visualizado de forma otimizada em diferentes dispositivos, desde computadores a  tablets e 
+telemóveis, com layout adaptado e menus de navegação intuitivos.  
+ 
+3.3.2.2 Acessibilidade e Inclusão 
+• O desenvolvimento do site foi feito a partir da customização de um template WordPress, no qual foram 
+integrados novos componentes, como textos, plugins específicos, cores e imagens  que atendem 
+aos padrões de comunicação digital. Foi adotado um design minimalista  e responsivo, garantindo 
+que o site seja visualizado de forma otimizada em diferentes dispositivos, desde computadores a 
+tablets e telemóveis, com layout adaptado e menus de navegação intuitivos.  
+ 
+3.3.2.3 Integração de Conteúdos 
+• A integração de conteúdos no site é um processo contínuo. As páginas são regularmente 
+atualizadas com informações como novos cursos, artigos, newsletters e novidades do 
+projeto. A colaboração estreita com a equipa do Instituto Nacional de Saúde de Moçambique 
+possibilita a coerência entre o conteúdo do site e as estratégias de comunicação usadas nas redes 
+sociais do PhD4Moz, promovendo uma presença digital coesa e abrangente 
+ 
+3.3.2.4. Testes e Verificação 
+Para garantir a eficácia e a acessibilidade do site, foi realizado um processo de verificação: 
+• Testes de Usabilidade: Realização de testes com utilizadores reais para verificar a eficácia da 
+navegação, a clareza da informação e a facilidade de uso do site. 
+• Testes de Acessibilidade: Utilização de ferramentas como o WAVE e o Lighthouse para garantir 
+que o site esteja em conformidade com as diretrizes de acessibilidade web ( WCAG). 
+• Correções e Otimizações: Com base no feedback obtido durante os testes, serão implementadas 
+as correções necessárias, com foco na melhoria contínua da página web. 
+
+17  
+3.4 CRONOGRAMA DAS ATIVIDADES 
+Para garantir a organização e o cumprimento dos prazos do projeto PhD4Moz, foi elaborado um cronograma 
+detalhado de reuniões com a equipa do Instituto Nacional de Saúde e a coordenação da professora  doutora 
+Margarida Correia -Neves. Estas reuniões ocorreram regularmente ao longo de 2024, de janeiro a agosto, e tiveram o 
+objetivo de alinhar etapas, ajustar o design e a estrutura do website, bem como estabelecer um fluxo de trabalho 
+colaborativo e eficiente entre os envolvidos. O cronograma abaixo reflete as principais decisões e evoluções 
+alcançadas em cada encontro, assegurando que o site se desenvolvesse conforme os objetivos estratégicos e as 
+necessidades do público -alvo. 
+ 
+Data Ata 
+• 12 janeiro 2024 • Objetivo: Apresentação  do projeto; 
+• 7 fevereiro 2024 Discussão sobre a estrutura da página web: 
+- Decisão de usar o WordPress para 
+desenvolvimento; 
+- Estabelecimento  do alojamento no INS; 
+- Definição preliminar das páginas e menus (inicial, 
+sobre o projeto, oportunidades de formação, e -
+learning, notícias, contatos, parceiros,  galeria); 
+- Planeamento de redes sociais e procedimentos de 
+atualização de conteúdo.  
+• 20 fevereiro 2024 Apresentação de protótipo no 
+Nicepage: 
+- Exibição do primeiro teste do site devido à falta de 
+domínio no WordPress;  
+- Organização do menu, incluindo: sobre o projeto,
+ notícias, formação, parceiros, contactos e redes 
+sociais; 
+ - Definição da estrutura e pedido de login para acesso ao 
+domínio alojado em Moçambique. 
+
+18  
+• 23 fevereiro 2024 Tradução e design: 
+- Tradução do site para português; 
+- Envio de imagens para revisão; 
+- Criação de guia visual com códigos de cores, 
+logótipo e tipografia.  
+• 14 março 2024 Planeamento do site no WordPress34: 
+- Esqueleto do site e disposição de conteúdos; 
+- Consulta de sites de projetos europeus para inspiração; 
+- Criação de vídeos de apresentação do projeto e 
+workshops; 
+- Receção de credenciais de acesso pelo INS. 
+• 18 março 2024 Configuração local do WordPress5: 
+- Decisão de criar uma instalação local do WordPress para 
+testes iniciais antes do lançamento online. 
+• 26 março 2024 Ajustes de desenvolvimento: 
+- Decisão final de trabalhar diretamente no domínio 
+online com as credenciais fornecidas. 
+• 9 abril 2024 Ajustes visuais e organizacionais: 
+ 
+- Definição de organização visual, criação de banner do 
+projeto e inclusão do logótipo da UE no rodapé para 
+transparência de cofinanciamento. 
+
+19  
+• 17 abril 2024 Desenvolvimento do carrossel: 
+- Implementação de carrossel para imagens de 
+notícias com o plugin Smart Slider 3.  
+• 4 junho 2024 Secção de contatos e notícias: 
+- Criação da página de contatos; 
+-Atualização de notícias sobre eventos e recolha de 
+feedback dos alunos.  
+• 11 junho 2024 Aprimoramento de contatos: 
+- Detalhamento  dos contatos institucionais; 
+-Organização da página de 
+cursos/formações. 
+• 21 junho 2024 Estrutura da página de cursos: 
+- Desenvolvimento de uma tabela organizada para exibir 
+cursos e formações.  
+• 5 agosto 2024 Finalização e revisão de conteúdo: 
+- Recolha e atualização de cursos disponíveis; 
+- Revisão e criação de flyers  promocionais dos cursos. 
+ 
+3 Wordpress https://wordpress.com/ 
+ 
+O cronograma  revela um fluxo  de trabalho colaborativo  e cuidadoso,  com etapas  de revisão constantes e 
+ajustes que garantiram a fidelidade do site ao projeto PhD4Moz. Cada reunião não apenas avançou nas tarefas 
+técnicas, como também fortaleceu a colaboração entre a equipa, assegurando que a plataforma 
+respondesse aos      
+                            
+
+20  
+objetivos de formação e divulgação de maneira eficaz e acessível. As revisões frequentes e a atenção aos detalhes, 
+como a inclusão de diretrizes  de acessibilidade e o design responsivo, demonstram o compromisso com a 
+qualidade e a relevância da   plataforma  para  o  público  moçambicano  e  internacional. 
+Para organizar e otimizar o desenvolvimento do site, o projeto foi dividido em diferentes  subgrupos de atividades, 
+cada um focado em uma etapa específica do processo. 
+ 
+1. Definição e planeamento do Projeto 
+• Apresentação e Definição Inicial do Projeto:  A equipa alinhou a visão e os objetivos principais do projeto 
+PhD4Moz, estabelecendo uma compreensão clara dos objetivos e do impacto esperado com o 
+desenvolvimento do site. 
+• Estrutura e Planeamento da Página Web: O grupo definiu a estrutura do site, incluindo a 
+organização preliminar das páginas e menus, e decidiu utilizar o WordPress como plataforma principal 
+de desenvolvimento, considerando a sua flexibilidade e recursos disponíveis. 
+ 
+2. Desenvolvimento e testes 
+• Desenvolvimento e Testes de Protótipo: Foi criado um protótipo inicial no Nicepage para visualizar a 
+estrutura básica do site, permitindo ajustes preliminares no layout e na navegação. 
+• Configuração e testes locais: O WordPress  foi configurado em ambiente local para que testes 
+iniciais pudessem ser realizados, garantindo uma plataforma de desenvolvimento segura antes do 
+lançamento oficial. 
+ 
+3. Conteúdo e design visual 
+ 
+• Tradução e Criação de Guias Visuais:  O conteúdo do site foi traduzido para português e foram criados 
+guias visuais, garantindo consistência visual e alinhamento com a identidade do projeto. 
+• Ajustes Visuais e Elementos de Transparência: Foi criado um banner do projeto, e o log ótipo da 
+União Europeia foi adicionado ao rodapé, reforçando a transparência do cofinanciamento. 
+ 
+• Desenvolvimento do Carrossel e Atualizações Visuais: A equipa implementou um carrossel interativo 
+para destacar imagens de notícias e eventos, criando um layout visualmente dinâmico e atrativo.  
+ 
+ 
+
+21  
+ 
+ 
+3.5 PLANEAMENTO INICIAL DO WEBSITE 
+A primeira fase do desenvolvimento do site focou -se na definição dos objetivos do projeto  e na identificação 
+das necessidades específicas do público-alvo. Organizaram-se reuniões entre mim, a coordenação do projeto e o 
+Instituto Nacional de Saúde de Moçambique para estabelecer  os principais elementos, a estética e a ordem de 
+trabalhos relativamente ao site. 
+Então, definiu -se que o site deveria ter um design minimalista, com fundos brancos e onde fossem priorizadas 
+as cores da bandeira de Moçambique e seria realizado na plataforma online Wordpress, com alojamento em 
+Moçambique (.mz). Além disso, a informação deveria ser disponibilizada de forma clara e com pouco texto. O site 
+deveria ser constituído pela página inicial, uma página sobre o projeto, uma página onde se encontram todas as 
+oportunidades de formação, uma página para notícias, outra para parceiros, contactos e por fim uma página com uma 
+galeria. 
+Segue o primeiro esqueleto do que seria a página do PhD4Moz: 
+
+22  
+Figura 1 - Esqueleto do Site PhD4Moz  e Legenda dos conteúdos do site PhD4Moz 
+ 
+Fonte: Elaboração  Própria 
+
+23  
+Figura 2 - Legenda dos conteúdos do Site PhD4Moz 
+ 
+Fonte: Elaboração  Própria 
+ 
+ 
+ 
+3.6 MENU PRINCIPAL E FOOTER 
+ 
+ 
+O desenvolvimento do site do PhD4Moz começou pela criação do menu principal, localizado no 
+header, que se manteve consistente em  todas as páginas do site. Este menu  foi projetado para ser totalmente 
+clicável e de fácil navegação, incluindo as seguintes secções: "Início", "O Projeto", "Formação", "Plataforma e -
+learning", "Notícias", "Contactos", "Parceiros" e "Galeria". Além disso, foram integrados ícones clicáveis para as redes 
+sociais, permitindo acesso direto ao Facebook, Linkedin, X (anteriormente conhecido como Twitter), e YouTube. 
+Segue-se uma breve descrição de cada uma dessas páginas. 
+ 
+Figura 3 - Menu do Site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+ 
+O footer do site, que também é igual em todas as páginas, foi desenvolvido com um fundo preto, proporcionando contraste em 
+relação ao restante do design. Nele, são apresentados o  e-mail de contacto oficial do PhD4Moz, permitindo que os visitantes 
+entrem em contato direto com a equipa do projeto, assim como os ícones clicáveis para  as redes sociais do PhD4Moz. 
+Além disso, é incluída uma nota indicando que o site foi criado na plataforma WordPress. 
+ 
+ 
+ 
+
+24  
+Figura 4 - Footer do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+ 
+ 
+3.7 PÁGINA INICIAL 
+ 
+Inicialmente, a página de entrada do site foi criada com uma abordagem simples e direta. O layout original 
+continha uma única imagem da equipa do projeto, servindo como destaque visual e representando a união dos 
+colaboradores. No entanto, durante o processo de desenvolvimento,  foi identificada a necessidade de tornar a página 
+inicial mais dinâmica e  atrativa, levando à adição de um carrossel interativo. 
+Implementação do Carrossel: O carrossel foi introduzido posteriormente, e ficou com o logótipo do 
+PhD4Moz em destaque no primeiro slide, reforçando a identidade visual do projeto, uma vez  que o logótipo é a 
+"cara" do PhD4Moz. O segundo  slide foi projetado para servir como um “apelo” aos visitantes. Ainda no carrossel, 
+surgem flyers que destacam eventos importantes como o anúncio de novas notícias ou abertura de inscrições para 
+cursos oferecidos  pelo PhD4Moz.  O carrossel foi criado através da implementação do plugin Smart Slider. 
+               
+
+25  
+Figura 5 - Logótipo PhD4Moz do carrossel da página inicial 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+ 
+Figura 6 - Carrossel da página inicial do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Ainda na página inicial, foi inserida uma secção com uma breve apresentação das áreas de atuação do 
+PhD4Moz, ilustrando os cursos e workshops disponíveis. 
+
+26  
+Figura 7 - As áreas de atuação do PhD4Moz 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Após a introdução às oportunidades de formação, a página inicial apresenta uma grade de notícias onde 
+constam os artigos mais recentes relacionados com o projeto. Esta estrutura foi pensada para manter o público 
+atualizado sobre as novidades do PhD4Moz, fazendo todo o sentido estar na página inicial. 
+Figura 8 - Grelha de Notícias na página inicial do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+ 
+ 
+ 
+ 
+
+27  
+Logo a seguir, surge um carrossel de fotografias integrado para apresentar imagens dos cursos realizados, 
+bem como fotografias dos alunos que participaram, no sentido de 
+humanizar (e credibilizar) o site e transmitir a realidade dos cursos e dos eventos promovidos, bem como 
+transmitir motivação aos futuros  alunos. 
+ 
+Figura 9 - Fotografias da galeria carrossel, na página inicial do PhD4Moz 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+ 
+Figura 10 - Fotografias da galeria carrossel, na página inicial do PhD4Moz 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Posteriormente, vem uma parte importante da página inicial. Depois do carrossel de imagens, tem -se 
+uma frase em destaque da Professora doutora  Margarida Correia -Neves, coordenadora do projeto, que resume a 
+
+28  
+essência do PhD4Moz e seu impacto na formação de doutorandos em Moçambique, colocada  de forma a reforçar 
+a credibilidade do projeto e a  torná-lo mais pessoal. 
+ 
+Figura 11 - Frase em destaque da professora doutora Margarida Correia-Neves na página inicial do site PhD4Moz 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Por fim, foi incluída uma secção dedicada ao  feedback de alunos que já participaram nos cursos  oferecidos 
+pelo PhD4Moz. Este testemunho de ex-alunos vem validar a eficácia dos cursos e fortalecer a confiança dos novos 
+estudantes que consideram inscrever-se. 
+Figura 12 - Feedback dos Alunos do Phd4Moz, na página inicial 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Antes do footer, o site exibe uma secção dedicada aos  logos de todos os  parceiros do projeto. Além disso, é 
+incluído um disclaimer referente ao cofinanciamento europeu, destacando o suporte da União Europeia no 
+desenvolvimento das iniciativas promovidas pelo PhD4Moz. Esta menção não só garante a transparência sobre as  
+ 
+
+29  
+ fontes de financiamento, como também dá credibilidade adicional ao projeto ao associá -lo a uma entidade 
+internacional de prestígio. 
+ 
+Figura 13 - Logótipos dos parceiros do projeto PhD4Moz, na página inicial do PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+30  
+3.8 O PROJETO 
+A página "O Projeto" foi criada no sentido de fornecer uma visão abrangente sobre o PhD4Moz, 
+apresentando de forma clara e objetiva todas as informações essenciais sobre o projeto. Esta página está estruturada 
+para explicar no que consiste  o projeto, qual o público-alvo e quais os objetivos do PhD4Moz. 
+Figura 14 - Página "O Projeto" do site PhD4Moz 
+ 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+31  
+3.9 FORMAÇÃO 
+ 
+A página "Formação" apresenta uma tabela com todos os cursos oferecidos pelo PhD4Moz, no 
+ano letivo corrente. Esta secção foi  organizada para permitir  que os alunos identifiquem facilmente as 
+oportunidades disponíveis, ou que ainda existirão, bem como as respetivas datas. 
+ 
+Figura 15 - Página "Formação" do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+32  
+3.10 PLATAFORMA E-LEARNING 
+A página "Plataforma e -learning6" no menu principal do site é, na verdade, um link direto que redireciona os 
+visitantes para a plataforma e-learning do PhD4Moz. Não possui qualquer tipo de conteúdo próprio no site, 
+funcionando apenas como um atalho para a plataforma de aprendizagem. 
+ 
+Figura 16 - Página da Plataforma E-learning do Projeto PhD4Moz 
+ 
+Fonte: Retirado da página e-learning referente ao projeto PhD4Moz 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 Plataforma e-learning do projeto: https://phd4moz.labdigital-tecminho.net/ 
+
+33  
+3.11 NOTÍCIAS 
+A página "Notícias" contém uma lista de todas as atualizações e novidades relacionadas ao PhD4Moz. 
+Cada notícia publicada possui um corpo de texto e uma imagem de destaque associada, que são apresentadas 
+tanto nesta página como na página inicial do site, como descrito acima. Nesta secção, são partilhadas informações sobre  
+novos cursos, formações e outras notícias relevantes para o público do projeto, permitindo que os visitantes 
+acompanhem o desenvolvimento do mesmo, bem como as atividades mais recentes.  
+ 
+Figura 17 - Exemplo 1 de uma notícia da página “Notícias”, do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+34  
+Figura 18 - Exemplo 2 de uma notícia da página "Notícias" 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+Para as notícias do website sobre a criação dos cursos de “Comunicação e Divulgação Científica”  e “Boas 
+Práticas Clínicas”, foram elaborados os seguintes flyers utilizando o Canva: 
+Figura 19 – Flyer da Notícia relativa à abertura de inscrições para o curso de Comunicação e Divulgação Científica, no site do PhD4Moz 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+ 
+
+35  
+Figura 20 – Flyer da Notícia relativa à abertura de inscrições para o curso de  Boas Práticas Clínicas, no site do PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+36  
+3.12 CONTACTOS 
+A página "Contactos" apresenta, como indica, o contacto de cada representante dos parceiros  
+envolvidos no projeto PhD4Moz. Esta secção foi  organizada de forma a permitir  uma comunicação direta com as 
+diferentes entidades parceiras, facilitando o acesso a informações e o estabelecimento de colaborações  com o projeto. 
+ 
+Figura 21 – Página de Contactos do site PhD4Moz 
+ 
+ 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+37  
+3.13 PARCEIROS 
+A página "Parceiros" destaca as entidades que colaboram com o PhD4Moz, nomeadamente a 
+Universidade do Minho, a Universidade Eduardo Mondlane, a Universidade Pedagógica de Maputo, O Karolinska 
+Institutet, a TecMinho , o Instituto Nacional de Saúde e, não menos importante, o ORPHEUS, como parceiro 
+associado. 
+A página apresenta os logótipos de cada parceiro, clicáveis, redirecionando para as páginas oficiais 
+que lhes pertencem.  
+ 
+Figura 22 – Página de Parceiros do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+38  
+3.14 GALERIA 
+A página "Galeria" do site PhD4Moz contém os vídeos com feedback dos participantes dos cursos, e 
+estão apresentados através de links que redirecionam para o YouTube oficial do projeto. Estes vídeos oferecem uma 
+visão direta das experiências e opiniões dos alunos sobre as formações e iniciativas do projeto. Esta galeria cumpre 
+ainda o papel de humanizar o projeto e de atrair novos interessados ao compartilhar os resultados e o impacto das 
+formações promovidas 
+ 
+Figura 23 - Página de Feedback/Galeria  do site PhD4Moz 
+ 
+Fonte: Retirado do website PhD4Moz 2024 
+
+39  
+3.15 IMAGENS INTEGRAIS DAS PÁGINAS DO WEBSITE 
+ 
+Após a descrição detalhada de cada uma das páginas do website do PhD4Moz — analisadas individualmente e por 
+secções específicas —, apresentam -se, em seguida, as imagens integrais de cada uma d as páginas. Esta apresentação tem 
+como objetivo proporcionar uma visualização global e contínua da estrutura e do design final de cada página, permitindo 
+compreender de forma mais clara a organização dos conteúdos, a navegação e a coerência visual do website enquanto produto 
+completo. 
+ 
+Em primeiro lugar, a Figura 24 apresenta a visualização integral da página inicial do website do 
+projeto PhD4Moz, permitindo observar a totalidade dos elementos gráficos e informativos nela 
+incluídos, bem como a sua disposição e hierarquia visual no ecrã.
+
+40  
+Figura 24 - Página Inicial integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+41  
+A Figura 25 apresenta a visualização integral da página “O Projeto”, tal como se encontra estruturada no website do PhD4Moz. Trata-
+se de uma página predominantemente textual, onde são apresentados o enquadramento geral do projeto, os seus objetivos e o púb lico-alvo a que 
+se destina. A imagem permite observar a disposição sequencial dos conteúdos e a forma como o texto é organizado graficamente para favorecer 
+a leitura e a compreensão da informação institucional.  
+ 
+Figura 25 - Página “O Projeto” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+42  
+ A Figura 26 apresenta a visualização integral da página “Formação”, tal como disponível no website do projeto PhD4Moz. 
+Esta secção reúne, sob a forma de tabela, a oferta formativa prevista para o ano de 2024, permitindo identificar de forma cla ra as 
+diferentes ações de formação, respetivas datas e outras informações relevantes. A imagem permite ainda observar a forma como os 
+dados foram organizados visualmente para facilitar a consulta pelos utilizadores. 
+Figura 26 - Página “Formação” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+ 
+
+43  
+ A Figura 27 apresenta a visualização integral da página “Notícias” do website do projeto PhD4Moz. Esta secção agrega todas 
+as notícias publicadas no âmbito do projeto, permitindo acompanhar de forma cronológica e organizada os principais eventos, 
+formações, atividades e outras atualizações relevantes. A imagem permite observar a disposição dos conteúdos noticiosos, bem como a 
+estrutura visual adotada para facilitar a navegação e a leitura por parte dos utilizadores 
+Figura 27 - Página “Notícias” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+44  
+ A Figura 28 apresenta a visualização integral da página “Contactos” do website do projeto PhD4Moz. Esta secção 
+disponibiliza os contactos institucionais dos representantes de cada uma das entidades parceiras do projeto, organizados de forma clara 
+e acessível. A imagem permite observar a disposição dos elementos informativos, bem como a forma como a informação de contact o é 
+estruturada para facilitar a comunicação com os diferentes interlocutores envolvidos na iniciativa. 
+Figura 28 - Página “Contactos” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+45  
+ Na Figura 29, é apresentada a imagem integral da página "Parceiros" do site do projeto PhD4Moz. Esta página foi concebida 
+para destacar e reconhecer as entidades que colaboram com o projeto, proporcionando uma visão clara das parcerias estabelecid as. 
+Nela, são exibidos os log ótipos de cada parceiro, acompanhados por uma breve descrição de sua contribuição e envolvimento no 
+projeto. Cada logotipo é interativo, ou seja, clicável, permitindo que os visitantes acessem diretamente os sites oficiais das organizações 
+parceiras para mais informações. Essa estrutura não só valoriza as parcerias como também oferece aos visitantes uma navegação  
+facilitada e acessível aos recursos online dos colaboradores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+46  
+Figura 29 - Página “Parceiros” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+47  
+ Por fim, na Figura 30 , exibe -se a imagem integral da página "Galeria" retirada do website do projeto PhD4Moz. Esta página foi 
+projetada para partilhar e divulgar os testemunhos dos participantes do projeto, oferecendo uma visão mais pessoal e autêntic a das experiências 
+vividas. Os vídeos, que são links diretos para o canal oficial do projeto no YouTube, apresentam depoimentos valiosos que des tacam o impacto e 
+a relevância das ações do PhD4Moz. A inclusão des tes vídeos não só proporciona uma maneira interativa e dinâmica de apresentar o conteúdo, 
+mas também reforça a transparência e o engajamento com o público, permitindo que os visitantes do site interajam facilmente o material 
+audiovisual produzido ao longo do projeto. 
+ 
+Figura 30 - Página “Galeria” integral do site PhD4Moz 
+ 
+Fonte: Site PhD4Moz 
+
+48  
+4. CONSIDERAÇÕES  FINAIS 
+O presente projeto curricular, integrado no Mestrado em Humanidades Digitais, revelou-se uma experiência 
+não só enriquecedora, mas também desafiadora. Este projeto culminou na criação do site do PhD4Moz, um 
+processo que envolveu um conjunto diversificado de competências essenciais, incluindo planeamento 
+estratégico, colaboração interdisciplinar e a utilização de diversas ferramentas digitais para desenvolver uma 
+plataforma funcional e intuitiva. Desde a fase inicial de conceção até à implementação final, o objetivo foi proporcionar 
+um espaço digital acessível que facilite a comunicação e interação entre a instituição e os estudantes do projeto. 
+Durante o desenvolvimento da página web, tive a oportunidade de aplicar conhecimentos teóricos  e práticos 
+adquiridos ao longo da licenciatura em Línguas e Literaturas Europeias e do mestrado em Humanidades Digitais. 
+Isso incluiu desde a elaboração de conteúdos informativos até  ao design do site, permitindo uma experiência 
+prática valiosa que complementa a formação académica. O site PhD4Moz cumpre o seu propósito de ser um 
+recurso digital atualizado, minimalista e eficaz, capaz de divulgar o programa de formações, facilitar o 
+processo de candidatura a novos cursos e manter os utilizadores informados sobre eventos e novidades 
+relevantes. A manutenção contínua e as futuras atualizações garantirão que o site se mantenha relevante e eficiente 
+a longo prazo. 
+Com o envolvimento neste projeto e o lançamento  do site PhD4Moz, foi -me atribuída uma bolsa de 
+investigação, que permitirá o desenvolvimento contínuo do projeto ao longo de seis meses. O foco estará em 
+aprimorar o trabalho já realizado, introduzir novas funcionalidades e expandir  a oferta de conteúdos, assegurando 
+que o site evolua constantemente e se adapte às necessidades dos utilizadores. Este apoio financeiro é um 
+reconhecimento do trabalho realizado e permitirá a implementação  de melhorias significativas.  
+Uma das prioridades será tornar o site bilíngue e garantir que funcione  de forma eficaz em ambas as línguas 
+(português e inglês). Esta funcionalidade bilíngue será continuamente revista e atualizada, de modo a garantir que todos 
+os conteúdos estejam corretamente traduzidos e que a navegação seja igualmente intuitiva para falantes de ambas as 
+línguas. A expansão dos conteúdos nas duas línguas também será uma prioridade, com o objetivo de tornar o site 
+mais acessível a uma audiência internacional, uma vez que atualmente está publicado apenas em português. 
+
+49  
+Além disso, será fundamental assegurar que o site seja responsivo, ou seja, que mantenha uma aparência 
+adequada e funcional em todos os navegadores e dispositivos. Neste momento, a visualização pode  variar consoante o 
+tamanho do ecrã ou o navegador utilizado, como  Google Chrome ou Firefox. Para resolver este problema, serão 
+realizados testes de compatibilidade e ajustes no design, garantindo que a página seja responsiva e mantenha a sua 
+integridade visual, independentemente do dispositivo de acesso.  
+O design e  a apresentação visual  do site também passarão por  melhorias regulares.  Estão previstas 
+atualizações contínuas dos conteúdos, incluindo a inclusão de novas imagens e vídeos, sem comprometer o design 
+minimalista e objetivo que caracteriza o projeto. Além disso, uma das responsabilidades  será a análise de dados  do site, 
+utilizando o  Google Analytics para monitorizar  o desempenho e compreender  melhor o comportamento dos  
+visitantes. A análise de métricas, como o número de visitantes e as páginas mais  procuradas, permitirá identificar 
+áreas de melhoria  e ajustar a estratégia de conteúdo de forma eficaz. 
+Com o suporte da bolsa de investigação, será possível realizar este trabalho contínuo, garantindo que o 
+site PhD4Moz se mantenha uma plataforma atualizada, acessível e alinhada com as necessidades do programa, tanto a 
+nível nacional como internacional. Além disso, p ara garantir uma disseminação mais abrangente e multimodal do projeto, 
+recorrer-se-á a canais de comunicação digital, como as redes sociais e o canal de Youtube do projeto. 
+Este projeto não só representa um avanço significativo na formação em Ciências da Saúde em Moçambique, 
+mas também uma oportunidade para o desenvolvimento pessoal e profissional, contribuindo para a criação de um 
+futuro mais promissor na área das Humanidades Digitais. 
+
+50  
+5. REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+Abrahão, S., Loureiro, P., & Gomes, J. (2017).  User Experience in Educational Websites: Principles  and 
+Practices. Educational Technology Journal, 34(2), 54-67. 
+Ahmed Mohammed Ahmed, et al. (2016).  Digital communication involves the transmission of information in 
+digital form from a source that generates the information to one or more destination. International  Journal of Computer 
+Science and Mobile Computing, 5(1), 183-190. 
+Disponível em: https://www.researchgate.net/profile/Hazim- 
+Abed/publication/298798721_The_Impact_of_Digital_Communication_on_Social_Networks_A 
+_Review/links/56ec489108ae4b8b5e7332ac/The-Impact-of-Digital-Communication-on-Social-  Networks-A-
+Review.pdf 
+Baker, S., & McKenzie, L. (2016). The Impact of Social Media on Content Sharing: A Study of Blogs and Vlogs. 
+Journal of Business Research, 69(9), 3494-3501. DOI: https://doi.org/10.1016/j.jbusres.2016.04.005 
+ 
+Barry, J. R., Lee , E. A ., & Messerschmitt, D. G. (2004). Digital communication  (3rd ed.). 
+Springer. 
+https://books.google.pt/books?id=NNd5BgAAQBAJ 
+Bennett, W. L., & Segerberg, A. (2013). The logic of connective action: Digital media and the personalization of 
+contentious politics. Information, Communication & Society, 16(1), 39-60. Disponível em: 
+https://www.researchgate.net/publication/287393379_The_logic_of_connective_action_Digital 
+_media_and_the_personalization_of_contentious_politics 
+ 
+Cerf, V. G.  (2019, March 18). Misinformation and the responsibility of digital platforms . Center for 
+Teaching & Learning Journal.  
+https://ctlj.colorado.edu/wp-content/uploads/2019/03/1-Cerf_3.18.19.pdf 
+Cook, D.A., Dupras, D.M. A practical guide to developing  effective web-based learning. J  GEN INTERN MED 19, 698 –
+707 (2004). https://doi.org/10.1111/j.1525 -1497.2004.30029.x  
+Cooper, A., Reimann, R., & Cronin , D. (2019). Inclusive Design for Learning: Building Accessible Educational 
+Platforms. Interaction Design Journal, 45(3), 101-119. 
+ 
+Conferência FORGES. (2020). Transformação digital no ensino superior: desafios e contradições . 
+Repositório Aberto UAB.  
+Disponível em https://repositorioaberto.uab.pt/entities/publication/92b43a07-d779-42fe-8c18-
+4b277372b4b5. 
+ELT  Journal,  Volume  76,  Issue  4,  October  2022,  Pages  551–554, 
+https://doi.org/10.1093/elt/ccac028 
+ 
+E-learning PhD4Moz (2024). Plataforma E-Learning do projeto PhD4Moz. Disponível em: 
+https://phd4moz.labdigital-tecminho.net/. 
+
+51  
+ 
+Fleming, L. (2020). Satya Nadella: Leading Microsoft’s growth. SAGE Business Cases. 
+https://sk.sagepub.com/cases/embed/satya-nadella-leading-microsofts-growth 
+Gassmann, R., Leung, T., & Wanner, F. (2019) . Optimizing CMS -based Websites: Performance, 
+Security, and Scalability. Web Development Quarterly,  28(1), 23-45. 
+Google Scholar. Disponível em: https://scholar.google.com/ 
+Henning, A., Silva, J., & Costa, R. (2025). O impacto da inteligência artificial no papel dos 
+professores: desafios e perspectivas. IOSR Journal of Business and Management, 27(2), 52-56. 
+Disponível em https://www.iosrjournals.org/iosr-jbm/papers/Vol27-issue2/Ser-4/H2702045256.pdf. 
+ 
+Jibril, A., Ruqayya, R., & Bashir, A. S. (2023). Digital communication. Disponível em 
+https://www.researchgate.net/publication/371531206_Digital_Communication 
+Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities of 
+Social Media. Business Horizons, 53(1), 59-68. DOI: https://doi.org/10.1016/j.bushor.2009.09.003 
+Krug, S. (2013). Don't Make Me Think: A Common Sense Approach to Web Usability (3ª ed.). New Riders. 
+Nielsen, J. (2012). Usability Engineering. Morgan Kaufmann. 
+Norman, D. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books. 
+Overit. (2024). How User-Centered Design Can Improve Your Brand. Disponível em: https://overit.com 
+Pérez-López, M. C., & de la Torre -Ruiz, J. M. (2021). The impact of  social media marketing on business 
+performance. Journal of Business Research, 123, 369 -376. DOI: 
+https://doi.org/10.1016/j.jbusres.2020.09.027 
+PhD4Moz. (2024). Website oficial do projeto PhD4Moz. Disponível em: 
+https://www.phd4moz.ins.gov.mz/. 
+
+52  
+Preece, J., Rogers, Y., & Sharp, H. (2015).  Interaction Design: Beyond Human -Computer Interaction. Wiley. 
+Revista Nupem. (2020). Transformação digital na Educação Superior: modos e impactos na 
+universidade. Academia.edu. Disponível em:  
+https://www.academia.edu/44719100/Transforma%C3%A7%C3%A3o_digital_na_Educa%C3%A
+7%C3%A3o_Superior_modos_e_impactos_na_universidade 
+Rof, A., Bikfalvi, A., & Marques, P. (2022). Pandemic-Accelerated Digital Transformation of a Born Digital Higher 
+Education Institution:  Towards a Customized  Multimode Learning Strategy. Educational Technology & Society , 
+25(1), 124-141. Disponível em: https://eric.ed.gov/?id=EJ1335997 
+Santos, C., et al. (2023) . Transição/Transformação digital no ensino superior: análise de 
+documentos oficiais no contexto europeu e português. ResearchGate. Disponível em 
+https://www.researchgate.net/profile/Cassio-Santos-
+2/publication/368246336_TransicaoTransformacao_digital_no_ensino_superior_analise_de_d
+ocumentos_oficiais_no_contexto_europeu_e_portugues_Digital/links/63de0bb064fc86063815
+bab2/Transicao-Transformacao-digital-no-ensino-superior-analise-de-documentos-oficiais-no-
+contexto-europeu-e-portugues-Digital.pdf. 
+ 
+SciELO Brasil. (2024 ). Usos das Tecnologias da Informação e Comunicação no ensino superior 
+durante a pandemia da COVID -19. SciELO Brasil. Disponível em 
+https://www.scielo.br/j/edur/a/psrnFVYprYZZHyVqCKwhjdL/. 
+TecMinho. (2023). TecMinho - Associação Universidade-Empresa para o Desenvolvimento. Disponível em: 
+https://www.tecminho.uminho.pt/ . 
+U.S. Department of Education. (2020). COVID-19 and the Transition to Online Learning: Lessons Learned from 
+the Spring 2020 Experience . https://www.ed.gov/coronavirus  
+Wang, C., & Zhang, C. (2012).  The impact of online social networking on small businesses. International 
+Journal of Information Management, 32(6), 534 -540. DOI: 
+https://doi.org/10.1016/j.ijinfomgt.2012.02.005 
+ 
+Wang, Y., & Wang,  C. (2019) . The impact of social  media on the marketing of small and medium-sized 
+enterprises (SMEs). Journal of Business Research , 104, 237 -245. DOI: 
+https://doi.org/10.1016/j.jbusres.2019.07.016 
+World Economic Forum. (2023). COVID-19 has accelerated the digital transformation of higher education. 
+Disponível em: https://www.weforum.org  
+World Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 
+Disponível em: https://www.w3.org/TR/WCAG21/
+
+53

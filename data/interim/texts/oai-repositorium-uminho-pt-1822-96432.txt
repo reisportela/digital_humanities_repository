@@ -1,0 +1,2287 @@
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+Ricardo de Castro Guimarães 
+ 
+App de Realidade Aumentada para 
+Museus | Design da interface 
+gráfica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outubro de 2024 
+App de Realidade Aumentada para Museus | 
+Design da interface gráfica Ricardo Guimarães UMinho | 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ricardo de Castro Guimarães  
+ 
+App de Realidade Aumentada para Museus | Design 
+da interface gráfica 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Estágio 
+Mestrado Em Humanidades Digitais 
+ 
+Trabalho efetuado sob a orientação do Professor 
+Carlos Filipe da Silva Portela  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outubro de 2024 
+
+
+ii 
+ 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+ 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras e 
+boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos conexos. 
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada. 
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não 
+previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da Universidade 
+do Minho. 
+ 
+Licença concedida aos utilizadores deste trabalho 
+ 
+ 
+ 
+Atribuição-NãoComercial-SemDerivações  
+CC BY-NC-ND  
+ 
+https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+iii 
+ 
+AGRADECIMENTOS 
+ 
+Em primeiro lugar, gostaria de agradecer à professora Sílvia Lima Gonçalves Araújo pela 
+incondicional ajuda na obtenção do presente estágio, quer pelo acompanhamento administrativo e legal, 
+quer pelo primeiro contacto que estabeleceu com o Museu Arqueológico D. Diogo de Sousa para que se 
+pudesse criar este projeto colaborativo. 
+ 
+Em segundo lugar, gostaria de agradecer ao professor orientador Carlos Filipe da Silva Portela pela 
+sua contribuição no desenvolvimento do meu design da aplicação móvel, não só com correções ou 
+sugestões de melhoria, como também pela correção e melhoria do presente relatório de estágio. 
+ 
+Um agradecimento especial do coração a todos os técnicos superiores do museu que tornaram este 
+estágio curricular numa viagem de descobertas e aprendizagens, principalmente ao Óscar Santos por ter 
+aguentado as inúmeras perguntas que lhe colo cava todos os dias e por me ter dado os conhecimentos 
+equivalentes a uma licenciatura em Arqueologia em apenas cinco meses. À Margarida Lima e Carina 
+Rodrigues por terem partilhado o seu local de trabalho comigo e por terem ajudado com as dúvidas 
+pontuais que pudessem surgir. Ao Manuel Santos por ter emprestado o estúdio fotográfico do museu, 
+pela sua ajuda na composição do cenário fotográfico e pelas inúmeras conversas que tinha comigo 
+sempre que tinha 5 minutos do seu dia livre. À Clara Lobo por providenciar os objetos do espólio do 
+museu para scan e pelas aprendizagens que me transmitiu sobre as mesmas. À Felismina Boas pela 
+ajuda na gestão e correções feitas nos servidores-arquivo do museu, e pelas interessantíssimas conversas 
+que teve comigo. Por fim às Drª Alexandra Lima e Drª Maria José que, como entidades diretoras do 
+museu, permitiram que este estágio acontecesse no museu e pela aprovação final do meu design. Serão 
+todos uma família que para sempre carregarei no meu coração. 
+ 
+Por fim, dedico também um enorme agradecimento à minha namorada Daniela , pelo 
+companheirismo e ajuda providenciada não só durante o estágio  curricular como na elaboração deste 
+relatório final. 
+ 
+ 
+ 
+ 
+
+iv 
+ 
+DECLARAÇÃO DE INTEGRIDADE 
+ 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo que não 
+recorri à prática de plágio nem a qualquer forma de utilização indevida ou falsificação de informações ou 
+resultados em nenhuma das etapas conducente à sua elaboração.  
+ 
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do Minho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+v 
+ 
+RESUMO 
+ 
+O presente relatório de estágio curricular integra -se no segundo semestre do segundo ano do 
+Mestrado em Humanidades Digitais da Universidade do Minho, tendo este sido realizado junto do Museu 
+Arqueológico D. Diogo de Sousa sob a orientação interna do Técnico Superior de Gestão de Coleções e 
+Arquivo, Óscar Santos, por um período de três meses, compreendidos entre 2 de fevereiro e 30 de abril 
+de 2024, sendo que o mesmo teve de ser posteriormente estendido por mais dois meses, tendo acabado 
+no dia 30 de junho, perfazendo cinco meses. 
+O objetivo fundamental deste projeto foi a aplicação das competências, conceitos e conhecimentos 
+adquiridos na vertente da unidade curricular de Interfaces Web, e Análise e Visualização de Dados do 
+presente mestrado, na criação de um design para uma aplicação móvel que consistiria numa integração 
+de realidade aumentada através de uma aplicação móvel no contexto do museu onde ocorreu o estágio. 
+Para tal, foi criado um protótipo de design, realizado num contexto de trabalho em equipa, seguindo 
+uma metodologia de gestão de projetos híbrida entre Agile e Waterfall, o que permitiu estabelecer uma 
+estrutura clara e organizada, característica da metodologia Waterfall, enquanto manteve a flexibilidade 
+necessária devido à inexperiência da equipa e à natureza inédita do projeto, algo que a metodologia Agile 
+proporciona. 
+Ao longo do projeto, foram desenvolvidos quatro protótipos de design, sendo o último aprovado e 
+entregue. Adicionalmente, foram realizadas tarefas complementares que resultaram na criação de 11 
+modelos 3D de alta qualidade dos objetos do museu, 298 fotografias em alta resolução dos mesmos, e 
+na correção de cerca de 20 ficheiros armazenados no servidor-arquivo. 
+ 
+Palavras-chave: Design de aplicações, UX/UI, Aplicação Móvel, Realidade Aumentada, Museus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vi 
+ 
+ABSTRACT 
+ 
+This curricular internship report is part of the second semester of the second year of the Master's 
+Degree in Digital Humanities at the University of Minho. It took place at the D . Diogo de Sousa 
+Archaeological Museum under the internal guidance of Senior Collections and Archive Management 
+Technician, Óscar Santos, for a period of three months, between February 2nd and April 30th, 2024, which 
+had to be extended for another two months, ending on June 30th, 2024, totaling in at five months. 
+The fundamental objective of this project was to apply the skills, concepts and knowledge acquired 
+in curricular unit of Interfaces Web, and Análise e Visualização de Dados of the master's degree, to create 
+a design for a mobile app that would consist of integrating augmented reality through a mobile app in the 
+context of the museum where the internship took place. 
+To this effect, a design prototype was created, carried out in a context of teamwork following a hybrid 
+project management methodology between Agile and Waterfall, which made it possible to establish a 
+clear and organized structure, characteristic of the W aterfall methodology, while maintaining the 
+necessary flexibility due to the inexperience of the team and the unprecedented nature of the project, 
+something that the Agile methodology provides. 
+Over the course of the project, four design prototypes were developed, the last of which was approved 
+and delivered. In addition, complementary tasks were carried out which resulted in the creation of 11 
+high-quality 3D models of the museum's objects, 298 high-resolution photographs of them, and the 
+correction of around 20 files stored on the archive server. 
+ 
+Keywords: App Design, UX/UI, Mobile Application, Augmented Reality, Museums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+vii 
+ 
+ÍNDICE 
+ 
+I. Introdução  ........................................................................................................... 1 
+1.1      Estrutura do relatório  ...................................................................................... 2 
+1.2      Entidade de acolhimento  ................................................................................. 3 
+1.3      Objetivos  ........................................................................................................ 4 
+II. Enquadramento teórico  ........................................................................................ 5 
+III. Metodologia  ......................................................................................................... 9 
+3.1      Ferramentas e recursos  .................................................................................. 12 
+3.2      Planeamento  .................................................................................................. 14 
+IV. Desenvolvimento do protótipo visual  ..................................................................... 18 
+4.1      Identidade  ...................................................................................................... 19 
+      4.1.1      Logótipo da aplicação  ............................................................................ 19 
+      4.1.2      Tipo de letra da aplicação  ...................................................................... 23 
+      4.1.3      Paleta de cores  ...................................................................................... 24 
+4.2      Esquema-esqueleto Canva  .............................................................................. 26 
+4.3      Protótipo Figma  .............................................................................................. 28 
+      4.3.1      Versão 1  ................................................................................................ 30 
+      4.3.2      Versão 2  ................................................................................................ 32 
+      4.3.3      Versão 3  ................................................................................................ 35 
+      4.3.4      Versão 4  ................................................................................................ 37 
+4.4      Tarefas adicionais  ........................................................................................... 45 
+      4.4.1      Recolha de modelos 3D por scanner  ...................................................... 45 
+      4.4.2      Recolha de modelos 3D por fotogrametria  .............................................. 47 
+      4.4.3      Fotografias de alta resolução de 360º dos objetos  .................................. 48 
+      4.4.4      Correções de informações no servidor-arquivo  ....................................... 49 
+V. Conclusão ............................................................................................................ 51 
+5.1      Análise SWOT  ................................................................................................. 51 
+5.2      Considerações Finais  ...................................................................................... 52 
+5.3      Trabalho Futuro  .............................................................................................. 55 
+Referências Bibliográficas  ................................................................................................. 56 
+Anexos  ............................................................................................................................. 57 
+Anexo 1 ................................................................................................................ 57 
+
+viii 
+ 
+ÍNDICE DE TABELAS 
+ 
+Tabela 1 – Ferramentas e aplicações utilizadas no estágio ................................................... 12 
+Tabela 2 – Tarefas realizadas durante o estágio e a respetiva descrição  ............................... 18 
+Tabela 3 – Possíveis tipos de letra para a aplicação  ............................................................. 24 
+Tabela 4 – Ecrãs da primeira versão do protótipo Figma  ...................................................... 31 
+Tabela 5 – Ecrãs da segunda versão do protótipo Figma ...................................................... 34 
+Tabela 6 – Ecrãs da terceira versão do protótipo Figma  ....................................................... 36 
+Tabela 7 – Ecrãs da versão final do protótipo Figma  ............................................................ 40 
+Tabela 8 – Carrossel da página da informação da versão final do protótipo Figma ................ 42 
+Tabela 9 – Assistentes de interação da versão final do protótipo Figma  ................................ 43 
+Tabela 10 – Resumo evolutivo das iterações do protótipo  .................................................... 43 
+Tabela 11 – Material gerado durante as tarefas adicionais e a sua finalidade  ....................... 45 
+Tabela 12 – Ecrãs da aplicação ao longo das versões ........................................................... 51 
+Tabela 13 – Ecrãs da aplicação ao longo das versões ........................................................... 51 
+Tabela 14 – Tabela de mapeamento dos objetivos do projeto e o respetivo resultado ............ 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ix 
+ 
+ÍNDICE DE FIGURAS 
+ 
+Figura 1 – Fluxograma simples da interdependência do projeto (elaboração própria)  .............. 2 
+Figura 2 – Flowchart do trabalho e metodologia híbrida (elaboração própria)  ....................... 11 
+Figura 3 – Linha temporal dos momentos chave do estágio (elaboração própria)  ................. 14 
+Figura 4 – Diagrama de Gantt (elaboração própria)  ............................................................. 15 
+Figura 5 – Matriz de avaliação de risco (elaboração própria)  ................................................ 16 
+Figura 6 – Primeiro sketch desenhado à mão (elaboração própria)  ...................................... 20 
+Figura 7 – Segundo sketch desenhado à mão (elaboração própria) ....................................... 21 
+Figura 8 – Conversão do segundo sketch para imagem (elaboração própria)  ....................... 21 
+Figura 9 – Primeiro logótipo criado pelo ChatGPT da OpenAI  ............................................... 21 
+Figura 10 – Segundo logótipo criado pelo ChatGPT da OpenAI  ............................................ 22 
+Figura 11 – Ícone final da aplicação “MITO” (elaboração própria) ........................................ 23 
+Figura 12 – Logótipo final da aplicação “MITO” (elaboração própria) .................................... 23 
+Figura 13 – Paleta de cores digital utilizada pelo museu (elaboração própria) ....................... 25 
+Figura 14 – Esquema-esqueleto Canda para a aplicação (elaboração própria)  ..................... 26 
+Figura 15 – Modelo 3D descartado por falta de qualidade (elaboração própria)  ................... 46 
+Figura 16 – Modelo 3D utilizável feito com scanner (elaboração própria) .............................. 46 
+Figura 17 – Modelo 3D utilizável realizado com fotogrametria (elaboração própria) ............... 48 
+Figura 18 – Fotografias de alta-resolução geradas (elaboração própria) ................................. 49 
+Figura 19 – Fotografias de alta-resolução geradas (elaboração própria) ................................. 49 
+Figura 20 – Digitalização de uma folha de campo relativa à zona de Guilheta ....................... 50 
+Figura 21 – Nome do ficheiro da figura 20 identificado de forma incorreta  ........................... 50 
+Figura 22 – Análise SWOT do estágio (elaboração própria) ................................................... 52 
+
+1 
+ 
+I. Introdução 
+ 
+O presente relatório de estágio curricular integra-se no segundo semestre do segundo ano do 
+Mestrado em Humanidades Digitais da Universidade do Minho, mestrado este que, devido à 
+natureza diversificada no que toca às áreas de conhecimento lecionadas durant e o mesmo, 
+permite integrar no estágio curricular um vasto número de competências tecnológicas e 
+humanísticas. 
+Neste sentido, foi decidido criar -se um projeto de estágio curricular entre uma equipa de 
+quatro alunos do presente mestrado: o Marcos Ribeiro , a Joana Santos, o João Lobo, e Ricardo 
+Guimarães. Este projeto foi realizado junto do Museu Arqueológico D. Diogo de Sousa sob a 
+orientação interna do Técnico Superior de Gestão de Coleções e Arquivo, Óscar Santos, por um 
+período de três meses, compreendido entre 2 de fevereiro e 30 de abril de 2024, sendo que o 
+mesmo teve de ser posteriormente estendido por mais do is meses devido a incompletude das 
+partes dos restantes colegas de equipa, tendo acabado no dia 30 de junho de 2024, perfazendo 
+cinco meses. O objetivo fundamental deste projeto foi a aplicação das competências, conceitos e 
+conhecimentos adquiridos na vertente da unidade curricular de Interfaces Web, e Análise e 
+Visualização de Dados do mestrado, na criação de um design para uma aplicação móvel que 
+consistiria numa integração de realidade aumentada através de uma aplicação móvel no contexto 
+do museu onde ocorreu o estágio. 
+Dado ser um trabalho colaborativo, existiu uma interdependência das diversas partes, pois o 
+material produzido por cada colega seria passado aos outros colegas da equipa para usarem nas 
+suas tarefas, algo que estava bem definido, planeado e acordado no início do projeto, sendo a sua 
+divisão explicada de forma simples no seguinte fluxograma (figura 1): 
+
+2 
+ 
+ 
+Figura 1 – Fluxograma simples da interdependência do projeto (elaboração própria) 
+ 
+A respetiva implementação do protótipo visual ficou a cargo da restante equipa, pelo que, 
+esse conteúdo não fará parte deste documento sendo o desenvolvimento e apresentação da 
+aplicação final da inteira responsabilidade desses elementos.  
+O trabalho de design realizado foi, então, apresentado e aceite pelo Museu e por todas as 
+partes que serviram de alfa testers ao longo do estágio. Além disso, foi possível também utilizar 
+os conhecimentos adquiridos durante outras unidades curriculares do mestrado para várias outras 
+tarefas adicionais que foram desempenhadas para o Museu, e que constam neste relatório. 
+ 
+1.1. Estrutura do relatório 
+ 
+Este relatório encontra-se dividido em cinco capítulos principais: 
+• Neste primeiro capítulo é feita uma breve introdução  do estágio curricular e uma visão 
+geral do projeto , seguida pela explicação da estrutura do relatório, a apresentação da 
+entidade acolhedora, e finalmente os objetivos do projeto.  
+• No segundo capítulo é facultado o enquadramento teórico, completo com referências ao 
+material de pesquisa sobre o assunto do relatório.  
+• No terceiro capítulo é descrita a abordagem de metodologia de trabalho utilizada durante 
+
+
+3 
+ 
+o decorrer do projeto, discriminando também as ferramentas e recursos u tilizados, e o 
+planeamento da estrutura do trabalho. 
+• No quarto capítulo é realizada a descrição e análise  detalhada de todas as tarefas 
+realizadas durante o decorrer do projeto, quer principais, quer adicionais não previstas 
+no início do estágio. 
+• Por fim, o último capítulo conta com uma breve conclusão, uma análise SWOT e algumas 
+considerações finais. 
+ 
+1.2. Entidade de Acolhimento 
+ 
+Apesar de na atualidade se chamar Museu Arqueológico D. Diogo de Sousa e ter uma forte 
+presença no mundo arqueológico nacional, a sua génese deu-se de uma forma bastante humilde, 
+sendo criado a partir de uma simples tentativa de salvaguarda do património a rqueológico, mais 
+especificamente os miliários romanos da capela de Stª Ana que hoje se encontram na sala inferior 
+do museu, pelo arcebispo D. Diogo de Sousa (1505-1532). 
+O material arqueológico encontrado em Braga foi deslocado entre várias localizações e até 
+coleções privadas, ficando precariamente exposto aos elementos, até que em 1918 foi criado o 
+museu de arqueologia e arte geral D. Diogo de Sousa, localizado no Paço Arquiepiscopal. 
+Este museu manteve -se funcionalmente ativo até aos anos 80 quando, devido a uma forte 
+expansão urbana e frequentes aparecimentos de material arqueológico, deu-se uma revitalização 
+do mesmo, tornando-se assim Museu Regional de Arqueologia, com uma Lei orgân ica própria e 
+um quadro de pessoal técnico habilitado nesse domínio. Em termos institucionais, o Museu passou 
+a depender da administração central, sendo atualmente um organismo dependente  da entidade 
+Museus e Monumentos de Portugal (antiga DRCN). Desta for ma passaram a ser -lhe conferidas 
+competências de escavação, preservação e divulgação das ruínas e do espólio da antiga cidade 
+romana de Bracara Augusta, mas também projetos de salvaguarda e valorização, na região norte. 
+A 29 de Junho de 2007, o museu muda -se finalmente para o seu local de residência 
+permanente, nas instalações construídas de raiz e implantadas na zona arqueológica mais 
+significativa de Bracara Augusta. Neste local, o museu consegue atuar como ponto de partida para 
+a visita aos sítios arqueológicos que se dispõem na sua proximidade. 
+ 
+ 
+
+4 
+ 
+1.3. Objetivos 
+ 
+A realização deste estágio curricular visou alcançar um conjunto de objetivos, sendo o 
+principal o desenvolvimento de um design gráfico para uma aplicação móvel de Realidade 
+Aumentada destinada a museus e locais de património nacional, desenhado especificamente para 
+o Museu Arqueológico D. Diogo de Sousa. Entre os objetivos secundários destacam-se: 
+ 
+• A expansão significativa de conhecimentos e proficiência na criação e design de aplicações 
+móveis; 
+• A realização da primeira experiência profissional; 
+• A especialização de competências adquiridas ao longo do mestrado, dada a execução de 
+diversas tarefas complementares em áreas variadas; 
+• A criação de oportunidades para futuros projetos do mestrado em Humanidades Digitais junto 
+do museu, incluindo a possibilidade de que o material desenvolvido durante este projeto sirva 
+de base para futuros estágios ou projetos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+5 
+ 
+II. Enquadramento Teórico 
+ 
+Apesar de o conceito de “design gráfico” já existir há séculos (“Graphic Design”, 2024), seria 
+no final do século 20 e no século 21 que este termo ficaria totalmente difundido, sendo um termo 
+conhecido e associ ado quase de imediato à criação de conteúdos visuais informáticos. Tal é 
+realçado pelo simples facto de vivermos num mundo intrinsecamente tecnológico, com ecrãs e 
+computadores em todo o lado, e todos esses ecrãs precisam de ter algum tipo de design gráfico 
+associado, sendo, portanto, fundamental que se crie utilizando bom design. 
+Este design, tendo em conta o presente contexto de informática, será “[…] a system and a 
+user interacting with each other through commands or techniques to operate the system, input 
+data, and use the contents.” (Joo, 2017, p.1), ou seja, é a “imagem” que o utilizador vê no seu 
+dispositivo, completo com botões, imagens, interações, etc. 
+Quando falamos sobre design de UI 1 aplicado a telemóveis, ou neste caso, a aplicações 
+móveis, e dado que a criação de uma aplicação móvel se tornou algo tão acessível à maioria das 
+pessoas com o mínimo de experiência na área, há uma crescente importância de não só fazer 
+uma aplicação funcional, como também uma aplicação com um UI/UX 2 (User Experience), bem 
+conseguida. Para tal efeito, é imperativamente necessário estudar a área de implementação da 
+aplicação móvel para determinar os contextos envolventes a fim de a localizar corretamente e 
+poder estruturar o design da aplicação para que esta seja atrativa e fluída. 
+A dificuldade de criar um bom design, que garanta também uma boa experiência de utilizador, 
+reside no delicado equilíbrio entre design de uma aplicação que tenha funcionalidades com uma 
+interface rica e uma aplicação que seja pragmática com uma interface s imples, pois como Silas 
+Verkijika diz no seu artigo Assessing the Role of Simplicity in the Continuous Use of Mobile Apps , 
+“The visual appearance of a system plays a vital role in influencing the positive perceptions that a 
+user has about the system. For example, many users generally perceive attractive interfaces to 
+have good usability […]” (Verkijika, 2020, p.29). Ou seja, quanto melhor a aparência do design 
+gráfico da aplicação, mais os utilizadores assumem que será uma boa aplicação e terão uma 
+experiência subjetivamente mais agradável. 
+No entanto, o objetivo é que seja um bom design, e não apenas um design bonito, sendo 
+então necessário escolher uma abordagem que resulte numa maior satisfação a longo prazo do 
+ 
+1 User Interface (interface gráfica do utilizador) 
+2 User Interface / User Experince (interface gráfica do utilizador / experiencia do utilizador)  
+
+6 
+ 
+utilizador, e tal será possível somente se for desenhada uma UI com simplicidade e facilidade em 
+mente, algo que Silas Verkijika também constata “Most often, when systems are not optimally 
+developed from a simplicity viewpoint, the complex design might see m initially attractive but 
+ultimately the complexity decreases user satisfaction […]” (Verkijika, 2020, p.29). 
+A melhor forma de garantir um bom resultado a partir do design gráfico será prever a persona, 
+ou público -alvo, que irá contactar com o design e, de seguida, estruturar um UX que possa 
+acomodar as suas necessidades e gerar envolvimento, como Ar. Poorva Priyadarshini sugere no 
+seu artigo The Impact of User Interface Design on User Engagement: 
+ 
+“Incorporating user engagement considerations into the UI design process is 
+essential for creating digital interfaces that effectively capture users' attention, foster 
+interaction, and drive meaningful engagement. Practical implications derived from 
+research findings offer valuable insights for UI designers and product teams, guiding them 
+in crafting usercentric interfaces that balance usability, aesthetics, and engagement. […] 
+Research findings on user engagement highlight the importance of understanding u sers' 
+needs, preferences, and behaviors throughout the design process. […] Practical 
+implications derived from research findings include the need to conduct user research, 
+usability testing, and iterative design to validate design choices and optimize the user 
+experience.” (Priyadarshini, 2024, p.3) 
+ 
+Tal também é a opinião de Steve Jobs, co -criador da gigante Apple, Inc., que defende que 
+"Design isn’t just what it looks like and feels like — design is how it works" (Jobs, 2003), ou seja, 
+o design de uma aplicação vai muito para além de apenas criar um aspeto visual apelativo, é algo 
+que acaba por afetar profundamente a forma como o utilizador irá interagir e o quão interessado 
+ficará em repetir a experiência, é o elemento aglutinador que une todos os elementos da aplicação. 
+Em qualquer processo de criação de design é imprescindível considerar que a criação do design 
+é a aplicação em si, não em relação ao código do programador, mas abrangendo praticamente 
+todos os outros aspetos da criação. 
+Laura Micoli et al. (2020) defendem que um dos cargos necessários para desenvolver uma 
+aplicação digital aplicada a museus é “Content designers – they provide the connection framework 
+of the material and immaterial cultural heritage assets; they define the  possible paths of the 
+
+7 
+ 
+interaction and create the textual contents;” (Micoli et al., 2020, p.7), isto é, que a função do 
+designer de conteúdo será definir os passos de interação entre a aplicação e o utilizador e a criação 
+dos conteúdos textuais. Será, portanto, uma parte fundam ental do processo de criação da 
+aplicação móvel, pois será nesta parte que se vai refletir a usabilidade e como todos os elementos 
+se irão ligar. 
+ 
+Naturalmente, este cuidado com a determinação da persona e do equilíbrio entre design de 
+UI apelativo e funcional não se aplica apenas a pessoas, mas também ao contexto onde está a ser 
+aplicado o design, sendo um dos casos possíveis um museu. 
+Apesar dos museus enquanto instituições já existirem há séculos, é crucial que os museus 
+não resistam a mudanças e se deixem ficar para trás na revolução tecnológica que ocorre nos 
+tempos modernos, tendo em conta que são organismos inestimáveis devido ao teor único do seu 
+espólio. 
+ Museus são instituições de muito grande importância, e são frequentes em praticamente 
+todas as cidades de todos os países. Existiam, em 2019, cerca de 55.000 museus distribuídos 
+pelo mundo inteiro, um número considerável tendo em conta que no mesmo ano existiam apenas 
+38.000 restaurantes da cadeia de fast-food McDonald’s em todo o mundo (De Gruyter Saur, 2019). 
+Poderá, à primeira vista, parecer redundante realizar tal comparação, mas tendo em conta que é 
+considerado lógico existir uma aplicação móvel para o McDonald’s, será mais lógico ainda que os 
+museus tenham também aplicações, como defende Maycon Barbosa et al. no seu estudo “A 
+survey and evaluation of mobile apps in science centers and museums”,  falando sobre o uso de 
+aplicações em contextos museológicos e de centros de ciência “[…] mobile apps tend to become 
+increasingly important tools in the demand for science communication and access to information.” 
+(Barbosa et al., 2021, p.16) e referem ainda que 
+ 
+“For example, Disney has a mobile app called Disney World, in which visitors can 
+access information on the expected waiting time for each attraction in the park, viewed 
+directly on the park map, in addition to other pertinent features such as information o n 
+schedules and ticket purchase. A park does not have to be as big as Disney to reap the 
+benefits of engaging visitors with new technology like smartphone mobile apps.” (Barbosa 
+et al., 2021, p.1). 
+ 
+
+8 
+ 
+Deve-se, portanto, entender a grande importância que é estes museus estarem a acompanhar 
+devidamente a revolução tecnológica e digital em torno de aplicações móveis. Para tal, 
+desenvolveram-se nos últimos anos vários esforços como por exemplo a introdução de Realidade 
+Aumentada (AR) e Realidade Mista (MR) em museus através da criação de aplicações móveis 
+especializadas para o efeito. 
+Esta introdução tem sido difícil, não só devido a ser significativamente recente, tendo 
+começado em 2017 para iOS com o ARKit e 2018 para Android com o ARCore, ambos motores 
+de Realidade Aumentada/Mista, como também pelo facto de necessitar de um número elevado 
+de utilizadores para que os testes de aplicações sejam eficazes, algo que se provou ser difícil 
+durante toda a época da pandemia COVID -19 e anos subsequ entes, como Kami ńska et al. 
+observam no seu artigo Augmented Reality: Current and New Trends in Ed ucation: “On the other 
+hand, it should be noted that any research work on AR often requires contact with a large number 
+of users of the implemented systems, which was significantly hindered by the restrictive sanitary 
+regulations” (Kamińska et al., 2023, p.24). 
+Apesar destes contratempos, e de um começo lento, prevê -se que a tecnologia estará 
+presente em inúmeros espaços e tecnologias, transpondo-se dos locais exclusivamente educativos, 
+e sendo utilizada em locais de trabalho “AR technology can provide appropriat e human–machine 
+interfaces […]. Such a system is planned to be implemented within the HyperCOG project [174], 
+where AR applications will be linked to the continuous learning of production workers.” (Kamińska 
+et al., 2023, p.23) ou at é mesmo no aumento do c onforto e seguran ça automóvel “Today, AR 
+technology is commercially used in automotive applications to provide drivers with information 
+about vehicle movements on a head -up display, significantly increasing their reaction time and 
+improving traffic safety.” (Kamińska et al., 2023, p.23). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 
+ 
+III. Metodologia 
+ 
+Dada a natureza colaborativa deste projeto, com intervenientes em diferentes níveis 
+(estagiários, orientadores académicos e o museu como cliente), decidiu -se adotar uma 
+metodologia de gestão de projetos que beneficiasse o desenvolvimento do trabalho.  
+Optou-se, então, por uma abordagem metodológica híbrida entre Agile e Waterfall. Esta 
+combinação permitiu estabelecer uma estrutura clara e organizada, característica do Waterfall, 
+enquanto manteve a flexibilidade necessária devido à inexperiência da equipa e à natureza inédita 
+do projeto, algo que o Agile proporciona. 
+ 
+A metodologia Agile é uma metodologia para gestão e desenvolvimento de projetos, 
+especialmente no ramo de software, que se baseia n os conceitos de flexibilidade e adaptação às 
+mudanças. Ao invés de um planeamento rígido e linear, o Agile baseia-se em ciclos curtos de 
+trabalho chamados de "iterações" ou "sprints", onde uma pequena parte do projeto é desenvolvida 
+e apresentada ao cliente ou equip a. Cada iteração permite que a equipa de desenvolvimento 
+incorpore os feedbacks providenciados em reuniões demonstr ativas e sejam feitos ajustes, 
+promovendo uma entrega contínua de trabalho e permitindo mudanças de direção  e 
+recalendarização conforme novas informações que possam surgir. Esta metodologia incentiva uma 
+colaboração próxima entre todos os envolvidos, mantendo uma corrente de comunicação 
+constante e possibilitando ajustes rápidos no projeto, sendo uma metodologia conhecida pela 
+adaptabilidade e foco em entregar partes ao invés de projetos concluídos. 
+ 
+A metodologia Waterfall (ou "cascata"), por outro lado, é uma abordagem mais tradicional e 
+linear, onde o desenvolvimento do projeto ocorre em fases sequenciais, como análise, design, 
+implementação, teste e manutenção. Em Waterfall, cada fase deve ser concluída antes de se 
+avançar para a próxima, sendo que mudanças no projeto após o início de uma fase são difíceis de 
+implementar e geralmente aumentam os custos. Esta metodologia é especialmente indicada para 
+projetos em que os requisitos estão completamente definidos desde o início e onde se espera que 
+o produto final seja entregue apenas no final do projeto. 
+ 
+Com base nestas metodologias, identificou-se que o projeto beneficiaria de uma abordagem 
+híbrida, dado que a aplicação teria datas e metas finais rígidas, mas seria flexível durante o 
+
+10 
+ 
+desenvolvimento, pois como Archer e Kaufman defendem: 
+ 
+“Many projects are launched with aggressive schedules, vague scope, and resource 
+constraints, which raise implementation risks. Agile methodologies have been used 
+effectively to mitigate these risks. However, some […] clients face regulatory deadlines that 
+require functionality to be deployed (with certainty) by a specific date; others do not have 
+the cultural landscape established within their organizations to fully benefit from agile. 
+In these cases, a hybrid of agile and waterfall techniques may be the better 
+approach.” (Archer e Kaufman, 2013). 
+ 
+Na fase inicial, tal como o modelo Waterfall sugere, foi realizado em equipa  uma reunião de 
+planeamento inicial  para determinar  o esboço da aplicação, como seria o design, as 
+funcionalidades, definir as datas de limite e as metas. Em seguida, com o início do trabalho prático, 
+entrou em ação a metodologia Agile. O design de UI/UX começou a ser desenvolvido, incorporando 
+gradualmente alterações após cada revisão, de acordo com o feedback recebido, seguindo ciclos 
+iterativos característicos do Agile  e, caso fosse necessário ou houvesse atrasos, ajustava -se os 
+ciclos a fim de compensar a calendarização. 
+Embora o feedback não fosse regular nem definido para um dia ou semana específica, sendo 
+apenas nos pontos específicos ( milestones) característicos da metodologia Waterfall, cada 
+apresentação do protótipo representava uma oportunidade de ajustar e aprimorar o design antes 
+de avançar para a fase ou tarefa seguinte. 
+ 
+No início do projeto, foi realizada uma reunião entre a equipa para delinear as diretrizes da 
+aplicação, incluindo o design, as funcionalidades, e a definição de prazos e metas, tendo sempre 
+cuidado para que o material criado e o design da aplicação estivessem enquadrados para com as 
+necessidades do museu e partilhasse uma identidade gráfica o mais semelhante possível. Após a 
+aprovação inicial pelo museu, a equipa avançou para a fase seguinte de trabalho. 
+À medida que cada tarefa era concluída, era apresentada aos intervenientes envolvidos e, 
+caso recebesse aprovação, procedia -se à entrega da tarefa para a aplicação final e iniciava -se a 
+próxima etapa do trabalho. Este ciclo de iterações continuava até que todas as tarefas estivessem 
+completas. Por fim, realizava -se a montagem final da aplicação móvel, integrando todos os 
+elementos desenvolvidos durante o projeto. 
+
+11 
+ 
+Para tornar mais claro este processo, e evidenciar como as duas metodologias se cruzam , 
+criou-se um flowchart (figura 2) no qual é possível observar o começo do projeto, que segue a 
+metodologia Waterfall, assim como o desenvolvimento principal seguindo a metodologia Agile. 
+ 
+ 
+Figura 2 – Flowchart do trabalho e metodologia híbrida (elaboração própria) 
+ 
+Neste projeto houve um total de 10 tarefas realizadas, 6 planeadas e 4 adicionais, distribuídas 
+ao longo de 5 fases de desenvolvimento, como é possível observar no diagrama de Gantt ( figura 
+4) criado para o projeto. 
+Devido à natureza maioritariamente digital das atividades, o estágio foi realizado em regime 
+híbrido, com três dias dedicados ao trabalho remoto e dois dias em regime presencial. Estes 
+últimos foram reservados para a discussão dos resultados, o trabalho presencial com o espólio do 
+museu e a recolha e organização de materiais armazenado nos servidores -arquivo do museu. O 
+acompanhamento foi realizado de forma contínua pel os técnicos superiores do museu, com 
+destaque para o técnico superior Óscar Santos, que monitorizou de perto o progresso das 
+atividades, sendo feitas pequenas demonstrações nos dias presenciais. 
+Ao longo deste período, também houve supervisão por parte do orientador académico, o 
+professor orientador Filipe Portela, por meio de quatro reuniões realizadas por videochamada. 
+Nessas reuniões, foram apresentados os avanços do protótipo e foram discutidas propostas de 
+melhorias, que resultaram na progressão do design através de quatro iterações distintas. 
+
+
+12 
+ 
+Para garantir que o trabalho fosse estruturado e fluido, foi criada uma pasta no Google Drive3 
+para facilitar a troca de ficheiros relevantes para as diferentes tarefas da equipa. Além disso, foram 
+estabelecidos dois grupos de chat no WhatsApp 4: um dedicado à comunicação instantânea entre 
+a equipa para dar feedback e planear as atividades, e outro para comunicação direta com o técnico 
+superior Óscar Santos, com o objetivo de trocar materiais, informações ou avisos importantes. 
+ 
+3.1. Ferramentas e recursos 
+ 
+Como previsto no plano de estágio curricular, fo ram escolhidas logo nos primeiros dias do 
+projeto as diversas ferramentas  e recursos que seriam usa das durante o desenvolvimento do 
+projeto, dado que poderiam influenciar outras futuras escolhas. Encontra-se abaixo a tabela 1 que 
+reúne todas as ferramentas/aplicações utilizadas durante o estágio curricular e a sua respetiva 
+utilização: 
+Tabela 1 – Ferramentas e aplicações utilizadas no estágio 
+ 
+Ícone da ferramenta/recurso 
+ 
+Ferramenta/Aplicação Utilização no 
+estágio 
+ 
+Adobe Photoshop Edição do logótipo. 
+ 
+ChatGPT (Free/Pro) 
+Criação do primeiro 
+logótipo a partir de um 
+sketch feito á mão; 
+Resolução de 
+problemas que foram 
+surgindo. 
+ 
+ 
+Vectorizer 
+Melhoramento da 
+qualidade do logótipo; 
+Conversão para 
+Gráfico Vetorial 
+Escalonável (SVG). 
+ 
+Waifu2x-caffe Melhoramento da 
+qualidade do logótipo. 
+ 
+3 Disponível em drive.google.com 
+4 Disponível em www.whatsapp.com 
+
+
+13 
+ 
+Tabela 1 – Ferramentas e aplicações utilizadas no estágio 
+ 
+Canva 
+Criação do esquema-
+esqueleto geral da 
+aplicação. 
+ 
+Figma Design do protótipo 
+funcional da aplicação. 
+ 3D Systems Sense 
+Criação dos modelos 
+3D utilizando o 
+scanner portátil. 
+ 
+Flaticon Recolha de ícones 
+para o protótipo. 
+ 
+Metashape Pro 
+Criação dos modelos 
+3D utilizando 
+Fotogrametria. 
+ 
+Blender Edição e correção dos 
+modelos 3D. 
+ 
+Cada uma das ferramentas usada desempenhou um papel importante no desenvolvimento 
+do projeto, tendo também contribuído de forma direta para uma expansão da mestria nas mais 
+diversas áreas, dado que a maioria das ferramentas utilizadas eram novidade. 
+ 
+3.2 Planeamento 
+ 
+Quanto ao trabalho dos colegas, sendo um projeto colaborativo, foi decidido durante uma 
+reunião com o professor convidado Telmo Adão que cada membro teria responsabilidades 
+específicas. O Marcos Ribeiro ficaria encarregue do mapeamento e navegação em tempo real com 
+realidade aumentada, bem como da montagem final da aplicação. O João Lobo teria a 
+responsabilidade de criar a gamificação da aplicação e auxiliou na montagem final. A Joana Santos 
+realizaria o levantamento dos modelos 3D das peças do espólio do museu, corrigir esses modelos, 
+criar um avatar animado e desenvolver a planta 3D do museu para uma visita virtual e animação 
+de “splash screen”. No término do projeto, cada elemento entregaria o material produzido ao 
+
+
+14 
+ 
+Marcos Ribeiro, que integraria tudo e exportaria a aplicação móvel, preparando-a para distribuição 
+no museu. 
+O período de estágio estava inicialmente previsto para começar no dia 2 de fevereiro, com 
+término em 30 de abril. No entanto, o estágio foi prorrogado até 30 de junho. Além disso, havia 
+uma visita planeada para dezembro, durante a qual os estagiários teria m a oportunidade de 
+conhecer o espaço do museu, a área técnica, e os técnicos superiores que compõem a equipa do 
+museu. Abaixo encontra -se uma linha temporal destacando os momentos -chave deste estágio 
+(figura 3): 
+ 
+ 
+Figura 3 – Linha temporal dos momentos chave do estágio (elaboração própria) 
+ 
+Como forma de conseguir controlar as tarefas realizadas de forma mais cuidadosa, foi -se 
+atualizando num diagrama de Gantt (figura 4) as diferentes tarefas juntamente com o intervalo de 
+tempo dedicado às mesmas.  Desta forma seria possível observar, num relance, se os prazos 
+corriam risco de não serem cumpridos, ou o quão bem o trabalho do projeto estaria a desenvolver-
+se. Um outro benefício do uso de diagramas de Gantt é que este permite ver o progresso total de 
+um projeto, o que ajuda a reduzir stress e providenciar uma sensação de controlo. 
+ 
+
+
+15 
+ 
+ 
+Figura 4 – Diagrama de Gantt (elaboração própria) 
+ 
+É possível ver, analisando o diagrama que, por exemplo: 
+• O tempo dedicado a cada versão da aplicação vai aumentando à medida que o 
+protótipo evolui, uma vez que as primeiras versões eram de teor mais experimental e 
+experienciaram mudanças mais críticas, sendo mais eficaz recomeçar o 
+desenvolvimento do zero. Um outro fator que corrobora este aumento de tempo 
+dedicado deve-se ao facto de ter aprendido novas técnicas de Figma e design que 
+permitiram introduzir novas funcionalidades estruturais, sendo melhor recomeçar; 
+• Quando multitasking era feito, a tendência era para que as tarefas envolvidas fossem 
+mais demoradas, visto que os recursos temporais tinham de ser divididos entre as 
+tarefas. 
+ 
+Como forma suplementar de evitar situações de risco que pudessem pôr em causa o trabalho 
+do projeto, criou-se uma Matriz de Avaliação de Risco (figura 5), um mecanismo que apresenta de 
+forma visual a probabilidade de um dado acontecimento ocorrer e qual o impacto caso aconteça. 
+Além disso calcula-se a severidade (impacto x probabilidade) e apresenta -se ações de mitigação 
+para não colocar o projeto em risco. 
+ 
+
+
+16 
+ 
+ 
+Figura 5 – Matriz de avaliação de risco (elaboração própria) 
+ 
+Foram considerados como riscos: 
+ 
+• A dificuldade na utilização de novas ferramentas, o que pode causar 
+atrasos/problemas, mas tendo em consideração que é um problema facilmente 
+ultrapassável através de pesquisa e que o estagiário tem proficiência tecnológica, tanto 
+o impacto como a probabilidade foram classificados com um 2;  
+• Possíveis atrasos na entrega de tarefas devido à complexidade do design, 
+pois é uma área que o estagiário ainda não praticou profissionalmente e, logo, poderá 
+afetar o calendário. No entanto, dado que o calendário é flexível e que é possível ajustar 
+a distribuição das tarefas, não será um risco com impacto alto, recebendo um 2 na 
+probabilidade e um 4 no impacto; 
+• Criação de um design pouco apelativo e/ou pouco intuitivo, dado que o 
+estagiário ainda não teria realizado um trabalho na área profissionalmente e poderia ter 
+dificuldades. Uma vez que os fatores apelativo e intuitivo são os mais importantes num 
+design de uma aplicação e, logo, não podem de forma nenhuma falhar, o impacto é de 
+
+
+17 
+ 
+nível 8, sendo a sua probabilidade 2 pois o estagiário teria o apoio do professor 
+orientador; 
+• Falhas no feedback por parte da entidade acolhedora, dado que é uma área 
+que o orientador interno do museu e a própria entidade não domina a nível tecnológico, 
+pelo que atribuí um 4 em probabilidade, mas apenas um 2 em impacto pois ainda teria 
+a equipa e o professor orientador para receber feedback especializado; 
+• Possíveis atrasos devido à natureza interdependente do projeto, o que é 
+altamente provável (nível 8) tendo em conta o projeto em causa e a equipa de trabalho, 
+mas recebe um 2 de impacto como o atraso por complexidade do design pela mesma 
+razão, será apenas uma questão de reorganizar o calendário com a equipa; 
+• Possível desistência da equipa do projeto, algo que apesar de muito improvável, 
+pode ter consequências graves para o decorrer do projeto, sendo que os valores 2 e 10 
+foram atribuídos à probabilidade e impacto, respetivamente. 
+ 
+Relativamente às ações de mitigação, foram considerados apenas os riscos de “Falhas no 
+feedback por parte da entidade acolhedora” e “Possíveis atrasos devido à natureza 
+interdependente do projeto”, uma vez que, pela sua probabilidade mais alta, são os que poderiam 
+ocorrer com maior facilidade, justificando, assim, uma maior atenção às medidas preventivas.  
+Para tal, seria essencial realizar reuniões com a equipa e com o professor orientador para receber 
+feedback e, caso fosse previsível um atraso , seria prov idenciada assistência aos colegas que a 
+necessitassem para concluir as suas tarefas interdependentes.  
+Apesar de não ser considerado provável haver desistências por parte da equipa, dada o seu 
+alto impacto, e como medida preventiva de segurança, estruturou-se o trabalho de forma que a 
+que o design pudesse ser concluído mesmo sem ter o material necessário  providenciado pela 
+equipa. 
+ 
+ 
+ 
+ 
+ 
+
+18 
+ 
+IV.  Desenvolvimento do protótipo visual 
+ 
+Neste capítulo é realizada a descrição detalhada das diversas tarefas realizadas durante o 
+projeto deste estágio, e ainda as tarefas adicionais, que podem ser consultadas na seguinte tabela 
+2: 
+ 
+Tabela 2 – Tarefas realizadas durante o estágio e a respetiva descrição 
+Tarefa Descrição 
+Reunião de planeamento inicial 
+Reunião inicial onde foi decidido o esboço da 
+aplicação, o design, as funcionalidades, e 
+definiu-se as datas de limite e as metas. 
+Logótipo 
+Criação de um logótipo e ícone para a 
+aplicação. 
+Tipo de letra 
+Escolha do tipo de letra usado no logótipo e 
+aplicação. 
+Paleta de cores da aplicação 
+Recolha da paleta de cores utilizada pelo 
+museu (identidade gráfica) para utilizar na 
+aplicação. 
+Esquema-esqueleto Canva 
+Criação de um esquema-esqueleto da 
+aplicação (diretrizes e funcionalidades) na 
+plataforma Canva. 
+Protótipo Figma Versão 1 
+Criação da primeira versão do protótipo da 
+aplicação na plataforma Figma. 
+Protótipo Figma Versão 2 
+Criação da segunda versão do protótipo da 
+aplicação na plataforma Figma. 
+Protótipo Figma Versão 3 
+Criação da terceira versão do protótipo da 
+aplicação na plataforma Figma. 
+Protótipo Figma Versão 4 (Final) 
+Criação da versão final do protótipo da 
+aplicação na plataforma Figma. 
+Recolha de modelos 3D por scanner 
+Recolha dos modelos 3D utilizados na 
+aplicação utilizando um scanner portátil. 
+
+19 
+ 
+Tabela 2 – Tarefas realizadas durante o estágio e a respetiva descrição 
+Recolha de modelos 3D por fotogrametria 
+Recolha dos modelos 3D utilizados na 
+aplicação utilizando a técnica de 
+fotogrametria. 
+Fotos de alta resolução de 360º dos objetos 
+Recolha de fotografias de alta resolução de 
+360º dos objetos detalhadas. 
+Correções de informação no servidor-arquivo 
+Correções de informações erradas ou 
+incorretamente identificadas no servidor-
+arquivo. 
+ 
+O início do projeto começou com a primeira fase, durante a qual a equipa se reuniu para uma 
+sessão de planeamento. Nesta foram definidos o esboço da aplicação, as diretrizes  gerais 
+obrigatórias de design, algumas das funcionalidades previstas e, ainda, as datas-limite e metas a 
+atingir ao longo do projeto. 
+Foi também nessa reunião que se discutiu o nome do projeto, tendo sido decidido como 
+“MITO”, um acrónimo para Museus, Interatividade, Tecnologia e Objetos. Este nome capta a 
+essência da aplicação, que se apresenta como uma ponte  de ligação entre museus e tecnologia, 
+promovendo a interatividade entre o utilizador e os objetos do espólio do museu. 
+O protótipo Figma está disponível no seguinte endereço eletrónico: 
+https://www.figma.com/proto/EWGadN1JgF1LcRZqVAXCKw/MITO?node-id=1-138&node-
+type=canvas&t=r2Nof2QbgXUvWWiK-0&scaling=contain&content-scaling=fixed&page-
+id=0%3A1&starting-point-node-id=1%3A138 
+ 
+4.1.  Identidade 
+ 
+Com a conclusão da primeira fase do projeto, deu-se início à fase de identidade, que 
+envolveu a criação de iterações do logótipo, a seleção do tipo de letra e a definição da paleta de 
+cores da aplicação, apresentados de seguida. 
+ 
+4.1.1 Logótipo da aplicação 
+ 
+Sendo um logótipo que será exibido exclusivamente no contexto de uma aplicação móvel, 
+
+20 
+ 
+onde a interação visual do utilizador ocorre principalmente no ecrã do telemóvel entre outras 
+aplicações, é essencial que o design atenda a determinados requisitos: 
+• O logótipo deve, de forma imediata, transmitir ao utilizador a categoria a que a aplicação 
+pertence, neste caso, museologia; 
+• O esquema de cores utilizado deve refletir a temática abordada; 
+• O ícone não deve conter texto, uma vez que o sistema Android já exibe o nome da 
+aplicação abaixo do ícone. No entanto, o logótipo deverá incluir texto para identificar o 
+nome da aplicação de forma explícita. 
+ 
+Como ponto de partida, considerou-se a criação de um logótipo que incorporasse uma coluna 
+romana como elemento principal, de modo a proporcionar uma associação clara e imediata ao 
+tema proposto. O primeiro sketch, que reflete esta ideia, pode ser observado na figura 6: 
+ 
+ 
+Figura 6 – Primeiro sketch desenhado à mão (elaboração própria) 
+ 
+O objetivo deste esboço era garantir que, à primeira vista, o utilizador reconhecesse que se 
+trata de uma aplicação móvel relacionada com museus. Isso seria evidenciado pela presença de 
+três colunas verticais, com a particularidade de, da primeira para a terceira, as colunas recuarem 
+progressivamente para o plano de fundo, enquanto a sua altura diminuía. Embora esta ideia não 
+tenha sido utilizada na versão fin al, serviu como um ponto de partida valioso, inspirando as 
+iterações subsequentes do logótipo. 
+ 
+ 
+
+
+21 
+ 
+ 
+Figura 7 – Segundo sketch desenhado à mão (elaboração própria) 
+Figura 8 – Conversão do segundo sketch para imagem (elaboração própria) 
+ 
+No segundo esboço (figura 7), optou-se por manter o conceito das colunas, reorganizando-as 
+de forma a representar a letra "m" da palavra "MITO", com as restantes letras posicionadas 
+abaixo. Posteriormente, o esboço foi transformado numa imagem utilizando o Adobe Photoshop 
+(figura 8 ). Desta maneira, obtinha -se um logótipo principal sem texto, enquanto o logótipo 
+secundário permitia a integração do nome da aplicação, sem a necessidade de o isolar na parte 
+inferior do logótipo. 
+ 
+Contudo, após uma discussão com a equipa, decidiu -se explorar a utilização de inteligência 
+artificial para esta primeira tarefa. Para tal, o segundo esboço foi descrito ao ChatGPT5, juntamente 
+com uma descrição da aplicação, solicitando a criação de um logótipo. O resultado gerado é visível 
+na imagem seguinte: 
+ 
+ 
+Figura 9 – Primeiro logótipo criado pelo ChatGPT da OpenAI 
+ 
+ 
+5 Disponível em chat.openai.com 
+
+
+22 
+ 
+A primeira imagem gerada por inteligência artificial ( figura 9) revelou-se bastante alinhada 
+com o que se pretendia, embora exigisse alguns ajustes. Imagens criadas por IA6 tendem a conter 
+demasiados detalhes pequenos e uma paleta de cores pouco natural que pode gerar distração e 
+dificultar a leitura, como apontam Zijian Chen et al. no seu artigo: “Even state -of-the-art diffusion-
+based generative models [41, 92, 60, 6] introduce oftentimes perceptible unnatural perturbations 
+such as spurious details, disordered layout, and color mismatch on images.” (Chen, 2023, p.4). 
+ 
+Após uma seleção criteriosa e reorientação da imagem com o ChatGPT, chegou -se à versão 
+que se tornaria o logótipo final, a iteração 4 (figura 10). 
+ 
+ 
+Figura 10 – Segundo logótipo criado pelo ChatGPT da OpenAI 
+ 
+Esta iteração foi importada para o Adobe Photoshop onde o fundo branco foi substituído pelo 
+fundo azul degradé da iteração 3 com o objetivo de gerar um contraste cromático mais adequado 
+com o “M”; além disso, os elementos que anteriormente se encontravam separados pela faixa 
+azul foram aproximados; as colunas foram ajustadas em termos de comprimento vertical para que 
+a letra se aproximasse mais de um rácio de aspeto quadrado (1:1). Foram também corri gidos os 
+artefactos (defeitos visuais) gerados pela IA. Por fim, aplicou-se o arredondamento dos cantos da 
+imagem, em conformidade com o design padrão para logótipos e ícones definido pelo Material 
+Design7, uma linguagem de design criada pela Google que estabelece um conjunto de regras e 
+diretrizes para otimizar e padronizar as interfaces de utilizador de sistemas e aplicações. 
+Embora a Google tenha revisto as guidelines do Material Design, removendo a informação 
+ 
+6 Inteligência Artificial 
+7 Disponível em m3.material.io 
+
+
+23 
+ 
+detalhada sobre os valores de arredondamento, os valores de 8.83% para logótipos e 20% para 
+ícones de aplicação (como os exibidos na Playstore 8) foram registados nas minhas notas de 
+pesquisa e utilizados no desenvolvimento final. 
+ 
+Tendo executado todas as alterações, surge o ícone ( figura 11) e o logótipo (figura 12) final, 
+que, tendo sido aprovado pela equipa, é finalizado e dá-se a mudança de tarefa. 
+ 
+ 
+Figura 11 – Ícone final da aplicação “MITO” (elaboração própria) 
+ 
+ 
+Figura 12 – Logótipo final da aplicação “MITO” (elaboração própria) 
+ 
+4.1.2 Tipo de letra da aplicação 
+ 
+Neste momento do projeto, considerou -se conveniente selecionar o tipo de letra e as 
+respetivas fontes a serem utilizadas na aplicação. Com base no livro “Why Fonts Matter” de Sarah 
+Hyndman, optou-se por uma tipografia não serifada. Embora os tipos de letra  serifados estejam 
+associados à história e ao conhecimento, como Hyndman menciona: “Serif typefaces date back 
+over five centuries […] associations of History, knowledge and tradition.” (Hyndman, 2016, p.47), 
+ 
+8 Disponível em play.google.com 
+
+
+24 
+ 
+os tipos de letra sem serifa “[…] were chosen for their neutrality, because they were new and not 
+steeped in the associations of history.” (Hyndman, 2016, p.52), ou seja, são associadas à 
+novidade e ao modernismo, tornando-as ideais para a aplicação. 
+ 
+Assim, foram selecionados quatro tipos de letra diferentes para aprovação, conforme 
+apresentado na tabela 3: 
+ 
+Tabela 3 – Possíveis tipos de letra para a aplicação 
+Tipo de letra Criador/Designer Categoria Caracterização 
+Huxley Vertical Walter Huxley 
+Sans Serif, 
+decorative, display, 
+Art Deco 
+Refinada, elegante e 
+aparência valiosa 
+Petrov Sans Asen Petrov 
+Sans Serif, moderna, 
+geométrica 
+Aspeto tecnológico, 
+moderna, minimalista 
+Mont Blanc Svetoslav Simov 
+Sans Serif, moderna, 
+transicional 
+Sofisticada, 
+profissional e design 
+high-end 
+Gill Sans Eric Gill 
+Sans Serif, moderna, 
+humanista 
+Aspeto 
+familiar/amigável, 
+acolhedor e simples 
+ 
+Após a apresentação à equipa, decidiu-se que o tipo de letra Mont Blanc seria adotado como 
+o tipo de letra principal, enquanto que a Huxley Vertical seria utilizada como tipo de letra 
+secundária e contrastante, caso fosse necessário. 
+ 
+4.1.3 Paleta de cores 
+ 
+Para que se pudesse seguir a identidade gráfica de marca do museu , foi realizada uma 
+recolha da paleta de cores ( figura 13 ) com 9 cores identificáveis, e tipografias utilizadas pelo 
+museu para assegurar que a aplicação seguisse a identidade gráfica da marca. A partir de 
+elementos do website, redes sociais, materiais publicitários e logótipos criados pelo museu, foram 
+identificadas as cores utilizadas em banners, caixas de texto, ícones, publicações, entre outros. 
+
+25 
+ 
+Dessa forma, a aplicação móvel poderia adotar a mesma estética, proporcionando uma 
+experiência de UX mais fluida e integrada, como se a aplicação sempre tivesse feito parte da 
+identidade do museu. 
+ 
+ 
+Figura 13 – Paleta de cores digital utilizada pelo museu (elaboração própria) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+26 
+ 
+4.2.  Esquema-esqueleto Canva 
+ 
+Tendo sido realizada a terceira tarefa da segunda fase, deu-se o início da terceira fase, a fase 
+de esquema geral, onde foi sugerida à equipa uma estrutura e funcionalidades que a aplicação 
+móvel deveria ter e, uma vez aprovada, foi criado um esquema-esqueleto na plataforma Canva 9 
+(figura 14) das secções da aplicação com as suas respetivas funcionalidades. 
+ 
+ 
+Figura 14 – Esquema-esqueleto Canva para a aplicação (elaboração própria) 
+ 
+Este primeiro esquema -esqueleto incluiria uma página inicial ( landing page ), que seria o 
+primeiro contacto do utilizador com a aplicação. Por isso, seria necessário apresentar informações 
+imediatas, como o progresso dos scans das peças do espólio, um breve tutorial sobre como 
+interagir com a aplicação e um avatar interativo de César Augusto, que poderia dialogar com o 
+utilizador e responder a perguntas simples utilizando o ChatGPT.  
+Haveria também uma seção dedicada a informações, exploração e conhecimento, onde o 
+utilizador poderia aceder a uma cronologia histórica, informações sobre o museu enquanto 
+entidade (incluindo textos sobre as coleções, eventos futuros e horários) e, por fim , páginas com 
+informações sobre peças individuais. Esta última página seria inspirada na versão desktop da 
+página móvel do SketchFab10, um website de publicação e venda de modelos 3D, e conteria: um 
+modelo 3D interativo da peça, o nome da peça, informações básicas, um texto curto que explicasse 
+a história da peça e, finalmente, fotografias de alta resolução.  
+Outra seção importante seria a de realidade aumentada, que seria o principal foco da 
+aplicação e a mais inovadora, uma vez que essa abordagem ainda não é convencional nos 
+ 
+9 Disponível em canva.com 
+10 Disponível em sketchfab.com 
+
+
+27 
+ 
+museus. Em comparação com aplicações desenvolvidas em outros países, a aplicação nesta altura 
+apresentaria um design superior e mais funcionalidades associadas à realidade aumentada. 
+Previa-se que seria possível projetar as peças em realidade aumentada, tanto ancoradas a pontos-
+chave (por exemplo, mesas) quanto em modo não ancorado, além de serem ancoradas a modelos 
+3D impressos presentes no museu, proporcionando um maior controlo sobre a experiência. Esta 
+seção incluiria ainda um mapa de navegação interativo em 2D, completo com pontos de interesse, 
+guia de percurso e auto-localização do utilizador no espaço físico do museu. 
+Por fim, haveria uma seção de gamificação, que consistiria numa "caça ao tesouro" utilizando 
+as peças do espólio do museu como colecionáveis dentro da aplicação, além de uma série de 
+minijogos com uma leaderboard online. Esses jogos poderiam ser jogados tanto dentro quanto 
+fora do museu, com o objetivo de expandir o espaço de aprendizagem desde o museu até o lar, 
+promovendo o autoconhecimento e uma competição amigável e construtiva. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+28 
+ 
+4.3.  Protótipo Figma 
+ 
+Antes de iniciar a fase d o protótipo do  design da aplicação na plataforma Figma, 
+correspondente à quarta fase, foi realizada uma breve pesquisa para estudar o mercado de 
+aplicações móveis que integram realidade aumentada, assim como de aplicações complementares 
+para museus em geral. Da pesquisa realizada, foi possível reunir um conjunto de conclusões: 
+ 
+• As aplicações que integram realidade aumentada são, na sua grande maioria, 
+exclusivamente voltadas para o entretenimento lúdico, apresentando pouco ou nenhum 
+valor educativo ou pedagógico; 
+• Estas aplicações são frequentemente limitadas em termos de objetos que o utilizador pode 
+visualizar e nas formas de interação que são permitidas com os modelos; 
+• As aplicações companheiras dos museus dividem -se em duas categorias: a primeira 
+categoria é exclusivamente informativa e contém tanta informação que se torna autónoma, 
+não sendo quase necessário estar presente no espaço físico do museu (como numa visita 
+virtual); a segunda categoria é mais proativa, integrando visitas guiadas narradas e 
+realidade aumentada em algumas peças de interesse, mas apresenta algumas limitações; 
+• Algo comum a quase todas as aplicações exploradas é que o design é, na grande medida, 
+demasiado simples e antiquado, apresentando  por vezes  um número reduzido de 
+funcionalidades. 
+ 
+Tendo em vista as observações acima, torna -se fundamental criar uma aplicação, e, 
+consequentemente, um design, que não faça concessões, tanto a nível visual quanto em termos 
+de funcionalidades, integração de realidade aumentada e disponibilização de informação útil. 
+Como inspiração positiva, foi considerada a aplicação móvel do Museu Nacional da República 
+Checa11, o Národní muzeum, devido à sua integração de realidade aumentada numa aplicação 
+extremamente bem construída, com design simples e moderno, além de uma panóplia de 
+funcionalidades e informações úteis. 
+ 
+Sendo que se trata de uma aplicação móvel, ainda mais especificamente uma aplicação 
+móvel cujo “motor” principal será baseado em realidade aumentada, e que será utilizada em 
+ 
+11 Disponível em play.google.com/store/apps/details?id=cz.nm.app&pcampaignid=web_share 
+
+29 
+ 
+ambientes com iluminação inconstante e em movimento , é necessário considerar alguns 
+parâmetros e princípios: 
+ 
+• Uma abordagem de UI/UX baseada em cartões, também standard do Material Design, a 
+qual melhora o fluxo de utilização, simplifica e organiza a leitura por parte do utilizador, 
+pois são “unidades contidas, independentes e individuais” que “podem ser autónomas , 
+sem depender de elementos circundantes para o seu contexto.”, como a Google apresenta 
+na subsecção de cartões no website das guidelines12 do mesmo; 
+• Tendo em conta que a realidade aumentada é uma tecnologia que muitas pessoas 
+desconhecem e, portanto, nunca utilizaram (cerca de 12% da população mundial de 
+acordo com a plataforma Statista13) é necessário manter um design simples e sem grandes 
+distrações para que se torne mais óbvio como interagir com a aplicação; 
+• Sempre que seja necessário navegar na aplicação, limitar o número de interações 
+necessárias por parte do utilizador para um determinado objetivo a apenas 3 ações, seja 
+este scroll ou navegação dentro de menus; 
+• Utilização de botões ou elementos interativos e tamanhos de letra grandes, uma vez que 
+o uso da aplicação implica alguma distância entre os olhos do utilizador e ecrã do 
+telemóvel sendo, portanto, benéfico uma maior área de contacto; 
+• Evitar colocar botões ou elementos interativos nas bordas do ecrã e no topo, pois pode 
+ser difícil acionar ou navegar com uma só mão; 
+• Escolha de cores claras pois sendo uma aplicação companheira na visita ao museu, as 
+condições lumínicas poderão não ser ótimas e logo impedir uma boa visibilidade quando 
+utilizada em ambientes de luz direta ou em zonas de penumbra; 
+• Um fundo simples caracterizado por padrões ondulados com cores pastel para não ser 
+muito distrativo, mas também não ser demasiado monótono; 
+• Existência de um “ Splash screen”14, que providencia o tempo necessário para carregar 
+recursos descarregados e para estabelecer a ligação com os servidores da Firebase 
+15(serviço de armazenamento dos metadados dos utilizadores, e modelos 3D, previsto ser 
+utilizado na aplicação); 
+ 
+12 Disponível em m2.material.io/components/cards#usage 
+13 Dados disponíveis em www.statista.com/statistics/1098630/global-mobile-augmented-reality-ar-users/ 
+14 pequena animação que aparece quando uma aplicação está a iniciar e/ou a carregar recursos 
+15 Disponível em firebase.google.com 
+
+30 
+ 
+• Utilização de transições estilo “metamorfose” para suavizar mudanças nos cartões ou 
+mesmo nas páginas e gerar uma sensação de imersão; 
+• No caso de haver mais informação do que cabe num só ecrã, implementar scroll, pois 
+facilita a visualização da informação sem que seja necessário complicar o UI com botões 
+adicionais. 
+Tendo em conta estes parâmetros e princípios, iniciou -se o processo de design do protótipo 
+no Figma, que, no final, contará com quatro versões de desenvolvimento distintas, apresentadas 
+a seguir. 
+ 
+4.3.1. Versão 1 
+ 
+Surge então a primeira versão do protótipo Figma, que segue alguns dos parâmetros e 
+princípios necessários apresentados anteriormente. Esta versão tem: 
+ 
+• Um “spash screen” (tabela 4, célula a) animado com um modelo 3D do exterior do museu, 
+inspirado na aplicação móvel companheira do museu nacional da República Checa; 
+• Uma página inicial (tabela 4, célula b) que tem o avatar de César Augusto, e é alimentado 
+por ChatGPT para que o utilizador possa colocar questões de forma imediata; 
+• Uma página inicial de realidade aumentada (tabela 4, célula c), que tem no cartão do topo 
+uma pré-visualização da câmara em tempo real, para que o utilizador conseguisse saber 
+ao que estava a realizar scan, e no cartão de baixo os detalhes da peça e o modelo 3D; 
+• Uma página inicial de realidade aumentada na versão de ecrã completo  (tabela 4, célula 
+d), para que se possa visualizar em detalhe o modelo 3D interativo da peça, assim como 
+visualizar a peça em realidade aumentada; 
+• Uma página inicial do mapa de navegação interativo 2D (tabela 4, célula e), completo com 
+pontos de interesse, guia de percurso e auto-localização do utilizador no espaço do museu. 
+No cartão de baixo estaria a pré-visualização da câmara para fazer scan do código  
+localizador; 
+• Uma segunda página do mapa na versão de ecrã completo (tabela 4, célula f) onde é 
+possível visualizar o mapa mais facilmente; 
+• Uma página de scan da gamificação aumentada  (tabela 4, célula g), ainda sem design 
+atribuído; 
+
+31 
+ 
+• Uma página inicial da gamificação aumentada  (tabela 4 , célula h) , ainda sem design 
+atribuído, tendo apenas conteúdo sugerido à equipa; 
+• Uma página inicial da secção de informações das peças  (tabela 4, célula i), sem design 
+atribuído, pois ainda não teria sido atribuída uma estrutura e organização desta secção; 
+• Uma página onde seriam apresentadas as peças disponíveis para consulta de informações 
+e o utilizador poderia escolher a que pretendesse (tabela 4, célula j); 
+• Uma página onde seria apresentada a informação completa da peça escolhida pelo 
+utilizador (tabela 4, célula l); 
+• Uma página sugerida à equipa  como possível galeria dos colecionáveis da parte da 
+gamificação aumentada (tabela 4, célula m). 
+ 
+Tabela 4 – Ecrãs da primeira versão do protótipo Figma 
+ 
+a 
+ 
+b 
+ 
+c 
+ 
+d 
+ 
+ 
+e 
+ 
+ 
+f 
+ 
+ 
+g 
+ 
+ 
+h 
+    
+
+
+32 
+ 
+Tabela 4 – Ecrãs da primeira versão do protótipo Figma 
+ 
+i 
+ 
+j 
+ 
+l 
+ 
+m 
+ 
+O design do protótipo foi, então, apresentado aos intervenientes, tendo sido rejeitado. Como 
+previsto no workflow, a tarefa seguiu para correção e refinamento, incorporando todas as críticas, 
+elogios e sugestões na criação da segunda versão do protótipo. 
+ 
+4.3.2. Versão 2 
+ 
+Na segunda versão do protótipo, decidiu-se alterar completamente o fluxo de UX, introduzindo 
+um menu de navegação fixo no rodapé (tabela 5, célula a). Esta nova barra de navegação substitui 
+o menu anterior, que era demasiado simples e variava entre as páginas. A barra fixa apresenta 
+uma estrutura consistente para todas as páginas e segue uma lógica de fluxo natural do utilizador, 
+com uma ordem específica e intencional, organizada da seguinte forma: 
+ 
+• O botão de início foi posicionado à esquerda do ecrã, pois representa o ponto de partida 
+da aplicação, considerando que a leitura geralmente flui da esquerda para a direita; 
+• O botão do mapa ocupa a segunda posição, uma vez que os mapas são essenciais para 
+a visita e, portanto, devem estar logo a seguir ao botão de início; 
+• O botão de scan foi colocado no centro, destacando-se como o núcleo da aplicação. Esta 
+posição é justificada pela sequência de utilização: após se localizar no mapa, é provável 
+que o utilizador queira fazer um scan de imediato; 
+• O botão de jogos foi colocado entre as páginas de scan e informação, já que possui uma 
+afinidade maior com a página de scan, devendo, por isso, estar ao seu lado; 
+
+
+33 
+ 
+• Por fim, o botão da página de informação foi posicionado à direita, uma área geralmente 
+reservada para ações que o utilizador não necessita com frequência, mas que continuam 
+a ser importantes. Esta posição evita desordem visual e minimiza a sobreposição sobre o 
+conteúdo de fundo. 
+Este processo foi, mais uma vez, orientado pelas guidelines do Material Design, que 
+recomendam que as barras de navegação "podem conter 3-5 destinos de igual importância" e "os 
+destinos não mudam. Devem ser consistentes em todos os ecrãs da aplicação." 
+A maior mudança nesta versão ocorre, sem dúvida, na secção de informação (tabela 5, célula 
+i), que passa por uma reformulação quase completa na sua organização. Esta secção passa a ser 
+composta por um cartão no topo que categoriza as peças do espólio do museu disponíveis na app 
+em quatro áreas: olaria, armaria, objetos valiosos e marcos miliários.  Em seguida, está o cartão 
+do calendário, que atualiza automaticamente para exibir os eventos que ocorrerão no museu no 
+mês corrente. Após este, surge o cartão com a história da génese do museu, o cartão de 
+contextualização das épocas históricas representadas na área de exposição e, por fim, um cartão 
+com pontos de interesse na área envolvente do museu. Alteraram-se também as cores, que foram 
+escolhidas por remeterem para arqueologia, como os castanhos e cinzentos, e a cor que mais se 
+assemelha a cada época histórica. 
+Relativamente ao primeiro cartão, ao selecionar uma das quatro áreas, o utilizador é 
+direcionado para a página de seleção da peça  (tabela 5, célula j)  que deseja consultar e, após 
+escolher, segue para a página de informações detalhadas sobre a peça (tabela 5, célula l) que foi 
+melhorada. Esta última página passou por um desenvolvimento significativo, incluindo agora: a 
+projeção em 3D; a descrição detalhada da peça; as fotografias em alta resolução; a localização 
+GPS do local onde a peça foi encontrada; e um cartão onde o utilizador pode colocar questões ao 
+ChatGPT de imediato sobre a peça em questão. 
+Outras alterações gerais na aplicação são:  
+ 
+• A simplificação da página inicial para uma apresentação mais simples, com uma 
+abordagem UI baseada em cartões , e um fundo desfocado e animado ( tabela 5, célula 
+a); 
+• Melhorias na estética e conteúdo dos cartões (tabela 5, célula e, f); 
+• Expansão da galeria dos colecionáveis para um formato de overflow vertical  (tabela 5, 
+célula d); 
+
+34 
+ 
+• Remoção da animação de “splash screen” e do avatar, uma vez que ainda não tinha sido 
+entregue para implementação; 
+• As restantes páginas permanecem inalteradas (tabela 5, célula b,c,g,h). 
+ 
+Tabela 5 – Ecrãs da segunda versão do protótipo Figma 
+ 
+a 
+ 
+b 
+ 
+c 
+ 
+d 
+ 
+e 
+ 
+f 
+ 
+g 
+ 
+h 
+ 
+i 
+ 
+j 
+ 
+l 
+ 
+
+
+35 
+ 
+Mais uma vez , o protótipo é apresentado ao s intervenientes, sendo rejeitado e surge uma 
+nova lista de correções e sugestões, tendo sido implementadas no terceiro protótipo funcional da 
+aplicação, a versão 3. 
+ 
+4.3.3. Versão 3 
+ 
+Nesta terceira versão, a visão pretendida para a aplicação é finalmente concretizada, 
+permitindo reconhecer os traços da aplicação final. As cores e os padrões da versão anterior dão 
+lugar a uma nova estética, caracterizada por um estilo simples, suave e s óbrio. Para tal, foram 
+eliminados os fundos com padrões ondulados, e todos os blocos de informação estão 
+obrigatoriamente em cartões, além de uma alteração na paleta de cores da aplicação. 
+Deu-se uma maior uniformização dos elementos da aplicação (dimensões dos botões, cores, 
+transições, tamanho e tipo de texto) . Foram também adicionados mais cartões à página inicial, 
+com um novo banner identificador do museu e mais cartões rápidos (tabela 6, célula a). Foi ainda 
+desenvolvida uma nova página para os utilizadores efetuarem login na aplicação , possibilitando 
+alojar dados do utilizador e permitir acesso à leaderboard dos minijogos (tabela 6, célula o). 
+Uma das maiores alterações desta versão foi, sem dúvida, a reconcepção da navegação 
+primária, através da introdução de um menu vertical de estilo de barra lateral,  para que a 
+navegação seja mais eficaz, e que contém as páginas de História, Coleção e Calendário (tabela 6, 
+célula q). Adicionalmente, foi introduzida uma barra de navegação no topo, que inclui o seletor de 
+museu (indica o museu onde o utilizador se encontra), o nome da aplicação e o perfil do utilizador 
+(login) (tabela 6, célula p). 
+Uma outra alteração substancial foi a subdivisão da página de informação. Anteriormente, 
+esta página continha cinco cartões distintos, sendo que, nesta versão, foi dividida para três novas 
+páginas:  
+• A página de História, onde os utilizadores podem clicar nas categorias da barra e o cartão 
+correspondente aparece em baixo. (tabela 6, célula i, j,l,m); 
+• A página de Coleção, que contém o seletor de categorias das peças. (tabela 6, célula g); 
+• A página de Calendário redesenhada (tabela 6, célula h). 
+As restantes páginas sofrem apenas alterações estéticas (tabela 6, célula b,c,d,e,f,n). 
+ 
+
+36 
+ 
+Tabela 6 – Ecrãs da terceira versão do protótipo Figma 
+ 
+a 
+ 
+b 
+ 
+c 
+ 
+d 
+ 
+e 
+ 
+f 
+ 
+g 
+ 
+h 
+ 
+i 
+ 
+j 
+ 
+l 
+ 
+m 
+
+
+37 
+ 
+Tabela 6 – Ecrãs da terceira versão do protótipo Figma 
+ 
+n 
+ 
+o 
+ 
+ 
+p 
+ 
+q 
+ 
+O protótipo foi apresentado aos intervenientes, que, embora bastante satisfeitos com o 
+resultado, sugeriram um conjunto de alterações e incrementos. 
+ 
+4.3.4. Versão 4 
+ 
+Dado que a data-limite para o projeto  estava próxima do seu término e esta seria a última 
+versão do protótipo, a versão 4 foi a que mais se desenvolveu e tem as transformações mais 
+detalhadas. As cores da aplicação foram invertidas, com os castanhos, anteriormente a cor 
+primária, passando a ser usados para os detalhes, enquanto os cinzentos assumiram o papel de 
+cores principais (tabela 7, célula a). Esta modificação trouxe uma necessária leveza à aplicação, 
+com contrastes mais subtis, reforçados ainda pela substituição da fonte padrão do Figma pela 
+fonte oficial da aplicação, a Mont Blanc (tabela 7, célula a). 
+Nesta versão final, esperava -se integrar diretamente os renders e imagens finais fornecidos 
+pelos restantes membros da equipa. No entanto, dado que nenhum material foi entregue, onde 
+foi necessário utilizou-se exemplos obtidos na internet de outros projetos semelhantes. 
+A página do mapa (tabela 7, célula n,o) também passou por uma alteração significativa, visto 
+que o colega responsável iniciou o desenvolvimento de um protótipo de teste para um novo mapa 
+de navegação. Este mapa continuaria a ser em 2D, mas agora incluiria uma opção de realidade 
+aumentada, permitindo que o utilizador, ao apontar o telemóvel para o espaço do museu, visualize 
+pontos de interesse, peça direções com uma linha de orientação no espaço 3D que o guiaria até 
+ao destino. Este mapa também permitiria localizar o utilizador com elevada precisão dentro do 
+
+
+38 
+ 
+museu. 
+A página de História (tabela 7, célula e,f,g,h) é completamente reestruturada para evitar as 
+áreas vazias que surgiam antes de o utilizador selecionar uma categoria. Adicionou-se uma breve 
+descrição da página abaixo do título  (tabela 7, célula e), assim como descrições individuais para 
+cada uma das três categorias. No espaço inferior da página, foi inserida uma imagem gerada por 
+IA16, com cinco colunas romanas e as letras “MADDS” (Museu Arqueológico D. Diogo de Sousa). 
+Ao selecionar uma categoria, a página transforma -se, exibindo a categoria escolhida  (tabela 7, 
+célula f,g,h), tornando a navegação mais fluida e respeitando a regra das três interações máximas. 
+Por recomendação do professor orientador, investigou -se a possibilidade de utilizar uma 
+funcionalidade do Figma chamada “ Auto Layout ,” que ajusta automaticamente os elementos 
+gráficos. Por exemplo, ao remover os fins de semana do calendário, os restantes dias expandem-
+se para preencher o espaço. Esta funcionalidade revelou-se extremamente útil para aprimorar a 
+criação de um calendário superior ao anterior, uma vez que trouxe ao calendário uma estética 
+mais leve, limitando o texto visível ao essencial e permitindo que o utilizador expanda a informação 
+ao clicar no botão imediatamente abaixo  (tabela 7, célula s) . Nesse caso, a página adapta -se, 
+mostrando uma versão reduzida do calendário e informações detalhadas sobre o evento  (tabela 
+7, célula t). Se o utilizador desejar saber mais sobre outro evento, poderá selecionar diretamente 
+o dia desejado (indicado com uma cor mais escura) para abrir uma janela pop-up com os detalhes 
+adicionais (tabela 7, célula u). Além das melhorias estéticas, a organização da página também foi 
+otimizada, com o calendário posicionado no topo e a informação filtrada na parte inferior. 
+ 
+Outras alterações gerais na aplicação são: 
+• Adição de detalhes e pequenos complementos visuais, e correções cromáticas em todas 
+as páginas; 
+• A página inicial de realidade aumentada recebe o exemplo de como seria o aspeto 
+previsto da aplicação. Neste exemplo a pré-visualização da câmara está escurecida para 
+simular o aviso de iluminação insuficiente para scan (tabela 7, célula b); 
+• Nas páginas de ecrã completo da pré-visualização da câmara da realidade aumentada e 
+projeção 3D encontram-se normais, ou seja, iluminação suficiente para scan (tabela 7, 
+célula c,d); 
+ 
+16 Utilizando o prompt “Generate five simple stone columns, each broken and slightly tilted, displayed side by side. 
+The columns vary in height and alternate in their tilt direction. The letters “MADDS” should be present below each 
+column, separately.” 
+
+39 
+ 
+• A nova página de seleção das peças da categoria de objetos valiosos (tabela 7, célula j); 
+• A página de login é levemente editada para que tenha um aspeto visual mais completo e 
+parecido ao resto da aplicação (tabela 7, célula l); 
+• A nova página Rede, convertida a partir do seletor do museu que antes estava na barra 
+de navegação superior e assim deixa de existir (tabela 7, célula r); 
+• O atalho para a página Rede é acrescentado à barra de navegação vertical ( tabela 7, 
+célula q). 
+ 
+As restantes páginas sofrem apenas alterações estéticas (tabela 7, célula i,m,p). 
+ 
+Tabela 7 – Ecrãs da versão final do protótipo Figma 
+ 
+a 
+ 
+b 
+ 
+b 
+ 
+d 
+ 
+e 
+ 
+f 
+ 
+g 
+ 
+ 
+h 
+
+
+40 
+ 
+Tabela 7 – Ecrãs da versão final do protótipo Figma 
+ 
+i 
+ 
+j 
+ 
+l 
+ 
+m 
+ 
+n 
+ 
+o 
+ 
+p 
+ 
+q 
+ 
+r 
+ 
+s 
+ 
+t 
+ 
+u 
+ 
+ 
+Outra grande alteração foi feita na página de informação da peça  (tabela 8, célula a,e). Em 
+vez de uma página longa com scroll, esta foi reorganizada em três conjuntos de cartões (tabela 8, 
+
+
+41 
+ 
+célula b,c,d,f,g,h)  dispostos num carrossel deslizante. Esta abordagem permite apresentar a 
+informação de forma mais condensada e acessível, eliminando a necessidade de uma interação 
+prolongada. 
+ 
+Tabela 8 – Carrossel da página de informação da versão final do protótipo Figma 
+ 
+a  
+b 
+ 
+c 
+ 
+d 
+ 
+ 
+e 
+ 
+f 
+ 
+g 
+ 
+h 
+ 
+ 
+Por fim, esta última versão introduz pela primeira vez assistentes de ação, que são pequenas 
+animações que indicam ao utilizador os elementos interativos da aplicação. Estes elementos 
+incluem ações como scroll, clique (tabela 9, célula g), ampliação (tabela 9, célula b), deslize lateral 
+(tabela 9, célula a ,c,d) e, em casos específicos, notificações como o assistente de iluminação 
+insuficiente para o uso da câmara  (tabela 9, célula f) ou ainda tutoriais de navegação ( tabela 9, 
+célula e). Esses assistentes proporcionam uma experiência mais intuitiva, orientando o utilizador 
+sobre as diversas formas de interação disponíveis. 
+ 
+
+
+42 
+ 
+Tabela 9 – Assistentes de interação da versão final do protótipo Figma 
+ 
+a  
+b 
+ 
+c 
+ 
+d 
+ 
+e 
+ 
+f 
+ 
+g 
+ 
+ 
+O protótipo da versão 4 foi aprovado como adequado e final, dando-se assim por concluído o 
+trabalho a realizar para o projeto.  Abaixo encontra -se uma tabela ( tabela 10 ) que resume as 
+iterações do protótipo e as principais mudanças evolutivas de cada uma: 
+ 
+Tabela 10 – Resumo evolutivo das iterações do protótipo 
+Iterações Principais mudanças evolutivas 
+Versão 1 
+Primeira versão; design simples com 11 
+páginas; barra de navegação primitiva. 
+Versão 2 
+Alteração completa do UX com nova barra de 
+navegação; UI baseado em cartões; criação 
+do setor completo de informação; 
+
+
+43 
+ 
+Tabela 10 – Resumo evolutivo das iterações do protótipo 
+complementações das restantes páginas. 
+Versão 3 
+Nova estética visual mais simples e com 
+paleta de cores do museu; introdução do 
+menu de navegação vertical; subdivisão da 
+página de informação; criação de mais 
+páginas; uniformização das páginas e 
+elementos nas mesmas. 
+Versão 4 
+Refinações visuais em todas as páginas; 
+reestruturação completa da página da história 
+e calendário; integração de imagens e vídeos 
+de exemplo; introdução de novas páginas; 
+reestruturação da página de informação 
+individual da peça, agora com um carrossel; 
+introdução de assistentes de interação e 
+tutorial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44 
+ 
+4.4.  Tarefas adicionais 
+ 
+Durante o decorrer do estágio foi possível realizar, de forma simultânea com as tarefas do 
+projeto, um conjunto de tarefas adicionais  (correspondentes à quinta fase)  que não estariam 
+inicialmente previstas, ou não estaria previsto serem realizadas pela minha pessoa , sendo estas 
+apresentadas abaixo. 
+O material resultante das tarefas adicionais encontra-se reunido na tabela 11: 
+ 
+Tabela 11 – Material gerado durante as tarefas adicionais e a sua finalidade 
+Tarefa associada Material resultante Finalidade 
+Recolha de modelos 3D por 
+scanner 
+3 modelos descartados 
+1 modelo utilizável 
+Aplicação móvel; 
+investigações e estágios ou 
+projetos; material 
+didático/explicativo. 
+Recolha de modelos 3D por 
+fotogrametria 
+10 modelos utilizáveis 
+Aplicação móvel; 
+investigações e estágios ou 
+projetos; material 
+didático/explicativo. 
+Fotografias de alta resolução 
+de 360º 
+398 fotografias utilizáveis 
+Aplicação móvel; 
+investigações e estágios ou 
+projetos; material 
+didático/explicativo. 
+Correção de informações no 
+servidor-arquivo 
+Cerca de 20 ficheiros 
+corrigidos 
+Correta preservação de 
+informação. 
+ 
+ 
+4.4.1. Recolha de modelos 3D por scanner 
+ 
+No âmbito das atividades realizadas, apoiei a colega de equipa responsável pela digitalização, 
+na recolha de modelos 3D de objetos do espólio do museu. Para tal, foi disponibilizado um scanner 
+3D portátil, o Sense 2, da empresa 3DSystems. Este tipo de scan ner portátil funciona de forma 
+plug-and-play, sendo apenas necessário conectá -lo ao computador via um cabo único e utilizar o 
+
+45 
+ 
+software dedicado com tracking automático da peça para realizar os scans. 
+Inicialmente, foram efetuados testes num objeto-cópia para evitar riscos de danos em peças 
+do museu, que demonstraram resultados abaixo das expectativas, com os modelos 3D ficando 
+com pouco detalhe e bastante ruído visual. Após averiguações, constatou-se que as configurações 
+de fábrica do scanner eram inadequadas, levando a um ajuste através de tentativa e erro até se 
+obter modelos de peças do espólio de qualidade aceitável. 
+Ainda assim, mesmo com os parâmetros otimizados, a equipa considerou que a qualidade 
+dos 3 modelos resultantes não era suficientemente satisfatória (figura 15), e, consequentemente, 
+apenas 1 dos modelos digitalizados foi aproveitado para o projeto (figura 16). 
+  
+Figura 15 – Modelo 3D descartado por falta de qualidade (elaboração própria) 
+ 
+ 
+Figura 16 – Modelo 3D utilizável feito com scanner (elaboração própria) 
+
+
+46 
+ 
+4.4.2. Recolha de modelos 3D por fotogrametria 
+ 
+Devido aos resultados insatisfatórios dos scans 3D com o scanner portátil, optou -se por 
+experimentar uma abordagem alternativa: a fotogrametria. Esta técnica consiste em fotografar um 
+objeto de todos os ângulos (cerca de 40 fotografias ao redor de 360º) e, posteriormente, importar 
+essas imagens para um software que as combina automaticamente (para esta tarefa foi escolhido 
+o Metashape17 da Agisoft), gerando uma representação 3D baseada nos dados visuais capturados. 
+Apesar de a fotogrametria parecer um processo direto na sua teoria, a implementação prática 
+apresentou desafios consideráveis: 
+ 
+• As fotografias precisam de ser tiradas a uma distância constante do objeto, sem alterar 
+o zoom ou a proximidade; 
+• Não há assistência de tracking automático, exigindo atenção rigorosa ao movimento entre 
+fotografias; 
+• As diferenças entre uma foto e a seguinte devem ser mínimas para que o software consiga 
+mapear adequadamente a superfície do objeto; 
+• As ferramentas de fotogrametria disponíveis são na sua maioria de nível profissional, 
+pagas, e apresentam uma curva de aprendizagem elevada; 
+• O processamento de cada modelo 3D é intensivo no tempo de processamento, com uma 
+média de 2 horas por modelo, sendo que  correções podem multiplicar o tempo 
+demorado; 
+• Os requisitos de recursos computacionais são altos, exigindo um computador potente 
+para processar os modelos; 
+• Muitas vezes, o software cria artefactos no modelo 3D, sendo necessário fazer uma 
+limpeza detalhada para corrigir esses elementos irreais. 
+ 
+Apesar destes desafios, os resultados foram extremamente positivos, produzindo 9 modelos 
+3D de alta qualidade, com poucas correções necessárias, todos em condições de uso. Um exemplo 
+do resultado final pode ser observado na figura 17: 
+ 
+17 Disponível em www.agisoft.com 
+
+47 
+ 
+ 
+Figura 17 – Modelo 3D utilizável realizado com fotogrametria (elaboração própria) 
+ 
+4.4.3. Fotografias de alta resolução de 360º dos objetos 
+ 
+Para realizar a fotogrametria dos objetos, foi necessário fotografá -los de perto, em alta 
+resolução e em ao longo de 360º, gerando assim um conjunto de aproximadamente 398 
+fotografias (figura 18 e figura 19). Este acervo de fotografias está pronto para uso imediato e 
+apresenta diversas aplicações potenciais: pode ser incorporado na aplicação móvel para 
+enriquecer a experiência de realidade aumentada, utilizado em futuras investigações museológicas 
+e em estágios ou projetos, além de servir como material didático e explicativo no próprio museu. 
+Este conjunto robusto de material visual oferece versatilidade para o museu e futuras iniciativas 
+educacionais ou de preservação digital. 
+
+
+48 
+ 
+ 
+Figura 18 – Fotografias de alta-resolução geradas (elaboração própria) 
+ 
+ 
+Figura 19 – Fotografias de alta-resolução geradas (elaboração própria) 
+ 
+4.4.4. Correção de informações no servidor-arquivo 
+ 
+A última tarefa adicional realizada durante o estágio no museu foi a correção de informações 
+no servidor -arquivo do museu. Durante a pesquisa para a recolha de material necessário à 
+aplicação, verificou -se que alguns ficheiros presentes no servidor -arquivo, como fotografias, 
+negativos e documentos informativos, apresentavam dados incorretos ou estariam incorretamente 
+identificados (figura 20 e figura 21). Após a devida verificação, os técnicos superiores Óscar Santos 
+e Felismina Boas foram contactados para corrigir as discrepâncias. 
+
+
+49 
+ 
+ 
+Esta tarefa, embora não tenha contribuído diretamente para o projeto da aplicação, 
+proporcionou uma oportunidade valiosa para expandir a compreensão do trabalho de gestão de 
+arquivo no museu. Este trabalho, muitas vezes invisível para o público, é, no enta nto, essencial 
+para que o museu cumpra a sua função de investigação e preservação cultural. 
+ 
+ 
+Figura 20 – Digitalização de uma folha de campo relativa à zona de Guilheta 
+ 
+ 
+Figura 21 – Nome do ficheiro da figura 20 identificado de forma incorreta 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+50 
+ 
+V. Conclusão 
+ 
+No último dia de estágio, realizou-se uma apresentação final e detalhada do design ao técnico 
+superior Óscar Santos e à diretora do museu, Drª Maria José. Durante esta sessão, discutiu-se o 
+processo de criação do design, destacando o seu valor acrescentado para o museu ao enriquecer 
+a experiência dos visitantes na exposição. Foram também considerados os comentários e o 
+feedback fornecidos tanto s obre o design quanto sobre os materiais produzidos nas tarefas 
+adicionais. 
+O design do protótipo foi aprovado, sendo que a navegação se demonstrou  intuitiva e 
+agradável, permitindo uma interação fácil e fluida, sem comprometer o aspeto visual. 
+Entre os objetivos definidos no início do projeto destacaram -se a expansão significativa de 
+conhecimentos e proficiência na criação e design de aplicações móveis, a realização de uma 
+primeira experiência profissional e a especialização das competências adq uiridas ao longo do 
+mestrado. Todos estes objetivos foram inteiramente alcançados, como comprovado pela 
+aprovação total do design e tarefas adicionais  por todos os intervenientes e pela qualidade dos 
+materiais produzidos. 
+ 
+5.1.  Análise SWOT 
+ 
+Neste último capítulo do relatório, foi ainda realizada uma análise SWOT ( figura 22) como 
+forma de resumir a experiência de estágio e o papel desempenhado no projeto. Esta técnica de 
+planeamento estratégico permite identificar pontos fortes e fracos, bem como oportunidades e 
+ameaças associadas ao projeto: 
+ 
+• Forças ( Strengths): Destaca -se a forte motivação pessoal para realizar a primeira 
+experiência de trabalho profissional; um ambiente de trabalho excecional e motivador, que 
+desde o início promoveu um sentimento de pertença e colaboração; o suporte técnico e a 
+disponibilidade dos técnicos superiores, que se mostraram prontos a ajudar, mesmo 
+quando fora das suas áreas de especialização; 
+• Fraquezas (Weaknesses): A falta de experiência em design gráfico revelou-se um desafio, 
+exigindo uma curva de aprendizagem intensa, sendo que o potencial máximo foi alcançado 
+apenas próximo do final do estágio. A ausência de um calendário de trabalho rígido por 
+parte do museu concedeu alguma liberdade, mas também facilitou a quebra de ritmo e 
+
+51 
+ 
+perda de ímpeto; 
+• Oportunidades ( Opportunities): Este estágio pode abrir portas para o desenvolvimento 
+contínuo de competências, com a possibilidade de continuar o trabalho de forma 
+voluntária e externa junto do museu; a oportunidade para o museu desenvolver a aplicação 
+móvel; e a oportunidade para a realização de futuros trabalhos profissionais; 
+• Ameaças ( Threats): Identificaram -se problemas resultantes da interdependência do 
+trabalho, com certos materiais a não serem partilhados entre a equipa; a falta de recursos 
+do museu, como o atraso no acesso ao servidor -arquivo, a ausência de um espaço 
+colaborativo de trabalho e a escassez de computadores para estagiários; além disso, 
+grandes mudanças estruturais na entida de de acolhimento (conversão da Direção 
+Regional de Cultura do Norte para a Museus e Monumentos de Portugal, E.P.E.), que 
+resultaram em problemas burocráticos e alterações de funcionamento. 
+ 
+ 
+Figura 22 – Análise SWOT do estágio (elaboração própria) 
+ 
+ 
+5.2.  Considerações finais 
+ 
+Abaixo são apresentados exemplos de algumas páginas da aplicação (tabela 12 e tabela 13), 
+colocadas lado a lado, para evidenciar o progresso na qualidade e no refinamento do design. Esse 
+avanço reflete a aprendizagem contínua sobre os princípios de design e o domínio das ferramentas 
+ao longo do estágio, permitindo alcançar o potencial máximo  das competências adquiridas e 
+aplicadas ao projeto. 
+
+
+52 
+ 
+Tabela 12 – Ecrãs da aplicação ao longo das versões 
+ 
+    
+ 
+Tabela 13 – Ecrãs da aplicação ao longo das versões 
+ 
+    
+ 
+ 
+No que toca aos resultados do projeto, estes podem ser observados na tabela de mapeamento 
+dos objetivos (tabela 14) que comprova o cumprimento total do que era esperado para este projeto. 
+ 
+ 
+ 
+
+
+53 
+ 
+Tabela 14 – Tabela de mapeamento dos objetivos do projeto e o respetivo resultado 
+Tarefa Resultado 
+Reunião de planeamento inicial 
+Definição do esboço da aplicação, o design, 
+as funcionalidades, as datas de limite e as 
+metas a atingir. 
+Logótipo 
+Criação de 4 iterações do logótipo sendo a 
+última aprovada e um ícone da aplicação. 
+Tipo de letra 
+Escolha dos tipos de letra Mont Blanc e 
+Huxley Vertical. 
+Paleta de cores da aplicação 
+Recolha e criação da paleta de cores com 9 
+cores utilizada pelo museu (identidade 
+gráfica). 
+Esquema-esqueleto Canva 
+Criação de um esquema-esqueleto da 
+aplicação (diretrizes e funcionalidades) na 
+plataforma Canva. 
+Protótipo Figma 
+Criação de 4 iterações do protótipo funcional 
+do design da aplicação na plataforma Figma, 
+sendo a última aprovada. 
+Recolha de modelos 3D por scanner Recolha de 1 modelo 3D utilizável. 
+Recolha de modelos 3D por fotogrametria Recolha de 10 modelos 3D utilizáveis. 
+Fotos de alta resolução de 360º dos objetos 
+Recolha de 398 fotografias de alta resolução 
+detalhadas de 360º dos objetos. 
+Correções de informação no servidor-arquivo Cerca de 20 ficheiros corrigidos. 
+ 
+Para concluir, é essencial expressar novamente um profundo agradecimento a todos os 
+técnicos superiores do museu, que, mesmo sabendo que provavelmente não trabalhariam comigo 
+novamente, abriram as portas do seu ambiente de trabalho sem hesitação. Geraram sempre um 
+ambiente acolhedor, como se para sempre tivesse um lugar no museu. Esta experiência de estágio 
+e projeto revelou-se extremamente positiva, e apesar dos desafios complexos e das dificuldades 
+enfrentadas, é notório que o resultado é um profissional qualificado e preparado para o mercado 
+de trabalho especializado. 
+ 
+
+54 
+ 
+5.3 Trabalho Futuro 
+ 
+Quanto ao material produzido durante o estágio:  
+• O design aprovado, criado em Figma e analisado neste relatório, foi entregue ao museu. 
+O próximo passo será a continuação do desenvolvimento da aplicação móvel, que 
+integrará o design do protótipo criado, ficando esta fase a cargo dos restantes membros 
+da equipa; 
+• Os modelos 3D das peças do espólio e as fotografias de alta resolução de 360º foram 
+igualmente entregues ao museu e armazenados no servidor -arquivo. Estes materiais 
+poderão servir de apoio a futuras investigações museológicas, bem como a estágios e 
+projetos futuros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+55 
+ 
+Referências bibliográficas 
+ 
+Archer, S., & Kaufman, C. (2013). Accelerating outcomes with a hybrid approach within a waterfall 
+environment. PMI® Global Congress 2013  www.pmi.org/learning/library/outcomes-hybrid-
+approach-waterfall-environment-5839 
+Barbosa, M. G., Saboya, L. A., Bevilaqua, D. V. (2021). A survey and evaluation of mobile apps in 
+science centers and museums. Journal of Science Communication.  
+jcom.sissa.it/article/pubid/JCOM_2005_2021_A01 
+Chen, Z. et al. (2023). Exploring the naturalness of AI -generated images . 
+ar5iv.org/abs/2312.05476 
+Cheng, K. (2005). Designing type. Yale University Press. 
+ 
+De Gruyter, W. (2019). Museums of the World 2019. De Gruyter Saur. 
+ 
+Hyndman, S. (2016). Why fonts matter. Virgin Books. 
+ 
+Jobs, S. (2003). The Guts of a New Machine. The New York Times.  
+www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html 
+ 
+Kamińska, D., Zwoliński, G., Laska-Leśniewicz, A., Raposo, R., Vairinhos, M., Pereira, E., Urem, 
+F., Hinić, M., Haamer, R., & Anbarjafari, G. (2023). Augmented reality: Current and new trends in 
+education. Electronics. www.mdpi.com/2079-9292/12/16/3531 
+ 
+Macdonald, C. (2015). Assessing the user experience (UX) of online museum collections: 
+Perspectives from design and museum professionals . Museums and the Web 2015.  
+mw2015.museumsandtheweb.com/paper/assessing-the-user-experience-ux-of-online-museum-
+collections-perspectives-from-design-and-museum-professionals/ 
+ 
+Micoli LL, Caruso G, Guidi G. (2020) Design of Digital Interaction for Complex Museum Collections. 
+Multimodal Technologies and Interaction. https://www.mdpi.com/2414-4088/4/2/31 
+
+56 
+ 
+ 
+Priyadarshini, Ar. P. (2024). The Impact of User Interface Design on User Engagement . 
+International Journal of Engineering Research & Technology , 13(3), 25 -46. www.ijert.org/the-
+impact-of-user-interface-design-on-user-engagement 
+ 
+Verkijika, S. (2020). Assessing the Role of Simplicity in the Continuous Use of Mobile Apps. Journal 
+of Organizational and End User Computing.  32. 26 -42. 
+www.researchgate.net/publication/346377789_Assessing_the_Role_of_Simplicity_in_the_Cont
+inuous_Use_of_Mobile_Apps 
+ 
+Wikipedia contributors. (2024, September 2). ARCore. In Wikipedia, The Free Encyclopedia.  
+Consultado a 10 de outubro de  2024 
+en.wikipedia.org/w/index.php?title=ARCore&oldid=1243639778 
+ 
+Wikipedia contributors. (2024, October 21). ARKit. In  Wikipedia, The Free Encyclopedia . 
+Consultado a 10 de outubro de 2024 
+from https://en.wikipedia.org/w/index.php?title=ARKit&oldid=1252391069 
+ 
+Wikipedia contributors. (2024, September 19). Graphic design.  In Wikipedia, The Free 
+Encyclopedia. Consultado a 10 de outubro de 2024  
+en.wikipedia.org/w/index.php?title=Graphic_design&oldid=1246538216 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+57 
+ 
+Anexos 
+ 
+ 
+ANEXO 1 – Avaliação do estagiário por parte da entidade acolhedora 
+ 
+
+
+58

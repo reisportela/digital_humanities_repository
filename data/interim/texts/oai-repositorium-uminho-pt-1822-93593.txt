@@ -1,0 +1,1123 @@
+Universidade do Minho  
+  
+   Escola de Letras, Artes e 
+                                                                               Hhhhhhhhhhhhhhhhhhhhhhh              Ciências Humanas   
+                                                                                                                                              
+                                                                                                                                                       
+  
+                                               Ricardo José Ribeiro de Sousa  
+     Como atrair digitalmente o público do século XXI - Markate  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Maio de 2024 
+                                     
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+outubro 2 
+
+
+3  
+  
+  
+  
+  
+ 
+  
+  
+Ricardo José Ribeiro de Sousa 
+Como atrair digitalmente o público do século XXI - Markate 
+   
+  
+  
+  
+  
+Relatório de Estágio Curricular 
+Mestrado em Humanidades Digitais Criação de Conteúdos 
+ 
+Trabalho efetuado sob a orientação do Professor Doutor Pedro Dono López 
+ 
+ 
+Braga, maio de 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+4  
+  
+  
+  
+Direitos de autor e condições de utilização do trabalho por terceiros  
+  
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras 
+e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos 
+conexos. Assim, o presente trabalho pode ser utilizado nos termos  previstos na licença abaixo 
+indicada. Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em 
+condições não previstas no licenciamento indicado, deverá contactar o autor, através do 
+RepositóriUM da Universidade do Minho.  
+Licença concedida aos utilizadores deste trabalho,  
+  
+Atribuição CC BY 
+https://creativecommons.org/licenses/by/4.0
+/  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+
+
+5  
+  
+  
+  
+Agradecimentos  
+  
+Com o término do estágio curricular na empresa de Marketing de Braga, a Markate, gostaria 
+de agradecer em primeiro lugar à Isabel Ferraz e Laura Varandas que me acolheram desde o 
+primeiro dia e procuraram integrar-me nos moldes da empresa o mais rápido possível.  
+Uma palavra também para as designers e social media managers, que procuraram sempre 
+aconselhar-me da melhor forma sobre como proceder em determinadas atividades e como por 
+vezes ser mais eficiente nos processos de criação de conteúdos, o que tornava o trab alho mais 
+rápido e compreensível para todos. Agradeço também à minha família pelo apoio ao longo do 
+estágio, que teve os seus altos e baixos, um estágio curricular é uma experiência que enriquece 
+individualmente, porém que é desgastante ao longo de diversos meses de trabalho contínuo.  
+Por fim, um agradecimento final ao Pedro Dono López, o meu orientador de estágio 
+que sempre se mostrou disponível para ajudar e esclarecer todas as dúvidas que surgiam 
+no decorrer do estágio e no processo de elaboração do relatório.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+
+6  
+  
+  
+  
+Declaração de Integridade   
+  
+Ricardo Sousa, estudante de Mestrado em Humanidades Digitais da Escola de Letras Artes 
+e ciências Humanas da Universidade do Minho, declaro ter atuado com integridade na elaboração 
+deste Relatório de Estágio intitulado “Como atrair digitalmente o público do século XXI - Markate”. 
+Confirmo que todo o trabalho foi feito por mim e não recorri a qualquer forma de falsificação de 
+resultados ou à prática de plágio. Declaro que todas as frases que retirei de trabalhos, livros e 
+sites web que pertencem a outros aut ores foram redigidos e referenciados de outra forma, por 
+outras palavras, sendo que as citações, se existirem, estarão na fonte bibliográfica.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+
+7  
+  
+  
+  
+Índice  
+  
+Agradecimentos ....................................................................................................................... 5 
+Declaração de Integridade ........................................................................................................ 6 
+Resumo ................................................................................................................................... 9 
+Abstract ................................................................................................................................. 10 
+Introdução .............................................................................................................................. 11 
+1.Enquadramento Teórico ...................................................................................................... 13 
+2. O contexto do estágio: A empresa Markate ......................................................................... 16 
+2.1 Cronograma Markate........................................................................................................ 16 
+3. Tarefas durante o estágio ................................................................................................... 18 
+3.1 Planeamento de Conteúdos .............................................................................................. 18 
+3.1.1 Markate ........................................................................................................................ 19 
+3.1.2 Limatla ......................................................................................................................... 20 
+3.1.3 Speak Up ...................................................................................................................... 21 
+3.1.4 Crafil ............................................................................................................................. 23 
+3.1.5 CIY ............................................................................................................................... 24 
+3.1.6 Famaburger .................................................................................................................. 25 
+3.1.7 ANFILAcar ..................................................................................................................... 27 
+4.1 Brochura Internacional ..................................................................................................... 28 
+4.2 Criação de artigos ............................................................................................................ 32 
+4.3 Press Release – Sé Apartamentos .................................................................................... 33 
+4.4 Newsletter – Sé Apartamentos .......................................................................................... 34 
+4.5 Análise de Dados ............................................................................................................. 34 
+4.6 Otimização de Conteúdos ................................................................................................. 36 
+4.7. Mockups ......................................................................................................................... 37 
+Considerações finais............................................................................................................... 39 
+Referências Bibliográficas ....................................................................................................... 40 
+Anexo 1 – Exemplos dos artigos criados – Speak Up ............................................................... 41 
+Anexo 2 – Dados estatísticos dos relatórios Troficolor.............................................................. 42 
+ 
+
+8  
+  
+  
+  
+Índice de Figuras  
+ 
+Figura 1- Cronograma de estágio da Markate .......................................................................... 17 
+Figura 2 - Plataforma de agendamento de Tarefas - Trello ....................................................... 18 
+Figura 3 - Exemplo dos diferentes formatos planeados para as publicações da Markate ........... 19 
+Figura 4 - Planeamento de abril da Markat
+ .............................................................................................................................................. 20 
+Figura 5 - Instastories de abril da Limatla ................................................................................ 21 
+Figura 6 - Planeamento das redes sociais do Speak Up ........................................................... 22 
+Figura 7 - Planeamento dos Instastories Speak Up .................................................................. 22 
+Figura 8 - Planeamento das redes sociais da Crafil .................................................................. 23 
+Figura 9 - Planeamentos dos Instastories da Crafil .................................................................. 24 
+Figura 10 - Planeamento das redes sociais de junho do CIY .................................................... 25 
+Figura 11 - Planeamento das redes sociais do Famaburger ..................................................... 26 
+Figura 12 - Instastories do Planeamento de Junho do Famaburger .......................................... 26 
+Figura 13 - Público-alvo da ANFILAcar ..................................................................................... 27 
+Figura 14 - Exemplo de uma das personas criadas para a ANFILAcar ...................................... 28 
+Figura 15 - Exemplo de um dos designs iniciais para uma das páginas da brochura internacional.
+ .............................................................................................................................................. 30 
+Figura 16 - Exemplo de uma das páginas desenvolvida para a brochura internacional .............. 31 
+Figura 17 - Excerto do artigo criado para o blog do website Speak Up ...................................... 32 
+Figura 18 - Alcance da página Troficolor no Facebook e Instagram .......................................... 35 
+Figura 19 - Alcance anual da página Troficolor no Facebook e Instagram ................................. 36 
+Figura 20 - Conclusão de análise de uma das redes sociais da Troficolor ................................. 36 
+Figura 21 - Exemplo de uma Mockup no Photoshop ................................................................ 38 
+ 
+ 
+ 
+ 
+
+9  
+  
+  
+  
+Como atrair digitalmente o público do século XXI - Markate 
+  
+Resumo  
+  
+Este relatório tem por base o relato de mais de 3 meses de estágio curricular na agência de 
+Marketing Markate, com início em 06 de março de 2023 e final a 7 de junho de 2023. O 
+documento presente evidencia as atividades realizadas no decurso desses meses como estagiário 
+curricular na referida empresa.  
+ A empresa Markate, sediada em Braga, mais precisamente em Nogueira, deu a 
+oportunidade de consolidar e aprimorar algumas das competências adquiridas anteriormente no 
+Mestrado em Humanidades Digitais. O objetivo principal foi a introdução ao mundo laboral por via 
+do estágio curricular, que me providenciou uma experiência em primeira pessoa do funcionamento 
+interno de uma agência de marketing em Portugal.  
+ Inicialmente, houve um período de adaptação às funções a realizar na empresa. Todos os 
+meses tinha como função a produção de diversas tarefas, como o planeamento das redes sociais 
+dos clientes e também da própria agência. Todos os trabalhos propostos exig iram rigor de 
+aprendizagem e pesquisa no desenvolvimento de ideias que impulsionassem o alcance de cada 
+uma das marcas.   
+  
+Palavras-chave: Markate, Marketing Digital, Planeamento, Redes Sociais. 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10  
+  
+  
+  
+How to digitally attract the 21st century audience – Markate  
+  
+Abstract  
+  
+ This abstract depicts my 3 month’s internship in the Marketing Agency called Markate, 
+beginning on the 6th of March 2023 and ending on the 7 th of June 2023, under the supervision of 
+Pedro Dono, demonstrating the activities realized during those months of internship on the 
+Portuguese company.  
+ The internship took place at Markate, a Portuguese company located in the city of Braga, 
+specifically in Nogueira. Its primary objective was the development and implementation of some 
+previously acquired knowledge on my Digital Humanities master. The majo r focus was the 
+introduction to the world labour through the internship, which would provide me a first -hand 
+experience of a Marketing agency internal operations.  
+ Initially, I underwent an adaptation period to understand the company’s internal procedures. 
+I was assigned numerous tasks, including planning all the social media contents of Markate’s 
+clients and of the company itself, every month until the end of my internship. These tasks required 
+knowledge and research to produce ideas that could increase every brand’s reach.  
+  
+ 
+Keywords:  Digital Marketing, Markate, Planification, Social Media.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11  
+  
+  
+  
+Introdução  
+  
+O estágio curricular sempre esteve nos meus planos quando ingressei no Mestrado em 
+Humanidades Digitais. Um mestrado transdisciplinar e direcionado para o futuro com uma 
+necessidade de formar melhor os seus alunos, incrementando as suas capacidades nas mai s 
+diversas áreas, pois os docentes do curso acreditam que no mundo atual não basta apenas ser 
+especializado numa só área, mas sim em várias.  
+Quando a altura de escolha de estágio chegou, após adquirir todo o conhecimento do 
+mestrado, optei por ingressar numa empresa que utilizasse muito a comunicação, paixão essa 
+pela área que se expandiu após as aulas opcionais na cadeira de comunicação estrat égica 
+lecionada pela docente Sara Balonas. O processo de pesquisa foi complicado e demorado, dado 
+que o excesso de competências que o mestrado providencia gera alguma dúvida de qual será o 
+setor e local ideal para um estudante do Mestrado em Humanidades Digitais ingressar, após várias 
+pesquisas e alguma ausência de respostas de determinadas empresas surgiu a agência de 
+marketing Markate. A Markate é uma agência de Marketing portuguesa criada em 2015, que 
+atualmente executa serviços nas áreas de Marketing di gital, criação de conteúdos, design, 
+websites, e-commerce, consultoria e formação, copywriting e traduções. O contacto com a Markate 
+foi imediato por via do correio eletrónico e rapidamente foi agendada uma reunião para serem 
+discutidas quaisquer dúvidas relativas à empresa e aos serviços realizados dentro da mesma.  
+O relatório estará constituído, primeiramente, pelo enquadramento teórico do tema ao qual 
+o relatório e estágio estão relacionados. Posteriormente, o enquadramento da empresa onde 
+cumpri o meu estágio ao longo de pouco mais de 3 meses na área de criação de  conteúdos. Em 
+seguida, pelas tipologias que separarão as diferentes atividades realizadas na empresa, mas 
+também ilustrar um progresso das minhas competências individuais. Posteriormente, aprofundarei 
+as considerações finais relativas à experiência como e stagiário na empresa, com a explicação de 
+algumas das dificuldades sentidas e obstáculos na Markate. No final do relatório, constarão as 
+referências bibliográficas utilizadas no documento e os anexos de imagens extra sobre o estágio.    
+Por fim, tem como objetivo relatar descritivamente e aprofundadamente as atividades 
+desenvolvidas e os conhecimentos absorvidos ao longo do período de estágio curricular na 
+
+12  
+  
+  
+  
+Markate, seguindo uma linha orientadora pré -definida antes do estágio com o professor doutor 
+Pedro Dono Lopez e por uma das responsáveis da empresa, Isabel Ferraz.   
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+13  
+  
+  
+  
+1.Enquadramento Teórico  
+  
+A criação de conteúdos é uma área em constante desenvolvimento, que procura 
+essencialmente adaptar-se às necessidades da sociedade, moldar-se e procurar novas formas de 
+não só criar conteúdo, mas também atrair o público-alvo desejado para um determinado conteúdo 
+ou produto. Após a viragem do século, uma era cada vez mais tecnológica, as empresas sentiram 
+necessidade de inovar a sua forma de apresentação de conteúdos como forma de expansão e 
+persuasão dos seus futuros clientes (Schaefer, 2015).  
+Para que o feedback seja positivo e crescente, é necessário que primeiro exista um trabalho 
+delineado e pautado onde são definidos todos os processos a adotar antes da partilha de um 
+determinado conteúdo. É importante a pesquisa de trabalhos similares e respetiva receção, devem 
+ser analisados os pontos fortes e fracos (análise SWOT) de um determinado produto e definir qual 
+o público-alvo que se pretende alcançar.  
+A criação de conteúdos é a identidade/voz da nossa marca, produto ou empresa que 
+pretendemos expandir e dar a conhecer a um determinado públicoalvo que, seguidamente, se 
+refletirá na receção que o cliente terá: “A brand is a person’s gut feeling about a pr oduct, service 
+or Organization” (Neumeier, 2003, p.15). Por outras palavras, a forma como uma determinada 
+empresa trabalha, os valores praticados e reputação influenciarão na forma como um recetor se 
+sentirá relativamente a um produto. Quanto melhor forem as boas práticas de criação de conteúdo, 
+de melhor forma será partilhada a mensagem/imagem que se pretende transmitir.  
+O storytelling é outra das ferramentas essenciais na criação de conteúdos, a forma como 
+se dá voz e se desenvolve uma narrativa para um produto, marca ou empresa que, 
+subsequentemente, cativa multidões. O uso eficiente do storytelling como consequência pro duz 
+um “engagement” entre cliente e conteúdos: “Storytelling é a tecnarte de moldar e juntar as peças 
+de um quebra-cabeça, formando um quadro memorável.” (Xavier, 2015, p.12)  
+A abrangência deste ramo é mais do que é possível imaginar e existem cada vez mais 
+ferramentas para “vencer” o jogo da dispersão de conteúdo digital, quando estejamos a competir 
+com a nossa concorrência. Por exemplo, se somos uma marca que pretende realçar  que a 
+qualidade do nosso produto é superior aos demais da mesma área, então surgirá uma tentativa 
+de enfraquecimento do adversário comercial. Outra possibilidade centra -se na criação de um 
+
+14  
+  
+  
+  
+anúncio televisivo e chamativo com o objetivo de atrair o espectador para o seu ecrã para assim 
+captar a sua atenção a uma publicidade referente a um determinado produto e/ou campanha 
+(Kotler, 2021).  
+As armas disponíveis para esta persuasão são inúmeras e discutidas por autores como 
+Robert Cialdini (Cialdini, 2009), que procura expor essas tentativas de persuasão que recebemos 
+diariamente e como lidar com elas. Em primeira instância vamos utilizar, com o exemplo das 
+inúmeras técnicas a poderem ser utilizadas, a técnica da qualidade de um argumento. Quando 
+vamos comprar um produto, por vezes, gera-se na nossa mente se um determinado produto valerá 
+a pena, ao que certamente nos responderão que, se tem aque le valor elevado, deve ser 
+correspondente à qualidade do mesmo. Um argumento de qualidade que nos motivará a comprar 
+esse mesmo produto, não importando tanto a veracidade da premissa, mas sim a qualidade de 
+argumentação, “ignoraram a experiência do orador e foram persuadidos sobretudo pela qualidade 
+de seus argumentos” (Cialdini,2009, p.22).  
+No entanto, a persuasão do nosso público não se realiza apenas por meios linguísticos, mas 
+sim visuais, como por exemplo o associar de uma determinada marca a uma causa social, gerando 
+uma maior credibilidade entre marca e comprador, levando -o a tornar -se fiel a essa empresa 
+(Handley & Chapman,2010). Inúmeras empresas durante o período pandémico utilizaram o 
+momento social para se aliarem ao seu público numa tentativa de criar uma união, ou até mesmo 
+a utilização de termos como “nós”, para gerar empatia e criar uma bolha onde ambos coexistem 
+e sofrem dos mesmos problemas, o que levou a que determinadas marcas recebessem um 
+feedback positivo dessas mesmas campanhas.  
+Ainda referente à publicidade de apoio de empresas a causas sociais, a autora Sara Balonas 
+refere o seguinte: “As instituições não a dispensam, os profissionais da área premeiam -na, os 
+estudantes escolhem-na como objecto de trabalho, os cidadãos consomem-na, emocionando-se” 
+(Balonas, 2011, p.96). A mesma autora ainda indica que “Hoje, as empresas apercebem -se de 
+que já não chega produzir com qualidade ou prestar serviços inovadores e a preços competitivos. 
+É preciso construir uma imagem credível e socialmente correcta.” (Balonas, 2011, p.34).  
+A responsabilização social por parte das empresas é também hoje vista como um 
+mecanismo forte para produzir credibilidade da imagem de uma empresa para com o cliente. Uma 
+marca que se associa a causas sociais e/ou ambientais, criará uma imagem de maior con fiança 
+
+15  
+  
+  
+  
+aos olhos do consumidor, ainda que não seja esse o propósito principal da empresa em si. O 
+propósito de apoiar a causa social procura criar uma ligação maior de fidelidade com o cliente, 
+que se aliará ou continuará do lado dessa mesma empresa, por exemplo a adquirir os seus 
+produtos.  
+Este interesse social das empresas é ainda destacado pela autora em termos estatísticos, 
+o que ajuda a justificar a utilização deste mecanismo como forma de atração do consumidor: “O 
+número de campanhas que apela ao apoio humanitário é o segundo mais expre ssivo em termos 
+numéricos, sendo maioritariamente abordado no quadro da responsabilidade social das 
+empresas.” (Balonas, 2011, p.91).  
+No mundo infinito da criação de conteúdos são inúmeras as formas de prevalecer. Existem 
+várias regras a serem adotadas (como já foram referidas anteriormente) que nos levarão ao 
+produto final. Quando apresentamos um determinado conteúdo, seja por meio de p lataformas 
+como o Youtube, redes sociais ou por meio de influencers, em qualquer uma dessas situações há 
+casos de sucesso, individual ou coletivo de como “vencer” neste mundo criativo e inovador 
+(Vaynerchuk G, 2009).  
+Cada vez mais a “batalha” entre concorrência para vencer a atenção do público está ligada 
+a ferramentas persuasivas, por vezes manipuladoras, que consigam convencer o público. No 
+século XXI, já são utilizadas técnicas psicológicas para afetar o tráfego de clientes. Outro exemplo 
+é o uso de cores vivas no MC Donalds que torna o estabelecimento mais apelativo a um ambiente 
+familiar.  
+No entanto, estas técnicas não se reduzem apenas a estratégias de marketing visual, mas 
+também técnicas que possam influenciar o nosso subconsciente. Algumas lojas utilizam música 
+ambiente com ritmos diferentes. Evidenciamos que quanto maior o ritmo, maior  o estímulo para 
+que o comprador termine mais rapidamente a sua, sem que o mesmo se aperceba desse propósito 
+provocado pelo próprio vendedor.  
+Outra das dinâmicas importantes na criação de conteúdos no mundo atual é a consistência 
+da nossa mensagem e partilha. Ou seja, manter uma linha comunicacional ao longo do tempo 
+que leve a criar uma credibilidade entre consumidor e vendedor, como também uma consistência 
+comunicacional que permita ao seguidor da marca ou produto, ter continuidade de receção do 
+conteúdo, seja ele digital ou não.   
+
+16  
+  
+  
+  
+A consistência é uma arma muito importante, principalmente no momento que se pretende 
+evoluir uma marca quando existe o objetivo principal de aumentar o alcance e receção de feedback 
+do público -alvo relativo a um produto ou marca nova. Essa mesma consistên cia permitirá ao 
+consumidor seguir atentamente de acordo com as ordens de publicação previstas pelo criador. 
+Uma marca que publique conteúdos todas as terças, quintas e domingos, manterá os seguidores 
+mais atentos a um produto do que uma que apresente uma regularidade de postagem irregular e 
+inconsistente ao longo dos meses e anos. Esta situação poderá consequentemente afastar cada 
+vez mais o público-alvo, gerar desinteresse ou causar o afastamento do seguidor inicial.  
+  
+2. O contexto do estágio: A empresa Markate  
+ 
+ A Markate é uma empresa de Marketing criada em 2015, situada na freguesia de Nogueira 
+na cidade de Braga, com ambição de crescimento e dispersão dos seus serviços que vão desde o 
+gerenciar de redes sociais até outras áreas do Marketing.  
+Após a reunião com Isabel Ferraz, uma das responsáveis da empresa, ficou acordado que 
+o estágio curricular seria realizado a partir do dia 6 de março, com a duração de 3 meses e término 
+no dia 7 de junho de 2023. O regime de estágio era de 4 dias por seman a para a realização de 
+tarefas na área da criação de conteúdos. O quinto dia da semana era disponibilizado para a 
+produção deste relatório de estágio, que teve a supervisão dos orientadores Pedro Dono da 
+Universidade do Minho e Isabel Ferraz da Markate.  
+Antes da entrada na Markate, a visão da possibilidade de trabalhar na área de criação de 
+conteúdos era geral, tendo em conta a diversidade de serviços com os quais a empresa trabalha 
+diariamente. Porém, e após a chegada, foi -me exclusivamente entregue a ta refa de realizar os 
+planeamentos mensais das redes sociais dos clientes e da própria agência, bem como a 
+planificação e produção da brochura internacional, entre outras atividades.  
+ 
+2.1 Cronograma Markate  
+ 
+O cronograma abaixo apresentado retrata visualmente as atividades realizadas no decorrer 
+do estágio realizado na empresa Markate, que decorreram quatro dias por semana ao longo de 
+
+17  
+  
+  
+  
+três meses. O objetivo do cronograma é ilustrar o tempo de trabalho depreendido em cada uma 
+das tarefas que me foi atribuída, que inicialmente contou apenas com a produção de metade dos 
+planeamentos habituais, tendo em conta que outra estagiária de comunic ação já os havia 
+produzido. Porém a mesma terminou o estágio nessa mesma semana e os restantes 
+planeamentos ficaram ao meu encargo. 
+Em cada mês estão descritas as principais tarefas realizadas, com o objetivo de ilustrar a 
+diversidade de tarefas realizadas no decurso do estágio curricular.   
+  
+Figura 1- Cronograma de estágio da Markate 
+ 
+ 
+
+
+18  
+  
+  
+  
+3. Tarefas durante o estágio  
+  
+Neste capítulo serão então apresentadas por tipologias, as diferentes atividades realizadas 
+durante o estágio, que estão divididas entre: Planeamentos de conteúdos, brochura internacional, 
+criação de artigos, press release, newsletter, análise de dados, ot imização de conteúdos e 
+mockups.  
+ 
+3.1 Planeamento de Conteúdos  
+ 
+ Este primeiro tópico aborda as atividades levadas a cabo na produção de planeamentos de 
+redes sociais que estarão divididos por clientes, com o objetivo de ilustrar o progresso ao longo de 
+três meses na elaboração desses conteúdos.  
+ As tarefas e requisitos para cada planeamento eram colocados na plataforma Trello, que 
+permitia agendar e definir uma data -limite para o planeamento destes conteúdos, para que 
+posteriormente pudessem ser entregues ao departamento de design e se desenvolve r a interface 
+de cada publicação ou story.  
+ 
+Figura 2 - Plataforma de agendamento de Tarefas - Trello 
+
+
+19  
+  
+  
+  
+3.1.1 Markate  
+  
+Inicialmente o planeamento das redes sociais da Markate utilizava as frequentemente as 
+ferramentas de publicações e stories com conteúdos relacionados com a empresa e sobre 
+Marketing. Após o mês de março, foi me aconselhado diminuir a regularidade de postagem, o que 
+permitia ter maior diversidade de conteúdos ainda que em menor quantidade.  
+Essencialmente, as publicações nas redes sociais da Markate procuravam as seguintes 
+temáticas:  
+ 
+→ Explicação de termos de Marketing; 
+→ Informações sobre a empresa; 
+→ Projetos realizados pela empresa. 
+Ao longo dos meses planeava-se quais os conteúdos que seriam publicados, com base nas 
+tipologias anteriores, com o cuidado para que os posts similares não fossem colocados na mesma 
+semana.  
+Os planeamentos das figuras abaixo ilustram a diferença nas temáticas elaboradas para as 
+redes sociais da Markate, em que se pretendia oferecer diversos conteúdos informativos sobre 
+Marketing que muitas vezes era produzido no formato de posts de curiosidad e e também de 
+checklists.  
+Figura 3 - Exemplo dos diferentes formatos planeados para as publicações da Markate 
+
+
+20  
+  
+  
+  
+  
+ 
+Figura 4 - Planeamento de abril da Markate 
+3.1.2 Limatla  
+ 
+A Limatla é uma empresa de barcos localizada em Braga, porém originária de Viana do 
+Castelo. A marca inicialmente gerou alguns problemas de adaptação por se tratar de uma empresa 
+de um ramo não habitual, o ramo náutico. Houve naturalmente um processo de pe squisa e 
+avaliação das temáticas principais utilizadas para atração do público desejado e de possíveis 
+compradores de barcos importados.  
+As publicações da Limatla procuravam alargar o conhecimento de diversos modelos de 
+barcos e também informar sobre as origens da empresa. Em todos os planeamentos eram 
+desenvolvidos posts sobre modelos específicos de barcos à venda na empresa, com o objetivo de 
+atrair e levar o consumidor presencialmente ao estabelecimento para efetuar o negócio. Noutras 
+publicações procurava-se ainda aproveitar épocas especiais, como o Dia dos Namorados, para 
+convencer o público a usufruir de viagens nos barcos da empresa (figura 5).  
+  
+
+
+21  
+  
+  
+  
+  
+Figura 5 - Instastories de abril da Limatla 
+3.1.3 Speak Up  
+ 
+O Speak-Up é um centro de inglês em Portugal, que procura uma presença assídua nas 
+redes sociais, tanto como meio de dispersão dos serviços de aprendizagem de inglês, como de 
+informação de conteúdos rápidos de inglês.  A estrutura de publicação do Speak Up variava entre 
+os quatro e os cinco dias da semana e respetivos stories, onde todos os meses eram delineados 
+os conteúdos a serem publicados nas redes sociais do Facebook e Instagram do Speak Up.   
+Todos os planeamentos desenvolvidos possuíam temáticas de informação dos serviços 
+Speak Up, dos cursos e como funcionavam os mesmos, cursos especializados para o nível de 
+aprendizagem e disponibilidade do cliente no centro de inglês. Além disso, eram elaborados posts 
+cativantes com vocabulário de inglês, regras gramaticais da língua e também conselhos de como 
+aprimorar o uso da língua inglesa.  
+
+
+22  
+  
+  
+  
+A figura 6 ilustra os conteúdos desenvolvidos para uma semana do planeamento do Speak 
+Up, onde se inseriram conteúdos relacionados com vocabulário e sobre o centro. Na figura 7 
+podemos visualizar a calendarização dos stories do Speak Up.  
+ 
+Figura 6 - Planeamento das redes sociais do Speak Up 
+  
+Figura 7 - Planeamento dos Instastories Speak Up 
+ 
+
+
+23  
+  
+  
+  
+3.1.4 Crafil  
+ 
+A Crafil é uma empresa de Riba de Ave que trabalha diariamente com linhas sustentáveis e 
+ecológicas, ideologias essas que procuram transmitir todos os meses nas redes sociais.   
+A diferença da Crafil relativamente às anteriores marcas, é que partilhava os seus conteúdos 
+em português e inglês com a descrição das publicações descrita nessas duas línguas. As 
+postagens criadas para a Crafil podem se dividir em três tipos:  
+→ As publicações sobre quem é a Crafil;  
+→ Posts de apoio a um mundo mais ecológico;  
+→ As linhas sustentáveis e ecológicas produzidas pela Crafil, e quais os benefícios de 
+cada linha para futuros produtos, como os de denim.  
+Na figura 8 e 9 podemos observar exemplos dos conteúdos de planeamento realizados para 
+marca, bem como os seus stories.  
+  
+ 
+Figura 8 - Planeamento das redes sociais da Crafil 
+ 
+  
+  
+
+
+24  
+  
+  
+  
+  
+Figura 9 - Planeamentos dos Instastories da Crafil 
+3.1.5 CIY  
+ 
+O CIY é um clube de programação para pessoas de todas as idades, local onde qualquer 
+indivíduo pode desenvolver as suas capacidades de programação, ou até mesmo aprender a criar 
+aplicações, videojogos, páginas web com a vantagem de horários flexíveis.  
+A regularidade de publicação do CIY é menor do que a das anteriores marcas, e procura 
+essencialmente destacar que nunca é tarde demais para desenvolver capacidades tecnológicas 
+como a criação do nosso próprio videojogo.  
+As publicações pretendiam alcançar uma faixa etária abrangente, em que o mais importante 
+fosse a ambição e vontade de desenvolvimento individual das capacidades informáticas, 
+independentemente da idade da pessoa em questão.  
+Para além das publicações de serviços disponibilizados pelo CIY, planeava ainda oferecer 
+publicações informativas e educativas de conteúdos relacionados com informática, como 
+
+
+25  
+  
+  
+  
+publicações de livros e podcasts desse ramo, que possam aumentar o conhecimento individual do 
+seguidor da página (figura 10).  
+ 
+Figura 10 - Planeamento das redes sociais de junho do CIY 
+  
+3.1.6 Famaburger  
+ 
+O Famaburger é uma marca que apresenta um estilo peculiar, com uma linguagem que 
+varia entre o semiformal e o informal, como se de um amigo se tratasse, com o objetivo claro de 
+estar próximo do cliente. Aliado a isto, utilizam várias vezes expressões popul ares para criar 
+publicações cómicas que gerem interação por gostos ou comentários.  
+ Os planeamentos e designs das publicações do Famaburger tinham como objetivo satirizar 
+e produzir o riso nos seguidores da página, que posteriormente comentarão e irão partilhar essas 
+mesmas publicações com amigos e familiares (figura 11).   
+
+
+26  
+  
+  
+  
+Todos os meses planeava possíveis trocadilhos com expressões populares nacionalmente 
+conhecidas aos quais juntava termos relacionados com a marca, ou com o nome da mesma, o 
+que tornava o conteúdo engraçado para o público-alvo (figura 12).  
+ 
+Figura 11 - Planeamento das redes sociais do Famaburger 
+  
+Figura 12 - Instastories do Planeamento de Junho do Famaburger 
+
+
+27  
+  
+  
+  
+3.1.7 ANFILAcar  
+ 
+A ANFILAcar é uma empresa que importa carros para Portugal, mais precisamente para a 
+zona de Braga, e os vende no mercado nacional.  
+A base do planeamento da ANFILAcar passa pela elaboração de quatro publicações por 
+semana, três em formato de imagens e uma em formato de vídeo. Nas publicações a marca 
+procurava muitas vezes informar sobre as vantagens de adquirir um carro importado e atr air 
+clientes com um capital alto, capaz de adquirir modelos exclusivos provenientes de outros países. 
+A ANFILAcar destacava ainda outros elementos preponderantes que poderiam motivar a compra 
+de carros importados, como a dedução do IVA até um determinado v alor dos veículos e quais as 
+vantagens de compra de carros elétricos.  
+Uma das formas que facilitou o desenvolvimento dos planeamentos da ANFILAcar foi a 
+criação de uma apresentação exclusiva para o dono da empresa, onde foi analisado o público-alvo 
+da marca. Na figura abaixo podemos observar que a empresa procura essencialme nte clientes 
+que vivam próximos ou na cidade de Braga e que possuam grande capital financeiro.  
+  
+ 
+Figura 13 - Público-alvo da ANFILAcar 
+  
+
+
+28  
+  
+  
+  
+Ainda na apresentação para a marca foram definidas personas de possíveis clientes da 
+ANFILAcar (figura 14), que facilitariam o processo de definição de possíveis compradores e de 
+abordagem no planeamento das publicações nas redes sociais do Instagram e Facebook da 
+ANFILAcar.  
+  
+ 
+Figura 14 - Exemplo de uma das personas criadas para a ANFILAcar 
+4.1 Brochura Internacional  
+ 
+A brochura internacional foi o outro projeto definido em março e que me acompanharia 
+durante todo o estágio na Markate.  
+A brochura consiste na elaboração de um conjunto de páginas que expliquem a essência 
+da agência e que permita que essa informação se espalhe não só a nível nacional, mas também 
+internacionalmente. Inicialmente, foi realizada a pesquisa preliminar de exempl os de brochuras 
+existentes, tanto a nível de templates, como de empresas. A maioria das brochuras eram 
+apresentadas em formato flyer ou folheto com dobragens de dois ou três, que são habitualmente 
+entregues presencialmente (similar aos panfletos que recebe mos nas ruas, que promovem um 
+determinado serviço ou produto).  
+No entanto, existem ainda as brochuras realizadas para um contexto digital, como é o caso 
+de empresas no setor automóvel que as utilizam para apresentar os seus produtos.  Esta dinâmica 
+
+
+29  
+  
+  
+  
+de brochura digital seria a ideia principal da empresa para se internacionalizar, apresentando os 
+seus serviços da forma mais visual possível, num formato abreviado que apenas revelava onde 
+começava e onde terminavam os serviços relativos a cada um dos set ores trabalhados dentro da 
+empresa e na língua inglesa.  
+Posteriormente, começou-se o processo de design com base nas ideias planificadas.  Com 
+as secções de “who we are” e “localization” a serem apresentadas com uma estrutura de pouco 
+texto, que apenas realçava as principais ideias da empresa. De seguida, a sec ção “our values” e 
+“our goals” foram apresentadas por meio de figuras minimalistas que ilustrassem as ideias 
+presentes. Foi tomada a decisão de cortar os serviços de cada ramo trabalhado na Markate (devido 
+à enorme lista de serviços disponibilizados). Ao invés disso optou-se pela criação de frases a cada 
+ramo que colocassem um início e término desses serviços disponibilizados pela agência de 
+marketing.  
+ Existe também a secção “Part of a growing Market”, onde é dado ênfase à evolução da 
+empresa e à localização com a frase “Our company is strategically positioned in the city of Braga, 
+home of diverse technological companies”. Ainda na mesma secção seriam i nseridos títulos de 
+notícias relacionadas com a cidade de Braga, que valorizassem o seu posicionamento e 
+crescimento na alocação de grandes empresas tecnológicas (após as notícias serão dispostas na 
+página logos de grandes empresas presentes na cidade de Braga como a Bosch, Fujitsu e o INL).  
+Esta secção na brochura internacional introduzem-se os goals da empresa com itens minimalistas 
+como se pode ver na figura abaixo (adaptability, creativity, organization, teamwork e trust).  
+
+30  
+  
+  
+  
+  
+Figura 15 - Exemplo de um dos designs iniciais para uma das páginas da brochura 
+internacional. 
+  
+Nas páginas seguintes seriam realçados os elementos pertencentes à Markate e suas 
+especializações, bem como uma secção com os trabalhos realizados pela empresa. Estes seriam 
+apresentados em formato de texto com os diferentes ramos de indústria com quem a M arkate 
+trabalha habitualmente, como podemos ver na figura 16. (Health, textile, construction, sports, real 
+estate e nautical).   
+
+
+31  
+  
+  
+  
+  
+Figura 16 - Exemplo de uma das páginas desenvolvida para a brochura internacional 
+Os serviços que a empresa disponibiliza seriam agrupados em diferentes áreas, como forma 
+tornar as páginas da brochura mais minimalista, com um design atrativo e simplista. Os serviços 
+ficariam organizados da seguinte forma:  
+→ Digital Marketing and Content Creation; 
+→ Design and websites; 
+→ E-commerce, consultancy, and training; 
+→ Copywriting and translations. 
+A penúltima página da brochura teve a inclusão de uma ideia gerada após o feedback da 
+primeira versão da brochura internacional, apresentada aos chefes da empresa, onde foi proposta 
+a inclusão do testemunho dos clientes da Markate (Testimonial’s). A última parte da brochura, por 
+outras palavras a contracapa, exibiria novamente os contactos e morada da empresa tal como na 
+sua capa.  
+O planeamento da brochura internacional foi concluído durante o meu estágio, porém o 
+design continuaria a ser produzido após a minha saída da Markate com base no planeamento.  
+  
+ 
+ 
+ 
+
+
+32  
+  
+  
+  
+4.2 Criação de artigos  
+  
+Outro dos projetos que me acompanhou ao longo dos meses na Markate foi a criação e 
+publicação de artigos Speak Up  todos os meses para a secção de blog do website do centro de 
+estudo de inglês.  
+O propósito de cada artigo é apresentar de uma forma mais detalhada e aprofundada os 
+serviços disponibilizados pelo Speak Up, tendo em conta que tanto o website, como as publicações 
+nas redes sociais não permitem exemplificar aprofundadamente os serviços disponibilizados pelo 
+centro de inglês.   
+A estrutura dos artigos baseava-se, primeiramente na criação de um título cativante e uma 
+disposição de texto a rondar as 250 e 300 palavras onde se descrevia o assunto do artigo. Nos 
+artigos criados para o Speak Up também se procurou providenciar conteúdo s informativos que 
+aumentassem a capacidade linguística do leitor, tais como artigos sobre vocabulário de férias. Na 
+figura 17 podemos observar um dos artigos criados para o Speak Up, que explica o funcionamento 
+de um dos cursos do centro de inglês e as vantagens de ingressar naquele determinado curso.  
+ 
+ Figura 17 - Excerto do artigo criado para o blog do website Speak Up 
+Os artigos eram importantes para dar profundidade de conhecimento às informações já 
+partilhadas nas redes sociais do Speak Up ao longo de todo o mês. Estes textos permitiam a 
+ligação direta com as informações do centro de inglês e a explicação detalhada das vantagens de 
+
+
+33  
+  
+  
+  
+cada um dos cursos disponibilizados, bem como a importância de aumentar o nível de inglês 
+(Anexo1).  
+ 
+4.3 Press Release – Sé Apartamentos  
+ 
+O estágio permitiu -me realizar diversas tarefas que nunca havia realizado, entre elas, a 
+criação de uma press release para uma marca de arrendamento de apartamentos em Braga.  
+A marca em questão é a Sé Apartamentos e o objetivo da press release passava por criar 
+uma publicação que exemplificasse os serviços disponibilizados pela empresa de arrendamento. 
+Primeiro procurei exemplos de press releases realizadas no passado por outra s marcas e 
+identifiquei quais os pontos comuns em cada uma delas. Todas optam por uma estrutura com um 
+título sugestivo e, posteriormente, a resposta a um conjunto de questões (o que é? Quem? Onde? 
+Porquê?), cada uma delas vai explicar a essência da marca em questão.   
+Em seguida, prossegui ao processo de elaboração da Press release. Em primeiro com o 
+título “Sé Apartamento – o seu segundo lar”. Seguidamente, introduzi resumidamente entre quatro 
+e cinco linhas quem era a Sé Apartamento. No parágrafo seguinte aprofundei t odos os serviços 
+que eram disponibilizados para quem pretendesse ceder apartamentos à marca, para que esses 
+mesmos imóveis fossem potenciados e geridos pela marca, o que geraria lucros tanto para a 
+marca, como para o proprietário.   
+Após essa exemplificação, criei uma ponte linguística para a outra vertente da Sé 
+apartamentos, ou seja, o arrendamento desses mesmos apartamentos a possíveis turistas que 
+estejam interessados em ficar hospedados na cidade de Braga. Nessa secção enunciei a s 
+vantagens dos hospedeiros em se aliar à marca e os benefícios provenientes na estadia de um 
+dos imóveis pertencentes à Sé Apartamentos, como as boxes de pequenos-almoços, tours privados 
+pelas cidades de Braga, Guimarães e Douro e ainda o serviço de trans ferência de e para o 
+Aeroporto Francisco Sá Carneiro.  
+ Para finalizar a press release da marca, deixei três recomendações de apartamentos para 
+possível reserva, dado que a marca pretendia que incluísse esses mesmos três nomes na press 
+release, como forma de dispersão e valorização desses apartamentos em específico.  
+  
+
+34  
+  
+  
+  
+4.4 Newsletter – Sé Apartamentos  
+ 
+ Outra das tarefas diferentes do habitual que se realizaram durante o estágio foi a produção 
+de newsletters para a marca Sé Apartamentos.  
+O propósito da newsletter era focar a mesma para os operadores turísticos com os quais a 
+marca trabalha na gestão, divulgação e promoção das propriedades disponíveis para 
+arrendamento por parte de possíveis turistas nacionais e internacionais que estejam interessados 
+em disfrutar da sua estadia na cidade de Braga.   
+No mês de maio realizei novamente uma newsletter para a mesma marca, no qual o objetivo 
+nesse mês passava pela elaboração de um conteúdo escrito que exemplificasse os serviços 
+disponibilizados pela Sé Apartamentos para quem pretenda a gestão dos seus imóve is, mas 
+também para os próprios hospedeiros nos imóveis geridos pela empresa portuguesa.  
+Inicialmente, desenvolvi uma introdução sobre quem realmente é a Sé apartamento e o que faz 
+de um ponto de vista geral. No desenvolvimento foi introduzido e explicado  os serviços que a 
+empresa disponibiliza tanto na gestão do alojamento como na hospedagem.   
+Para finalizar o conteúdo escrito, optei por elaborar uma frase final que apelasse ao leitor a 
+aliar-se à Sé Apartamentos na gestão do seu imóvel ou como hospedeiro.  
+ 
+4.5 Análise de Dados  
+ 
+A empresa Troficolor era uma das empresas que pedia relatórios estatísticos da abrangência 
+da marca nas suas principais redes sociais, nesses relatórios ilustrava-se o progresso registado ao 
+longo dos meses em diferentes parâmetros de avaliação.  
+Primeiro começava pela análise e extração dos dados do Facebook na secção Meta 
+Business Suite, local onde retirava os dados em formato PNG relativos ao alcance, interações, 
+reações da plataforma social, mas também o top de publicações entre a data de 1 de fevereiro e 
+o 28 de março (figura 18 e 19). No Instagram a estrutura de análise e extração era similar à 
+anterior, no entanto para retirar os dados desta plataforma era necessário recorrer à captura de 
+ecrã e recortar os dados que eram mais interessantes para cada parte do relatório.   
+
+35  
+  
+  
+  
+O Linkedin era a última plataforma a ser analisada, local de onde retirava o alcance, 
+localidade por cidade dos seguidores da página, reações e interações na página. Para finalizar o 
+relatório mensal da Troficolor, fiz as conclusões para cada rede social, de forma a conjugar todos 
+os dados importantes para o planeamento de ações em meses posteriores (figura 20).  
+  
+Figura 18 - Alcance da página Troficolor no Facebook e Instagram 
+  
+Durante o estágio realizei ainda um relatório anual para a Troficolor onde foram analisados 
+todos os dados das redes sociais da marca. A estrutura é semelhante à dos relatórios mensais. 
+Direcionei-me para a plataforma Meta Business Suite para encontrar os dados estatísticos das 
+redes sociais Facebook e Instagram da Troficolor, seguidamente defini o intervalo de tempo a ser 
+analisado, sendo ele de janeiro 2022 a dezembro de 2022. Depois de definido o intervalo de 
+tempo prossegui à extração dos dados relativos ao alcance, número de gostos, novos seguidores, 
+etc. da marca.   
+Após inserir os dados e os analisar no documento, acedi ao Linkedin da Troficolor para 
+extrair os dados relativos à marca no intervalo de tempo de 2 maio de 2022 a 2 de maio de 2023, 
+pois o Linkedin não permitia a personalização de um intervalo de tempo an terior a maio de 
+2022(anexo 2). Em seguida, inseri os dados extraídos e prossegui à análise dos mesmos, tal como 
+com as outras duas redes sociais.  
+
+
+36  
+  
+  
+  
+ 
+Figura 19 - Alcance anual da página Troficolor no Facebook e Instagram 
+  
+Figura 20 - Conclusão de análise de uma das redes sociais da Troficolor 
+  
+ 
+4.6 Otimização de Conteúdos  
+ 
+Na primeira semana do mês de abril foi me dada uma tarefa desafiadora de trabalhar com 
+Wordpress e o Yoast SEO na correção de problemas nos artigos do centro de inglês Speak Up.  
+
+
+37  
+  
+  
+  
+Esta tarefa de otimização dos conteúdos dos artigos Speak Up acompanharme-ia durante o 
+resto do estágio, onde todos os meses seguintes publicaria e otimizaria os conteúdos publicados. 
+Primeiramente preocupei-me em aprender o máximo de conteúdos que seriam necessários para 
+a realização da tarefa. Com o auxílio de colegas de trabalho e de vídeos explicativos de como 
+funciona a plataforma, rapidamente entendi a interface e ganhei confiança a trabalhar com o Yoast 
+SEO.   
+Depois, abri os artigos do Speak Up, um a um para resolver os possíveis problemas que 
+cada artigo poderia evidenciar. Por exemplo, muitos dos artigos apresentavam uma falta de 
+descrição meta (informação que nos é dada no Google antes de clicarmos num link) .  Outro dos 
+problemas residente nos artigos antigos era a inexistência ligações internas e externas, entenda -
+se por estas como redireccionamentos de página, quando o leitor clica num determinado termo 
+ou expressão.  
+As diretrizes de correção do Yoast SEO dividem -se entre a secção de SEO e a legibilidade, 
+esta última abrange a estrutura frásica e linguística do artigo. Alguns dos artigos sofreram uma 
+formatação escrita devido ao excesso de uso de frases na passiva (o l imite recomendado pelo 
+Yoast SEO é de 10%), excesso de carateres por frase (o limite é de 25), a dimensão mínima de 
+cada artigo (o recomendado são 300 palavras) e a colocação de subtítulos para melhor dividir o 
+texto.  
+ 
+4.7. Mockups  
+ 
+O estágio na Markate permitiu-me desenvolver as minhas capacidades individuais para além 
+dos planeamentos e análises estatística. A criação de mockups para o website da Markate com 
+recurso à ferramenta Adobe Photoshop incentivou a uma aprendizagem de alguns passos básicos 
+no design que desconhecia, dado que nunca havia trabalhado anteriormente com a plataforma.  
+As dicas das designers que trabalham diariamente com a ferramenta simplificaram os 
+processos de elaboração das mockups e o término da tarefa mais cedo do que o previsto. Após 
+essas dicas decidi então prosseguir à elaboração de 10 mockups, que no final publ icaria no 
+portfólio da empresa presente no website da Markate. Os processos de elaboração acabaram por 
+ser semelhantes, primeiramente verificava qual a marca com a qual teria de trabalhar e qual o 
+
+38  
+  
+  
+  
+serviço que a Markate prestou a tal marca, por exemplo branding, criação do website ou até social 
+media management. Em seguida, dirigia -me ao website Freepik que disponibiliza imagens de 
+grande qualidade e ainda templates com estilos de mockups para os formatos que pretendia, fosse 
+mockup de telemóvel, computador, tablet ou até catálogo.   
+A maioria das mockups foram apresentadas em computadores e telemóveis, com a exceção 
+das referentes a branding como a Strike Auto, Tiago Oliveira e E Desporto que foram apresentadas 
+em formato de cartão e também a Flex & Go que coloquei em formato de catálogo.  
+ 
+Figura 21 - Exemplo de uma Mockup no Photoshop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+39  
+  
+  
+  
+Considerações finais  
+ 
+Ao final de três meses terminou a minha experiência na empresa de Marketing, Markate. 
+Revelou-se ser um estágio curricular que me permitiu crescer e desenvolver diferentes formas de 
+atrair o público -alvo com conteúdo digital, seja por via de vídeos, seja p elo uso de newsletters, 
+artigos e publicações.  
+Uma experiência que teve os seus altos e baixos, com a diminuição em alguns momentos 
+dos índices de motivação, como consequência de um desgaste físico acumulado ao longo dos 
+meses e também das dificuldades que surgiam no decurso das tarefas. A maioria das dificuldades 
+surgiram no primeiro mês, dado que não estava habituado aos processos da empresa e de como 
+efetuar as minhas tarefas com maior eficácia. Para além das dificuldades sentidas no 
+desenvolvimento dos planeamentos para marcas com menor conhecimento pessoal, as tarefas de 
+design como a das mockups também colocou vários obstáculos no seu processo de 
+desenvolvimento, por não possuir o conhecimento profundo das técnicas de Photoshop que as 
+designers da empresa tinham.   
+A função de criador de conteúdos para a empresa e clientes da mesma levava a um esforço 
+individual no processo criativo, com o objetivo que todos os meses o conteúdo planeado fosse 
+diferente e enriquecedor para o consumidor. Esta situação levava a que muit as vezes o processo 
+de planeamento dos conteúdos fosse mais demorado do que o normal com receio de que o 
+conteúdo se tornasse monótono e não tão cativante. Ainda assim, saio do estágio na empresa com 
+a sensação de que poderia ter realizado um maior número de diversas atividades que me 
+pudessem fazer evoluir ainda mais individualmente em diferentes aspetos, desde social media 
+management até ao design.   
+No entanto, o estágio na Markate foi enriquecedor, o que me permitiu ter uma perspetiva 
+pessoal de como funciona uma empresa de Marketing, quais os processos utilizados na elaboração 
+de determinadas tarefas, como o planeamento e publicação de conteúdos de redes sociais, bem 
+como quais as estratégias a utilizar para atrair o público desejado por um determinado cliente.  
+  
+ 
+ 
+
+40  
+  
+  
+  
+Referências Bibliográficas  
+  
+Balonas, S. (2011). A Publicidade Sem Código de Barras. Edições Humus.  
+Benner, M., & Bedor, L. (2015). The Content Formula. Marketing Insider LLC.  
+Cialdini, R. (2009). Influence: Science and Practice. Pearson Education Inc.  
+Handley, A., & Chapman, C. (2010). Content Rules. John Wiley & Sons Inc.  
+Kotler, P. (1999). Principles of Marketing. Prentice Hall Inc.  
+Neumeier, M. (2003). The Brand Gap. Neutron LLC.  
+Kotler, P. (2010). Marketing 5.0. John Wiley & Sons Inc.  
+Schaefer, M. (2015). The Content Code: Six Essential Strategies to Ignite Your Content, Your 
+Marketing, and Your Business. Mark W. Schaefer.  
+Varnechuk, G. (2009). Crush It!: Why NOW Is the Time to Cash In on Your Passion. Harper 
+Studio.  
+Xavier, A. (2015). Storytelling: Histórias que deixam marcas. Best Business.  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+41  
+  
+  
+  
+ 
+Anexos  
+Anexo 1 – Exemplos dos artigos criados – Speak Up  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+
+
+42  
+  
+  
+  
+Anexo 2 – Dados estatísticos dos relatórios Troficolor

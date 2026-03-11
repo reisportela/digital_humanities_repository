@@ -1,0 +1,3187 @@
+Universidade do Minho
+Escola de Letras, Artes e Ciências Humanas
+Pedro Villanova Gomes de Almeida
+Gamificação: Categorias, Técnicas e 
+Aplicação no Domínio Científico
+Março de 2022
+UMinho | 2022 Pedro Villanova Gomes de Almeida Gamificação: Categorias, Técnicas e 
+Aplicação no Domínio Científico
+
+
+
+P
+edro Villanova Gomes de Almeida
+Gamificação: Categorias, Técnicas e 
+Aplicação no Domínio Científico
+Disser
+tação de Mestrado
+Mestrado em Humanidades Digitais
+Trabalho efetuado sob a orientação do(a)
+Professora Sílvia Lima Gonçalves Araújo
+Professor Luís Gonzaga Mendes Magalhães
+Universidade do Minho
+Escola de Letras, Artes e Ciências Humanas
+Março de 2022
+
+ii 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras 
+e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos 
+conexos.  
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada.  
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não 
+previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da 
+Universidade do Minho. 
+Atribuição-NãoComercial-CompartilhaIgual  
+CC BY-NC-SA 
+https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+
+
+iii 
+ 
+Agradecimentos  
+Agradeço a Deus por minha mãe e avó, e por elas continuarem vivas e saudáveis, pois eu 
+sei que muitas pessoas não tiveram essa mesma sorte com essa pandemia que ainda nos assola. 
+Agradeço a todos os professores do Mestrado em Humanidades Digitais por ter me 
+instruído durante esses dois anos. 
+Agradeço a equipe do INL por todo o apoio no desenvolvimento do jogo INL Projetos. 
+Agradeço a Cláudia Rodrigues, Maria Cristina Ribeiro por me ouvir e ficar fiscalizando o 
+meu progresso. 
+Agradeço também a Lua, as estrelas. Não que elas tenham feito algo, mas a existência 
+deles me deixa feliz. 
+  
+
+iv 
+ 
+DECLARAÇÃO DE INTEGRIDADE  
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo 
+que não recorri à prática de plágio nem a qualquer forma de utilização indevida ou falsificação 
+de informações ou resultados em nenhuma das etapas conducente à sua elaboração.  
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do Minho 
+ 
+  
+
+v 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“A flor que chamamos de rosa se outro 
+nome tivesse inda teria o mesmo 
+perfume” 
+William Shakespeare 
+ 
+”Tudo que os humanos podem imaginar
+,
+ 
+É uma possibilidade na realidade.”
+  
+ Willy Karen  
+ 
+“
+A arte nunca está terminada, é apenas 
+abandonada
+.” 
+Leonardo da Vinci  
+
+vi 
+Resumo 
+Este trabalho visa instruir seus leitores nos conceitos da gamificação. Para dar um 
+panorama geral, iniciaremos conceituando jogos, pois acreditamos ser importante que nossos 
+usuários tenham uma noção clara do que é um jogo, e da sua importância na nossa cultura 
+antes de entrarmos na Gamificação em si. Nossa principal referência no meio é Schell, J. 
+(2014), com o seu livro T
+he art of game design, q
+ue definem 10 regras que delimitam o que é um jogo. Também
+classificaremos os jogos em três categorias distintas: Esportes, Jogos de Mesa e Jogos Digitais. 
+Com isso, acreditamos imbuir nossos leitores do conhecimento necessário para adentrar nos 
+conceitos da gamificação. 
+No que tange a gamificação nos basearemos em dois autores: Yu-kai Chou (2015 ) e 
+Marczewski (2015). Enquanto Chou teoriza sobre as diversas técnicas possíveis de se utilizar em 
+uma gamificação, Marczewski versa sobre os tipos de gamificações existentes, e sobre a linha que 
+separa uma gamificação de um jogo. Com ambos os autores, sempre que possível, e necessário, 
+exemplos práticos são dados. Isso permite que nossos leitores compreendam as técnicas de Chou 
+como as categorias de Marczewski. Nessa parte, os leitores já devem ser capazes de reconhecer 
+a gamificação que já existe em seu meio. E talvez aplicá-la em níveis mais simples. 
+Na terceira e quarta parte desse trabalho, iremos olhar mais a fundo para dois casos de 
+gamificação no domínio científico. Faremos isso para não só mostrar os benefícios possíveis da 
+gamificação na prática como para demonstrar o domínio das técnicas de gamificação. Para tal, 
+iremos cruzar nosso conhecimento das ferramentas com os conceitos apresentados na segunda 
+parte deste trabalho. Começaremos por apresentar aos nossos leitores FoldIt, que é um excelente 
+exemplo de Gamificação . Já tendo inclusive ajuda do a solucionar pesquisas científicas que 
+estavam estagnadas, mesmo com ajuda de supercomputadores. Depois falaremos do INL 
+Projetos, uma ferramenta gamificada de autoria própria feita em parceria com o INL no âmbito do 
+projeto PortLinguE, cujo objetivo principal é comunicar ciência para os jovens de forma leve e 
+divertida. Após um extenso processo criativo, a criação deste jogo envolveu muita pesquisa sobre 
+os projetos do INL, principalmente ao ter que separá-los em categorias. Além de um processo 
+extenso de edição de imagens e muitos testes para adequar as regras ao tempo e público-alvo 
+
+vii 
+ 
+desejados. Após tentativas e erros, acabou por ser concluído, tanto em versão física como em 
+versão digital, disponível no site Tabletopia.  
+ 
+A gamificação é uma forma de design que tira o foco da produtividade para pensar no ser 
+humano, e apesar de não ser exclusivamente digital, a gamificação está intrinsecamente ligada ao 
+domínio digital, sendo assim uma área de pesquisa fortemente ligada às Humanidades Digitais. 
+Esperamos que no final nossos leitores compartilhem nossa visão dos benefícios que a 
+gamificação pode trazer para a humanidade, e como aplicá -la não somente requer alguma 
+responsabilidade, como também requer algum talento e conhecimento das técnicas de 
+gamificação. 
+ 
+Palavras-chave: Gamificação, Octalysis; INL; Humanidades Digitais; Comunicação de Ciência
+ 
+  
+
+viii 
+ 
+Abstract  
+ 
+This work aims to instruct its readers in the concepts of gamification. To give an overview, 
+we will start by conceptualizing games, because we believe it is important that our users have a 
+clear notion of what a game is, and of its importance in our culture before we get into Gamification 
+itself. Our main reference in the medium is Schell, J. (2014), with his book The art of game design, 
+which defines 10 rules that delimit what a game is. We will also classify games in 3 distinct 
+categories: Sports, Table Games and Digital Games. With this we believe to imbue our readers with 
+the necessary knowledge to enter into the gamification concepts.  
+ 
+In what concerns gamification we will base ourselves on two authors: Yu -kai Chou (2015) 
+and Marczewski (2018). While Chou theorizes about the various techniques that can be used in 
+gamification, Marczewski talks about the types  of gamification that exist, and about the line that 
+separates a gamification from a game. Whenever possible and necessary, both authors give 
+practical examples. This makes it easier for our readers to understand Chou's techniques as well 
+as Marczewski's c ategories. In this part, readers should already be able to recognise the 
+gamification that already exists in their environment. And perhaps apply it at simpler levels.  
+ 
+In the third and fourth part of this paper, we will look more in depth at two cases of  
+gamification in the scientific domain. We will do this to not only show the possible benefits of 
+gamification in practice but also to demonstrate mastery of gamification techniques. To do this, we 
+will cross-reference our knowledge of the tools with the c oncepts presented in the second part of 
+this paper. We will start by introducing our readers to FoldIt, which is an excellent example of 
+gamification. It has even helped solve stagnant scientific research, even with the help of 
+supercomputers. Then we will talk about INL Projects, a gamified tool of our own authorship made 
+in partnership with INL under the PortLinguE project, whose main goal is to communicate science 
+to young people in a light and fun way. After an extensive creative process, the creation o f this 
+game involved a lot of research about the INL projects, especially when having to separate them 
+into categories. Besides an extensive process of image editing and many tests to adapt the rules 
+to the desired time and target audience. After trial and  error, it was eventually completed, both in 
+physical and digital version, available on the Tabletopia website. 
+
+ix 
+ 
+Gamification is a form of design that takes the focus off productivity to think about the 
+human being, and although it is not exclusively digita l, gamification is intrinsically linked to the 
+digital environment, thus being an area of research strongly linked to Digital Humanities. We hope 
+that in the end our readers share our vision of the benefits that gamification can bring to humanity, 
+and how applying it not only requires some responsibility, but also requires some talent and 
+knowledge of gamification techniques. 
+Keywords: Gamification, Octalysis; INL; Digital Humanities; Science Communication
+ 
+  
+
+x 
+ 
+Índice  
+Agradecimentos ...................................................................................................................... iii  
+Resumo .................................................................................................................................. vi  
+Abstract ................................................................................................................................. viii  
+Índice…………………………………………………………………………………………………………..….……… x  
+Índice de tabelas .................................................................................................................... xii  
+Índice de figuras .................................................................................................................... xiii  
+Índice de vídeos…………………………………………………………………………………………………………xv 
+Introdução ............................................................................................................................... 1  
+1. Jogos ………….................................................................................................................... 3  
+1.1 Esportes …………………………….………………………………………………….................... 3  
+1.2 Jogos de Mesa……………………………………………………………………….………………… 6  
+1.3 Jogos Digitais…………………………………………………………………………………..………. 8  
+1.4 Definindo um Jogo…………………………………………………………………………….……. 12  
+1.5 Brinquedo e Brincadeiras……………………………….……………………………................... 15  
+2. Gamificação .................................................................................................................... 16  
+2.1 A Estrutura de Gamificação Octalysis de Yu-kai Chou………………………………………….. 17  
+2.1.1 Significado Épico & Chamado……………………………………………….................. 17 
+2.1.2 Desenvolvimento & Realização…………………………………………………….…….… 21  
+2.1.3 Fortalecimento da Criatividade & Feedback…………………………………….……… 24  
+2.1.4 Propriedade & Posse……………………………………………………………………….... 27  
+2.1.5 Influência Social & Relacionamento………………………………………………....…… 30  
+2.1.6 Escassez & Impaciência………………………………….……………….................….. 34  
+2.1.7 Imprevisibilidade & Curiosidade……………………………………………………….….. 38  
+2.1.8 Perda & Prevenção……………………………………………………………………………. 40 
+2.2 As categorias de Gamificação de Marczewski………….…………………………..…….... 43  
+2.2.1 Gamificação Básica…………………………………………………………………………... 44  
+2.2.2 Simuladores………………………………………………………………………………..…... 46  
+2.2.3 Jogos Sérios……………………………………………………….……………................... 49  
+3. FoldIt………………………………………………………………………………………………………...……. 55  
+3.1 Porque as Formas das Proteínas Importam…………………………………................... 55  
+3.2 Benefícios do FoldIt…………………………………………………………………………….….. 56 
+
+xi 
+ 
+3.3 A Gamificação em FoldIt…………………………………..…………………………….……….. 58  
+3.4 FoldIt e o Covid-19……………………………………………..…………………….…………….. 60 
+4. INL Projetos……………………………………………………………………………………………………… 61  
+4.1 Comunicação de ciência………………………………………………………….……….……... 62 
+4.2 Inspiração……………………………………………………………………………….……….…… 64  
+4.3 Desenvolvimento das cartas………………………………………………………..…………… 67  
+4.4 Regras…………………………………………………………………………………….……….…… 71 
+4.5 Gamificação no INL Projetos………………………………………………………..…………… 76  
+4.6 INL Projetos Online……………………………………………………………………….………... 78  
+4.6.1 Tabletopia…………………………………………………………………………………….…. 78  
+4.6.2 Criando uma sala…………………………………….…………………………………………83 
+4.7 Análise, limitações e desenvolvimento subsequente………………………………………..87 
+5.Considerações Finais .......................................................................................................... 89  
+Referências bibliográficas ...................................................................................................... 91  
+Códice de Sites e Softwares…………………………………………………………………………………….... 94  
+Anexos………………………………………………………………………………………………………………….. 95  
+  
+
+xii 
+ 
+Índice de tabelas  
+Tabela 1: Categorias dos Esportes…………………………………………………………………................. 5  
+Tabela 2: Categorias dos Jogos de Mesa…………….................................................................... 6  
+Tabela 3: Propriedades presentes por categoria de Gamificação.............................................. 44 
+  
+
+xiii 
+ 
+Índice de figuras  
+Figura 1: Exemplar do Jogo Real de Ur. Fonte: Museu Britânico................................................. 3  
+Figura 2: Estátua de Wrestling e Tábua XII da Epopeia de Gilgamés Fonte:  Museu Nacional do 
+Iraque.. ……………………………..……………………......................................................................... 4  
+Figura 3: Monopoly Chocolate Edition. Fonte: Captura de tela do vídeo Monopoly Chocolate Edition 
+Board Game Candies - Unique Candy Tasting…………………….………..……………..…………………... 7  
+Figura 4: Versão Doméstica de PONG Fonte: Arquivo pessoal….................................................. 8  
+Figura 5: Evolução da Lara Croft Fonte: 20 Years of Tomb Raider…............................................ 9  
+Figura 6: 
+Chongqing Zhongxian E-Sports Stadium
+. Fonte: Production Hub………..…………….…. 11  
+Figura 7: Octalysis e seus 8 Núcleos Fonte: Actionable gamification…………………..…………….. 17  
+Figura 8: 1º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….... 19  
+Figura 9: 2º Núcleos e suas técnicas Fonte: Actionable gamification.…………..……………………. 21  
+Figura 10: 3º Núcleos e suas técnicas Fonte: Actionable gamification……………….………………. 25  
+Figura 11: 4º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….. 28  
+Figura 12: 5º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….. 31  
+Figura 13: 6º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….. 35  
+Figura 14: Estátua do eMart. Fonte: Innovtoday. .................................................................... 37 
+Figura 15: 7º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….. 39  
+Figura 16: 8º Núcleos e suas técnicas Fonte: Actionable gamification……………………………….. 41  
+Figura 17: Capturas de Tela do Heartbit Fonte: arquivo pessoal.............................................. 45 
+Figura 18: Capturas de tela do Duolingo. Fonte: arquivo pessoal…............................................ 45  
+Figura 19: 
+Kriegsspiel
+. Fonte: BGG……………............................................................................ 46  
+Figura 20: 
+Link Trainer
+, Barril da
+ Antoinette, e 
+Professor
+ Sanders
+  Fonte: arquivo pessoal. ....... 47  
+Figura 21: Simulador de Voo da FAB Fonte: Airway …………...................................................... 48  
+Figura 22: Programação para diferentes idades Fonte: Tynker…………………………………………... 49  
+Figura 23: Do mais simples ao controle total Fonte: arquivo pessoal …………..…………………..... 50  
+Figura 2 4: Tynker ensina 4 linguagens de programação em um único curso. Fonte: arquivo 
+pessoal. ................................................................................................................................. 50  
+Figura 25: Capturas de tela do jogo sério Darfur is Dying de 2006 Fonte: arquivo pessoal ........ 51  
+Figura 2 6: Jogos do projeto Digitakoot: Mole Pole e Mole Hunt. Fonte: 
+Springwise. ............................................................................................................................ 52  
+Figura 27: Capturas de tela do Freerice. Fonte: arquivo pessoal ……......................................... 53  
+
+xiv 
+ 
+Figura 28: Proteínas 6MRR, 6MRS, 6MSP, 6NUK e 6WI5. Fonte: arquivo pessoal. ………..…….. 56  
+Figura 29: Gamificação no FoldIt Fonte: Octalysis Tools……………………..……………………………. 58  
+Figura 30: SARS-CoV-2 no FoldIt Fonte: FoldIt…………… ……..................................................... 59  
+Figura 31: Capa de várias versões do jogo Top Trumps Fonte: arquivo pessoal ……................... 63  
+Figura 32: Ronaldo e Komasan Fonte: arquivo pessoal..……...................................................... 64  
+Figura 33: Dálmata vs Chihuahua Fonte: toptrumps.com …………………………………..………..….. 65  
+Figura 34: Núcleos de Pesquisa Fonte: INL……………….……...................................................... 67  
+Figura 35: Cartas do INL Projetos Fonte: arquivo pessoal……………………………….…..………..….. 69  
+Figura 36: Regras do INL Projetos Fonte: arquivo pessoal …...................................................... 70  
+Figura 37: Tabuleiro do INL Projetos Fonte: arquivo pessoal ……............................................... 71  
+Figura 38: Marcadores do INL Projetos Fonte: arquivo pessoal ……........................................... 71  
+Figura 39: Exemplo de desafio no INL Projetos Fonte: arquivo pessoal ……................................ 74  
+Figura 40: Gamificação no INL Projetos Fonte: Octalysis Tools………………………………………….. 76  
+Figura 41: Tabuleiro com mapa magnético para  versão Online do INL Projetos  Fonte: arquivo 
+pessoal……………………………………………………………………………………………………………………78 
+Figura 42: Dado para versão Online do INL Projetos Fonte: arquivo pessoal…………………………..79  
+Figura 43: Marcadores de prioridade para versão Online do INL Projetos Fonte: arquivo pessoal..80  
+Figura 44: Céu e mesa para versão Online do INL Projetos Fonte: arquivo pessoal…………………..80  
+Figura 45: Preparação para versão Online do INL Projetos Fonte: arquivo pessoal…………………..81  
+Figura 46: QR de acesso ao INL Projetos Online Fonte: arquivo pessoal………………………………. 82 
+Figura 47: Escolhendo nome e avatar no INL Projetos Online Fonte: arquivo pessoal…..………... 83  
+Figura 48: Determinando número de jogadores e enviando convites no INL Projetos Online Fonte: 
+arquivo pessoal……………………………………………………………………………………………………….. 83  
+Figura 49: Distribuindo as cartas no INL Projetos Online Fonte: arquivo pessoal…..………………. 84  
+Figura 50: Iniciando a partida no INL Projetos Online Fonte: arquivo pessoal…..…………………... 85  
+Figura 51: Selecionando a carta secretamente no INL Projetos Online Fonte: arquivo pessoal.... 85  
+ 
+ 
+ 
+ 
+ 
+ 
+
+xv 
+ 
+ 
+  
+
+xvi 
+ 
+Índice de vídeos  
+Vídeo 1: Gameplay do jogo Dysbiosis Fonte: Ashley Gwinnell …………………………………………. 61 
+
+1 
+ 
+Introdução 
+ 
+A fim de compreender a gamificação, assim como o seu potencial benéfico para o mundo, iremos 
+começar do básico. Por isso, primeiramente daremos um vislumbre da história e cultura da humanidade 
+para que possamos refletir o quão importante são os jogos em nossa sociedade. Analisaremos os jogos 
+em suas três principais categorias , que são elas: esportes, jogos de mesa e jogos digitais. Não são 
+categorias exclusivistas de uma mesma atividade, por exemplo, o xadrez, pode pertencer a mais de uma 
+categoria. Jogos são extremamente populares na nossa sociedade, suas indústrias movimentam bilhões 
+por ano, e são capazes de promover mudanças significativas, infelizmente nem sempre para o bem. 
+Também trataremos nessa parte do trabalho das qualidades que delimitam se algo é ou não um 
+jogo. Para tal, nos basearemos nas definições de Schell (2014). É importante notarmos o sincronismo 
+dessas qualidades, pois a humanidade em seus tempos mais bárbaros tinha por costume atirar alguns 
+membros menos favorecidos de suas sociedades em coliseus para lutas até a morte. No final, falaremos 
+sobre brinquedos e brincadeiras na visão do psicólogo alemão Walter Benjamin (1932) e faremos um 
+contraponto com as qualidades de um jogo de Schell (2014). 
+Na segunda parte des te trabalho, iremos falar sobre a gamificação em si. Começando com o 
+estudo do termo. Pois apesar de ser relativamente recente o termo, o estudo sobre o conceito já havia 
+começado décadas antes com Coonradt (1984). Não há como datarmos o uso instintivo do conceito pela 
+humanidade, mas não é difícil crer que a gamificação andou desapercebidamente de braços dados com 
+a humanidade há milênios.  
+Depois veremos uma ampla quantidade de técnicas de gamificação descritas por Chou (2015), 
+divididas em 8 núcleos em uma estrutura de  gamificação que ele nomeou de Octalysis. Sempre que 
+possível citaremos exemplos de sucesso das técnicas sendo aplicadas, pois exemplos são fatos e contra 
+fatos não há argumentos. Muitas técnicas não terão exemplos , talvez por não terem nenhum exemplo 
+de sucesso significativo, mas na maioria das vezes é por ter vários ao ponto de se tornar desnecessário 
+a exemplificação. Por fim, veremos as categorias de gamificação de Marczewski (2015), estas fazem 
+uma importante distinção das diferentes formas que um projeto gamificado pode ser empregado, assim 
+como os seus graus de proximidade para com um jogo convencional. 
+Na terceira parte apresentaremos e faremos um estudo do caso da aplicação FoldIt que propõem 
+quebra-cabeças de desafios científicos na forma de dobragem de proteínas. O aplicativo não tem uma 
+resposta correta, ele apenas estima a possibilidade de que a resposta do usuário seja capaz de existir. A 
+Universidade de Washington, responsável pelo aplicativo, testa posteriormente as re spostas mais 
+
+2 
+ 
+factíveis, ou seja, as que alcançaram maior pontuação. Entre vários pequenos avanços que não podem 
+ser considerados como soluções finais, o FoldIt já conseguiu encontrar a forma correta de 5 proteínas, 
+que foram reconhecidas pela sociedade científic a e adicionadas a um banco de dados livre em prol da 
+humanidade.  
+Na quarta parte , iremos apresentar uma ferramenta gamificada de criação própria, feita em 
+parceria com o INL1. A ferramenta, criada para esse trabalho, foi nomeada de INL Projetos por se basear 
+nos dados dos projetos do INL. O público-alvo são os jovens que visitam o INL . O objetivo principal é 
+comunicar a ciência e despertar o interesse dos seus usuários pelo domínio científico. O INL Projetos foi 
+criado tanto em versão física, para ser usado nas excursões escolares, como versão digital, para 
+possibilitar um maior tempo de exposição dos usuários, e por consequência sua eficácia.  Infelizmente 
+devido ao Covid testes de usabilidade da ferramenta em crianças não puderam ser realizados conforme 
+previsto.  
+Nessa parte além de falar de comunicação de ciência, seus principais objetivos e  instruções 
+básicas de como aplicá-la. Também iremos falar de Top Trumps, o jogo da década de setenta que serviu 
+de inspiração para o INL Projetos. Seguido do processo criativo de desenvolvimento das cartas do jogo, 
+assim como as suas regras, tentando explicar algumas escolhas de designer e sempre levando em 
+consideração a teoria apresentada anteriormente. Além disso faremos u ma análise da s técnicas de 
+gamificação apresentadas por Chou (2015) presente no INL Projetos . Assim como falaremos do 
+desenvolvimento da versão online do INL Projetos, junto de instruções de como acessar e utilizar com 
+eficiência. E por fim uma análise de tudo que não deu certo e de como poderia futuramente melhorar o 
+INL Projetos.  
+ 
+Finalizaremos então com breves conclusões finais sobre o tema da “ Gamificação: Categorias, 
+Técnicas e Aplicação no Domínio Científico” seguidos da referência bibliográfica utilizada nessa obra, tal 
+como um códice dos aplicativos citados e em anexo uma versão de imprimir e jogar do INL Projetos,  
+com autorização do INL.  
+ 
+1 International Iberian Nanotechnology Laboratory: https://inl.int/ 
+
+3 
+ 
+1. Jogos 
+De acordo com Blanchard  (1985), jogos são elementos universais encontrados em todas as 
+culturas. Os registros mais antigos de jogos comprovados pela arqueologia datam por volta de 2600 a.C., 
+como o Jogo Real de Ur. Os jogos podem ser divididos em três categorias prioritárias: Esportes, Jogos 
+de Mesa e Jogos Digitais. Além de explorar tais categorias, iremos analisar as principais correntes de 
+pensamento ao redor dos jogos. 
+ 
+Figura 1: Exemplar do Jogo Real de Ur, no Museu Britânico 
+Fonte: Museu Britânico (www.britishmuseum.org) 
+ 
+1.1 Esportes 
+São os esportes que fazem dos jogos elementos universais, pois é o único entre as seis 
+categorias que está presente em todas as culturas. Alguns estudiosos em antropologia, defendem que 
+os esportes eram praticados desde o Paleolítico Superior, no entanto é muito difícil afirmar isso pois as 
+evidências que reforçam essa teoria são algumas poucas pinturas rupestres que fazem ser necessário 
+uma certa predisposição para as considerar como provas de práticas esportivas.  
+Sendo assim, esse trabalho vai adotar a visão Blanchard (1985) e Crowther (2010) que define 
+como as formas comprovadas mais antigas de um esporte dois artefatos da antiga civilização Suméria. 
+A primeira é uma estátua de bronze, datad a por volta de 2600 A.C., encontrada em Khafaji, no Iraque, 
+
+
+4 
+ 
+que apresenta dois lutadores de Wrestling. A segunda é a Epopeia de Gilgamés, cujas tabuletas mais 
+antigas encontradas datam de 2000 A.  C., mas o rei sumério teria vivido por volta dos 2600 A.C. 
+semelhante a estátua. 
+ 
+Figura 2: Estátua de Wrestling 2600A.C. e Tábua XII da Epopeia de Gilgamés2 escrita em Língua acádia, por volta de 1800 A.C.  
+ 
+ 
+Fonte: Museu Nacional do Iraque.( http://www.virtualmuseumiraq.cnr.it/homeENG.htm) 
+ 
+Nos dias atuais a definição de esporte aceita majoritariamente é a da SportAccord 3. A 
+SportAccord é uma organização que reúne todas as federações internacionais de esportes (olímpicos e 
+não-olímpicos), organizadores de jogos multiesportivos e associações internacionais relacionadas a jogos 
+esportivos. Ao total, a SportAccord reúne mais de 90 federações esportivas, como por exemplo a FIFA 4. 
+A SportAccord desenvolveu essa definição com o objetivo de determinar se uma federação candidata se 
+qualificaria como federação esportiva. Não se trata de  ter uma definição geral, cientificamente sólida, 
+mas sim fazer uma descrição clara e pragmática das atividades que poderiam ser consideradas um 
+esporte. Primeiramente os esportes são divididos em 5 categorias autoexplicativas: 
+ 
+ 
+2 Rei da Suméria, de caráter semilendário, mais conhecido atualmente por ser o personagem principal da Epopeia de Gilgamés, um épico mesopotâmico 
+preservado em tabuletas escritas com caracteres cuneiforme 
+3 https://www.sportaccord.sport/. 
+4 Federação Internacional de Futebol 
+
+
+5 
+ 
+Tabela 1: Categorias de Esportes segundo a SportAccord 
+ 
+Categoria Exemplo  
+Esportes Físicos Futebol 
+Esportes Mentais Xadrez  
+Esportes Motorizados Fórmula 1 
+Esportes de Coordenação Patinação Artística 
+Esportes com Suporte de Animais  Hipismo 
+ 
+Fonte: Elaboração própria  
+ 
+Importante ressaltar que um esporte pode pertencer a várias categorias. Mas para ser 
+considerado como esporte pela SportAccord, além de ser necessário pertencer a pelo menos uma 
+categoria, é preciso ter as seguintes características:  
+• O esporte proposto deve ter um elemento de competição.  
+• O esporte proposto não deve ser prejudicial a seres vivos.  
+• O esporte não deve contar com equipamentos fornecidos por um único fornecedor. 
+• O esporte não deve confiar em nenhum elemento de "sorte" projetado especificamente para o 
+esporte. 
+Vale a pena ressaltar que para manter tudo dentro dos conformes previamente estabelecidos 
+acima, a SportAccord tem especial cuidado antes de aceitar novas federações de alguns tipos de 
+esportes. 
+• Artes marciais ou esportes de combate, pois além de ter que se relativizar o prejudicial a seres 
+vivos, esses esportes costumam ter uma natureza complexa e diferenças mínimas entre eles  e 
+outro esporte já cadastrado. 
+
+6 
+ 
+• Qualquer esporte mental deve ter sido previamente aceit e pela International Mind Sports 
+Association5. 
+• Esportes para pessoas com atividade física ou atlética limitada. 
+ 
+1.2 Jogos de Mesa 
+ O termo jogo de mesa é um termo rela tivamente recente, que une uma infinidade de estilos de 
+jogos. Apesar disso, os jogos de mesa na verdade são quase tão universais quanto os esportes. Segundo 
+Bell (19 79), as únicas culturas onde os jogos de mesa não estão presentes são os aborígenes 
+australianos e o povo Inuíte. O jogo de mesa mais antigo de que temos o conhecimento é o Jogo Real 
+de Ur, já mostrado anteriormente na figura 1. 
+Um jogo de mesa tem por característica se limitar a uma área pequena e não requer grandes 
+esforços físicos para se jogar. Se joga apenas movendo, retirando e colocando os elementos do jogo. 
+Alguns desses jogos, com propósitos mais festivos, não se limitam tanto e podem envolver algum esforço 
+físico. De qualquer forma, esses jogos ainda não exigem uma grande área, grandes quantidades de força 
+ou estamina, ou equipamento especializado. 
+Existem variadas formas de se subdividir os jogos de mesa. A mais recorrente é de acordo com 
+os tipos de elementos utilizados nos jogos: 
+ 
+Tabela 2: Categorias dos Jogos de Mesa 
+ 
+Categoria Exemplos  
+Jogos de Tabuleiro Shogi e Xadrez 
+Jogos de Cartas Paciência e Hanafuda 
+Jogos de Dados Poker de Dados e Yahtzee 
+Jogos de Lápis e Papel Jogo da forca e Sudoku 
+ 
+5 Organização internacional de esportes intelectuais, que incluem membros incluem a Federação Internacional de Bridge, Federação Internacional de Xadrez, 
+Federação Internacional de Damas, Federação Internacional de Go e Federação Internacional de Pôquer. 
+
+7 
+ 
+Jogos de Interpretação de Personagens Gurps e Dungeons & Dragons 
+Jogos de Miniaturas Warhammer e Star Wars: Armada 
+Jogos baseados em Blocos Dominó e Mah Jong 
+ 
+Fonte: Elaboração própria  
+ 
+ É importante observar que nem sempre um jogo será facilmente classificado em uma única 
+categoria. Pois um mesmo jogo pode, e é comum, conter elementos de outras categorias. Mas ao 
+contrário dos esportes onde se aceita que um jogo pertença a duas ou mais ca tegorias, nos jogos de 
+mesa é levado em consideração qual o elemento de maior importância para o bem correr do jogo. Por 
+exemplo: Monopoly, um jogo de considerável renome, que ao longo dos anos teve centenas de versões 
+levemente diferenciadas. Incluindo uma em que as cartas eram feitas de chocolate. Além de cartas, ele 
+possui normalmente um tabuleiro, 2 dados e algumas peças de menor importância. Então em qual 
+categoria ele se encaixa? 
+Figura 3: Monopoly Chocolate Edition 
+ 
+ 
+Fonte: Captura de tela do vídeo Monopoly Chocolate Edition Board Game Candies - Unique Candy Tasting. 
+
+
+8 
+ 
+Monopoly claramente não é um jogo da categoria Dados, pois você sempre usa o mesmo par de 
+dados para uma única função: determinar o quantas casas seu pião irá avançar. E em algumas versões, 
+como a da Figura 3, os dados são até substituídos por uma roleta ou outro elemento qualquer. As cartas 
+em Monopoly se dividem em 2 tipos: Sorte/Revés e Propriedades. A pri meira serve para aumentar a 
+dinamicidade do jogo, porém é pontual e dificilmente terá mais relevância em uma partida do que o rolar 
+dos dados. A segunda é apenas uma escolha de designer, elas em nada movem o jogo. Apenas 
+representam a sua posse sobre uma área do tabuleiro. Esse determina o destino dos jogadores e é em 
+torno dele que o jogo gira. Sendo assim, o Monopoly é um Jogo de Tabuleiro e não de Cartas ou de 
+Dados.  
+ 
+1.3 Jogos Digitais 
+Jogos Digitais são programas interativos de computador para fins de entretenimento. De acordo 
+com Williams (2017) o primeiro protótipo de um jogo digital foi feito no ano de 1947 pelos americanos 
+Thomas T. Goldsmith Jr. e Estle Ray Mann. Se tratava de um simulador de mísseis cujas velocidade e 
+curva podiam ser controladas através de alguns botões e o jogador tinha de acertar no alvo. 
+ 
+Figura 4: Gabinete de PONG,1972; Versão Doméstica de PONG, 1974 
+ 
+ 
+Fonte: Arquivo Pessoal 
+ 
+Até 1972, os jogos digitais eram criados no meio acadêmico, mas não chegavam a ser 
+comercializados. O primeiro jogo a ser comercializado em massa foi Pong, um simulador de tênis de 
+
+
+9 
+ 
+mesa criado pelos americanos, Nolan Bushnell e Ted Dabney , na forma de um a console ligada a um 
+monitor dentro de um gabinete. Para se jogar era necessário colocar uma moeda. E devido a sua alta 
+popularidade, os criadores fundaram a empresa Atari, que em 1974, lançou a versão doméstica do jogo 
+e ainda hoje atua no ramo. 
+Assim como a tecnologia está em constante evolução, os jogos também evoluem ao absorver 
+essa tecnologia, quando não são eles a impulsioná -las. No início da década de 1980, vários jogos 
+passaram a conter gráficos tridimensionais. O primeiro deles foi o BattleZone em 1980, que assim como 
+o PONG foi lançado em formato de gabinete movido a moedas. Em escala doméstica, somente na década 
+de 1990 que os computadores pessoais se tornaram potentes o bastante para rodar jogos com os 
+gráficos tridimensionais.De acordo com Marie (2016), o primeiro jogo digital a requerer uma placa gráfica 
+foi o Tomb Raider: Atlantean Scion de 1996, cuja heroína Lara Croft se tornou um ícone da cultura de 
+massa e cuja franquia hoje possui mais de 20 jogos, além de 3 filmes e adaptação em banda desenhada. 
+ 
+Figura 5: Evolução do Gráfico da personagem Lara Croft entre 1996 e 2018 
+ 
+ 
+Fonte: 20 Years of Tomb Raider 
+ 
+Outro avanço tecnológico que influenciou o rumo dos jogos digitais foi a disseminação da 
+Internet. Primeiro, apareceram jogos que se jogavam principalmente offline, mas continham de alguma 
+forma a opção de jogabilidade online. Com a melhoria da internet do méstica, passou a se desenvolver 
+
+
+10 
+ 
+jogos puramente online. No final da década de 1990, o gênero de jogo digital MMO 6 ganhou força, 
+principalmente em países asiáticos.  
+Além dos MMOs, outro marco de destaque foi a criação de plataformas multiplayer, que possuem 
+servidores que oferecem uma conexão mais estável para o bom decorrer do jogo. Uma das que foram 
+criadas e ainda está atuante é a plataforma Battle.net 7, da empresa Blizzard Entertainment. A Blizzard 
+desenvolveu vários jogos famosos compatíveis com a plataforma, como Warcraft 2 e 3 e Starcraft 1 e 2. 
+Ainda hoje há campeonatos, agora em escala mundial, de Starcraft 2 e Warcraft 3. A premiação do 
+torneio de Starcraft 2 em 2020 será de aproximadamente 2 milhões de dólares em prêmios. 
+O crescente montante das premiações nos torneios de jogos digitais resultou numa primeira 
+onda de popularização dos esportes eletrônicos que tiveram três consequências. A primeira 
+consequência foi que , com o crescente número de pessoas interessadas em parti cipar e se dedicar 
+profissionalmente aos esportes eletrônicos, os governos viram a necessidade de regularizar e criar uma 
+legislação que versa sobre o tema. O primeiro país a fazer isso foi a Coréia do Sul em 2000, com a 
+Associação Coreana de Esportes Eletrônicos, que é ligada ao Ministério da Cultura, Esportes e Turismo. 
+A segunda consequência foi o surgimento de canais de televisão que se dedicavam exclusivamente aos 
+esportes eletrônicos. Os primeiros canais  dedicados a esta questão  foram Ongamenet8 e MBCGame, 
+ambos da Coréia do Sul. Em Portugal , temos desde 2018 o canal GAMETOON 9, além de programas 
+voltados para os principais campeonatos de esportes eletrônicos no grid da ESPN e SportV. A terceira 
+consequência foi o grande aumento no número de torneios existentes. Em 2000, existiam 10 torneios 
+mundiais, em 2010 já eram aproximadamente 260. Muitos torneios de sucesso foram fundados durante 
+esse período, como o WCG10, o Intel Extreme Masters e a MLG11. 
+Novamente com o avanço da internet, e o surgimento e popularização dos serviços de streaming 
+on-line, os esportes eletrônicos tiveram uma segunda onda de popularização. A plataforma de streaming 
+online Twitch, lançada em 2011, transmite competições populares de esportes eletrônicos. Segundo 
+dados fornecidos pela própria Twitch12 em 2013, por exemplo, os usuários da plataforma, de acordo com 
+Popper (2013), o assistiram um total de 200 milhões de horas de vídeos de esportes eletrônicos. Durante 
+um único dia, durante o The International13, o Twitch chegou a registrar 4,5 milhões de visualizações de 
+ 
+6 MMO: Massive Multiplayer Online 
+7 Battle.net: https://eu.shop.battle.net/pt-br 
+8 Ongamenet: http://ogn.tving.com/ogn 
+9 GAMETOON: http://gametoon.com/ 
+10 WCG: World Cyber Games  
+11 MLG: Major League Gaming 
+12 Twitch: https://www.twitch.tv/ 
+13 The International: Campeonato Mundial dedicado ao Jogo Digital DOTA 2 
+
+11 
+ 
+diferentes usuários com média de visualização de duas horas por usuário, dando um total de 9 milhões 
+de horas assistidas em um único dia. 
+A facilidade de acesso ao esporte eletrônico acabou por fechar gran de parte dos canais de 
+televisão dedicados ao assunto. Algumas faculdades, principalmente nos Estados Unidos da América, 
+passaram a oferecer bolsas de estudo para atletas de esportes eletrônicos, assim como oferecem para 
+os de esportes convencionais. A presença física nos campeonatos de esportes eletrônicos, assim como 
+o tamanho dos eventos aumentaram. Durante o League of Legends World Championship de 2014, 
+tiveram aproximadamente 40 mil espectadores no Estádio da Copa do Mundo de Seul, e contou com a 
+cerimônia de abertura e encerramento. Em 2015 , foi finalizada a primeira instalação exclusivamente 
+dedicada aos esportes eletrônicos em Santa Ana, na Califórnia. Já , em 2018 , foi concluído o maior 
+estádio dedicado aos esportes eletrônicos: Chongqing Zhongxian E -Sports Stadium, localizado no 
+sudoeste da China que possui aproximadamente 18.300 metros quadrados, e tem capacidade para 
+acomodar 20,000 pessoas. 
+ 
+Figura 6: Chongqing Zhongxian E-Sports Stadium 
+ 
+ 
+Fonte: Production Hub 
+
+
+12 
+ 
+No que tange as submodalidades de Jogos digitais, não nos iremos ater a elas pois se trata de 
+mais de 50 gêneros diferentes, que por muitas vezes se misturam em demasia e em nada iriam contribuir 
+para o concluir deste trabalho. Se por acaso mais a frente se mostrar necessário, exploremos a explicação 
+de um gênero ou outro. 
+ 
+1.4 Definindo um Jogo 
+Existem várias definições do que é um jogo. A que consideramos mais completa foi desenvolvida 
+pela designer de jogos Jesse Schell (2014), que define dez qualidades necessárias para algo poder ser 
+definido como Jogo. 
+1.4.1 Jogos são jogados voluntariamente 
+ O consenso é algo muito importante na nossa sociedade, e a ausência dele faz um mesmo ato 
+passar de gesto de amor para crime hediondo. Mas no que tange a teoria dos jogos modernos, um jogo 
+precisa do consenso de todos os envolvidos para ser considerado um jogo. E a ausência desse consenso 
+já invalida o quer que seja de ser considerado como tal. Um exemplo muito utilizado sobre essa questão 
+são os gladiadores. Apesar de ser comumente e historicamente chamado de jogo, forçar um ser humano 
+para lutar contra outro, ou com algum animal silvestre de grande porte, até a morte, não o é. 
+1.4.2 Jogos têm objetivos 
+Cada uma das pessoas envolvidas em um jogo deve  buscar algo, e a esse algo chamamos de 
+Objetivo. Tal objetivo pode ser individual ou compartilhado entre 2 até todos os jogadores. Pode ser 
+secreto, somente o jogador conhece o seu objetivo, ou público, todos os participantes sabem o que os 
+outros têm que fazer para ganhar. Um dos objetivos mais comuns em jogos é simplesmente fazer mais 
+pontos que os oponentes. Porém em vários jogos apesar de ser a forma mais comum, não é a única 
+forma de alcançar a vitória. No futebol, por exemplo, se o Time A estiver perdendo por 7x1, mas o Time 
+B tiver o 5º jogador  expulso antes do final do jogo,  a partida termina imediatamente e é considerada 
+como uma vitória para o Time A pôr 3x0. 
+1.4.3 Jogos têm conflitos 
+O Conflito num jogo se dá pela interação entre as forças, podendo ser jogador(es) vs jogador(es) 
+ou jogador(es) vs mecânica, que buscam cumprir seus objetivos e alcançar a vitória. Mais fácil de notar 
+em esportes, onde há 2 times competindo, mas presente mesmo em jogos 
+single player 
+há sempre uma 
+
+13 
+ 
+mecânica que visa impedir o jogador de ganhar. Como Tetris, onde o conflito se dá pelo aumento 
+contínuo do Desafio. As peças caem cada vez mais rápido e, dependendo da versão, novas formas das 
+peças aparecem. 
+1.4.4 Jogos têm regras 
+Em todo jogo, existe aquilo que pode ou não se pode fazer. Podendo ou não prever penalidades 
+para um jogador que faça algo que não se pode fazer. Ou em alguns casos incentivar que um jogador as 
+desrespeite, se o conseguir fazer sem que ni nguém o note. As regras são muito importantes no que 
+tange a diferenciar um jogo de um brinquedo, mas essa é uma questão que por hora não iremos abordar. 
+1.4.5 Jogos podem levar a vitória ou a derrota  
+Muitos dos que teorizam sobre jogos tendem a dizer, de uma forma ou de outra, que jogos 
+começam equilibrados e no seu decorrer o desequilíbrio ocorre, gerando assim o resultado. O que não 
+está errado para grande parte dos jogos. Mas um tanto equivocado no que tange a jogos em geral. Jesse 
+Schell (2014) por sua vez diz que jogos não são necessariamente equilibrados, mas que independente 
+disso haverá o resultado: Vitória ou Derrota. Para deixar essa questão do equilíbrio bem clara, vamos 
+apresentar alguns exemplos: 
+Jogos como o já mencionado 
+Monopoly,
+ onde todos os jogadores começam com uma mesma 
+quantia e sem posses, e a cada rodada andam X casas num tabuleiro cíclico definidas pela rolagem de 
+2 dados de 6 faces, podem ser considerados como equilibrados. Agora podemos facilmente ver que isso 
+não se aplica a jogos em geral quando tratamos de jogos de azar . A roleta, por exemplo, permite que o 
+jogador aposte em 1:1 em 3 categorias: Pretos/Vermelhos, Ímpares/Pares e 1-18/19-36 e não importa 
+em qual o jogador jogue. A chance de vitória é inferior à da banca devido a existência do 0, e do 00 nas 
+roletas americanas, que não se encaixam em nenhuma das 2 opções de nenhuma das 3 categorias. 
+Por muitas vezes, o desequilíbrio pode até ser usado como pilar para um jogo. Pois a graça em 
+alguns jogos está na extrema dificuldade do jogador em alcançar os seus objetivos, como é o caso dos 
+jogos de tabuleiro moderno cooperativos, jogos de azar e algumas franquias de jogos digitais. 
+1.4.6 Jogos são interativos 
+Cada jogador deve participar ativamente do jogo, suas ações e escolhas, dentro dos limites das 
+regras, devem pesar para o resultado do mesmo. De outra forma, não faria sentido para aquele jogador 
+
+14 
+ 
+não estar lá desde o início. Como é no caso do Quadribol14, onde 12 jogadores ficam desperdiçando o 
+seu tempo enquanto 2 apanhadores15 disputam para encontrar o pomo de ouro , que não só encerra a 
+partida, mas dá uma esmagadora vantagem  para o time que o capturou . Apesar de fictício enquanto 
+esporte, Quadribol foi adaptado para jogo digital , e em quase todas as suas adaptações , o jogador só 
+tem a opção de jogar como apanhador. Pois é a única função realmente relevante.  
+1.4.7 Jogos têm desafios 
+O desafio num jogo consiste em tudo aquilo que dificulta o jogador de alcançar seus objetivos , 
+incluindo os conflitos com os demais jogadores . Em um jogo de futebol o desafio de um atacante é 
+passar pela defesa do time adversário. Já num jogo de Xadrez o desafio é manter o seu rei em segurança, 
+enquanto busca capturar o rei inimigo. Em cada jogo, sempre há vários desafios, e um bom jogo precisa 
+ter uma dose certa deles. Pois tanto um jogo muito fácil como muito difícil podem frustrar o jogador. 
+1.4.8 Jogos podem criar valores internos próprios 
+Essa qualidade é opcional, mas muito observada em jogos digitais online e jogos de tabuleiro. 
+Trata-se de dar valor a um determinado objeto, que fora do jogo não o teria. Um exemplo simples é o 
+dinheiro usado em 
+Monopoly
+, você não vai conseguir pagar as suas contas com ele, mas dentro do jogo 
+ele é essencial. Em contraponto, temos a Roleta como um jogo que não tem valor interno próprio. Claro 
+que se pode jogar Roleta usando algum substituto para o dinheiro, mas, segundo Schell (2014), se torna 
+um jogo pouco atraente. Alguns jogos digitais online criam valores internos próprios tão fortes que seus 
+itens são comercializados por dinheiro real pelos jogadores entre si. 
+1.4.9 Jogos envolvem os jogadores 
+Essa é outra qualidade opcional, nem todos os jogos a possuem, mas bons jogos a tem 
+naturalmente. Trata-se da capacidade de imergir o jogador dentro do tema do jogo , fazendo o se sentir 
+no papel que o jogo propõe e normalmente alterando a percepção de passagem de tempo do jogador. 
+1.4.10 Jogos são sistemas fechados e formais 
+A comparação de jogos a sistemas significa que jogos têm elementos interligados que trabalham 
+junto para um único objetivo, tal como um sistema do corpo humano. Tais elementos consistem nas 
+ 
+14 Esporte fictício criado pela autora J. K. Rowling em sua série de ficção Harry Potter. 
+15 Posição do Jogador responsável por procurar e capturar o pomo de ouro. 
+
+15 
+ 
+qualidades anteriores. Todas funcionando em uníssono. Fechado e fo rmal querem dizer que o sistema 
+tem seus limites, e tais limites já estão pré-estabelecidos pelas Regras. Johan Huizinga chama a essa 
+característica dos jogos de “Círculo Mágico”, onde temos uma fronteira entre “no jogo” e “fora do jogo”, 
+e ao atravessá-la nossos valores, sensações e pensamentos diferem de quando estamos do outro lado. 
+ 
+1.5 Brinquedo e Brincadeiras 
+Benjamin (2009) associa o aspeto cultural em suas reflexões sobre o lúdico. Em seus estudos o 
+autor demonstra que desde quase sempre o brinquedo é um objeto criado por um adulto para uma 
+criança, o que também serviria para documentar como o adulto se coloca em relação ao mundo da 
+criança. No entanto, o autor também  aponta que não é o conteúdo imaginário do brinquedo que 
+determina as brincadeiras infantis, e sim a criança. Em consequência disso, Walter ainda aponta que 
+quanto mais atraente e elaborado for um brinquedo, mais distante ele se  torna de um instrumento do 
+brincar. 
+Para Walter , brinquedos e brincadeiras são como a criança se conecta ao mundo. Tomam 
+percepção dele e adquirem elementos importantes para a sua vida. Desde hábitos insignificantes, até 
+fatores determinantes de sua cultura. As brincadeiras também ajudariam as crianças a expressar aquilo 
+que elas têm dificuldade de pôr em palavras. Suas escolhas, segundo Walter, são motivadas por 
+processos e desejos íntimos da criança, que , em alguns casos , podem servir para detectar seus 
+problemas psicológicos. 
+Se compararmos os estudos de Walter com as qualidades dos jogos de Schell (2014), podemos 
+notar que somente as qualidades 1, “jogos são jogados voluntariamente”, 8, “jogos podem criar valores 
+internos próprios”,  e 9 , “jogos envolvem os jogadores”,  contemplam amplamente brinquedos e 
+brincadeiras. A qualidade 10, jogos são sistemas fechados e formais, se apresenta parcialmente uma 
+vez que os sistemas apesar de fechados não são formais. As demais qualidades podem até aparecer em 
+alguns, ou vários casos, mas de forma alguma contemplam a categoria brinquedos e brincadeiras como 
+um todo.  
+  
+
+16 
+ 
+2. Gamificação 
+A gamificação é um termo utilizado para definir a aplicação de elementos comumente associados 
+a jogos em qualquer outro contexto, e certamente não é algo novo. Os humanos sempre tentam tornar 
+as tarefas que precisam realizar de alguma forma mais interessan tes, ou quiçá até mesmo divertidas, 
+aumentando assim a sua motivação em realizá-las. Imaginemos um pequeno grupo de pessoas na idade 
+média que casualmente decide competir entre si na caça de algum animal e que a cada ano comparam 
+não só o seu resultado com  os dos demais, como para consigo mesmo nos anos anteriores. Isso já é, 
+mesmo que de forma rudimentar, uma gamificação. 
+O estudo mais antigo sobre a gamificação, mesmo que não utilize o termo pois o mesmo só foi 
+cunhado por Nick Pelling16 em 2002, é de 1984 por Charles Coonradt. O seu livro O Jogo do Trabalho 
+explora o valor de adicionar elementos de jogos no trabalho. Coonradt se questionou o que leva as 
+pessoas a preferir pagar para praticar esportes e afins, que são muito mais cansativos do que trabalhar 
+em seus empregos, onde seriam pagas ao invés de pagar. Por fim ele chegou a 5 motivos pelos quais 
+hobbies são mais preferíveis ao trabalho. 
+• Objetivos claramente definidos 
+• Melhor manutenção de pontos e cartões de pontuação 
+• Feedback mais frequente 
+• Um maior grau de escolha pessoal de métodos 
+• Treinamento consistente 
+Assim como os jogos evoluíram através das décadas, principalmente com o advento do digital, 
+a arte de conseguir gamificar o que quer que seja evoluiu simbioticamente. A capacidade de projetar e 
+implementar melhores experiências de jogo melhorou drasticamente a ponto de agora podermos trazer 
+experiências gamificadas sofisticadas e subtis em quase todos os aspetos de nossas vidas. 
+O termo gamificação surgiu em 2002, e se referia apenas a programas de computador que não 
+eram jogos, mas utilizavam elementos típicos do mesmo. Por volta de  2010, o termo se tornou mais 
+popular devido ao crescente uso dos smartphones. A indústria de jogos passou a investir em jogos e 
+aplicativos de celular que não apenas visavam o público jovem, mas também idosos e pessoas de meia-
+idade. Junto com a popularização d o termo surgiram diversas pessoas a versar sobre o termo, apesar 
+de quase todos os trabalhos apontarem a gamificação como algo positivo, não há exatamente um 
+consenso sobre muito mais. Diversos autores por vezes até utilizam o mesmo termo, mas para descrever 
+ 
+16 http://www.nanodome.com/conundra.co.uk/ 
+
+17 
+ 
+conceitos diferentes. A fim de obter um maior nível de coesão interna, focaremos principalmente nas 
+obras de Marczewski (2015) e Yu-kai Chou (2015). 
+ 
+2.1 A Estrutura de Gamificação Octalysis de Yu-kai Chou 
+Yu-kai Chou (2015) sugere que a motivação se gera através de certos impulsos inerentes ao ser 
+humano. Isso se baseia na premissa de que quase todos os jogos apelam para certos impulsos centrais 
+dentro de nós e nos motivam para uma variedade de decisões e atividades. A Estrutura de Gamificação 
+Octalysis divide essas motivações em oito núcleos principais. Cada um dos núcleos abrange um conjunto 
+de técnicas que funcionam se utilizando do mesmo impulso. 
+ 
+Figura 7: Octalysis e seus oito núcleos  
+ 
+ 
+Fonte: Actionable gamification 
+ 
+2.1.1 Significado Épico & Chamamento 
+Segundo Chou (2015), “Significado Épico & Chamamento” promove o impulso motivacional 
+decorrente das pessoas acreditarem que estão envolvidas em algo maior do que elas mesmas. Em 
+muitos jogos digitais, uma narrativa introdutória comunica que o mundo es tá prestes a ser destruído e, 
+de alguma forma, o jogador é o único qualificado para salvar o mundo. Isso cria imediatamente excitação 
+
+
+18 
+ 
+e motivação para a aventura. No entanto, apesar de inicialmente esses significados épicos não serem 
+tão aparentes, eles sã o passíveis de acontecer na vida real e nos motivar a fazer algo. Entre os vários 
+exemplos apresentados por Chou (2015), vamos nos aprofundar no Waze17. 
+Quando você pensa em um GPS, você provavelmente o vê apenas como uma ferramenta. Você 
+vira à direita, vira à esquerda e pronto
+. 
+Muito funcional, como se espera de uma ferramenta, mas não 
+muito épico. Waze, como tantos outros, é um aplicativo de navegação móvel baseado em GPS, mas que 
+fornece uma riqueza de informações geradas pelos usuários da comunidade Waze sobre as condições 
+de viagem no local. Mas como o Waze conseguiu impulsionar seus usuários a atualizar as informações 
+necessárias, sem oferecer qualquer remuneração em troca? 
+No lançamento do Waze quand o se abria o aplicativo , este mostrava-lhe uma imagem. Na 
+esquerda desta imagem, havia uma enorme serpente monstruosa, que consistia em uma rua repleta de 
+carros presos nela. O nome dessa serpente era Traffic. Na direita da imagem, havia várias mascotes do 
+aplicativo fazendo cosplay de cavaleiros medievais e passando a ideia de que juntos eles combateriam o 
+monstro. Então para o usuário, agora ao dirigir com o Waze, ele não estaria apenas chegando ao seu 
+destino, mas ajudando a comunidade a vencer o trânsito, melhorando a experiência geral de dirig ir da 
+comunidade. 
+Por vezes, o Waze pode indicar um caminho errado, ou uma informação que não está correta. 
+Normalmente quando um aplicativo falha em sua única função, você o deleta. No entanto, o “Significado 
+Épico” no Waze é tão bem aplicado, que quando ele falha, a maioria dos usuários não apenas não apaga 
+o aplicativo, como corre para consertá -lo. E não porque é necessário, pois não o é, mas porque os 
+usuários gostam. E a comunidade Waze cresceu tanto e tão r apidamente que poucos anos após a sua 
+criação o aplicativo foi vendido à Google por mais de US$1 bilhão de dólares. 
+Além de apresentar o conceito dos oito núcleos da Octalysis, Chou (2015), também apresenta 
+técnicas de implementação dos núcleos. Para o “Significado Épico”, temos cinco técnicas aplicáveis: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 Waze: https://www.waze.com/pt-PT/apps 
+
+19 
+ 
+ 
+ 
+Figura 8:Primeiro Núcleo da Octalysis e suas Técnicas 
+ 
+ 
+Fonte: Actionable gamification 
+ 
+• Narrativa 
+Como já dito anteriormente, a maioria dos jogos digitais começa com uma narrativa que dá ao 
+usuário algum contexto sobre a razão pela qual ele deve jogar o jogo. Nem sempre se trata de salvar o 
+mundo, podendo ser resgatar uma princesa, resolver um caso pol icial ou até mesmo ajudar um jacaré 
+a tomar banho. Então uma das maneiras mais eficazes de aplicar bem o Significado Épico em sua base 
+de usuários é através de uma Narrativa envolvente, o que dá aos usuários um contexto necessário para 
+sentirem o “Chamamento”, e se motivarem a interagir com o seu projeto. 
+Um exemplo de uma boa aplicação da narrativa é a já extinta empresa Zamzee, que vendia um 
+aparelho 
+wearable18
+, que media os exercícios de uma criança. Mas o seu principal diferencial eram as 
+narrativas fantásticas que utilizava para incentivar as crianças. Através de uma interface online, a Zamzee 
+dava às crianças missões de fantasia, como por exemplo, tornar -se um aprendiz de feiticeiro. Para 
+aprender o primeiro feitiço, você precisava subir e descer uma escada 15 vezes. Mesmo que a ação em 
+si esteja desligada da narrativa, ainda assim motivava as crianças a se exercitarem mais, devido a sua 
+própria imaginação. 
+ 
+• Herói da Humanidade 
+ 
+18 Tecnologias que se apresentam na forma de dispositivos iguais ou similares a peças de roupa ou equipamentos 
+vestíveis, tais como relógios, pulseiras ou até mesmo óculos de realidade virtual 
+
+
+20 
+ 
+Trata-se de incorporar uma missão mundial ao seu projeto, atraindo assim muitas pessoas que 
+se preocupam com tal causa. E melhorando a visibilidade no mercado. Uma empresa que utiliza muito 
+bem a técnica “Herói da Humanidade” é a TOM's Shoes19, que envia um par de sapatos para alguém 
+em um país do terceiro mundo sempre que  um pedido é feito. Segundo o próprio site da empresa, já 
+teriam doado 95 milhões de pares de sapatos nos últimos 13 anos. A ideia de poder ajudar pessoas em 
+necessidade toda vez que realizar uma compra é extremamente motivadora. 
+ 
+• Elitismo 
+Permitir que seus usuários formem grupos, seja baseado em etnia, crenças ou interesses em 
+comuns, também os fazem sentir que são parte de uma causa maior. “Elitismo” promove o orgulho de 
+grupo, o que significa que cada membro tenta assegurar o orgulho do grupo através de suas ações 
+específicas. O grupo também tenta frustrar os demais grupos, o que pode levar ambos os grupos a se 
+comprometer mais de forma a vencer a competição. 
+Um grande exemplo d o uso da técnica “ Elitismo” é demonstrado pela plataforma de 
+financiamento coletivo Kiva.org, que permite aos seus usuários doar seu dinheiro para ajudar as pessoas 
+de países subdesenvolvidos a iniciar seus pequenos negócios e ajudar a sustentar suas famílias. Para 
+criar um senso de elitismo, Kiva.org20 separou seus usuários em grupos religiosos e publica mensalmente 
+estatísticas que permit em comparar qual religião contribui com mais dinheiro. Fazendo assim que os 
+seus usuários contribuam mais do que teriam contribuído de outra forma, simplesmente porque sentem 
+que ao fazer isso estão protegendo a reputação de seu grupo.  
+ 
+• Sorte de Principiante  
+“Sorte de Principiante ” é uma técnica que consiste em dar a novos usuários uma pequena 
+probabilidade de ganhar uma recompensa de difícil acesso até mesmo para usuários veteranos. Ao ser 
+selecionado, o usuário sente o “Chamamento”, e se motiva  a utilizar o projeto. O “Chamamento” faz 
+com que os usuários sintam subconscientemente que estão exclusivamente destinadas a fazer algo.  
+ 
+• Almoço Grátis 
+“Almoço Grátis” consiste em dar recompensas para usuários selecionadas de tal forma que as 
+vincule a um tema maior fazendo com que os usuários se sintam especiais. Ao contrário da “Sorte de 
+ 
+19 TOM's Shoes: https://www.toms.com/ 
+20 Kiva.org: https://www.kiva.org 
+
+21 
+ 
+Principiante”, os usuários contemplados não são escolhidos ao acaso. Por exemplo, Spoleto, uma cadeia 
+de restaurantes brasileira com mais de 200 restaurantes em todo o Brasil, Espanha e México, dá um 
+almoço literalmente gratuito a qualquer mulher que diga que é bonita  ao fazer o pedido , em 
+comemoração ao Dia Internacional da Mulher. Isto ajuda a promover uma mensagem positiva, e faz com 
+que as usuárias femininas associem o local a uma boa memória. 
+ 
+2.1.2. Desenvolvimento & Realização 
+O segundo Núcleo da Octalysis se utiliza do impulso que as pessoas sentem por ter um 
+sentimento de crescimento e uma necessidade de atingir um objetivo específico. É o que nos concentra 
+em um caminho de carreira, gera nosso entusiasmo e compromisso em aprender uma nova habilidade 
+e mostrando -nos até onde chegamos e o quanto crescemos. Um exemplo bem  básico de 
+“Desenvolvimento & Realização”, que mostra como é fácil adicioná-los a uma experiência, são as estrelas 
+douradas usadas por professores no jardim de infância nos Estados Unidos. Por mais que esses adesivos 
+não concedam nenhum privilégio, as cria nças americanas muitas vezes estão extremamente 
+empenhadas em obter mais estrelas e passam a pensar na melhor maneira de obtê-las.  
+Dentro de um jogo há inúmeras formas de você dizer para o jogador qual o progresso dele: 
+pontos, níveis, conquistas, estágio s, barras de progresso, engrenagens com melhor aparência, 
+animações de vitória, ... Entretanto, só porque você vê seu progresso através de um elemento , não 
+significa necessariamente que você se sente realizado. O cerne do “Desenvolvimento & Realização” é 
+garantir que os usuários tenham orgulho de superar os desafios que lhes são apresentados. Para tal , 
+Chou (2015) apresenta as seguintes Técnicas: 
+ 
+Figura 9:Segundo Núcleo da Octalysis e suas Técnicas 
+
+22 
+ 
+ 
+ 
+Fonte: Actionable gamification 
+• Barras de Progresso 
+Normalmente um retângulo que dá um feedback visual do percentual que o usuário já completou 
+de uma determinada tarefa. Um exemplo a se considerar é a barra de progresso do LinkedIn21. Hoje a 
+maior rede social profissional do mundo, o LinkedIn percebeu que seu valor é apenas tão bom quanto a 
+informação que as pessoas escolhem inserir no sistema. Mas para os usuários, inserir seu perfil e 
+histórico de trabalho no LinkedIn é entediante, e no início da plataforma grande parte dos usuários 
+colocavam em seus perfis apenas o mínimo necessário.  O LinkedIn percebeu que apenas deixar a 
+interface mais amigável não era suficiente. Eles precisavam tornar a interface mais motivadora. Assim 
+surgiu uma pequena barra de progresso no lado dos perfis dos usuários, mostrando para todos os outros 
+usuários o quão completo era aquele perfil. Tal barra funciona como um reforço negativo, pois a maioria 
+das pessoas não gostam que suas tarefas incompletas sejam a nunciadas para todos, principalmente 
+para futuros contratantes. A barra de progresso do LinkedIn foi um sucesso e o número de perfis 
+incompletos caíram consideravelmente. 
+ 
+• Efeito Estrela do Rock 
+“Efeito Estrela do Rock ” é uma técnica onde você faz os usuár ios sentirem como se todos 
+estivessem morrendo de vontade para interagir com eles. Em essência, se você fizer as pessoas sentirem 
+que ganharam seu caminho para se tornarem uma estrela do Rock, elas sentirão tanto orgulho disso 
+que continuarão a se engajar para obter uma base de fãs cada vez maior. 
+ 
+21 LinkedIn: https://www.linkedin.com/ 
+
+
+23 
+ 
+O Twitter é um grande exemplo de utilização do “Efeito Estrela do Rock”. A maioria das pessoas 
+se lembra que ao ser lançado o Twitter tinha uma limitação de apenas 140 caracteres dentro de uma 
+mensagem, mas poucas  pessoas se lembram que uma das principais inovações do Twitter foi a 
+unidirecionalidade. Quando o Twitter foi lançado em 2006, ele veio com este novo sistema de 
+acompanhamento unidirecional, permitindo aos usuários acompanhar as atualizações de mensagens 
+das pessoas que são interessantes para eles, sem que estas mesmas pessoas sigam os usuários de 
+volta. Devido à natureza unidirecional do relacionamento, ter muitos seguidores se tornou algo a ser 
+conquistado, pois significa que todos queriam ouvir suas valiosas opiniões, mesmo que você não desse 
+a mínima importância às opiniões deles. 
+ 
+• Símbolos da Realização 
+A técnica “ Símbolos de Realização ” deve apenas refletir as realizações, e não serem as 
+realizações por si só. Conquistas podem ser ferramentas úteis pa ra impulsionar o Desenvolvimento & 
+Realização em um projeto, porém são muitas vezes usados de forma ineficaz. A coisa mais importante 
+em um símbolo de realização, é que ele deve simbolizar alguma "realização". Por vezes muitos 
+aplicativos dão a seus usuários alguma conquista somente por executá-lo e na maioria das pessoas isso 
+não causa qualquer entusiasmo. Mas se ao invés disso você conseguir transpor algum desafio que nem 
+todo mundo é capaz, através de suas habilidades criativas e por consequência conseguir uma conquista, 
+ela terá um significado muito maior do que a primeira. O exemplo mais prático de “Símbolos de 
+Realização” na prática, são as medalhas dos militares. Um militar, ao praticar atos de valor, como por 
+exemplo salvar um companheiro ferido durante uma missão, pode como resultado receber uma medalha 
+de honra, e provavelmente se sentirá verdadeiramente orgulhoso e realizado por isso. 
+ 
+• Pontos de Categorias 
+Pontos de categorias servem para medir o progresso. Internamente, ele permite que o sistema 
+saiba o quão próximo os usuários estão de superar um desafio. Externamente, ele dá aos usuários um 
+feedback para acompanhar seu progresso. Mostrando aos usuários  a sua pontuação e como ela muda 
+com base em pequenas melhorias, muitas vezes acaba por motivar os usuários na direção certa. A forma 
+como se define o ganho e a perda de pontos, bem como o significado por trás dos pontos, pode mudar 
+significativamente a pe rcepção dos usuários. Feito incorretamente, pode fazer com que o usuário 
+desvalorize toda a experiência. Por isso, ao implementar “Pontos de Categorias” em algum projeto é 
+
+24 
+ 
+importante se certificar que os pontos de categorias estejam baseados em algo que os usuários queiram 
+se envolver. Ou então eles se tornam sem sentido. 
+ 
+• Placar de Líderes 
+Placar de líderes é um elemento onde você classifica os usuários com base em um conjunto de 
+critérios que é influenciado pelo comportamento dos mesmos em relação às ações desejadas. A principal 
+maneira de integrar efetivamente um placar de líderes é garantir que o s usuários reconheçam 
+rapidamente as ações necessárias para que subam no ranking. Apesar do placar de líderes ter como 
+função motivar os usuários, e de certa forma lhe trazer status, ao serem projetados incorretamente fazem 
+exatamente o contrário. Por exemplo, imagine um novo usuário de um hipotético site educativo que visa 
+ensinar algum idioma. Ao fazer algumas lições em um pouco mais de uma hora e recebe 100 pontos, 
+mas ao olhar o placar de líder percebe que o 30º colocado tem 60.000.000 de pontos . Muito 
+provavelmente o placar de líder não o encorajaria , pois s e não houver chance de sucesso, não há 
+motivação. 
+O que os usuários precisam é de “Otimismo Urgente”, onde o usuário se sente otimista de que 
+pode realizar a tarefa, mas também a urgência de agir imedia tamente. Quando se monta um Placar de 
+Líderes, há algumas variações que Chou (2015) considera mais eficazes. A primeira delas é sempre 
+posicionar o usuário no meio da exibição do placar de líder, de modo que tudo o que veja sejam os 
+usuários logo acima ou abaixo dele. Pois não é muito motivador ver o quão alto estão os líderes, mas é 
+consideravelmente motivador ver que conseguiu superar um outro usuário. A segunda variação consiste 
+em um placar de líder cujo ranking seria baseado nos esforços combinados de uma equipe. Neste caso, 
+mesmo que nem todos sejam competitivos, a maioria das pessoas não quer ser o elo fraco da corrente. 
+Por fim, todos se empenham mais. A terceira é o placar de líder de renovação constante, onde a cada 
+período, normalmente mês ou sema na, o ranking é reiniciado. Assim, ninguém fica muito atrás e se 
+renova a sensação de esperança, levando ao “Otimismo Urgente”. A quarta variação é o micro placar de 
+líder, onde o usuário compete somente com seus amigos, ou em alguns casos usuários semelhantes. 
+Pois é consideravelmente mais motivador ser classificado em 3º entre um punhado de amigos do que 
+em 97.981 entre 270.000 usuários. 
+ 
+2.1.3 Fortalecimento da Criatividade & Feedback 
+O terceiro núcleo da Octalysis é o “Fortalecimento da Criativid ade & Feedback ”, que se bem 
+aplicado permite ao usuário continuamente explorar sua criatividade dentro de um número quase 
+
+25 
+ 
+ilimitado de possibilidades. Não apenas fazendo com que o projeto não precise ser atualizado 
+constantemente, como faz com que o usuári o continuamente se sinta envolvido na experiência, e por 
+fim, se sinta motivado a continuar a ser um usuário a longo prazo. Para entender bem esse conceito , 
+vamos comparar dois jogos: Jogo do Galo e Xadrez. 
+Jogo do Galo, Jogo da Velha, Tic-Tac-Toe, ou por qualquer outro nome que possa ser chamado 
+é um jogo muito simples onde jogadores se revezam marcando X’s e ○’s nas casas de um tabuleiro 
+normalmente desenhado num papel, e ganha aquele que conseguir colocar 3 dos seus símbolos em 
+linha, seja na vertical, h orizontal ou diagonal. Costuma ser  um jogo muito comumente ensinado a 
+crianças, por sua simplicidade e facilidade de improvisar um tabuleiro. Entretanto, à medida que as 
+pessoas envelhecem, o Jogo do Galo vai se tornando menos interessante. Isso ocorre porque em algum 
+momento o jogo se torn a muito fácil. Os jogos acabam geralmente empatados, precisando um jogador 
+fazer uma jogada descuidada para o outro conseguir vencer. Como há um limite para o “Fortalecimento 
+da Criatividade”, o Jogo do Galo torna-se por fim entediante para a maioria dos usuários. 
+Por outro lado, o Xadrez é um jogo que tem sido estudado e jogado rigorosamente durante 
+séculos. No xadrez, há um número substancial de variações. Para se ter uma ideia clara, no Jogo do 
+Galo, considerando as 9 casas como distintas, existem 362.880 partidas possíveis. Já no Xadrez, após 
+cada jogador ter feito 4 lances cada, há mais de 288 mil milhões de combinações possíveis. E em uma 
+partida de 40 lances, 20 cada, existiriam aproximadamente 10 120 combinações possíveis. O que é 10 40 
+vezes mais do que o número de átomos no universo observável. Justamente por haver tantas variações 
+possíveis no xadrez, que há uma abundância de estratégias e estilos de jogo. José Capablanca, campeão 
+mundial de Xadrez entre 1921 -1927, era conhecido por jogar de uma forma harmoniosa. Já Alexander 
+Alekhine, campeão mundial de Xadrez entre 1927-1935, tinha um estilo de jogo extremamente agressivo 
+e que não se importava em fazer sacrifícios para vencer. Esta variabilidade que permite a criação de um 
+estilo próprio de fazer as coisas, junto com o feedback imediato que se tem após cada escolha é essencial 
+para um projeto de gamificação que utilize “Fortalecimento da Criatividade & Feedback”, pois são elas 
+que tornam o projeto atraente para o usuário. 
+Ao se criar um projeto gamificado, tem que se ter a certeza de que não há uma maneira padrão 
+do usuário alcançar a meta dele. É importante criar uma configuração onde o usuário recebe uma meta, 
+bem como uma variedade de ferramentas e métodos possíveis para alcançar essa meta. Alguns dos 
+problemas comuns ao se aplicar o ”Fortalecimento da Criatividade & Feedback” de forma ineficiente é 
+que o usuário pode acabar não se sentindo motivado por não compreende r o propósito do projeto, ou 
+
+26 
+ 
+não identificar claramente a meta, ou não dispor de ferramentas significativas para criar es tratégias 
+expressivas para alcançar a meta. Para evitar isso, Chou (2015) propõe algumas técnicas. 
+ 
+Figura 10:Terceiro Núcleo da Octalysis e suas Técnicas 
+ 
+ 
+Fonte: Actionable gamification 
+• Melhorias 
+A técnica “Melhorias” consiste em dar aos usuários ferramentas que nem sempre est arão 
+disponíveis, mas que, ao serem utilizadas, ajudam o usuário a alcançar sua meta de forma mais eficaz. 
+Melhorias são normalmente limitadas, seja por um número de utilizações permitidas ou por alguma outra 
+condição. A sensação de ter acesso a uma melhoria é estimulante e costuma ser uma fonte de motivação 
+extremamente forte entre os usuários. 
+ 
+• Desbloqueio de Marcos 
+O “Desbloqueio de Marco” é um dos elementos de jogos que costum am gerar um maior nível 
+de motivação. O que a técnica “Desbloqueio de Marcos ” faz é abrir novas e excitantes possibilidades 
+que não existiam antes que esse marco fosse alcançado. Um bom exemplo dessa técnica é o site de 
+educação gamificada Classcraft, que após um aluno juntar pontos o suficiente, fazendo seus trabalhos 
+de casa, respondendo questões corretamente, entre outros deveres de aluno, ele então passa de nível e 
+ganha novas habilidades de acordo com a sua classe. Essas habilidades permitem benefícios  para o 
+aluno em sala de aula, como “Salto de Fé”, que dá ao aluno um tempo extra para completar alguma 
+atividade, ou “Caçada”, que permite ao aluno se alimentar em sala de aula. 
+ 
+• Percepção de Escolha 
+Muitos estudos mostram que as pessoas preferem algo quando lhe é dado opções, ao invés de 
+ter apenas uma única opção imposta. Isto se aplicaria mesmo que as múltiplas opções sejam de alguma 
+
+
+27 
+ 
+forma não tão atraentes em comparação com a opção imposta. A chave para a “Percepção da Escolha” 
+é que a escolha em si não é necessariamente significativa, mas apenas faz com que uma pessoa se 
+sinta capacitada a escolher entre diferentes opções. Por exemplo, uma mãe ao perguntar ao filho se vai 
+comer o quiabo antes ou depois do frango. 
+Jesse Schell ( 2014) apresenta um conceito relacionado com a Percepção de Escolha que ela 
+chama de Lente do Controle Indireto: 
+"
+Nem sempre temos que dar ao jogador a verdadeira liberdade - apenas temos que dar ao 
+jogador o sentimento de liberdade. [...] se um designer inteligente pode fazer o jogador se sentir 
+livre, quando realmente ele tem muito poucas escolhas, ou mesmo nenhuma escolha, então de 
+repente temos o melhor dos dois mundos - o jogador tem o maravilhoso sentimento de liberdade, 
+e o designer conseguiu criar ec onomicamente uma experiência com uma curva de interesse 
+ideal e um conjunto ideal de eventos
+". 
+De acordo com Schell (2014), isto pode ser realizado: 
+• Adicionando restrições às escolhas do jogador; 
+• Incentivar os jogadores a fazerem as escolhas certas que  irão realmente deixá -los mais 
+próximos de suas metas; 
+• Criar uma interface que oriente o usuário para as ações desejadas; 
+• Acrescentando designs visuais para atrair o olhar do jogador; 
+• Fornecer orientação social; 
+• Controle da trilha sonora de modo a afetar o comportamento do jogador; 
+A “Percepção de Escolha” influencia nossas decisões de muitas maneiras, porém é uma técnica 
+que sugere uma falta de escolhas significativas, e por isso muitas vezes não é ideal em um projeto 
+gamificado. Pois não fortalece verdadeiramente a criatividade do usuário, além de que pode acabar tendo 
+um efeito negativo se o usuário notar que muitas opções são vazias. Entretanto, para muitos, é mais fácil 
+implementar a “Percepção de Escolha” do que realmente criar escolhas significativas. 
+ 
+• Escolhas Significativas 
+“Escolhas Significativas” são escolhas que permitem ao usuário demonstrar suas preferências 
+em estilo e estratégia, mas que não sejam obviamente superiores umas às outras. Apesar de não existir 
+um abecedário de como criar “Escolhas Significativas”, é possível analisar se elas estã o presentes em 
+um projeto. Durante a fase de testes de um projeto de gamificação, se todos os usuários de teste 
+conseguem alcançar a meta da mesma maneira, então o seu projeto não possui escolhas significativas. 
+
+28 
+ 
+O intuito é que na finalização do projeto o usuário seja capaz de selecionar entre múltiplas opções, cada 
+uma com seus pontos fortes e fracos, resultando assim em uma variedade de estratégias baseadas no 
+estilo e na criatividade do usuário. 
+ 
+2.1.4 Propriedade & Posse 
+“Propriedade & Posse” é o quarto núcleo da Octalysis. Está relacionado ao pensamento analítico 
+e reforça a motivação do usuário instigando o desejo de posse do mesmo. Além de fazer com que o 
+usuário queira conseguir algo, faz com que ele também queira melhorar, proteger e/ou acumular ess e 
+algo. Este núcleo envolve muitos elementos, como moedas virtuais, roupas virtuais, ou qualquer outro 
+objeto virtual, mas também é o núcleo que faz com que os usuários coletem selos ou acumulem riqueza. 
+Em um nível mais abstrato, “Propriedade & Posse ” está ligado ao nosso investimento de tempo e 
+recursos para personalizar algo a nosso gosto. “Propriedade & Posse” não implica apenas em fazer o 
+usuário tomar ações de acumular mais posses, mas também a capacidade de confortar e incutir uma 
+sensação de bem-estar para os colecionadores. Para tornar “Propriedade & Posse” mais acionável, Chou 
+(2015) descreve algumas técnicas. 
+ 
+Figura 11:Quarto Núcleo da Octalysis e suas Técnicas 
+ 
+ 
+Fonte: Actionable gamification 
+ 
+• Construir do Zero 
+Os cientistas comportamentais Dan Ariely e Mike Norton  (2011) indicam em seus estudos que 
+as pessoas se sentem muito mais apegadas a seus móveis baratos do que com seus móveis caros de 
+alta qualidade, principalmente porque passaram mais tempo construindo o s móveis baratos com suas 
+
+
+29 
+ 
+próprias mãos. Então ao desenvolver um projeto gamificado, pode ser mais desejável que seus usuários 
+possam customizar, desde que possível e relevante, algumas opções a partir de nenhuma configuração 
+pré-determinada. Por exemplo, se o projeto precisar de um avatar , permitir que o usuário o customize 
+gera muito mais envolvimento do que simplesmente entregá-lo, mesmo que muito bem-feito. Mas deve-
+se tomar cuidado para que “Construído do Zero ” não se torne uma coisa enfadonha. Isso po de ser 
+evitado dando aos usuários a opção de construir com algumas opções de modelos rápidos que lhes 
+permitirão avançar rapidamente e personalizar mais tarde. 
+ 
+• Coleções 
+Uma das formas mais poderosas e eficazes de utilizar o núcleo Propriedade & Posse é através 
+de coleções. A maioria das pessoas já colecionou ou conhece alguém que colecionou algum item como 
+selos, figurinhas, chaveiros, cartões de jogadores de futebol... e por mais que esses itens tenham 
+relativamente baixa funcionalidade prática, eles são importantes partes de uma coleção. Em um projeto 
+gamificado é recomendado dar aos usuários alguma espécie de item, personagem, conquista que seja 
+de uma coleção que segue o mesmo tema. Isto cria nos usuários o desejo de coletar todos os elementos 
+e completar o conjunto. 
+O que torna os conjuntos de coleções tão eficazes é que muitas vezes ao se fazer um projeto, 
+não é possível dar recompensas tangíveis a cada usuário, mas todo usuário espera alguma recompensa 
+quando executou as ações desejadas e atingiu as metas. Ao dar aos usuários uma parte da recompensa 
+ao invés da recompensa total, cada usuário sente que está progredindo em direção ao prêmio final, 
+enquanto o projeto mantém o controle de seu orçamento. É importante ressaltar que se mal aplicado o 
+uso de coleções pode ofender o usuário. Coleções não é uma solução universal para qualquer projeto. 
+Ao gamificar deve sempre ser cuidadoso ao criar o design, e considerar o perfil dos usuários. 
+ 
+• Pontos Intercambiáveis 
+“Pontos Intercambiáveis” é uma técnica que permite aos usuários trocarem estrategicamente 
+seus escassos pontos acumulados para obter recompensas. Os “Pontos Intercambiáveis” podem ser 
+utilizados de várias formas. Eles podem funcionar exclusivamente dentro da economia do projeto o u 
+podem ser trocados dentro e fora da economia do projeto. Cada uma dessas formas de “Pontos 
+Intercambiáveis” tem prós e contras, e um bom projeto muitas vezes tem uma combinação das duas, 
+para garantir que sua economia interna funcione. Uma coisa a se ter  em mente é que administrar uma 
+economia eficaz é consideravelmente difícil. Sendo necessário considerar cuidadosamente as taxas 
+
+30 
+ 
+corretas de tempo ou dinheiro gasto pelo usuário sobre os “Pontos Intercambiáveis” obtidos de forma a 
+recompensar o tempo gasto apropriadamente, pois senão a economia perde sua legitimidade. 
+ 
+• Monitoramento Anexo 
+“Monitoramento Anexo” consiste em permitir que o usuário esteja constantemente monitorando 
+algo dentro do projeto de forma que ele desenvolva uma relação de propriedade ma ior com o mesmo. 
+Ao se monitorar uma característica de alguma coisa naturalmente se passa a querer que essa 
+característica melhore. Esta tendência de gostar de algo com que nos sentimos familiarizados é descrita 
+por Robert Zajonc  (1968) em seu artigo 
+“Attitudinal Effects of Mere Exposure”
+, basicamente nosso 
+subconsciente tem dificuldade em diferenciar entre coisas seguras, confortáveis, desejáveis, verdadeiras, 
+fáceis ou familiares. Portanto quando sentimos que algo é familiar, nosso cérebro automaticamente  
+associa com as demais características. Um bom exemplo de “Monitoramento Anexo ” é o Google 
+Analytics, que permite que qualquer usuário veja quantos visitantes estavam em seu site, quanto tempo 
+cada pessoa ficou e em quais páginas, de onde a pessoa acessou, entre uma variedade de outras 
+informações. Toda essa gama de informação, faz com que os usuários do  Google Analytics o acessem 
+diversas vezes ao dia. 
+ 
+• O Efeito Alfred 
+“Efeito Alfred” é quando os usuários sentem que um produto ou serviço é tão personalizado às 
+suas próprias necessidades que não podem imaginar utilizar outro serviço. À medida que a sociedade 
+caminha para um mundo de opções mais convenientes e pré -prontas, as pessoas começam a almejar 
+uma experiência mais profunda, e exclusivamente sua. Através dos Megadados, agora é possível fornecer 
+aos usuários essa sensação de personalização através de opções de personalização baseadas no que os 
+sistemas inteligentes coletam sobre as preferências e hábitos dos usuários. 
+Atualmente, alguns dos maiores sites estão implementando o “Efeito Alfred ” em suas 
+experiências. A Amazon entende as preferências com base em todas as atividades do usuário e 
+recomenda produtos de acordo com elas. O Goo gle Search agora mostra resultados de pesquisa 
+personalizados com base no seu histórico de pesquisa e navegação. A Netflix pode prever quais filmes 
+você irá desfrutar melhor do que seus amigos. 
+ 
+2.1.5 Influência Social & Relacionamento 
+
+31 
+ 
+“Influência Social &  Relacionamento” é o quinto núcleo da Octalysis  e se baseia em nossos 
+desejos de nos conectar e nos comparar uns com os outros para motivar o usuário. Sendo animais 
+sociais inatos, dotados de um senso de empatia, somos influenciados pelo que as outras pessoas sentem 
+e pensam a nosso respeito. E com a proliferação de novas ferramentas e plataformas sociais, cada vez 
+mais empresas focam em melhorar a “Influência Social & Relacionamento ” durante a criação de um 
+projeto. Quando utilizado corretamente, pode servir como uma das motivações mais fortes e duradouras 
+para que os usuários se engajem a um projeto. 
+Muitos projetos tentam usar “Influência Social & Relacionamento”, promovendo competição no 
+local de trabalho, visando melhorar a produtividade e a dinâmica do  mesmo. Porém, apesar de causar 
+um aumento na produtividade perceptível a curto prazo, se mal aplicada pode lentamente causar 
+desmotivação, estresse e clima anti-colaboração entre os associados. Herger (2014), um dos principais 
+especialistas em competição gamificada no local de trabalho, ressalta que a competição é muitas vezes 
+contrária à essência da empresa. Pois as mesmas deveriam idealmente reunir as pessoas e suas 
+diferentes forças em um único caminho colaborativo, se tornando assim mais forte que a soma de suas 
+forças individuais. Herger (2014) propõem opções cooperativas de gamificação empresarial, que a longo 
+prazo superam opções competitivas no que tange à eficiência dos associados, além de ajudar a deixar 
+um clima agradável na empresa, e direciona o potencial competitivo dos associados para onde realmente 
+importa, o mercado. “Influência Social & Relacionamento” tem uma natureza motivacional e psicológica. 
+Para torná-lo mais aplicável, Chou (2015), descreve algumas técnicas que utilizam intensamente esse 
+núcleo para envolver os usuários. 
+ 
+Figura 12:Quinto Núcleo da Octalysis e suas Técnicas 
+ 
+ 
+Fonte: Actionable gamification 
+ 
+
+
+32 
+ 
+• Mentoria 
+“Mentoria” é uma poderosa técnica que pode ser consistentemente eficaz em projetos que 
+requerem motivação constante. Se trata de associar um usuário veterano do seu projeto com um novo 
+usuário, de forma que o usuário experiente fornece não somente orientação, como, dependendo do 
+projeto, apoio emocional. No meio empresarial , ter um mentor ajuda novos associados a se conectar 
+melhor com a cultura e o ambiente da empresa. Aumentando a satisfação do novo associado e 
+diminuindo taxas de rotatividade. 
+ 
+• Botões de Bravata e Prateleiras de Troféus 
+Ambas essas técnicas permit em ao usuário expressar aos demais suas realizações. O que as 
+diferenciam é que  “Botões de Bravata ” são ativados explicitamente enquanto “Prateleira de Troféus ” 
+ocorre passivamente. Encorajar os usuários a  se gabar de suas conquistas é uma forma eficiente de 
+manter usuários veteranos ativos e de recrutar novos usuários para um projeto. 
+Em um projeto “Botões de Bravata ” são normalmente mecanismos ou ferramentas a serem 
+usadas ou não pelo usuário, e de preferência cujo uso deva ser incentivado. Em vários jogos, por exemplo, 
+sempre que termina uma partida, aparece um “Botão de Bravata”, que permite de maneira rápida e fácil 
+que os usuários compartilhem uma captura de tela de suas altas pontuações no Facebook, Instagram e 
+Twitter. Muitas vezes essa técnica é utilizada de forma incorreta, pois apesar dos Botões de Bravata 
+existirem, eles são ignorados pelo usuário. Isso ocorre porque os usuários não estão se sentindo 
+suficientemente realizados. Por isso , Chou (2015) aconselha implementar os “Botões de Bravata” nos 
+momentos em que o usuário realmente se sentir impressionado com o que acabou de completar, como 
+superar algum desafio ou alcançar alguma meta. 
+“Prateleira de Troféus ”, ao contrário dos “Botões de Bravata ”, é uma exibição óbvia das 
+conquistas do usuário. A prateleira está lá e todos que passarem por ela verão e reconhecerão 
+implicitamente as conquistas do usuário. Em projetos, “Prateleiras de Troféus” podem ser aplicadas de 
+diferentes formas, como simbologia ou texto próximos ao nome do usuário, equipamentos ou itens de 
+avatar que só podem ser obtidos em determinadas circunstâncias, como atingir um marco ou ter apoiado 
+o projeto em uma plataforma de fi nanciamento coletivo. É preciso ter em mente que tanto para a 
+Prateleira de Troféus como os Botões de Bravata, é necessário um certo nível de relacionamento, 
+garantindo uma compreensão mútua da dificuldade da conquista. 
+ 
+• Missões em Grupo 
+
+33 
+ 
+“Missões em Grupo ” é uma técnica muito eficaz, principalmente no marketing . T rata-se de 
+requerer a participação de um grupo de usuários antes que qualquer indivíduo possa alcançar a meta 
+proposta. “Missões em Grupo” foram adotadas no mundo dos negócios no final de 2008, com o recém-
+criado Groupon. O site oferece missões em grupo para os usuários na forma de ofertas, que são validadas 
+se, e somente se, um certo número de usuários a adquirirem. Assim sendo, os usuários para conseguir 
+seus descontos, convidam outros usuários a adquirir a mesma oferta. Após o sucesso do Groupon, 
+muitos sites semelhantes surgiram. Outro exemplo de “Missões em Grupo ” são as plataformas de 
+financiamento coletivo, como Kickstarted e Catarse, que angariam fundos para apoiar o desenvolvimento 
+de projet os, oferecendo normalmente aos usuários não somente um exemplar do projeto a ser 
+desenvolvido, como brindes exclusivos pelo financiamento. 
+ 
+ 
+ 
+• Tesouros Sociais 
+“Tesouros Sociais” são recompensas que só podem ser dados a um usuário por outros usuários. 
+Como resultado, quando um usuário deseja uma recompensa do tipo “Tesouro Social”, normalmente 
+convida outras pessoas para se juntar ao projeto. Se bem aplicado, acaba por se tornar uma campanha 
+publicitária massiva, podendo atrair muitos novos usuários  para o projeto. Um exemplo de “Tesouro 
+Social” comumente aplicado é o voto. Numa eleição, além do seu próprio voto, a única maneira legalizada 
+de obter mais votos é através de outras pessoas. Para tal, candidatos utilizar-se de sua influência social 
+e investem pesadamente em propagandas para obter mais votos. 
+ 
+• Cutucadas Sociais 
+Outra técnica frequentemente utilizada para reforçar o núcleo “Influência Social & 
+Relacionamento” é a técnica “Cutucadas Sociais”. Essa técnica consiste em disponibilizar para o usuário 
+uma ação de esforço mínimo para criar uma interação social, normalmente requer somente um simples 
+clique de um botão. Exemplo bem comum são curtidas no Facebook, Instagram e Twitter. Outro exemplo, 
+também no Facebook, é uma ferramenta chamada Cutucar, um simples botão, que permite a um usuário 
+notificar outro que o cutucou.  Mesmo que a princípio não pareça ter grande utilidade, permite que o 
+usuário não precise gastar tempo pensando em algo para dizer, quando apenas deseja ter uma interação 
+simples e rápida.  
+ 
+
+34 
+ 
+• Âncora da Conformidade 
+“Âncora da Conformidade ” é uma técnica que se baseia no poder da normalização social, 
+mostrando o quanto os usuários estão próximos da norma social através de uma mecânica de 
+feedback,
+ 
+esperando que com isso os usuários tomem as ações desejadas. O grau de eficiência da Âncora da 
+Conformidade depende do nível de Relacionamento que o usuário tiver com os outros usuários do grupo. 
+Em um grupo com um Relacionamento adequado, um usuário tende a seguir a norma social, mesmo se 
+no momento não houver qualquer outro membro do grupo present e. Para exemplificar, vamos olhar o 
+estudo de Simon (2010) sobre esse tipo de comportamento. No estudo foram distribuídas, entre 
+centenas de casas em San Marcos, Califórnia, mensagens que encorajaram os residentes a usar 
+ventiladores em vez do ar-condicionado, mas usando raciocínios e motivações diferentes para fazer isso. 
+Havia 4 modelos de mensagem: 
+1. Diziam aos moradores que eles poderiam economizar 54 dólares por mês na conta de 
+luz. 
+2. Explicavam que a cada mês sem usar o ar-condicionado, 262 libras de gases causadores 
+do efeito estufa não seriam liberados no meio ambiente.  
+3. Avisava que era sua responsabilidade proteger o meio ambiente, mudando para 
+ventiladores.  
+4. Informava aos moradores que 77% dos seus vizinhos já utilizavam ventiladores em vez 
+de ar-condicionado; 
+Em comparação com as outras três mensagens, a nº4, baseada na técnica “ Âncora da 
+Conformidade”, ganhou disparada. Os moradores das casas que receberam a mensagem nº4 reduziram 
+seu consumo de energia em 10%, já os que receberam alguma das outras mensagens reduziram o 
+consumo em menos de 3%. 
+ 
+• Bebedouro 
+“Bebedouro” é uma técnica muito usada em conjunto com “Âncora da Conformidade”. Trata-se 
+de reforçar a “Influência Social & Relacionamento” do seu projeto, criando para os usuários um lugar, 
+físico ou virtual, para que eles possam conversar entre si livremente. Um exemplo comum de 
+“Bebedouro” são sites que contenham um fórum. Os fóruns são muito úteis para projetos que já 
+possuam uma comunidade, permitindo q ue os usuários se unam e troquem informações. Por 
+consequência, os fóruns acabam por transmitir a norma social daquele grupo e facilitam a técnica 
+“Mentoria”. 
+
+35 
+ 
+ 
+2.1.6 Escassez & Impaciência 
+“Escassez & Impaciência ” é o sexto núcleo da Octalysis. Esse núcleo se baseia na tendência 
+natural a querer coisas que não podemos ter. Seja por indisponibilidade imediata ou por ser algo difícil 
+de obter. Kahneman (2013) diz que como as capacidades de processamento do neocórtex de nosso 
+cérebro são limitadas, confiamos regularmente em atalhos mentais inconscientemente. Por isso , 
+associamos o quanto algo é caro ou limitado com a qualidade do mesmo, o que por sua vez não é 
+necessariamente verdade. Em um projeto que visa o lucro, mesmo gastando uma grande quantidade de 
+dinheiro, o usuário deve receber apenas uma sensação temporária de abundância, pois a mesma não é 
+um bom motivador ao contrário da escassez. Controlar o fluxo de escassez, e certificar -se de que todos 
+os usuários estej am constantemente lutando para alcançar alguma meta é parte essencial para o 
+sucesso do projeto. 
+Uma pesquisa que ajuda a entender “Escassez & Impaciência ” foi feita por Worchel , Lee e 
+Adewole (1975). A pesquisa testou a desejabilidade de biscoitos em dife rentes potes. A experiência 
+consistia em fazer os participantes escolherem entre pegar um biscoito de um pote quase vazio ou de 
+um quase cheio. Embora fossem exatamente o mesmo biscoito, os participantes em grande maioria 
+pegavam do pote quase vazio. De acordo com os pesquisadores, um dos motivos para isso ocorrer é a 
+escassez. O biscoito selecionado parecia prestes a se esgotar, enquanto o outro era abundante , 
+diminuindo a motivação dos participantes. Essa escassez que motivou os participantes da pesquisa não 
+é real, e somente aparente. Pois em ambos os potes  era o mesmo biscoito, logo possuía o mesmo 
+estoque. Mas para a gamificação a percepção de escassez d o usuário é o que importa. Todavia, essa 
+percepção é muito mais influenciada por valores relativos do que absolutos. “Escassez & Impaciência”, 
+à primeira vista, pode parecer não intuitivo e difícil de se aplicar em um projeto. Mas Chou  (2015) lista 
+algumas técnicas que a utilizam intensamente para motivar o usuário. 
+ 
+Figura 13:Sexto Núcleo da Octalysis e suas Técnicas 
+
+36 
+ 
+ 
+ 
+Fonte: Actionable gamification 
+ 
+• Pêndulo e Justaposição Ancorada 
+Essas duas técnicas costumam ser usadas em conjunto para rentabilizar um projeto ao trocar 
+recompensas por valores em dinheiro real. Para ambas é importante deixar  claro para o usuário o 
+caminho para a obtenção da recompensa. Pois ao permitir que o usuário saiba que é muito desafiador 
+obter a recompensa, mas não impossível, “Escassez & Impaciência” ativa o suficiente para motivá -lo. 
+“Pêndulo” consiste em oferecer constantemente a compra da recompensa. Já “Justaposição Ancorada” 
+trata-se de dar ao usuário a opção de realizar muitas ações desejadas benéficas ao projeto para conseguir 
+a recompensa  ao i nvés de a comprar . Neste cenário, muitos usuários escolherão deliberadamente 
+completar as ações desejadas, trabalhando voluntariamente durante horas, dias, quiçá semanas em prol 
+do projeto. Em certo momento, muitos usuários perceberão que não vale a pena t anto trabalho e 
+acabarão comprando a recompensa. Por fim, o projeto obteve o dinheiro e o usuário cumpriu com uma 
+parcela das ações desejadas. Para o usuário, em ambas as técnicas, não se trata de pagar pela 
+recompensa, mas sim de pagar para economizar o t empo necessário para conseguir a recompensa. 
+Como exemplo, o site Dropbox22 que oferece um serviço de hospedagem de arquivos. Quando um usuário 
+se inscreve pela primeira vez no Dropbox, o site informa que o usuário pode escolher entre pagar uma 
+mensalidade para obter muito mais espaço de armazenamento . Mas se não quiser pagar, o usuário 
+ainda pode conseguir espaço extra ao convidar seus amigos, associar sua conta do Facebook, entre uma 
+série de outras ações. 
+ 
+ 
+22 Dropbox: https://www.dropbox.com/ 
+
+
+37 
+ 
+• Tampas Magnéticas 
+“Tampas Magnéticas” são limitações colocadas sobre quantas vezes um usuário pode realizar 
+certas ações de sejadas. Brian Wansink (2006) descreve um excelente exemplo. Quando um açougue 
+exibia uma placa com diversas ofertas e com a frase “Sem limites por pessoa”, os fregueses 
+frequentemente compram apenas alguns dos produtos promovidos. Mas ao mudar a frase da placa para 
+“Limite de 12 por pessoa”, os fregueses passaram a comprar consideravelmente mais, tendendo a se 
+aproximar do limite permitido. Pois essa é outra característica da escassez: desenhando limites, somos 
+atraídos para o limite. Chou (2015) afirma que se deve ter cuidado ao utilizar “Tampas Magnéticas” para 
+não limitar a atividade dos usuários, de forma que deixe de ser benéfica para o projeto. A melhor maneira 
+de estabelecer um limite de algo é primeiro encontrando o valor máximo de vezes que um usuário padrão 
+o faria e então usar tal valor como limite para criar uma percepção de escassez, mas sem 
+necessariamente limitar o comportamento dos usuários. 
+• Compromisso Dinâmico 
+Outra técnica que reforça “Escassez & Impaciência” é “Compromisso Dinâmico”. Consiste em se 
+aproveitar da escassez do tempo para motivar o usuário  ao utilizar de um cronograma previamente 
+declarado, ou recorrente. Os usuários têm de tomar certas ações desejadas dentro do cronograma para 
+alcançar eventuais metas e consequentes recompensas. Um dos exemplos mais comuns são os 
+Happy 
+Hours
+ onde, o usuário atingindo a meta de aparecer no momento certo, pode desfrutar da recompensa 
+de 50% de desconto em bebidas, e talvez em aperitivos. 
+Figura 14: Estátua do eMart diferentes ângulos e horários 
+ 
+ 
+Fonte: Innovtoday 
+ 
+O shopping center coreano eMart utilizou Compromisso Dinâmico de forma inovadora. Por 
+perceber que o seu número de usuários caía durante a hora do almoço, eles lançaram uma campanha 
+chamada "Sunny Sale" e construíram uma estátua de aparência estranha em fr ente às suas lojas. A 
+
+
+38 
+ 
+estátua é bastante abstrata, porém para os usuários que apareciam entre 12h e 13h, a sombra desta 
+estátua se transformava em um perfeito Código QR. Código que os usuários podiam escanear com seus 
+celulares e ter acesso a ofertas exclusivas. 
+ 
+• Intervalos Torturantes 
+Intervalos Torturantes se trata de não permitir ao usuário livre acesso ao projeto. Estabelecendo 
+limites de tempo que o usuário pode utilizar o projeto e um tempo de espera para ele poder voltar a usar. 
+Por mais que pareça uma técnica que pensa no bem do usuário, a real intenção é se utilizar da 
+Impaciência do mesmo para o conduzir a um comportamento obsessivo. Ao contrário dos 
+“Compromissos Dinâmicos” que são mais baseados em tempos absolutos, “Intervalos Torturantes” são 
+aplicados baseados em tempos relativos de quando a pausa é acionada. Normalmente projetos que 
+utilizam “Intervalos Torturantes” costumam dar ao usuário uma opção paga para removê-los. 
+ 
+• Interface de Usuário Evolutiva 
+As interfaces de usuário podem ao m esmo tempo ser demasiadamente complexas para novos 
+usuários, como também ser simplórias demais para usuários veteranos. Uma das formas de resolver 
+esse problema é a técnica “Interface de Usuário Evolutiva”. Que consiste em ter uma interface de usuário 
+inicial simplista, com apenas alguns botões e ícones, mas à medida que o usuário alcança um certo 
+número ou determinadas metas, novas funções vão sendo desbloqueadas. Um exemplo de “Interface de 
+Usuário Evolutiva”, é a extinta Evolution UI da Sony. Essa aplicação para celulares Android gamificava a 
+interface do celular, no início o usuário tinha acesso a um número muito restrito de funções. Porém ao 
+utilizar essas funções, ele desbloqueava conquistas e liberava novas funções.  
+ 
+2.1.7 Imprevisibilidade & Curiosidade 
+Imprevisibilidade & Curiosidade  é o sétimo núcleo da Octalysis e atua motivando os usuários 
+através de experiências que são incertas e envolvem o acaso . Kahneman ( 2013) afirma que a nossa 
+consciência intelectual é  inerentemente preguiçosa, e se as tarefas em mãos não exigem  atenção 
+imediata, o neocórtex delega o trabalho ao nosso subconsciente . A consciência intelectual só quer ser 
+perturbada quando é absolutamente necessário, como quando uma ameaça foi detectada ou quando o 
+cérebro encontra novas informações que não tenha  processado antes. Ativar a consciência intelectual 
+faz parte d a força motriz da “Imprevisibilidade & Curiosidade ”. Ao aplicar esse núcleo em um projeto 
+costuma se ter uma excelente taxa de sucesso de motivar o comportamento desejado dos usuários. 
+
+39 
+ 
+“Imprevisibilidade & Curiosidade” nem sempre é aplicado no projeto em s i. Muitas empresas também 
+usam esse núcleo para promover suas marcas, adicio nando suspense e mistério à sua campanha de 
+marketing.  
+Um excelente exemplo é a campanha da Blendtec, “Will It Blend?”. Blendtec é uma marca que 
+vende liquidificadores de alta potência , os modelos mais simples custam por volta de €400. Em sua 
+campanha de marketing, o fundador da Blendtec, Tom Dick son decidiu lançar uma série de vídeos no 
+YouTube chamada “Will It Blend?” no canal da empresa. Os vídeos consistem dele vestindo uma bata 
+de laboratório como um cientista e atirando livros, bolas de golfe, vassouras e produtos de luxo recém-
+lançados no liquidificador. Antes de destruir os itens, Dickson fa z sempre a mesma pergunta que dá 
+nome à propaganda “Will it Blend?”. E após uma exibição visualmente interessante e barulhenta, o quer 
+que tenha sido colocado lá  se transformou em uma pilha de pó . Estes vídeos não só são vistos por 
+milhões de pessoas, o que ajuda a divulgar o nome da empresa, como pessoas passaram a investir seu 
+dinheiro em liquidificadores da marca . Um estudo realizado por Briggs (2009)  concluiu que nos 4 
+primeiros anos da campanha, que se mantém ativa até hoje, o número de vendas da Blendtec aumentou 
+em 700%.  
+Chou (2015) descreve algumas técnicas para tornar a Imprevisibilidade & Curiosidade mais 
+acionável e conseguir engajar os usuários de maneira mais eficiente. 
+ 
+ 
+Figura 15:Sétimo Núcleo da Octalysis e suas Técnicas  
+ 
+ 
+Fonte: Actionable gamification 
+ 
+
+
+40 
+ 
+• Escolha Brilhante 
+“Escolha Brilhante” é uma técnica que faz com que novos usuários não só se sintam competentes 
+no uso das ferramentas do projeto , como os levam a tomar as ações desejadas ao ativar a sua 
+curiosidade. Ela consiste em guiar o usuário para a ação desejada ou tutorial. Normalmente consiste em 
+aplicar um item sobreposto e brilhante no meio  de um a interface ou ambiente complexo. Muitos 
+aplicativos utilizam a “Escolha Brilhante” na forma de um ponto de interrogação ou uma seta . E uma 
+vez que o usuário clica no ponto de interrogação ou na seta, o mesmo deve desaparecer.  
+ 
+• Recompensas Aleatórias 
+Uma das formas mais comuns de utilizar a “Imprevisibilidade & Curiosidade ” é através de 
+“Recompensas Aleatórias”. Em vez de dar aos usuários recompensas fixas, onde o passo  a passo de 
+ações desejadas é previamente definido e de conhecimento do usuário. “Recompensas Aleatórias ” 
+tornam a experiência em receber recompensas em algo imprevisível , ao fazer com que os usuários 
+recebam uma recompensa desconhecida quando completam uma  meta. Muitas vezes, é o que 
+impulsiona os usuários a continuar utilizando o projeto a longo prazo. A antecipação de receber a 
+recompensa mesmo não tendo ideia do que seja, é parte do que torna a experiência empolgante.  
+• Recompensas Súbitas 
+Diferente das “Recompensas Aleatórias”, onde o usuário não sabe o que vai receber, a técnica de 
+“Recompensas Súbitas” consiste em dar ao s usuários recompensas ao atingir em certas metas, mas 
+sem os avisar previamente disso. Receber uma dessas recompensas torna a experiência extremamente 
+emocionante para o usuário . “Recompensas Súbitas” incentivam os usuários a  longo prazo, pela 
+esperança que eles sentem de inadvertidamente serem contemplados novamente com outra 
+“Recompensa Súbita”.  
+ 
+• Recompensas Rotativas 
+
+41 
+ 
+“Recompensas Rotativas ” é outra técnica relacionada  com recompensas dentro de 
+“Imprevisibilidade & Curiosidade”, e consiste em determinar um período, e a cada período dar uma ou 
+mais recompensas para um ou mais usuários selecionados aleatoriamente. Passando a ideia para o 
+usuário que se ele permanecer ativo, as chances de ele vencer aumentam linearmente. Dependendo da 
+escala que for aplicada as “Recompensas Rotativas” podem facilmente atrair muitos usuários. Projetos 
+com muitos usuários que utilizam “Recompensas Rotativas” costumam ter pré-requisitos mínimos de 
+entrada e recompensas substanciais, como por exemplo o Euromilhões, mas a chance de  ganhar é 
+ínfima, independentemente da quantidade de tempo que você se mantenha um usuário ou que realize 
+a ação desejada múltiplas vezes.  
+Williams (2006) afirma que a  razão pela qual as loterias funcionam tão bem é porque nossos  
+cérebros são incrivelmente ruins em distinguir pequenas  percentagens. Não conseguimos entender a 
+diferença entre "um em cada dez mil" e "um em cada cem milhões". Simplesmente registramos ambas 
+as chances como "muito pequena".  Isso ocorreria por não termos nada em nossa história evolucionária 
+que nos prepar asse para tentar compreender o distanciamento dessas probabilidades . 
+Consequentemente, enquanto houver  alguma chance, haverá usuários d ispostos a investir pequenas  
+quantias pela chance de obter uma recompensa gigantesca. 
+2.1.8 Perda & Prevenção 
+“Perda & Prevenção” é o oitavo núcleo da Octalysis, que se utiliza do medo do usuário para 
+motivá-lo. Normalmente pode ser pelo medo de perder algo ou medo de ter eventos indesejáveis, como 
+fazer o usuário ter de recomeçar algo ou outros contratempos que o dificulte a atingir a meta. Por vezes, 
+“Perda & Prevenção” se manifesta através d os egos dos usuários, que se recusam a desistir e admitir 
+que tudo o que f ez até o momento foi inútil. Outra forma comum de aplicação desse núcleo é quando 
+um projeto dá ao usuário novas ofertas ou oportunidades, mas que possuem um curto tempo para que 
+sejam adquiridas. Passando assim a ideia para o usuário que se ele não agir imediatamente, perderá a 
+chance de agir para sempre.  
+“Perda & Prevenção” muitas vezes complementa outros núcleos da Octalysis por se manifestar 
+como a inversão deles. Por isso, pode parecer que isto não deveria constituir um núcleo separado por 
+não ser um impulso motivacional por si só, mas ganhar algo e evitar uma perda são cada vez mais  
+diferentes do ponto de vista dos estudos sobre motivação. Kahneman (2013) indica que em média somos 
+duas vezes mais propensos a agir para evitar uma perda do que para obter um ganho. Por isso, quando 
+
+42 
+ 
+se cria um projeto , é importante identificar oportunidades para integrar mecânica s proativas de 
+prevenção de perdas.  
+“Perda & Prevenção ” pode ser um núcleo c omplicado de gerenciar. Se feito de forma 
+inadequada, pode desmoralizar o usuário e levá-lo a abandonar o projeto. Uma coisa importante a se ter 
+em mente é a forma como os usuários  respondem à “Perda & Prevenção”: é geralmente proporcional 
+ao quanto eles já investiram no projeto. Chou (2015) descreve algumas técnicas que utilizam “Perda & 
+Prevenção” de forma eficaz. 
+ 
+Figura 16:Oitavo Núcleo da Octalysis e suas Técnicas  
+ 
+ 
+Fonte: Actionable gamification 
+ 
+ 
+ 
+• Herança Legítima 
+“Herança Legítima” é uma técnica relativamente comum que utiliza “Perda & Prevenção”. Consiste 
+em fazer o usuário acreditar que algo lhe pertence, e depois retirar dele caso ele não realize a ação 
+desejada. Essa técnica pode ser implementada através de uma simples mudança de palavras. Em um 
+site por exemplo, ao invés de dizer para o usuário algo do gênero “Se cadastre agora e ganhe um cupom 
+de 20% de desconto” diga algo “Você ganhou um cupão de 20% de desconto, clique aqui para obter o 
+código.”, e ao clicar levar o usuário para página de cadastro.  
+• Oportunidades Evanescentes e Temporizador de Contagem Regressiva  
+A técnica “Oportunidade Evanescente” consiste em apresentar para os usuários uma oferta que 
+desaparecerá se não realizarem a ação desejada. Um exemplo disso são cupões promocionais que o 
+
+
+43 
+ 
+supermercado Continente envia pelo correio. Sempre tem um cupão de €5 de desconto em compras 
+acima de €20, cujo prazo de validade dura aproximadamente 1 semana. Mesmo que no momento você 
+não tenha interesse em ir lá, e sabendo que na mesma correspondência já veio o mesmo cupom para 
+as 3 semanas seguintes e que no próximo mês vêm mais, isso ainda assim dá uma sensação de que 
+alguma forma se está perdendo algo.  
+Outra técnica que normalmente é usada  em conjunto “Oportunidades Evanescentes ” é 
+“Temporizador de Contagem Regressiva”, que consiste em dar aos usuários uma ferramenta visual que 
+comunica a passagem do tempo em direção a um evento . “Temporizador de Contagem Regressiva ” 
+costuma ser usado para marcar o tempo restante tanto para o início, como para o fim de algo, que pode 
+ser a meta, uma oferta, ou o lançamento do projeto, entre outros.  
+• Preguiça do Status Quo23 e Ímpeto do Medo de Perder 
+Às vezes, o núcleo “Perda & Prevenção” trabalha não com a mudança do comportamento do usuário, 
+mas com a manutenção do mesmo. A técnica “Preguiça do Status Quo ” consiste em criar atividades 
+altamente envolventes de forma que o usuário crie laços com o projeto e as ações desejadas se tornem 
+hábitos. Por vezes, é acompanhada de lembretes diários ao usuário, para que ele não se esqueça de 
+realizar a ação desejada. Normalmente qu ando o usuário conclui a ação desejada, uma pequena 
+recompensa é concedida. Se feito corretamente, os usuários começam a sentir-se motivados. 
+“Ímpeto do Medo de Perder” trabalha na direção completamente oposta a “Preguiça de Status Quo”. 
+Essa técnica consiste em fazer com que o usuário tema perder algo de forma que o incentive a abandonar 
+um hábito não conveniente para o seu projeto, e a realizar, por conseguinte, a ação desejada. Um bom 
+exemplo, segundo Elliot (2010),  é a famosa frase dita por Steve Jobs para convencer John Sculley a 
+abandonar o seu posto de CEO da Pepsi e se tornar o novo CEO da Apple em 1983:  "Você quer passar 
+o resto de sua vida vendendo água com açúcar, ou quer uma chance de mudar o mundo?". O medo de 
+perder uma oportunidade única de uma vida o fez aceitar a proposta.  
+Outro exemplo do “Ímpeto do Medo de Perder” é a loteria de códigos postais na Holanda. Todos 
+os dias a loteria de códigos postais concede vários prêmios em dinheiro para códigos postais aleatórios. 
+Todos os usuários da loteria, que tiverem comprado o bilhete para aquela semana, ganharão um prêmio 
+que varia entre £1000 e £30000 por bilhete que tenha adquirido.  Obviamente os residentes que não 
+compraram os bilhetes não recebem nenhuma recompensa. Piore (2013) afirma que a loteria de códigos 
+ 
+23 Expressão em Latim que costuma ser empregue para designar o estado atual de algo ou a situação em que algo se 
+encontra. 
+
+44 
+ 
+postais é mais bem-sucedida do que outros programas de loteria justamente pelo medo que os residentes 
+holandeses têm de seus vizinhos ganharem na loteria e eles não.  
+• Prisão dos Custos Irrecuperáveis 
+A técnica mais poderosa dentro do núcleo “Perda & Prevenção”. “Prisão dos Custos Irrecuperáveis” 
+trata de fazer o usuário sentir que investiu tanto tempo e esforço no projeto que ele não quer sentir a 
+perda de desistir de tudo. Por outras palavras, esta técnica, faz com o usuário não abandone o projeto e 
+continue a realizar as ações desejadas mesmo que não tire nenhuma satisfação disso. 
+ 
+2.2 As categorias de Gamificação de Marczewski 
+Como dito no início deste capítulo, o consenso de termos é algo que os teóricos do meio não 
+parecem estar preocupados. O que Chou (2015), entre muitos outros teóricos definem por Gamificação, 
+Marczewski (2015) chama de Soluções de Design Baseadas em Jogos. Apesar de classificar muito bem 
+as Soluções de Design Baseadas em Jogos , Marczewski chama umas das categorias de Gamificação . 
+Neste trabalho, iremos referir-nos a tal categoria como Gamificação Básica para o melhor entendimento.  
+De acordo com Marczewski  (2015), as Soluções de Design Baseadas em Jogos  podem ser 
+divididas em três categorias principais: Gamificação Básica, Simuladores, e Jogos Sérios. Marczewski 
+(2015) ainda cita uma 4ª categoria chamada Design Lúdico, que seriam projetos com apenas a estética 
+inspirada em jogos, mas  sem elementos mecânicos , e segundo Marczewski (2015) , isso seria 
+insuficiente para considerá-la como gamificada. Dois elementos comuns às três categorias é que 
+possuem elementos de jogos, além de puramente estéticos , e não são feitos para simples 
+entretenimento. 
+ 
+Tabela 3: Propriedades presentes por categoria de Gamificação 
+ 
+Categoria Propósito 
+Elementos de 
+Jogos 
+Mundo Virtual Jogabilidade 
+Gamificação 
+Básica  
+X X   
+
+45 
+ 
+ 
+Fonte: Elaboração própria 
+ 
+2.2.1 Gamificação Básica 
+O conceito de Gamificação Básica não se diferencia em nada da Gamificação em si. São projetos 
+com aplicação de elementos comumente associados a jogos . Marczewski (2015) divide a Gamificação 
+Básica em dois subtipos: Gamificação Intrínseca e Gamificação Extrínseca.  
+• Gamificação Extrínseca 
+A “Gamificação Extrínseca” é o tipo mais comum de gamificação. Está diretamente associada 
+aos fatores externos, como o ambiente e outras pessoas. A “Gamificação Extrínseca” costuma oferecer 
+recompensas aos usuários. Como é o exemplo do aplicativo Heartbit, que oferece pontos ao usuário por 
+praticar qualquer exercício físico . Os pontos acumulados v ão para a plataforma Multiplus e, de acordo 
+com Mannara ( 2017), podem ser trocados por passagens aéreas, diárias em hotéis, ingressos de 
+cinema, entre outros. 
+ 
+ 
+Figura 17: Capturas de Tela do aplicativo Heartbit 
+ 
+ 
+Fonte: arquivo pessoal 
+Simuladores X X X  
+Jogos Sérios 
+X 
+X 
+X 
+X 
+
+
+46 
+ 
+• Gamificação Intrínseca 
+A “Gamificação Intrínseca” está ligada à vontade interna da pessoa . Projetos de “Gamificação 
+Intrínseca” usam técnicas de design comportamental para envolver os usuários , e os levar a realizar a 
+ação desejada. Para facilitar a diferenciação entre as duas, imagine dois  aplicativos educativos 
+gamificados. O intrínseco usaria técnicas de gamificação para motivar o aluno a querer aprofundar seus 
+conhecimentos. Já o extrínseco, assim como o Heartbit , te oferece recompensas de acordo com a tua 
+nota. Um bom exemplo  de “Gamificação Intrínseca” é o site e aplicativo Duolingo , que utiliza várias 
+técnicas de gamificação, como um micro placar de líderes, para motivar os usuários a aprenderem novos 
+idiomas.  
+Figura 18: Capturas de tela do aplicativo Duolingo  
+ 
+Fonte: arquivo pessoal 
+2.2.2 Simuladores 
+Um simulador é uma representação de um ambiente do mundo real, e pode ser usado em vários 
+contextos para diferentes propósitos . Os mais habituais servem para  otimização de desempenho  e 
+treinamento. Além disso simuladores buscam se assemelhar o máximo possível ao mundo real. Para tal, 
+ao projetar um simulador importa considerar dois aspetos: 
+• Adquirir informações de fontes válidas sobre as características e comportamentos relevantes. 
+• Simplificar ou aproximar as partes que não são possíveis simular.  
+Os simuladores costumam ser tratados como jogos convencionais, o que é compreensível  em 
+alguns casos , mas o que torna  os simuladores uma categoria à parte é que eles não precisam de 
+
+
+47 
+ 
+jogabilidade para funcionar e cumprir a função para a qual foram projetados. Os simuladores podem ser 
+tanto físicos como digitais.  
+Um bom exemplo de simulador físico é o Kriegsspiel criado em 1 824 por Herr von Reisswitz, 
+conselheiro da guerra da Prússia. Este simulador militar encorajava cada regimento do exército da 
+Prússia a jogar regularmente para testar estratégias e táticas sem colocar em risco as tropas. Kriegsspiel
+ 
+atualmente é considerado como o pai dos Jogos de Guerra24 Modernos. 
+Figura 19: Kriegsspiel por Herr von Reisswitz 
+ 
+ 
+Fonte: Board Game Geek 
+No que tange aos simuladores digitais, um dos mais famosos são os simuladores de voo. O 
+primeiro deles foi criado no início do século XX, pela empresa Antoinette, seu propósito era o treinamento 
+no solo para aeronaves militares, mas não teve muito sucesso e logo foi deixado para trás pelo Professor 
+Sanders. A sua maior vantagem é que era construído com  peças de aeronaves reais, que podiam ser 
+usadas para fazer um avião real, uma vez que o simulador não fosse mais necessário. O próximo marco 
+da simulação de voo veio com o Link Trainer em 1929. Criado por u m Edwin Link, um aficionado por 
+aviação, que desejava poder treinar sem as  restrições do clima e a disponibilidade de aeronaves e 
+instrutores. O grande sucesso do Link Trainer veio 5 anos após o seu lançamento quando o exército 
+americano ficou responsável por transportar os correios diariamente. De acordo com Owen (2017), n a 
+primeira semana mais de dez pilotos da USAAF morreram devido ao mau tempo, pois nunca tinham 
+ 
+24 Uma Subcategoria de Jogos de Mesa de Miniaturas.  
+
+
+48 
+ 
+recebido treinamento adequado para voar nessas condições. A USAAF25 então resolveu adquirir 6 Link 
+Trainers que era capaz de simular situações de baixa visibilidade. O Link Trainer ainda foi o principal  
+simulador de voo do exército americano até o final da 2ª Grande Guerra Mundial. E estima-se que 10.000 
+deles foram produzidos e chegaram a treinar mais de 500.000 novos pilotos.  
+ 
+Figura 20: Link Trainer, Barril da Antoinette, e Professor Sanders 
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+Atualmente existem mais de 1200 s imuladores de voo diferentes, simulando diferentes 
+aeronaves para diferentes propósitos. Então eles passaram a ser classificados em níveis: 
+• Nível A 
+Um sistema de movimento é necessário com pelo menos três graus de liberdade26. 
+• Nível B 
+Requer movimento de três eixos e um modelo aerodinâmico de maior fidelidade do que o Nível 
+A.  
+• Nível C 
+ 
+25 Forças Aéreas do Exército dos Estados Unidos 
+26 Na física, é um termo genérico utilizado em referência à quantidade mínima necessária para determinar 
+completamente o estado físico de um dado sistema. 
+
+
+49 
+ 
+Requer uma plataforma de movimento com todos os seis graus de liberdade.  Também deve 
+possuir menor latência27 que os níveis A e B. O sistema visual deve ter um campo de visão horizontal 
+do mundo externo de pelo menos 75 graus. 
+ 
+Figura 21: Simulador de Voo nível D da Força Aérea Brasileira  
+ 
+ 
+Fonte: Airway 
+• Nível D 
+O nível mais alto de qualificação disponível atualmente. Os requisitos são para o Nível C com 
+adições. A plataforma de movimento deve ter todos os seis graus de liberdade e o sistema visual 
+deve ter um campo de visão horizontal do mundo externo de pelo menos 150 graus, com uma  tela 
+colimada (foco distante).  São necessários sons realistas na cabine, bem como uma série de 
+movimentos especiais e efeitos visuais. 
+ 
+2.2.3 Jogos Sérios 
+ 
+27 Diferença de tempo entre o início de um evento e o momento resultante.  
+
+
+50 
+ 
+Das categorias de gamificação, o jogo sério é o que mais se aproxima de um jogo convencional. A 
+única coisa que diferencia um jogo sério de um jogo convencional é que a sua finalidade primária não é 
+o entretenimento. De acordo com Marczewski (2015), podemos subdividi-lo em três categorias: Ensino, 
+Significativo e Proposital 
+ 
+Figura 22: Curso de programação para diferentes idades 
+ 
+ 
+Fonte: Tynker. 
+• Ensino 
+Os jogos sérios do tipo Ensino servem para que o usuário aprenda como fazer algo através de algo 
+semelhante a um jogo. Não há limite para o que se pode ensinar através de um jogo. Essa área se 
+desenvolveu no início com jogos que serviam de certa forma de reforço de matérias básicas como 
+matemática e inglês. Hoje já é muito mais abrangente e consegue ensinar coisas muito mais complexas. 
+Como por exemplo o site tynker.com, que visa ensinar programação, nas mais variadas linguagens para 
+crianças a partir de 5 anos. 
+ 
+Figura 23: Do mais simples latido ao controle total dos movimentos do cachorrinho.  
+
+
+51 
+ 
+ 
+ 
+Fonte: Tynker 
+ 
+ 
+ 
+Figura 24: Em um único curso tynker.com ensina 4 linguagens de programação.  
+ 
+ 
+Fonte: Tynker 
+• Significativo 
+A proposta desse tipo de jogo não é ensinar um conhecimento, mas um ensinamento. O jogo sério 
+apresentará uma mensagem para o usuário, tentando-o convencer a um ponto de vista, ou alertá-lo sobre 
+uma questão específica. Um exemplo positivo desse tipo de jogo sério é o vencedor do Darfur Digi tal 
+Activist Contest de 2006, Darfur is Dying (2006). Nele o usuário toma o controle de uma família de Darfur 
+que foi desalojada pelo conflito. O jogo alterna entre dois modos. No primeiro modo, furtividade, o usuário 
+
+
+52 
+ 
+deve escolher um membro da família e e nviá-lo para buscar água em um poço. O membro da família 
+deve ir ao poço e voltar enquanto se esquiva das patrulhas da milícia. Se for capturado, o jogador é 
+informado do destino do personagem selecionado e deverá então selecionar outro membro da família e  
+tentar novamente. Se a água for carregada com sucesso de volta ao acampamento, o jogo muda para 
+seu segundo modo, gerenciamento ; nesse modo , o usuário tem uma visão de cima para baixo do 
+acampamento, e os membros da família utilizam a água para plantar co mida e construir cabanas. 
+Quando a água acaba, um membro da família  novamente deve ser selecionado para ir buscar água. O 
+objetivo é manter o acampamento funcionando por sete dias, resistindo aos ataques da milícia e manter 
+ao menos dois membros da família vivos.  
+ 
+Figura 25: Capturas de tela do jogo sério Darfur is Dying (2006)  
+ 
+ 
+Fonte: arquivo pessoal 
+• Proposital 
+A ideia de um jogo com propósito é que , ao jogá-lo, isso trará algum tipo de resultado no mundo 
+real. Isso pode ocorrer tanto diretamente, o jogo traz o resultado, ou indiretamente, o projeto recompensa-
+nos com o resultado.  
+
+
+53 
+ 
+Como forma direta , podemos citar o extinto projeto Digitakoot . Implementado pela empresa 
+Microtask a pedido da Biblioteca Nacional da Finlândia , o objetivo do projeto era corrigir as falhas dos 
+computadores, que nem sempre reconhecem corretamente as letras em textos digitalizados.  Como a 
+assistência humana era necessária para tornar a tarefa mais atraente, a empresa Microtask desenvolveu 
+uma série de jogos envolvendo toupeiras. Em um jogo chamado “Mole Bridge”, o usuário construía uma 
+ponte para toupeiras escrevendo as palavras escaneadas pelo computador.  Em outro chamado “Mole 
+Hunt”, os usuários visualizavam a imagem da palavra escaneada, e a palavra reconhecida pelo 
+computador e tinham que definir se estava certo ou errado. Até o seu encerramento, o projeto Digitalkoot, 
+de acordo com Mattinen (2011) teve mais de 80.000 usuários, que jogaram ativamente o jogo por mais 
+de 240.000 minutos, completando mais de 5.000.000 ações desejadas, conforme dados da Biblioteca 
+Nacional da Finlândia.  
+ 
+Figura 26: Dois jogos do projeto Digitakoot: Mole Pole e Mole Hunt 
+ 
+ 
+Fonte: Springwise. 
+ 
+Já pela forma indireta, um grande exemplo é o site e aplicativo Freerice28, que permite aos seus 
+usuários doarem arroz para famílias necessitadas, através de um jogo  de perguntas e respostas. Para 
+cada pergunta que o usuário responde corretamente, 5 grãos de arroz são doados por meio do PAM 29. 
+As perguntas abrangem um total de 24 categorias que podem ser jogadas em até 5 níveis de dificuldade. 
+A pontuação total de um usuário é representada por um monte de arroz e o número de grãos ganh os. 
+ 
+28 Freerice: https://freerice.com 
+29 Programa Alimentar das Nações Unidas 
+
+
+54 
+ 
+Até o final de 2020, Freerice já havia doado mais de 202 mil milhões de grãos de arroz. Um dos motivos 
+pelo qual a PAM ganhou o prêmio Nobel da paz em 2020 
+ 
+Figura 27: Capturas de tela do aplicativo Freerice.  
+ 
+ 
+Fonte: arquivo pessoal 
+  
+
+
+55 
+ 
+3.FoldIt 
+A Ciência Aberta é um movimento que consiste em tornar a prática científica (publicações, dados, 
+amostras e softwares), e a sua disseminação acessível a todos as pessoas, mesmo os mais leigos. O 
+conhecimento é desenvolvido por meio de redes colaborativas, e posteriormente livremente 
+compartilhado. Dessa forma tornando-o transparente e acessível em oposição ao modelo tradicional de 
+pesquisa em laboratórios e patentes. FoldIt é um software de grande sucesso que faz parte desse 
+movimento. 
+FoldIt é um jogo sério proposital online sobre dobragem de proteínas. É parte de um projeto de 
+pesquisa experimental desenvolvido pel o Centro de Jogos Científicos e o Departamento de Bioquímica 
+da Universidade de Washington. O objetivo dos usuários do FoldIt é dobrar as estruturas das  proteínas 
+selecionadas da forma mais perfeita possível, usando as ferramentas fornecidas no jogo.  Quanto mais 
+viável for a solução do usuário, maior é a sua pontuação, e a s soluções de  maior pontuação  são 
+analisadas por pesquisadores, que determinam se há ou não uma conf ormação nativa30 que pode ser 
+aplicada a proteínas relevantes no mundo real. Cooper (2010) afirma que os resultados úteis fornecidos 
+pelos usuários do FoldIt superam as soluções computadas por algoritmos. 
+3.1 Porque as Formas das Proteínas Importam 
+De acordo com o site do FoldIt (2020), o  corpo humano é feito de bilhões de células de todos os 
+tipos. E as proteínas, dentro das células, permitem que o corpo humano realize suas funções. Funções 
+tais como processar os alimentos para dar energia aos músculos, enviar sinais através do cérebro que 
+controlam o corpo e transportar nutrientes pelo sangue.  Existem milhares de variedades de proteínas, 
+mas todas elas são constituídas por uma longa cadeia de aminoácidos interligados. 
+Os aminoácidos são pequenas moléculas compostas de átomos de carbono, oxigênio, nitrogênio, 
+enxofre e hidrogênio.  Para fazer uma proteína, os aminoácidos são unidos em uma cadeia não 
+ramificada. No entanto, cada aminoácido tem um pequeno grupo de átomos saindo da cadeia principal 
+que os conecta todos juntos , esses átomos são chamados de cadeia lateral . Existem somente 20 
+principais tipos diferentes de aminoácidos, que diferem uns dos outros com base em quais átomos estão 
+em suas cadeias laterais. 
+ 
+30 Estrutura tridimensional na qual a molécula está biologicamente ativa e apresenta propriedades biológicas 
+naturais. 
+
+56 
+ 
+Embora as proteínas sejam apenas uma longa cadeia de aminoácidos, elas não ficam naturalmente 
+esticadas em linha reta.  A proteína se dobra para formar uma bolha compacta, mas, ao fazer isso, 
+mantém alguns aminoácidos próximos ao centro da bolha e outros fora , além de manter alguns pares 
+de aminoácidos próximos e outros separados.  Cada tipo de proteína se dobra em uma forma muito 
+específica, e é sempre  da mesma forma.  A maioria das proteínas faz isso sozinha , embora algumas 
+precisem de ajuda extra para se dobrar na forma correta. A forma única de uma determinada proteína é 
+o estado mais estável que ela pode adotar. As formas das proteínas são importantes, pois especificam a 
+função delas. Por exemplo, uma proteína que quebra a glicose para que a célula possa usar a energia 
+armazenada no açúcar terá uma forma capaz de se ligar com a glicose e decompô-la de maneira a liberar 
+a energia. As proteínas estão presentes em todos os seres vivos, até  mesmo em plantas, bactérias e 
+vírus. Alguns organismos possuem proteínas que lhes conferem características especiais , como os 
+exemplos abaixo: 
+• Fotossistema I é o conjunto de proteínas que permite às plantas utilizar a luz do Sol para realizar 
+a fotossíntese. 
+• Luciferase é uma proteína presente em pirilampos que catalisa a reação química que faz com 
+que eles brilhem. 
+• Hemaglutinina é uma proteína presente no vírus da gripe que o ajuda a invadir nossas células. 
+3.2 Benefícios do FoldIt  
+A estrutura de uma proteína é a chave para entender não só como ela funciona, mas também como 
+é possível utilizá-la beneficamente em prol da humanidade. Uma proteína consiste na ligação de centenas 
+de aminoácidos, e por isso o  número de maneiras diferentes pelas quais até mesmo a menor das 
+proteínas pode se dobrar é enorme. Descobrir qual das muitas estruturas possíveis é a melhor é 
+considerado um dos problemas mais difíceis da biologia atualmente e os métodos atuais consomem 
+muito dinheiro e tempo . FoldIt tenta prever a estrutura de uma proteína , tirando proveito das intuições 
+humanas de resolver quebra -cabeças e fazendo com que os seus usuários joguem competitivamente 
+para dobrar as melhores proteínas. 
+Como as proteínas fazem parte de muitas doenças, elas também podem fazer parte da cura. Quanto 
+mais sabemos sobre como uma proteína relacionada a alguma doença  se dobra, melhor podemos 
+projetar proteínas para combatê-las. Em FoldIt, o s jogadores podem criar o design de proteínas que 
+podem ajudar a prevenir ou tratar doenças importantes, tais como a SIDA, o câncer e o Alzheimer.  
+
+57 
+ 
+Um bom design poderia eventualmente tornar -se a base de um medicamento antiviral ou de uma 
+vacina. Porém é apenas a primeira etapa do processo.  A equipe de ciência do FoldIt analisa os designs 
+com melhores pontuações. Design s promissores recebem testes automatizados, e os projetos que se 
+mantêm são cultivados em laboratório através de bactérias. Após extraídas e purificadas , vários testes 
+são feitos para verificar se a proteína ainda manteve a forma. O próximo passo é geralmente o cultivo de 
+cristais para experimentos de cristalografia 31 ou microscopia crioeletrónica32. Se o design sobreviver a 
+todas essas etapas, o resultado será uma estrutura 3D de uma proteína que pode ser comparada ao 
+design original. Somente então o projeto FoldIt será marcado como resolvido e a estrutura 3D da proteína 
+será adici onada ao  PDB33. Os usuários do FoldIt que trabalharem em um design de sucesso serão 
+creditados como autores. De acordo com Cooper (2010), até hoje cinco proteínas projetadas por usuários 
+do FoldIt passaram por todos esses desafios e chegaram ao PDB: 6MRR, 6MRS, 6MSP, 6NUK e 6WI5. 
+ 
+Figura 28: Proteínas 6MRR, 6MRS, 6MSP, 6NUK e 6WI5  
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+ 
+31 A cristalografia é a ciência experimental que tem como objeto de estudo a disposição dos átomos em sólidos. 
+32 Esta técnica permite visualizar a estrutura molecular de proteínas congelando-as e obtendo as imagens por detecção 
+de elétrons que transmitem através delas. 
+33 Protein Data Bank é um banco de dados em 3D de proteínas e ácidos nucléicos. 
+
+
+58 
+ 
+3.3 A Gamificação em FoldIt  
+Quanto ao tipo de gamificação, não há dúvidas que FoldIt é um Jogo Sério Proposital, que busca 
+encontrar a forma de proteínas que possam ser uti lizadas para o bem da humanidade. N o que diz 
+respeito aos núcleos e técnicas de gamificação utilizadas, após análise , chegamos às seguintes 
+conclusões: 
+Podemos notar uma forte influência do 1º núcleo, Significado Épico & Chamamento, com a técnica 
+Herói da Humanidade e Elitismo. Herói da Humanidade pois é dito aos usuários que eles podem acabar 
+encontrando sozinho ou colaborativamente, a forma de uma proteína que ajudará na cura de doenças 
+gravíssimas. O Elitismo está nas competições que o F oldIt promove entre equipes de diferentes 
+Universidades, tanto para atrair novos usuários como para manter o engajamento dos já existentes em 
+alta, além de promover o projeto. 
+O 2º núcleo, Desenvolvimento & Realização, também se faz presente com a técnica de Símbolos de 
+Realização e uma combinação de Placar de Líder com Pontos de Status. FoldIt possui várias conquistas 
+desbloqueáveis e mantém um placar global da pontuação dos seus usuários . Porém somente recebem 
+pontos os usuários cujos designs foram selecionados para a fase de teste. Por causa disso, cada ponto 
+é bem difícil de conquistar, o que aumenta ainda mais a realização ao obtê-lo.  
+FoldIt utiliza a técnica de Escolhas Significativas e pode-se dizer que o 3º núcleo, Fortalecimento da 
+Criatividade & Feedback, é o motivo pelo qual o jogo foi criado. Pois como dito anteriormente, mesmo o 
+mais poderoso e caro dos computadores  tem dificuldade em conseguir determinar as formas das 
+proteínas. U m computador não te m criatividade ou estratégia, ele somente testaria todas as 
+possibilidades e escolheria a mais adequada perante critérios pré-selecionados. Mas os seres humanos 
+são intuitivos , e FoldIt apresenta um 
+feedback
+ constante de quanto será a pontuação do usuário se 
+submeter a proteína na forma que está no momento . Em FoldIt, todas as escolhas são significativas e 
+um mínimo movimento pode alterar a sua pontuação de forma drástica. 
+O 5º núcleo, Influência Social & Relacionamento é utilizado de forma correlacionada com os outros 
+núcleos já mencionados. Com a técnica Prateleira de Troféus, junto com o 2º núcleo, ao acessar o perfil 
+de um usuário, você vê todas as conquistas e a pontuação do mesmo. E a técnica de Missões em Grupo 
+que é usada tanto junto com o Elitismo do 1º núcleo como sozinha, em níveis de maior complexidade. 
+O 6º núcleo, Escassez & Impaciência, é sutilmente utilizado. Devido ao certo grau de complexidade 
+dos desafios mais avançados, FoldIt usa a técnica de Interface de Usuário Evolutiva , desbloqueando 
+
+59 
+ 
+ferramentas conforme o usuário progride. Já os demais núcleos e suas técnicas não são utilizados no 
+FoldIt. 
+A seguir na figura 29 podemos ver uma representação gráfica da análise feita acima, feita através 
+da f erramenta Octalysis Tool ( https://yukaichou.com/octalysis-tool/), que associa cada lado de um 
+hexágono a um dos núcleos da Octalysis e cuja respectiva mancha azul se torna mais proeminente de 
+acordo com a quantidade de técnicas de cada um dos núcleos que foram utilizadas, e a importância de 
+cada núcleo para o projeto. 
+ 
+Figura 29: A gamificação em FoldIt  
+ 
+ 
+Fonte: Octalysis Tools 
+ 
+ 
+ 
+ 
+ 
+
+
+60 
+ 
+3.4 FoldIt e a Covid-19 
+Em resposta à pandemia global, FoldIt tem lançado quebra-cabeças do coronavírus. Porém eles não 
+são sobre encontrar a estrutura do SARS-CoV-2. Os cientistas foram rapidamente capazes de descobrir 
+a estrutura da proteína que o SARS-CoV-2 usa para se ligar às células humanas. FoldIt dividiu os quebra-
+cabeças baseados em Covid -19 em três categorias . A primeira consiste em encontrar uma proteína 
+aglutinante que possa ser anexada ao Coronavírus. A segunda categoria visa prever a estrutura 3D das 
+proteínas que se acredita que o vírus fabrica. E a terceira categoria envolve o vírus MERS-CoV, que causa 
+a Síndrome Respiratória do Oriente Médio, por estar relacionado ao SARS-CoV-2. 
+ 
+Figura 30: SARS-CoV-2 no FoldIt  
+ 
+ 
+Fonte: FoldIt.  
+
+
+61 
+ 
+4 INL Projetos 
+O INL - Laboratório Ibérico Internacional de Nanotecnologia34 foi fundado pelos governos de Portugal 
+e Espanha sob uma estrutura de cooperação internacional para realizar pesquisas interdisciplinares, 
+implantar e articular nanotecnologias em benefício da sociedade. O INL Projetos é um jogo sério de 
+cartas que foi criado de forma a mostrar domínio sobre toda teoria mostrada até aqui, e a pedido do INL. 
+O jogo deverá ser aplicado em aproximadamente vinte minutos após visitas escolares , e tem como 
+objetivo de comunicar a ciência  produzida nesse laboratório. O jogo possui duas versões: a física com 
+cartas impressas no tamanho de 2,5 polegadas por 3,5 polegadas em papel de 180g e a versão digital 
+que se utilizou de uma plataforma de jogos de mesa online chamada Tabletopia. Ambas as versões 
+possuem o mesmo conjunto de regras, a versão digital visa permitir aos jovens que continuem jogando 
+mesmo após a visita ao INL, uma vez que cópias físicas serão de uso exclusivo do INL e não estarão a 
+venda, e nem serão distribuídas. O objetivo principal do jogo INL Projetos é  dar a conhecer alguns dos 
+projetos de investigação levados a cabo pelos cientistas do INL em áreas tais como materiais 
+nanoestruturados, nanomedicina, entre outras. O que já é o suficiente para defini-lo como um Jogo Sério 
+Significativo dentro das categorias de Marczewski (2015). Uma vez que o jogo proposto poderá ser 
+utilizado pelo INL após visitas escolares, o seu público será predominantemente jovem. Assim sendo, 
+será levado em consideração a idade do público -alvo na seleção da forma de comunica ção dessa 
+informação. Devido à crise sanitária provocada pela Covid-19, não foi possível realizar testes em escolas 
+como era planejado no início. 
+O INL Projetos  foi criado co m apoio do INL no âmbito do projeto PortLinguE. (PTDC/LLT -
+LIG/31113/2017) financiado pela FCT. O projeto surgiu como iniciativa do Grupo de Humanidades 
+Digitais do Centro de Estudos Humanísticos da Universidade do Minho e, devido à sua natureza 
+interdisciplinar, está a ser desenvolvido pel a ELACH e pela Escola de Engenharia (nomeadamente pelo 
+Departamento de Informática e o Departamento de Engenharia Eletrônica) da Universidade do Minho. O 
+projeto prevê a construção de um motor de pesquisa bilingue capaz de identificar equivalentes de 
+tradução a partir de textos comparáveis (isto é, textos originalmente escritos em línguas diferentes sobre 
+a mesma temática). A par deste motor, o portal prevê a inclusão de conteúdos multimodais (e.g., jogos, 
+entrevistas, narrativas digitais, infografias) sobre vários domínios do saber para fomentar o gosto pela 
+ciência nos mais diversos públicos, principalmente nos mais jovens. 
+ 
+34 https://inl.int/ 
+
+62 
+ 
+4.1 Comunicação de ciência 
+Projetos gamificados em prol da ciência não são raros no meio acadêmico. Kalogiannakis (2021) fez 
+uma análise de 24 projetos gamificad os, selecionados dentro de mais de 5000 artigos científicos. No 
+entanto nenhum dos projetos selecionados comunica a ciência, e sim a ensina. A maior parte são jogos 
+sérios de ensino, com algumas gamificações simples no formato de aplicativos e um ou outro simulador. 
+Mas isso não quer dizer que não existam projetos gamificados que comuniquem ciência. Por exemplo, 
+em 2012 a organização sem fins lucrativos Wellcome Trust organizou um torneio de desenvolvimento de 
+jogos de comunicação de ciência, chamado de “Gamify Your PhD” , cuja vencedora foi a pesquisadora 
+Margherita Coccia com o jogo Dysbiosis, que coloca o jogador dentro do trato gastrointestinal, derrubando 
+bactérias nocivas em uma batalha imunológica pela saúde digestiva. Podemos ver um vídeo de gameplay 
+do jogo no vídeo 1 
+ 
+Vídeo 1: Gameplay do jogo Dysbiosis  
+ 
+ 
+Fonte: Ashley Gwinnell   
+ 
+https://www.youtube.com/watch?v=qglzvn-frMghttps://www.youtube.com/watch?v=qglzvn-frMg
+
+63 
+ 
+Mas por que motivo devemos comunicar a ciência? De acordo com Delicado, Estevens e Rowland 
+(2020), cientistas andam preocupados que as pessoas não percebam, e nem se interessem pela ciência, 
+podendo até acreditar em coisas que a ciência afirma serem falsas. A melhor forma de evitar tais efeitos 
+é comunicando a ciência para crianças desde cedo.  
+De acordo com Isa Mestre (2018), gestora de comunicação no Centro de Investigação em 
+Biomedicina da Universidade do Algarve, existem seis objetivos principais para a comunicação da ciência. 
+• Partilhar o prazer da descoberta científica:  A ciência não diz apenas respeito à criação 
+de factos; trata-se também de abrir horizontes sobre a vastidão da nossa ignorância e partilhar 
+a magia e a inspiração da nova descoberta.  
+• Incentivar o espírito crítico:  O conhecimento sobre o método científico deve transbordar 
+para a sociedade. O pensamento crítico ajuda a evitar abordagens que não sejam baseadas em 
+factos e evidências 
+• Transformar ciência em informação:  Comunicar ciência ajuda a tornar narrativas 
+complexas em conceitos que possam facilmente ser transmitidos a um público sem qualquer 
+conhecimento na matéria. Simplificar ciência é também compreendê-la.  
+• Retribuir o público: Devemos relembrar constantemente ao público porque motivo o Governo 
+investe em Ciência. A mera disponibilização dos estudos científicos não se traduz na digestão, 
+síntese e entendimento da Ciência produzida por parte dos contribuintes. 
+• Informar a opinião pública : É um dever e uma responsabilidade dos cientistas manter a 
+opinião pública informada e usar a ciência como forma de formar cidadãos civicamente mais 
+conscientes e com maior poder de decisão sobre as problemáticas da sociedade contemporânea.  
+• Combater as notícias falsas: Com a internet e o exponencial crescimento da quantidade de 
+informação a circular, comunicar ciência validada por especialistas é uma forma de preservar o 
+valor "verdade". 
+Mesmo com objetivos bem definidos, comunicar ciência não é uma tarefa fácil. Por isso, Mestre 
+(2017) define oito instruções básicas para uma mais fácil elaboração da comunicação de ciência: 
+• Simplifique: Apresente os resultados, identifique os objetivos, ex plique quem pode estar 
+interessado e por que motivo. 
+• Seja breve: A mensagem deve ser curta, direta e eficaz. 
+• Evite termos científicos: O público em geral não domina o vocabulário científico e pode sentir-
+se confuso. 
+
+64 
+ 
+• Facilite a visualização:  Forneça infografia, imagens legendadas, gráficos ilustrados, ...  
+• Teste da “criança de 5 anos”: Tente explicar como se estivesse a falar com uma criança de 
+5 anos. 
+• Forme: Explique todos os conceitos essenciais a compreensão da mensagem.  
+• Mundialize: Procure mostrar de que modo aquilo que quer comunicar pode interessar a 
+comunidade.  
+• Teste a “prova do café”: Tente explicar no tempo de beber um café. 
+Considerando o público-alvo iremos focar no objetivo que nos parece mais adequado para essa faixa 
+etária, que é o “Partilhar o prazer da descoberta científica”. Assim sendo, o INL Projetos tem como 
+objetivo comunicar a ciência através d a partilha do prazer da descoberta cient ífica, e se utilizará das 
+instruções apontadas por Mestre (2017) tanto quanto possível.  
+ 
+4.2 Inspiração 
+ 
+Figura 31 Capa dos baralhos Top Trumps  
+ 
+ 
+Fonte: Arquivo Pessoal 
+ 
+
+
+65 
+ 
+INL Projetos é baseado em Top Trump,  um jogo de cartas lançado em 1978 pela empresa 
+Waddingtons. Esse jogo possui inúmeras versões com diferentes temas, conforme podemos ver na figura 
+31. Cada baralho contém aproximadamente 30 cartas, e a maioria não é compatível entre si, pois 
+utilizam diferentes categorias para se adequar a diferentes temas, conforme vemos na figura 3 2. Além 
+de apresentar as categorias necessários para o jogo, as cartas também contêm informações sobre aquilo 
+que ela representa.  
+  
+Figura 32: Ronaldo e Komasan: diferentes temas, diferentes categorias  
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+O jogo por si só é relativamente simples, tem duração de 10min por partida e destina-se a crianças 
+de aproximadamente 5 anos ou mais. Na preparação do jogo, cada jogador recebe o mesmo número de 
+cartas. O objetivo do jogo é obter todas as cartas para si. A cada rodada , cada jogador só tem acesso à 
+carta do topo do seu baralho. O jogo começa como o joga dor mais novo como jogador ativo. A função 
+do jogador ativo é escolher uma das categorias para comparar. Como podemos ver na figura 3 3, o 
+jogador ativo escolheu a categoria “cuteness” para comparar. A menos que especifique o contrário quem 
+tiver o maior valor na  categoria ganha. O vencedor pega todas as cartas daquela rodada e coloca no 
+fundo do seu baralho. O jogador que venceu uma rodada é o jogador ativo na próxima rodada. No caso 
+
+
+66 
+ 
+da figura 33 foi o jogador que jogou o chihuahua que venceu e será o próximo jogador ativo. As rodadas 
+continuam até que um jogador tenha todas as cartas.  
+ 
+Figura 33: Dálmata vs Chihuahua  
+ 
+ 
+Fonte: Top Trumps 
+ 
+  Rice (2011), em uma pesquisa pelo centro de pesquisa da National Children’s Bureau atribui ao 
+Top Trumps alguns possíveis benefícios educativos, como: 
+• Praticar habilidade de leitura 
+• Aprender novas palavras ou termos matemáticos 
+• Exercitar habilidades numéricas 
+• Aprimorar habilidades de tomada de decisão 
+• Desenvolver pensamento lateral e jogo estratégico 
+• Descobrir e reter novos fatos e números 
+Mais tarde a Winning Moves, empresa que mantém os direitos autor ais do Top Trumps desde 
+1992, passou a chamar esses supostos benefícios de aprendizagem camuflada. Vale a pena 
+ressaltar que esses benefícios não são o suficiente para classificar Top Trumps como um jogo sério 
+de ensino. O propósito principal do Top Trumps a inda é o entretenimento, com exceção de alguns 
+poucos temas como o Top Trumps: Wildlife in Danger, que pode ser considerado um jogo sério 
+
+
+67 
+ 
+significativo por expor o risco de extinção de diversas espécies. De igual forma o INL Projetos será 
+classificado de jogo sério significativo por comunicar a ciência.  
+ 
+4.3 Desenvolvimento das cartas 
+Como tema, foram selecionados os projetos financiados do INL. Não era a única opção possível para 
+se fazer um jogo com a temática INL, mas dentro do material disponibilizado pelo INL foi o que melhor 
+serviria para comunicar algumas das investigações desenvolvidas por esse centro em ma téria de 
+nanotecnologia. O INL possui na altura em que esse trabalho foi realizado mais de 150 projetos 
+financiados divididos em 5 categorias, de acordo com quem o financiou: Comissão Europeia, Portugal, 
+Espanha, Inter -regional e Fundações. Cada um dos pro jetos apresenta em sua maioria os seguintes 
+dados: 
+• Nome 
+• Logotipo do projeto e das entidades financiadoras  
+• Título 
+• Descrição do Projeto 
+• Site do Projeto 
+• Data de início 
+• Data final 
+• Modelo 
+• ID do Contrato de Subvenção 
+• Agência de Financiamento 
+• Programa de Financiamento 
+• Função do INL 
+• Parceiros 
+• Orçamento total: 
+• Orçamento INL 
+Jogos de Cartas de Comparação de Dados como Top Trumps e o INL Projetos requerem dados 
+numéricos. Olhando para os dados do projeto, os seguintes dados foram selecionados como categorias 
+para o INL Projetos. 
+
+68 
+ 
+• Instituições: Apesar de que na página de cada projeto e mais especificamente na categoria 
+“Parceiros” ser apesentad a uma lista das instituições envolvidas no projeto, às vezes é 
+omitido o INL. O número de instituições foi contabilizado manualmente e o INL foi incluído 
+quando omitido.  
+• Tempo: Como designer preferi colocar a diferença de dias entre a data de início do projeto 
+e a data final, do que selecionar uma das duas. Esperando conseguir valores mais 
+abrangentes. Para o cálculo entre as datas usei o Days Calculator do site Timeanddates 
+(https://www.timeanddate.com/)  
+• Orçamento: Optei por usar somente o orçamento total de cada projeto, em vez do orçamento 
+do INL ou um percentual entre os dois , por acreditar que uma quantia maior de dinheiro, 
+causaria um maior impacto nos futuros jogadores. 
+Como apenas três categorias não eram o suficiente, foi solicitado ao INL o número de cientistas 
+envolvidos em cada projeto. Eventualmente o pedido acabou sendo negado por razões contratuais. 
+No entanto resolvi manter a categoria devido ao prazo de entrega e por ter uma noção aproximada 
+do número após pesquisar dentro do site de cada projeto. A últi ma categoria remete para os cinco 
+campos estratégicos de aplicação da nanociência e nanotecnologia presentes no site do INL. Que 
+por sua vez são: 
+• Monitoramento de Alimentos  
+• Meio Ambiente 
+• Tecnologias de Informação e Comunicação 
+• Energia Renovável 
+• Saúde. 
+ 
+Figura 34: Ícones dos Campos de Pesquisa retirados do site do INL.  
+ 
+ 
+Fonte: INL 
+
+
+69 
+ 
+ 
+Conforme podemos ver na figura 34, os campos já apresentam ícones propícios a serem utilizados 
+em um jogo. Porém o INL não classifica seus projetos pelos campos, cabendo ao designer analisar cada 
+projeto e classificá -lo da melhor forma possível. Com ess as 5 categorias já temos o suficiente pa ra a 
+parte da mecânica do jogo. 
+Salgado (2015) acredita que o uso de imagens é muito importante para comunicar ciência, podendo 
+substituir ou complementar a linguagem verbal. O autor também aponta que é função do designer 
+apresentar as imagens mais apelativas para a audiência alvo. Dentro desse contexto , foi selecionada 
+para cada carta do INL Projetos a melhor e mais apelativa imagem disponível no site de cada projeto. As 
+imagens selecionadas servem de plano de fundo para as cartas que estarão nas mãos dos jogadores, e 
+o efeito esperado é que consiga atiçar a curiosidade do mesmo perante o projeto, o suficiente para, por 
+vontade própria e sem instrução prévia, escanear o QR Code presente no canto inferior direito de cada 
+carta. Segundo Bertuncello (2017) ess e seria um processo importante pois a curiosidade prepara o 
+cérebro para o aprendizado.  
+O aprendizado que se espera obter quando o jogador escaneia o QR Code não é técnico. Ao visitar 
+por exemplo o QR Code da carta do projeto Marewind , o jogador não vai s air de lá com noções, nem 
+mesmo as mais básicas, de engenharia de materiais. Mas ele vai receber a informação que os novos 
+modelos de usinas eólicas desenvolvidas pelo projeto causam 35% a menos de impacto ambiental, 
+também duram 50% mais tempo que os mode los usados atualmente, entre outros benefícios. Ou seja, 
+trata-se de fazer com que note de forma orgânica a importância da ciência. 
+Em Top Trumps cada carta apresenta um pequeno texto informativo, no entanto os projetos do INL 
+seriam difíceis de sintetizar ao ponto de conseguir colocar as informações relevantes em uma carta. Além 
+disso, o jogo precisava de um componente digital para se encaixar como um projeto de Humanidades 
+Digitais. Assim sendo, como designer optei por QR Codes. Havia 3 opções de onde o QR Codes podiam 
+levar o estudante: 
+• Descrição do projeto no site INL 
+• Ao site do projeto 
+• Texto sintetizado especificamente para o jogo 
+A descrição do projeto no site do INL foi a primeira a ser descartada. Apesar de resumir o projeto 
+em algumas linhas, não o faz de forma acessível ao público -alvo. Além dis so, todas as descrições de 
+projetos se encontram no mesmo endereço web, o que dificultaria as coisas. O texto sintetizado 
+
+70 
+ 
+especificamente para o jogo poderia ser o ideal, mas não poderia ser eu, enquanto leigo, a cri á-lo. A 
+comunicação de ciência visa a comunicação entre cientistas e a população leiga. Um leigo descrevendo 
+projetos que ele mal entende para outros leigos não traria resultados prom issores. Na época que essa 
+escolha foi tomada, devido ao Covid o contato com o INL foi prejudicado. Então como única opção válida, 
+os QR Codes nas cartas encaminham o jogador para o site do projeto. Alguns bem propícios a receber 
+um público leigo, outros n em tanto. A maioria dos sites está exclusivamente em inglês, o que pode 
+diminuir a eficácia do INL Projetos, mas ainda assim continua sendo a única opção válida.  
+ 
+Figura 35: Exemplo de cartas do jogo INL Projetos  
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+As cartas são os componentes mais complexos do jogo, e exemplares do resultado podem ser 
+vistos na figura 35. Cada carta é composta por: 
+• Borda simulando nanografenos em cor roxa, consonante ao logo do INL 
+• Logo do projeto que representa 
+• O(s) ícone(s) do(s) campo(s) de pesquisa em que o projeto atua 
+• Ícones também em cor roxa, das 4 categorias mencionadas anteriormente assim como 
+os seus valores assinalados a preto para facilitar a leitura dos dados 
+• Imagem retirada do projeto à qual foi aplicado um grau de opacidade de 90% para 
+facilitar a leitura dos dados. 
+
+
+71 
+ 
+• QR Code para o site do projeto, com uma pequena sinalização instruindo o jogador a 
+escaneá-lo. O que é uma utilização da técnica escolha brilhante do 7º núcleo da 
+Octalysis. 
+ 
+4.4 Regras 
+ 
+Figura 36: Página 2-3 do manual de regras do jogo INL Projetos 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+O jogo INL Projetos foi sendo testado e desenvolvido simultaneamente. O conjunto de regras iniciais 
+foi aos poucos sofrendo leves alterações. Ao longo de vários meses chegamos ao resultado que pode ser 
+visto na figura 36.  
+ A primeira parte do manual de regras lista os componentes existentes dentro da caixa do jogo.  
+Além das cartas, teremos um tabuleiro (figura 37) e marcadores (figura 38).  
+ 
+ 
+ 
+
+
+72 
+ 
+Figura 37: Tabuleiro do jogo INL Projetos  
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+ 
+Figura 38: Marcadores do jogo INL Projetos  
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+O tabuleiro e os marcadores funcionam em conjunto. O tabuleiro apresenta duas áreas distintas. 
+Na parte superior está a prioridade de pesquisa onde se posiciona os marcadores de prioridade, que são 
+
+
+73 
+ 
+os que contêm a imagem dos campos de pesquisa do INL . Na parte inferior apresenta os ícones das 
+quatro categorias, e em cada um dos círculos à direita deles  se posiciona um marcador de protocolo, 
+que correspondem aos sinais matemáticos: “maior que” (>) e “menor que” (<).  
+Antes de começar a jogar o INL projetos é necessário fazer a preparação que pressupõe quatro 
+passos simples: 
+• Inicialmente, coloque os cinco marcadores de prioridade, de uma forma aleatória e com 
+a face sem ícones voltada para cima, um em cada posição da linha de prioridade. Só 
+depois de ter colocado todos os marcadores é que os vira, colocando a face com ícones 
+voltada para cima.  Isso serve para dar um potencial inicial diferente para as cartas a 
+cada partida, aumentando, assim, a rejogabilidade do INL Projetos , além de prevenir 
+estratégias dominantes. 
+• Coloque os quatro marcadores de protocolo com o lado “maior que” voltado para cima 
+nos espaços adjacentes a cada ícone de categoria. Nesta etapa, optamos por não utilizar 
+aleatoriedade para definir a posição inicial dos marcadores, pois deixaria o potencial 
+inicial das cartas muito imprevisível, tornando o jogo demasiado difícil de se adquirir 
+competência o que poderia causar desinteresse por parte dos jogadores jovens.  
+• Cada jogador deve receber o mesmo número de ca rtas. As cartas que não forem 
+distribuídas, sem serem reveladas, voltam para a caixa e não participam dessa partida. 
+Essa regra é necessária para permitir que os jogadores participem do mesmo número 
+de desafios durante a partida. No entanto , não garante qu alquer forma de equilíbrio 
+entre as mãos dos jogadores.  
+• Define-se de forma fortuita e consensual entre os jogadores quem irá começar. Muitos 
+jogos tendem a dar parâmetros específicos para definir quem será o primeiro jogador, 
+mas isso faz com que dentro d e um mesmo grupo, sempre seja a mesma pessoa a 
+começar, o que pode prejudicar a rejogabilidade. 
+Após todos os passos anteriores serem concluídos, partindo do primeiro jogador e seguindo um 
+sentido horário entre os mesmos, cada um na sua vez terá que optar por umas das três possibilidades: 
+• Alterar um protocolo: Consiste em virar um marcador de protocolo de uma das categorias do 
+lado “maior que” para o lado “menor que”, ou o contrário. De qualquer forma , isso inverte a 
+ordem de grandeza das cartas naquela cat egoria, tornando cartas fracas potencialmente mais 
+
+74 
+ 
+fortes e enfraquecendo cartas dos adversários. Essa escolha de designer é uma utilização da 
+técnica “Escolhas Significativas” do 3º núcleo da Octalysis 
+• Definir uma prioridade de pesquisa: O jogador escolhe um dos marcadores de prioridade, retira 
+o mesmo do tabuleiro e empurra todos os marcadores de prioridade que estavam à esquerda 
+dele uma casa para a direita, deixando assim a casa mais à esquerda, que possui cinco círculos 
+abaixo dela, livre. Por fim , o jogador coloca o marcador selecionado na casa mais à esquerda. 
+No estado em que o jogo INL Projetos se encontra, isso é uma utilização da técnica “Percepção 
+de Escolha” do 3º núcleo da Octalysis, pois independente mente da ordem dos marcadores , é 
+muito mais provável a vitória da carta que possuir mais ícones. 
+• Desafio: O desafio não difere muito de uma rodada padrão do jogo Top Trumps. O jogador irá 
+selecionar uma das quatro categorias ou prioridade de pesquisa em que ele acredite ser capaz 
+de vencer. Entã o todos os jogadores olham para todas as cartas em sua mão, e selecionam 
+uma, sem a revelar aos demais , de acordo com sua estratégia. Quando todos tiverem 
+selecionado uma carta, todos revelam suas cartas simultaneamente. O vencedor será definido 
+de acordo com o critério escolhido previamente pelo jogador que propôs o desafio. Ao contrário 
+do Top Trumps, no INL Projetos , o jogador tem acesso imediato a todas as suas cartas. Essa 
+escolha de design foi feita para maximizar o tempo de exposição dos jogadores às imagens, que 
+em teoria deve motivá-lo a acessar ao QR Code. Vale aqui ressaltar que , invariavelmente, nem 
+toda imagem vai ser atrativa para todo s os jovens. Também não é necessário que assim seja. 
+Contanto que, a cada vez que o jogo seja utilizado numa visita, uma criança acesse um QR code, 
+podemos dizer que o jogo obteve sucesso em comunicar a ciência. 
+Para deixar bem claro quem vence o desafio, observe a figura 39 e a lista de quem venceria de 
+acordo com o desafio escolhido: 
+ 
+ 
+ 
+ 
+
+75 
+ 
+Figura 39: Exemplo de desafio no jogo INL  
+ 
+ 
+Fonte: arquivo pessoal 
+ 
+• Instituições: Vence o projeto Nano Culture 
+• Orçamento: Vence o projeto Cluster Nano Road 
+• Prioridade: Vence o projeto Nano Culture com 6 de prioridade 
+• Tempo: Vence o projeto Safe NMT 
+• Cientistas: Vence o projeto Safe NMT 
+
+
+76 
+ 
+Uma vez que o vencedor do desafio é definido, aquele jogador pega as cartas utilizadas no desafio e 
+as coloca em sua frente, mas não em sua mão. A partir de agora essas cartas são consideradas pontos. 
+No caso de empatar, os jogadores que empataram recolhem apenas a carta que utilizaram neste desafio 
+como ponto, as demais se mantêm no centro da mesa, como pontuação bônus para o próximo desafio. 
+Ao acabar as cartas da mão de todos os jogadores, quem tiver mais pontos na sua frente será o vencedor. 
+Qualquer carta ainda no centro da mesa, proveniente d o empate do último desafio, não pertence a 
+nenhum jogador. A mecânica do empate serve para criar momento s de maior empolgação dentro do 
+jogo. Apesar de ser um jogo sério significativo não se deve descuidar a dimensão de entretimento do jogo 
+4.5 Gamificação em INL Projetos 
+O INL projetos é um jogo de mesa, do tipo cartas, sério significativo, feito de forma a atrair de forma 
+sutil os jovens para o mundo da nanociência, de forma que não pareça que estão a fazer um dever, ou 
+que qualquer ideia que porventura possam ter de seguir por esse caminho sejam consideradas 
+espontâneas. No que tange aos núcleos e t écnicas de gamificação utilizadas, após análise chegamos à 
+conclusão de que o INL Projetos ativa quatro dos núcleos descritos no capítulo 2. Os quatros núcleos 
+são os seguintes: 
+O primeiro núcleo, Significado Épico & Chamamento, é bem forte devido ao tema do jogo. A 
+nanociência em geral visa resolver grandes problemas da humanidade. A técnica do herói da humanidade 
+está ativa e é reforçada consideravelmente quando o usuário escolhe acessar aos QR codes. 
+O terceiro núcleo, Fortalecimento da Criatividade & Feedb ack, também é visível nas mecânicas do 
+jogo. Ao poder gastar seu turno alterando um dos marcadores, o usuário muda o poder de suas próprias 
+cartas, e não apenas se baseia na sorte de receber as melhores cartas de início. Ambas as técnicas de 
+Percepção de Escolha e Escolhas Significativas estão sendo utilizadas.  
+O quinto núcleo, Influência Social & Relacionamento, está presente como em qualquer jogo que 
+precise de um grupo para jogar. A principal técnica utilizada é a Prateleira de Troféus. Neste caso, se 
+trata da pontuação parcial do jogo, que é representada pelas cartas adquiridas que vão se acumulando 
+aos olhos dos demais jogadores.  
+O sétimo núcleo, Imprevisibilidade & Curiosidade, também se impõe. Os QR codes em cada carta, 
+junto com imagens cuidadosamente selecionadas, ativam a curiosidade do usuário, levando os mesmos, 
+devido à técnica da Escolha Brilhante, a acessar ao conteúdo do QR Code, que como dito acima 
+
+77 
+ 
+potencializa a técnica Herói da Humanidade. Já os demais núcleos e suas técnicas não são utilizados no 
+INL Projetos.  
+A seguir na figura 40 podemos ver uma representação gráfica da análise feita acima, feita através 
+da ferramenta Octalysis Tool ( https://yukaichou.com/octalysis-tool/), que assoc ia cada lado de um 
+hexágono a um dos núcleos da Octalysis e cuja respectiva mancha azul se torna mais proeminente de 
+acordo com a quantidade de técnicas de cada um dos núcleos que foram utilizadas, e a importância de 
+cada núcleo para o INL Projetos. 
+ 
+Figura 40: A gamificação em INL projetos. 
+ 
+ 
+Fonte: Octalysis Tools 
+ 
+ 
+
+
+78 
+ 
+4.6 INL Projetos Online 
+Além da versão física do jogo INL Projetos, também foi desenvolvida uma versão online. Foram dois 
+os principais motivos para essa versão existir: 
+• O jogo será apresentado para jovens após visitas escolares no INL, o que torna o tempo de 
+exposição ao mesmo relativamente curto. A  versão online visa aumentar esse tempo de 
+exposição, aumentando assim as chances de sucesso do projeto de comunicar a ciência. 
+• Quando imaginamos o jogo pela primeira vez, o INL Projetos seria um aplicativo próprio 
+100% digital para Android. No entanto, o custo para realizar tal ideia, que incluiria muito 
+mais artes e um servidor para partidas online, estava além do orçamento. C omo designer 
+nos desafiamos a procurar por alternativas condizentes com o orçamento. 
+ 
+4.6.1 Tabletopia 
+O Tabletopia é um site onde os usuários podem se reunir e jogar jogos de mesa virtuais. Inicialmente 
+lançado como um serviço baseado em navegador web após uma campanha de financiamento coletivo 
+em agosto de 2015, este site expandiu -se posteriormente para diversas plataformas como Ste am, 
+AppStore e Google Play. 
+O Tabletopia é um sistema sandbox para rodar qualquer jogo de mesa.  A plataforma tem algumas 
+ações automatizadas disponíveis tais como embaralhamento e distribuição de cartas, lançamento de 
+dados, colocação magnética de componentes em zonas especiais, gerenciamento de mãos entre outras. 
+Também é possível aos desenvolvedores dos jogos, fazer vários setups diferentes de acordo com o 
+número de jogadores para facilitar o jogo. Além disso, os usuários podem salvar as posições da câmera 
+que mais lhes agradam e alternar entre elas usando teclas de atalho. No entanto, a Tabletopia não possui 
+qualquer inteligência artificial ou ferramentas que apliquem as regras. Os jogadores participantes deverão 
+saber como jogar, e os livros de regras estão disponíveis para a leitura durante as partidas. 
+Para criar a versão online do INL Projetos foram utilizadas as mesmas imagens da versão física  e 
+imagens já disponíveis dentro do Tabletopia. As únicas coisas extras que precisaram ser criadas para a 
+versão online foi um mapa magnético do tabuleiro . que faz com que os marcadores permaneçam em 
+seus lugares como se fossem metais atraídos por um ímã, como pode ser visto na figura 41, e um dado 
+com as cores disponíveis para os jogadores para ajudar a definir o jogador inicial, como na figura 42. 
+
+79 
+ 
+Figura 41: Tabuleiro com mapa magnético para versão Online do jogo INL Projetos 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+
+
+80 
+ 
+Figura 42: Dado do jogo INL Projetos para a versão Online 
+ 
+ 
+ Fonte: Arquivo pessoal 
+ 
+O dado é uma imagem relativamente simples, feita com base num modelo  disponibilizado pelo 
+próprio Tabletopia. Durante o jogo, o programa transforma essa imagem em um modelo 3d. Já o tabuleiro 
+precisou do mapa magnético do mesmo, que nada mais é que uma imagem do mesmo tamanho da do 
+tabuleiro original, mas com áreas em verde claro . Dentro do programa estas áreas atraem os 
+componentes selecionados na criação do tabuleiro para si, como ímãs atrairiam o metal. Isso serve para 
+que os componentes não deixem acidentalmente seus locais durante uma partida. 
+As cartas foram criadas como um único objeto chamado maço de cartas, que não só faz com que 
+seja necessário fazer o upload da imagem do verso da carta apenas uma vez como permite adicionar a 
+função random, fazendo com que no início de cada partida a ordem das cartas do maço de cartas seja 
+aleatória. Dentro do Tabletopia não é possível de criar um g rupo de marcadores como é possível criar 
+um grupo de cartas. Por isso, o s marcadores tiveram que ser feitos um por um . Após criar todos os 
+marcadores, se juntou os marcadores de prioridade em um grupo e se acrescentou a função random 
+assim como no maço de cartas, conforme pode ser visto na figura 43 . Assim no início da partida suas 
+posições no tabuleiro também serão definidas de forma aleatória.  
+ 
+
+
+81 
+ 
+Figura 43: Marcadores de prioridade do jogo INL Projetos para a versão Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+Na figura 44 podemos ver as imagens utilizadas que servem para criar o céu e a mesa durante uma 
+partida, ambas disponibilizadas gratuitamente dentro do Tabletopia.  
+  
+Figura 44: Imagens do céu e de uma mesa usados para criar o cenário no jogo INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+
+
+82 
+ 
+Para se criar um jogo no Tabletopia, não se trata apenas de criar os objetos, é necessário pré-moldar 
+a sala do jogo. Isso se faz abrindo os objetos criados na sala e os posicionando conforme as regras do 
+jogo. Nessa parte do desenvolvimento também é possível determinar o que os jogadores poderão mexer 
+ou não. No caso do INL Projetos, o tabuleiro é o único componente que começa a partida imóvel. Como 
+podemos ver na figura 4 5, os marcadores de prioridade e o maço de cartas estão com o símbolo da 
+função random, indicando que a mesma está ativa e irá aleatoriamente definir a posição d as cartas e 
+dos marcadores no início de cada partida.  
+ 
+Figura 45: Preparação do jogo INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+A principal vantagem de se criar um jogo de mesa online em um portal como o Tabletopia ou similar 
+é o baixo, quando nenhum, custo de produção. Uma vez que já se tenha feito as imagens, colocá -las 
+online requer apenas alguns cliques. Se mais tarde resolver alterar alguma coisa, continua com a mesma 
+facilidade, e nenhuma matéria-prima é desperdiçada. O mapa magnético do tabuleiro, que atrai as peças 
+para o seu devido lugar também é bem útil. Outra vantagem notória é a facilidade de jogar com pessoas 
+que podem até mesmo estar em outros países , apenas criando uma sala e compartilh ando o link da 
+mesma.  
+ 
+ 
+
+
+83 
+ 
+4.6.2 Criando uma sala 
+Para possibilitar isso aos visitantes do INL, será distribuído, ou pelo menos disponibilizado para 
+ser fotografado, um cartão com o QR code do jogo no Tabletopia, como o da figura 4 2, assim como 
+instruções de como criar uma sala virtual do jogo.  
+ 
+Figura 46: QR Code para INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+Após escanear o QR Code, o usuário será transferido para a tela mostrada na Figura 4 7. Lá 
+haverá a opção de selecionar um nome e imagem para jogar como visitante, ou criar uma conta utilizando 
+seu perfil do facebook, google, twitter ou Steam.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+84 
+ 
+Figura 47: Escolhendo nome e avatar no INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+ 
+ Independentemente da escolha, o usuário vai para o hall da sala, figura 4 8, onde ele tem a 
+opção de definir o número de assentos e de compartilhar o link para a sala. Após todos os joga dores 
+terem acessado a sala, todos devem clicar em iniciar para que o jogo comece. 
+ 
+Figura 48: Determinando número de jogadores e enviando convites no INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+
+
+85 
+ 
+Após o jogo iniciar, qualquer jogador pode mover o cursor do mouse até ao baralho e clicar com 
+o botão direito para abrir um menu de opções, conforme figura 4 9. O jogador deve optar pela opção 
+“deal” que dará o mesmo número de cartas para todos os jogadores.  
+ 
+Figura 49: Distribuindo as cartas no INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+Uma vez com as cartas na mão, conforme figura 50, o jogo pode ser iniciado pelo jogador cuja 
+cor for sorteada no dado.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+86 
+ 
+Figura 50: Iniciando a partida no INL Projetos Online 
+ 
+ 
+Fonte: Arquivo pessoal 
+Conforme apresentado na figura 51, para escolher uma carta durante um desafio o jogador deve 
+apertar a tecla “F” com o cursor do mouse em cima da carta. Assim quando, a mesma for colocada na 
+mesa, os demais jogadores ainda desconhecerão seus dados. Após colocar uma carta na mesa, cada 
+jogador só terá de apertar “F” outra vez com o cursor em cima da carta para que elas se revelem e os 
+jogadores possam comparar os seus dados. 
+Figura 51: Selecionando a carta secretamente no INL Projetos Online 
+ 
+Fonte: Arquivo pessoal 
+
+
+87 
+ 
+4.7 Análise, limitações e desenvolvimento subsequente 
+O jogo INL Projetos não correu conforme o esperado. Com o advento d a COVID-19 e suas 
+consequências, não foi possível realizar qualquer teste em escolas. Durante algum tempo, até o contato 
+com o INL foi perdido, sendo restaurado alguns meses mais tarde. 
+Algumas tentativas de testes foram realizadas com a comunidade de game designers brasileiros, 
+porém as cartas ainda estavam em desenvolvimento, o que converteu os testes mais em uma sessão de 
+brainstorming do que um teste em si. Porém importa referir que o jogo INL Projetos é baseado em um 
+modelo de jogo há mais de quarenta anos no mercado. Não há, pois, motivos para não acreditar que 
+possa ser implementado perante o público-alvo. 
+Apesar de acreditar no sucesso do projeto, não quer dizer que não há margem para melhorias. Após 
+analisar o INL Projetos parece-nos que é possível pensar nas seguintes melhorias: 
+• Ícones: No projeto inteiro são usados apenas 7 ícones além das categorias de pesquisa do 
+INL. Por não ter habilidade artísticas utilizei ícones disponibilizados gratuitamente na internet 
+pelo site Game Icons ( https://game-icons.net/). No entanto , não sou o único a utilizar os 
+ícones desse site. Potencialmente alguém pode ver um dos ícones do jogo em um outro jogo 
+e ficar com má impressão. 
+•  Borda: Tanto as bordas das cartas como do tabuleiro são simplistas ; com um designer 
+gráfico seria possível fazer um repensar a estética dessas bordas. para as mesmas. 
+• Imagens de Fundo: Muitos projetos não ganharam cartas por não ter qualquer imagem 
+utilizável em seu site. Alguns dos que ganharam, também poderiam ter imagens ainda mais 
+apelativas. 
+• Número de Cientistas: Os projetos normalmente envolvem múltiplas instituições, o que 
+dificulta obter o número real de cientistas que trabalham nele. No entanto , se a categoria 
+mudar para cientista do INL , em vez dos cientistas de t odas as instituições envolvidas,  
+poderíamos obter um número real mesmo que com menor variação.  
+• QR Codes: Foi utilizado no projeto um QR Code estático, que nada mais é que um link 
+disfarçado numa imagem. Se houvesse um orçamento para o projeto seria possível usar QR 
+Codes dinâmicos que mantém dados de quantas vezes foi acessado, o que resultaria num 
+melhor feedback do projeto. 
+• Sites: Grande parte dos sites tem como único idioma o inglês. Com o suporte do INL e de 
+seus cientistas seria possível criar uma pág ina para cada projeto exclusiva para o jogo INL 
+Projetos, com suporte a múltiplos idiomas. De tal forma não só aumentaria potencialmente 
+
+88 
+ 
+a capacidade de comunicar ciência, como o tornaria um belo candidato a prêmios no meio 
+dos jogos de tabuleiro. 
+• Categorias de Pesquisa: Uma vez que quem classificou os projetos foi um leigo, é  possível 
+que haja algum erro. Seria bom que algum cientista validasse as categorias de pesquisa de 
+cada carta, e talvez limitar ao máximo de duas categorias por carta. 
+• Tempo: Tempo ap resentou uma variação de valores consideravelmente pequena. Talvez 
+substituir por algum dado que não esteja presente no site do INL. 
+• Instituições Financeiras: Dependendo da opinião do INL , seria possível acrescentar o ícone 
+das instituições que financiaram  cada projeto em algum canto da carta , como forma de 
+homenagear as mesmas, sem qualquer peso mecânico no jogo. 
+•  Versão Online: Após entrar em contato com a administração do site tabletopia, vários 
+benefícios normalmente pagos foram oferecidos de forma grat uita por se tratar de um jogo 
+que visa comunicar a ciência . No entanto, para sair da versão demo e ser um jogo que 
+qualquer pessoa possa encontrar ao procurar no site , é requerido um modelo 3d da caixa 
+do jogo. 
+Se for do interesse do INL prosseguir com o projeto, seria possível levá-lo adiante como parte de 
+uma tese de doutorado. Além de buscar corrigir as limitações listadas acima, novas cartas surgiriam com 
+os novos projetos, e eventualmente pode haver mudanças nas categorias de pesquisa que resultariam 
+em uma total reclassificação das cartas. Haveria margem para francas melhorias do jogo se houvesse 
+alguma forma de suportar os custos referentes à compra de alguns serviços como, por exemplo, os QR 
+Codes dinâmicos, que são essenciais para a obtenção dos dad os. De qualquer forma deixo anexado a 
+essa tese a versão atual do jogo para a quem interessar possa.  
+  
+
+89 
+ 
+5 Considerações Finais 
+A gamificação, a ssim como descreveu Chou (201 5), é uma forma de design que tira o foco da 
+produtividade para pensar no ser humano que está ali. E apesar de não ter nascido em domínio digital, 
+foi enaltecida por ele, e dificilmente seria o que é hoje de outra forma. Assim sendo, não consigo pensar 
+em outro assunto que, a meu ver e metaforicamente falando, abrace tanto as Humanidades Digitais 
+como a gamificação. 
+Grande parte dos exemplos usados nes te trabalho vieram do domínio digital, mas é importante 
+lembrar que isso não é a única forma de aplicar a gamificação. Várias empresas  costumam promover 
+eventos esportivos para motivar seus funcionários, o que pode ser visto como uma gamificação por 
+esportes. E apesar de em muito meno r número se comparado aos digitais, existem vários jogos de 
+tabuleiro sérios, tanto educativos como significativos.  
+A gamificação tem se mostrad o extremamente benéfica, mas é importante ter em mente que nem 
+tudo são flores . Como listado por Chou (201 5), há técnicas de gamificação de ética questionável que 
+são usadas para promover comportamentos obsessivos nos usuários . Isso é um problema bem real , 
+pode resultar em comportamento agressivo. Jogos e projetos gamificados que utilizam tais meios devem 
+ser evitados. Ainda mais que g eralmente essas técnicas são usadas para conseguir arrancar dinheiro 
+dos usuários. 
+FoldIt é um excelente modelo de sucesso da gamificação e da ciência aberta , que p ermite que 
+qualquer pessoa interessada possa tentar contribuir par a pesquisas de suma importância para a 
+humanidade através de um jogo digital. Seu sucesso além de inspirador é um ponto importante para a 
+humanidade pois evidencia habilidades inerentes aos seres humanos que computador algum, até o 
+presente momento, é capaz de ter.  
+Apesar de usarmos o domínio da ciência nes te trabalho, qualquer área pode ser beneficiada pela 
+gamificação. No entanto, criar uma ferramenta gamificada pode não ser tão simples . Segundo Adams 
+(2013), fazer o design de um jogo requer tanto talento quanto habilidade. O talento pode ser inato, mas 
+a habilidade é aprendida e desenvolvida. De todas as habilidades listadas por Adams (2013), habilidade 
+de desenho é a única cuja qual nunc a desenvolvi. Mesmo após fazer um curso profissionalizante de 
+Game Designer no Senac em 2014 e me dedicar bastante a área.  
+ Há muitas variáveis a considerar  no desenvolvimento de um jogo: t empo, complexidade, custos, 
+entre outras. Para o INL Projetos, a  ideia inicial era um jogo mais complexo, porém como pedido pelo 
+
+90 
+ 
+próprio INL foi ficando cada vez mais simplificado. Inspirado em T op Trumps, um jogo de cartas já 
+famoso por suas propriedades educativas. Junto com a aplicação de algumas mecânicas mais modernas, 
+além da mudança temática para os projetos do INL, o jogo foi idealizado rapidamente. Mas ter uma ideia 
+e meios para a concretizar são coisas bem diferentes. Analisar todos os mais de cem projetos do INL e 
+filtrar aqueles que poderiam entrar no jogo por possuir todos os requisitos foi algo trabalhoso mas 
+também muitíssimo desafiante.  
+Após grande dedicação, m e dou por satisfeito com o resultado do INL Projetos. Apesar de não ter 
+procedido a algumas implementações interessantes, como o uso de QR Codes dinâmicos e o 
+desenvolvimento de um aplicativo próprio para o jogo, julgo ter conseguido manter um design aceitável. 
+Além disso, como jogo sério  significativo, o projeto cumpre bem o seu papel na parte de comunicar a 
+ciência, de forma subtil e sem prejudicar a diversão dos usuários, como recomendado por Chou (2015). 
+O jogo  pode ser facilmente atualizado e aprimorado , de acordo com o interesse do I NL. Seja  
+acrescentando novas cartas relativas aos novos projetos do INL conforme eles forem surgindo , seja 
+melhorando o design das cartas ou qualquer outra melhoria que desejem implementar. 
+No âmbito da apresentação do projeto PortLinguE em encontros científicos, o INL Projetos já foi 
+apresentado no Encontro Ciência 21 que ocorreu no Centro de Congressos de Lisboa entre dia 28 e 30 
+de junho de 2021 e no seminário Transição Digital como pilar do desenvolvimento no Século XXI que 
+teve lugar no IPCA no dia 23 de julho de 2021, onde participaram remotamente mais de 200 professores 
+de várias áreas disciplinares e vários níveis de ensino. 
+Neste trabalho buscamos dar grande foco a parte teórica. Por acreditar que é importante entender 
+o que se quer f azer, antes de tentar fazer. Por isso listamos conceitos, técnicas, exemplificando ao 
+extremo a teoria da gamificação . Mas saber a teoria não é o suficiente para conseguir fazer uma boa 
+gamificação. Assim como ser um bom pintor ou escritor, ser um bom designer de projetos gamificados 
+requer dedicação, prática, e algum talento. Pois assim como pintar e escrever, a boa gamificação é uma 
+arte. 
+  
+
+91 
+ 
+Referências bibliográficas 
+Adams, E. (2013). 
+Fundamentals of Game Design, Third Edition
+. New Riders. 
+Bell, R. (1979). 
+The Boardgame Book
+. The Knapp Press 
+Bertuncello, J., & Bortoleto, E. (2017). CURIOSIDADE E PRAZER DE APRENDER O papel da curiosidade 
+na aprendizagem criativa. Criar Educação, 6(2). doi: 10.18616/ce.v6i2.2570 
+Benjamin, W. (2009). 
+Reflexões sobre a crianç
+a
+, o brinquedo e a educac
+̧
+ão
+. Editora 34 
+Blanchard, K. (1995). 
+The anthropology of sport
+. Westport, Conn. [etc.]: Bergin & Garvey. 
+Briggs. C. (2009). Blendtec Will it Blend? Viral Video Case Study. Online Retrivied: 16 de janeiro de 2021 
+from: http://www.socialens.com/wp-content/uploads/2009/04/20090127_case_blendtec11.pdf  
+Chou, Y. (2015). 
+Actionable gamification
+. Milpitas, CA: Octalysis Media. 
+Coonradt, C., & Nelson, L. (1984). 
+El trabajo como deporte
+. México: Trillas. 
+Cooper, S., Khatib, F., Treuille, A., Barbero, J., Lee, J., & Beenen, M. et al. (2010). Predicting protein 
+structures with a multiplayer online game. 
+Nature
+, 
+466
+(7307), 756-760. doi: 10.1038/nature09304 
+Cramer, Y. (2021). Korea’s Emart revives sundia l in the age of QR codes. Retrieved 16 January 2021, 
+from https://innovtoday.wordpress.com/2012/10/23/koreas -emart-revives-sundial-in-the-age-of-qr-
+codes/ 
+Crowther, N. (2010). 
+Sport in ancient times
+. Norman: University of Oklahoma Press. 
+Delicado, A., Estevens, J., e Rowland, J. (2020) A comunicação de ciência vista pelos cidadãos. Retrieved 
+16 January 2021, from https://www.publico.pt/2020/11/29/ciencia/noticia/comunicacao -ciencia-
+vista-cidadaos-1940682/amp 
+Elliot, J., & Simon, W. (2010). 
+The Steve Jobs Way
+. New York: Vanguard Press. 
+E-sports Stadium. (2021). Retrieved 16 January 2021, from 
+https://www.productionhub.com/galleries/details/16384 
+FAB aciona novo simulador de voo do C -105 Amazonas. (2021). Retrieved 16 January 2021, from 
+https://www.airway.com.br/fab-aciona-novo-simulador-de-voo-do-c-105-amazonas/ 
+Gwinnell, A. (2012). Dysbiosis [Video]. Retrieved  21 July 2021,  from 
+https://www.youtube.com/embed/IVMd1uQsumI?feature=oembed 
+Herger, M. (2014). 
+Enterprise gamification
+. CreateSpace Independent Publishing Platform 
+International Iberian Nanotechnology Laboratory – INL – – Interdisciplinary research in Nanotechnology 
+and Nanoscience. (2021). Retrieved 17 June 2021, from https://inl.int 
+
+92 
+ 
+Kahneman, D. (2013). 
+Thinking, fast and slow
+. Farrar, Straus and Giroux 
+Kalogiannakis, M., Papadakis, S., & Zourmpakis, A. (2021). Gamification in Science Education. A 
+Systematic Review of the Literature. Education Sciences, 11(1), 22. doi: 10.3390/educsci11010022 
+KeSPA. (2013). 
+"History of Korea e-Sports Association 1999–2004
+. 
+Mannara, B. (2017) . Heartbit - Pontos por exercícios Retrieved 16 January 2021, from 
+https://www.techtudo.com.br/tudo-sobre/mova-mais.html 
+Marczewski, A. (2018). 
+Even Ninja Monkeys Like to Play
+. [S. l.: Independently published]. 
+Marie, M. (2016) 
+20 years of Tomb Raider
+. Prima Games 
+Mattinen, H. (2011) . Finnish library uses games to crowdsource indexing - Springwise. Retrieved 16 
+January 2021, from https://www.springwise.com/digitalkoot/ 
+Mestra, I (2017). QUERO COMUNICAR A MINHA INVESTI GAÇÃO. MAS ALGUÉM ME EXPLICA COMO?. 
+CBMR Scienceplatform. Retrieved 30 de July 2021 from 
+http://scienceplatformpt.cbmr.ualg.pt/index.php/2017/10/10/comunicarinvestigacao/ 
+Mestra, I (2018). 6 RAZÕES PARA COMUNICAR CIÊNCIA. CBMR Scienceplatform. Retrieved 30 de July 
+2021 from 
+http://scienceplatformpt.cbmr.ualg.pt/index.php/2018/12/13/6razoesparacomunicarciencia/ 
+Monopoly Chocolate Edition Board Game Candies - Unique Candy Tasting. (2013). Retrieved 16 January 
+2021, from https://www.youtube.com/watch?v=FAPJDh2SaAo 
+Norton, M., Mochon, D., & Ariely, D. (2011). 
+The "IKEA effect"
+. [Boston]: Harvard Business School. 
+Owen, H. (2017) . Early Flight Simulators – A History of Simulation. Retrieved 16 Jan uary 2021, from 
+https://www.historyofsimulation.com/early-flight-simulators-2/ 
+Piore, A. (2013). 
+Why We Keep Playing the Lottery
+. Nautil.us. 
+Popper, B. (2013) . Field of streams: how Twitch made video games a spectator sport. Retrieved 16 
+January 2021, from https://www.theverge.com/2013/9/30/4719766/twitch-raises-20-million-esports-
+market-booming 
+Rice, H; Blades, R; Gibb, J. (2011) . Evaluation of the National 2011 Schools Top Trumps Tournament. 
+London. National Children‟s Bureau. 
+Salgado, P., Bruno, J., Paiva, M., & Pita, X. (2015).. A ILUSTRAÇÃO CIENTÍFICA COMO FERRAMENTA 
+EDUCATIVA.  XV Encontro Nacional De Educação Em Ciências, 11(39), 381-392. doi: 
+10.25755/INT.8745 
+ 
+Schell, J. (2014). 
+The art of game design
+. USA: Schell Games. 
+
+93 
+ 
+Shannon number . (2021). Retrieved 16 January 2021, from 
+https://en.wikipedia.org/wiki/Shannon_number 
+Simon, S. (20 10). The Secret to Turning Consumers Green. Retrieved 16 January 2021, from 
+https://www.wsj.com/articles/SB10001424052748704575304575296243891721972 
+The Sci ence Behind Foldit | Foldit. (2021). Retrieved 16 January 2021, from 
+https://fold.it/portal/info/about 
+The von Reisswitz Kriegsspiel: The Prussian Army Wargame. ( 1824). Retrieved 16 January 2021, from 
+https://boardgamegeek.com/boardgame/16957/von-reisswitz-kriegsspiel-prussian-army-wargame 
+Wansink, B. (2006). 
+Mindless eating
+. New York, N.Y.: Bantam Books. 
+Williams, A. (2017). History of Digital Games: Developments in Art, Design and Interaction CRC Press. 
+Williams, R., Connolly, D., Wood, R., & Nowatzki, N. (2006). Gambling and problem gambling in a sample 
+of university students. 
+Journal Of Gambling Issues
+, (16). doi: 10.4309/jgi.2006.16.19 
+Worchel, S., Lee, J., & Adewole, A. (1975). Effects of supply and demand on ratings of object 
+value. 
+Journal Of Personality And Social Psychology
+, 
+32
+(5), 906 -914. doi: 10.1037/0022 -
+3514.32.5.906 
+Zajonc, R. (1968). Attitudinal effects of mere exposure. 
+Journal Of Personality And Social Psychology
+, 
+9
+(2, 
+Pt.2), 1-27. doi: 10.1037/h0025848  
+
+94 
+ 
+Códice de Sites e Softwares 
+• Amazon (https://www.amazon.com/) 
+• Battlezone (https://www.retrogames.cz/play_110-DOS.php) 
+• Catarse (https://www.catarse.me/) 
+• Classcraft (https://www.classcraft.com/) 
+• Dropbox (https://www.dropbox.com/) 
+• Duolingo (https://pt.duolingo.com/) 
+• Facebook (https://www.facebook.com/) 
+• FoldIt (https://fold.it/) 
+• Freerice (https://freerice.com/) 
+• Google Search (https://www.google.com) 
+• Groupon (https://www.groupon.com/) 
+• Heartbit 
+(https://play.google.com/store/apps/details?id=com.movamais.app&hl=pt_PT&gl=US) 
+• Instagram (https://www.instagram.com/) 
+• Kickstarter (https://www.kickstarter.com/) 
+• Kiva (https://www.kiva.org) 
+• LinkedIn (https://www.linkedin.com/) 
+• Netflix (https://www.netflix.com/) 
+• Pong (https://www.ponggame.org/) 
+• PortlinguE (http://ceh.ilch.uminho.pt/portlingue/) 
+• Starcraft (https://eu.shop.battle.net/pt-br/product/starcraft) 
+• Starcraft 2 (https://eu.shop.battle.net/pt-br/product/starcraft-ii) 
+• Tabletopia (https://tabletopia.com/ ) 
+• Tomb Raider (https://store.steampowered.com/sale/tomb-raider/) 
+• Twitter (https://twitter.com/) 
+• Tynker (https://www.tynker.com) 
+• Warcraft 3 (https://eu.shop.battle.net/pt-br/product/warcraft-iii-reforged) 
+• Waze (https://www.waze.com/pt-PT/apps) 
+ 
+
+Anexo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2-6 jogadores 8+ anos 30 min
+    INL Projetos é um jogo educativo desenvolvido no âmbito da disserta-
+ção de mestrado em Humanidades Digitais da Universidade do Minho 
+por Pedro Villanova Gomes de Almeida.
+    Foi nossa intenção criar um jogo divertido que pudesse ser jogado em 
+20 min. Para tal, foi usado como inspirações os núcleos de pesquisa do 
+INL assim como os dados de seus projetos.
+    Apesar da simplicidade, o jogo é bem estratégico. Foi disponibilizada 
+gratuitamente na platorforma Tabletopia uma versão online.
+    Todas as imagens utilizadas nesse jogo foram cedidas para uso não 
+comercial pelo INL e pelo site Game Icons (https://game-icons.net). 
+1- Acesse o link escaneando o QR Code.
+2-Faça o Login utilizando sua conta do Google, 
+Steam ou Facebook.
+3- Ao criar a sala, adicione assentos para todos
+4- Compartilhe o link da sala com seus amigos
+5- Se divirta
+Jogue online gratuitamente
+Manual de Regras
+Pedro Villanova Gomes de Almeida
+
+
+    Cada jogador pode no seu turno pode realizar umas das três ações:
+- Alterar um Protocolo
+    O jogador escolhe o marcador de Protocolo de uma das 4 categorias (Ins-
+tituições, Tempo, Cientistas e Orçamento) e o vira para o lado oposto. 
+Dessa forma alterando o vencedor dos próximos Desafios daquela catego-
+ria. Uma vez alterado um protocolo de uma categoria, ele não pode ser 
+alterado outra vez até que retorne a vez do jogador que a alterou.   
+    Durante um Desafio, os jogadores que empataram ao selecionar a carta 
+com o maior/menor da Categoria ou de Prioridade dividem as cartas do 
+desafio igualmente e aleatoriamente. Qualquer carta que sobre fica de bônus 
+para o próximo desafio.
+    Após todos os jogadores ficarem sem cartas, cada jogador conta o número 
+de cartas presentes em sua área de pontuação. O jogador com a maior quanti-
+dade de Cartas vence. Em caso de empate, vence o jogador que tiver o maior 
+total de Prioridade, que equivale as Prioridades somadas de todas as suas 
+cartas da área de Pontuação.
+Fim do Jogo:
+Empates
+    - Defenir Prioridade de Pesquisa
+    O jogador escolhe o marcador de Prioridade de um dos Núcleos de 
+Pesquisa (Saúde, Ambiente, Energia, Comida e Tecnologia da Informação)  
+e o move para a frente da fila (casa mais a esquerda que vale 5 Pontos). 
+Todos os outros marcadores que estavam na frente dele na fila andam uma 
+casa para a direita, diminuindo assim a Prioridade de Pesquisa desses 
+Núcleos em 1 ponto. 
+    - Desafio
+    O jogador escolhe uma das Categorias ou Prioridade de Pesquisa. No 
+caso do jogador escolher umas das Categorias,  os jogadores devem esco -
+lher secretamente uma de suas cartas e todos devem revelá-las ao mesmo 
+tempo. Então se comparam os valores e de acordo com o Protocolo daquela 
+Categoria e o jogador que tiver selecionado a carta com maior (
+>
+) ou 
+menor (
+<
+) valor na categoria vence e recolhe todas as cartas do desafio 
+para sua área de pontuação. Estas cartas não devem se misturar com as 
+carta restantes da mão. 
+    No caso de um desafio de Prioridade de Pesquisa a única diferença é que 
+ao revelar as cartas deve se averiguar qual tem maior Prioridade. Isso se faz 
+somando a pontuação individual de cada Núcleo de Pesquisa presente em 
+cada carta. Por fim, a carta com maior (nunca menor) Prioridade vence o 
+Desafio e recolhe as cartas para sua área de pontuação. 
+Conteúdo da Caixa:
+    1- Defina aleatoriamente a ordem inicial na fila de Prioridade de Pesquisa.
+    2- Coloque todos os marcadores de Protocolos no lado 
+>
+.
+    3- Distribua as cartas igualmente entre os jogadores, guarde na caixa. 
+    4- Defina aleatoriamente quem será o 1º Jogador.
+Preparação:
+Turno
+    - 30 Cartas;
+    - 1 Tabuleiro
+    - 5 Marcadores de Prioridade;
+    - 4 Marcadores de Protocolo;
+    
+    Cada jogador no seu turno pode realizar umas das três ações:
+- Alterar um Protocolo
+    O jogador escolhe o marcador de Protocolo de uma das 4 categorias (Ins-
+tituições, Tempo, Cientistas e Orçamento) e o vira para o lado oposto. 
+Dessa forma alterando o vencedor dos próximos Desafios daquela catego-
+ria. Uma vez alterado o protocolo de uma categoria, ele não pode ser altera-
+do outra vez até que retorne a vez do jogador que a alterou.   
+2
+1
+3
+4
+1º Jogador

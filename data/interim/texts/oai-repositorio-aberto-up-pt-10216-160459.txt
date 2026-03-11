@@ -1,0 +1,3735 @@
+Mestrado em Multimédia 
+Especialização em Cultura e Artes 
+ 
+Realidade Aumentada, Passado - Presente - Futuro: 
+Um Projeto de Humanidades Digitais em Valongo 
+ 
+Roberta Azevedo Rodrigues 
+M 
+2024 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculdades Participantes: 
+ 
+Faculdade de Engenharia 
+Faculdade de Belas Artes 
+Faculdade de Ciências 
+Faculdade de Economia 
+Faculdade de Letras 
+ 
+ 
+ 
+ 
+
+
+ ii 
+ 
+Roberta Azevedo Rodrigues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Realidade Aumentada, Passado - Presente - Futuro: 
+Um Projeto de Humanidades Digitais em Valongo 
+ 
+ 
+ 
+ 
+ 
+ 
+Dissertação realizada no âmbito do Mestrado em Multimédia, orientada pelo Professor 
+Doutor Luciano Moreira e pela Mestre Tânia Cerqueira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculdade de Engenharia do Porto 
+Ano 2024 
+ 
+
+ iii 
+Roberta Azevedo Rodrigues 
+ 
+ 
+ 
+Realidade Aumentada, Passado - Presente - Futuro: 
+Um Projeto de Humanidades Digitais em Valongo 
+ 
+ 
+Dissertação realizada no âmbito do Mestrado em Multimédia, orientada pelo Professor Doutor 
+Luciano José Moreira e pela Mestre Tânia Cerqueira. 
+     
+      
+Membros do Júri 
+Professor Doutor Bruno Sérgio Gonçalves Giesteira 
+Faculdade de Belas Artes - Universidade do Porto 
+      
+Professora Doutora Sílvia Lima Gonçalves Araújo  
+Universidade do Minho 
+      
+Professor Doutor Luciano José Santos Reis Moreira 
+Faculdade de Letras- Universidade do Porto 
+      
+Classificação obtida: (18) Valores  
+     
+    
+   
+ 
+ 
+
+ iv 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ao meu companheiro.  
+Ao meu filho.  
+À memória da minha mãe.  
+Ao meu pai.  
+ 
+
+ v 
+ÍNDICE 
+ÍNDICE DE FIGURAS ................................................................................................................................. vii 
+DECLARAÇÃO DE HONRA ........................................................................................................................ viii 
+AGRADECIMENTOS ………………………………………………………………..................................…………...….............. ix 
+RESUMO ................................................................................................................................................... x 
+ABSTRACT ................................................................................................................................................ xi 
+INTRODUÇÃO ......................................................................................................................................... xii 
+     Ciclos do Projeto …………………………………………………………......................................………………....…….… xiii 
+     Questão de Investigação ……………………………………………………………………....................................……… xiii  
+     Percurso Metodológico ……………………………………………………….....................................……………………. xiv 
+1. ESTADO DA ARTE ............................................................................................................................... 16 
+1.1. Humanidades Digitais …………………………………………………….…...................................................... 16 
+1.2. Realidade Aumentada ………………………….....................................………………….……….…….…………. 23 
+1.3. Identidades Utópicas ……………………………………………………………….......................................………. 29 
+2. PERCURSO METODOLÓGICO …………………………………………………………….............................................. 40 
+2.1. Contextualização …………………………………………………………………...........................................……… 40 
+2.2. Circuito Físico-Digital .................................................................................................................. 41 
+2.3. Abordagem ………………………………………………………….…………..........................................………….... 42 
+2.4. Estrutura e Ciclos da Pesquisa …………………………………………………………........................................ 45 
+2.5. Implementação dos Workshops ………………………………………………….………...................................  47 
+2.6. Questões Éticas .......................................................................................................................... 51 
+2.7. Procedimentos ........................................................................................................................... 52 
+3. RESULTADOS ………………………………………………….........................................................……………………… 56 
+4. DISCUSSÃO DOS RESULTADOS ………………………………………………………..............................................… 67 
+5. CONCLUSÕES ………………………………………………………………………........................................................... 70 
+REFERÊNCIAS …………………………………………………………………………............................................................. 72 
+
+ vi 
+ANEXOS ……………………………………………………………………………...............................................................…. 80 
+     
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ vii 
+ÍNDICE DE FIGURAS 
+Figura 1 - Mapa da Computação em Humanidades ................................................................................................ 18 
+Figura 2 - Representação do Continuum Realidade-Virtualidade (RV) ..................................................................... 24 
+Figura 3 - O Primeiro HMD......................................…………………………….………........................................................... 26 
+Figura 4 - Figura 4: A Ilha da Utopia....................................................................................………..……....................... 31 
+Figura 5 - Modelos de Participação Pública em Pesquisas Científicas ...................................................................... 44 
+Figura 6 - Fases da Pesquisa - Ciclo Participado e Não-Participado ………………...……….……........................................ 47 
+Figura 7 - Detalhamento dos Workshops realizados na Escola Secundária de Valongo ..........................…………..... 48 
+Figura 8 - Painel de Perfil de Mentes Utópicas Formado pelos Alunos …................................................................. 56 
+Figura 9 - Mapeamento de Lugares Bons e Lugares Utópicos .................………………....................................…..……. 57 
+Figura 10 - Figuras Utópicas a partir do Nome de Ruas ...............................................……………….....................…… 58 
+Figura 11 - Mapa Digital de Valores Utópicos .............................................……………...........................………………… 59 
+Figura 12 – Ressignificações de Lugares e Figuras Utópicas de Valongo ............……............................………………… 60 
+Figura 13 – Interpretações das Ressignificações no Artivive ..........................…………………………............................. 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ viii 
+DECLARAÇÃO DE HONRA 
+Declaro que a presente dissertação é de minha autoria e não foi utilizada previamente noutro 
+curso ou unidade curricular, desta ou de outra instituição. As referências a outros autores (afirmações, 
+ideias, pensamentos) respeitam escrupulosamente as regras da atribuição, e encontram -se 
+devidamente indicadas no texto e na lista final de referências, de acordo com as normas de 
+referenciação. Tenho consciência de que a prática de plágio e autoplágio constitui um ilícito acadêmico.  
+     
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Porto, 30 de junho de 2024. 
+Roberta Azevedo Rodrigues 
+
+ ix 
+AGRADECIMENTOS 
+A presente dissertação foi concebida junto com o meu tão esperado filho. Ela é símbolo de muito 
+trabalho, perseverança e dedicação. Para concluí-la, foi indispensável contar com pessoas especiais que 
+estiveram em meu caminho. A todos deixo o meu agradecimento, em particular: 
+- Ao meu esposo Bruno e ao meu filho Valentim, por ser meu combustível em todas as horas. 
+- À minha família e amigos, pelo incentivo constante. 
+- Aos professores e à equipe da FEUP, que não mediram esforços para eu permanecer no curso, mesmo 
+em uma gravidez delicada.  
+- Ao professor Doutor Luciano Moreira, meu orientador, a quem agradeço pela disponibilidade, 
+dedicação e clareza com que ministrou a orientação.    
+- À Mestre Tânia Cerqueira, minha coorientadora, pelas pertinentes sugestões, disponibilidade e  
+contribuições para este trabalho.      
+- À Escola Secundária de Valongo, em especial à coordenadora Helena Lobo, à professora Olga Almeida 
+e aos alunos do 10º ano. 
+- À Ana Helena Lobo, pela parceria e disponibilidade.   
+-  Aos moradores de Valongo que participaram do projeto.  
+A todos, o meu muito obrigada!  
+     
+    
+   
+ 
+ 
+ 
+ 
+
+ x 
+RESUMO 
+As humanidades digitais envolvem o estudo sistemático do registro da experiência humana através da 
+computação para fazer sentido ao passado e participar ativamente na discussão sobre o presente que 
+molda o nosso futuro. Inserido no projeto Valongo – Cidade Utópica do Projeto Utopia 500, este estudo 
+explora o uso da realidade aumentada para catalogar, preservar e divulgar memórias por meio de 
+narrativas. 
+Como uma pesquisa de caráter participado, adotou -se uma abordagem metodológica 
+interdisciplinar baseada nas Humanidades Cidadãs, investigando  valores, significados culturais e 
+profundidade dos fenômenos relacionado s à cultura local. Em parceria com a comunidade, 
+identificamos personagens e locais com perfis potencialmente utópicos. 
+Os resultados incluem a construção de uma narrativa baseada em memórias sob uma 
+perspectiva utópica, a facilitação de um diálogo intergeracional e a criação de um protótipo de circuito 
+físico-digital por meio da realidade aumentada, integrando passado, pre sente e futuro. Observou -se 
+também o potencial de expansão do projeto para outras regiões, explorando pontos fora do centro 
+histórico que possuem relevância significativa para o legado cultural de Valongo. 
+ 
+Palavras-chave: Humanidades digitais; mentes utópicas; realidade aumentada; humanidades 
+cidadãs; legado cultural. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ xi 
+ABSTRACT 
+Digital humanities involve the systematic study of the record of human experience through computing 
+to make sense of the past and actively participate in the discussion about t he present that shapes our 
+future. Inserted into the Valongo project - Utopian City of the Utopia 500 Project, this study explores 
+the use of augmented reality to catalog, preserve and disseminate memories through narratives. 
+As a participatory research, an interdisciplinary methodological approach based on Citizen 
+Humanities was adopted, investigating values, cultural meanings and depth of phenomena related to 
+local culture. In partnership with the community, we identified characters and places with potentially 
+utopian profiles. 
+The results include the construction of a narrative based on memories from a utopian 
+perspective, the facilitation of intergenerational dialogue, and the creation of a physical -digital circuit 
+prototype through augmented reality, integrating past, present and future. Additionally, the project 
+demonstrated the potential for expansion to other regions, exploring points outside the historic center 
+of Valongo that hold significant relevance to its cultural heritage. 
+ 
+Keywords: Digital humanities; utopian minds; augmented reality; citizen humanities; cultural 
+heritage. 
+ 
+ 
+ 
+
+ xii 
+INTRODUÇÃO 
+Este projeto insere-se no âmbito do mestrado em Multimédia com especialização em Cultura 
+e Arte e tem como propósito responder à principal questão de investigação: quais são os contributos 
+de um projeto de humanidades digitais participado para a ressignificação do legado imaterial por meio 
+das mentes utópicas utilizando realidade aumentada? Conjugando as áreas das humanidades digitais 
+e o sistema de realidade aumentada , buscamos  estabelecer uma narrativa a partir  das mentes 
+utópicas que moldaram o legado imaterial de Valongo.  
+Utilizando uma metodologia participat iva, que incluiu a participação da comunidade local, 
+entre alunos da Escola Secundária de Valongo, professoras, coordenadora, moradores e voluntários, 
+foram desenvolvidas diferentes ações, como pesquisa documental, pesquisa de campo, entrevistas e 
+atividades em sala de aula. O intuito foi mapear figuras utópicas que contribuíram para a construção 
+histórica de Valongo. Este material resultou em um dossiê (Anexo L ) que , posteriormente, foi 
+ressignificado através da realidade aumentada (Anexo T), utilizando o aplicativo Artivive, trazendo 
+suas principais figuras e locais para o presente. 
+Para narrar essa história, criamos um protótipo de circuito físico -digital que concentra seis 
+pontos potencialmente utópicos no Centro Histórico de Valongo. Este protótipo foi projetado através 
+do Google Earth e, em seguida, desenvolvemos uma identidade visual para estabelecer um mapa mais 
+lúdico e turístico. O circuito conta com o apoio do site circuitovalongo.wordpress.com, para guiar o 
+usuário de forma interativa. Através de áu dios e imagens em realidade aumentada, o circuito 
+apresenta Valongo por uma perspectiva utópica. O site foi desenvolvido na plataforma gratuita e de 
+código aberto WordPress e nele encontra-se um link para acessar o trajeto pelo Google Map. 
+Para nortear e fundamentar este projeto, utilizamos importantes autores que construíram o 
+estado da arte. Iniciamos com Liu (2013), McCarty (2003) e Dacos (2011) para explorar o potencial das 
+humanidades digitais na construção da identidade e as relações estabelecidas, além do papel de 
+democratização do acesso ao conhecimento proposto por Martin e Vacca (2018). Em relação à 
+tecnologia de realidade aumentada, abordamos estudos desde Sutherland (1968), pass ando por 
+
+ xiii 
+importantes esclarecimentos de Azuma (2001) até as perspectivas futuras apontadas por Kirner e Tori 
+(2006) e Lévy (2012). Na seção sobre identidades utópicas, acessamos à origem do termo cunhado 
+por Thomas More, embora Sargent (2010) tenha demonst rado que a ideia é muito mais antiga, 
+passando por análises do impacto da utopia na sociedade propostas por Vieira (2016) e Beauvoir 
+(1948). 
+ 
+Ciclos do Projeto 
+O projeto foi dividido em três ciclos distintos: o primeiro, de caráter teórico, consistiu na 
+definição do tema, identificação do problema e realização da pesquisa bibliográfica que resultou na 
+concepção do estado da arte.  
+O segundo ciclo caracterizou -se pelo aspecto participativo. Neste período, foram realizadas 
+ações como o recrutamento dos voluntários, o planejamento e desenvolvimento das atividades, e as 
+adaptações das estratégias de abordagens de acordo com as respostas dos participantes. As principais 
+ações deste ciclo incluíram o mapeamento das figuras e lugares utópicos de Valongo, a criação do 
+dossiê do projeto, as ressignificações, a elaboração do protótipo do circuito  físico-digital utilizando a 
+realidade aumentada e desenvolvimento do site do circuito.   
+O terceiro ciclo, de caráter não participativo, envolveu a análise dos resultados e a formulação 
+das conclusões. 
+ 
+Questão de Investigação 
+No primeiro ciclo, estruturamos o estado da arte utilizando d iversas fontes e autores para 
+criar uma base teórica sólida, essencial para  consolidar as áreas abordadas. Es ta base  teórica foi 
+fundamental para nos ajudar fundamentar e estabelecer a principal questão de investigação, que mais 
+adiante nos direcionou para o seguinte ponto:  
+Quais são os contributos de um projeto de humanidades digitais participado para a 
+ressignificação do legado imaterial por meio das mentes utópicas utilizando realidade aumentada?  
+
+ xiv 
+Percurso Metodológico 
+Considerando essencial a participação  da comunidade na construção do projeto, adotamos 
+uma metodologia interdisciplinar participativa que se baseia nas áreas das humanidades cidadãs e das 
+humanidades digitais. Segundo Jagosh et al. (2012), a  pesquisa participativa prioriza a coconstrução 
+do conhecimento por meio de parcerias entre pesquisadores e pessoas afetadas e/ou responsáveis 
+por ação sobre as questões em estudo. Para Heinisch et al. (2021), as humanidades cidadãs envolvem 
+a participação ativa de cidadãos não acadêmicos em projetos de pes quisa nas humanidades, 
+valorizando o aprendizado mútuo. As humanidades digitais, por sua vez, giram em torno da aplicação 
+das ferramentas e recursos digitais às humanidades. A interseção dessas áreas cria oportunidades 
+para a produção e disseminação do conhecimento.  
+Esta dissertação encontra-se estruturada em cinco capítulos. O capítulo um apresent a o 
+estado da arte, explorando inicialmente as humanidades digitais, através da importância do seu papel 
+na proteção e preservação do patrimônio cultural imaterial, além da difusão e  disseminação do 
+conhecimento. Em seguida, abordamos a realidade aumentada, analisando seu papel na construção 
+das narrativas que interagem ambientes reais e virtuais e como esse sistema pode transformar a 
+maneira como percebemo s e integramos as informações. Além disso, investigamos as mentes 
+utópicas, através de figuras e locais que ajudaram a construir o legado de Valongo. O segundo capítulo 
+apresenta o percurso metodológico, iniciando pela contextualização do projeto incluindo as áreas de 
+abrangência, as parcerias estabelecidas e a apresentação do local onde o projeto se desenvolveu, 
+Valongo. Em seguida, detalhamos o circuito físico -digital, justificando a escolha do aplicativo de 
+realidade aumentada, Artivive. Este capítulo dedica um espaço à abordagem da pesquisa, detalhando 
+os métodos utilizados e, na parte da estrutura e ciclos, descrevemos os workshops realizados na escola 
+e as fases da pesquisa . Ainda contempla as questões éticas e , por fim, os procedimentos adota dos 
+para a análise do estudo, detalhando os grupos focais, visitas não estruturadas e observações. O 
+terceiro capítulo apresenta os resultados relevantes, destacando seis principais temas levantados: 
+“mapeamento das figuras e locais utópicos de Valongo”, “ ressignificação do passado através da 
+
+ xv 
+realidade aumentada”, “valorização do legado imaterial por meio da conexão com a história local”, 
+“percepção da identidade local”, “projeções para o presente e futuro” e “concepção do circuito físico-
+digital”. O quarto capítulo estabelece um diálogo entre os temas levantados na seção dos resultados 
+e as referências bibliográficas  utilizadas ao longo do projeto . Por exemplo, encontrando 
+fundamentação do mapeamento das mentes utópicas na concepção de Levitas (1990) sobre a origem 
+do desejo humano. Na discussão acerca da realidade aumentada, o estudo de Azuma (1994) justificou 
+sua importante atuação no processo de ressignificação, enquanto a concepção do roteiro físico-digital 
+destacou o engajamento dos participantes e fundamentou a parceria entre pesquisadores e 
+comunidade, analisada por Jagosh et al. (2012). Por fim, o capítulo cinco foi dedicado a responder à 
+questão de investigação através das conclusões  do projeto, apontando os aspectos positivos, 
+limitações e suas potencialidades. 
+Com este trabalho, compreendemos qu e a adoção de uma metodologia interdisciplinar 
+participativa em pesquisas de humanidades não só valoriza o aprendizado mútuo e integra diferentes 
+perspectivas, mas também enriquece a pesquisa ao fortalecer vínculos entre investigador es e 
+comunidade. 
+Ao lon go dos capítulos desta dissertação, foi possível explorar descobertas empíricas e 
+estabelecer uma relação sólida entre teoria e prática. Os resultados revelaram que é possível 
+reinterpretar a história de forma dinâmica e inovadora, delineando novos caminho s para a 
+preservação e disseminação do conhecimento cultural.  
+ 
+ 
+      
+ 
+
+ 16 
+1.  ESTADO DA ARTE 
+Este estado da arte busca estabelecer uma fundamentação  teórica que possa orientar o 
+desenvolvimento da pesquisa em questão, proporcionando uma compreensão mais abrangente das 
+áreas de estudo envolvidas. Dessa forma, buscamos contextualizar nosso tema, que estabelece uma 
+relação entre as humanidades digitais, mentes utópicas e realidade aumentada, verificando o que já 
+foi explorado e identificando lacunas que demandam maior atenção em termos de pesquisa. Além 
+disso, procuramos esclarecer os problemas de pesquisa, contribuindo para uma formulação mais 
+precisa dos objetivos e perguntas que irão guiar nossa investigação.  
+ 
+1.1. Humanidades Digitais 
+A preservação do patrimônio imaterial tem sido uma preocupação em diversas áreas, 
+considerando sua importância como fonte de diversidade cultural e garantia de desenvolvimento 
+sustentável, de acordo com a UNESCO ( Organização das Nações Unidas para Educação, Ciência e 
+Cultura). Conforme estipulado pela “Convenção para Salvaguarda do Patrimônio Cultural Imaterial” 
+(Unesco, 2003), os processos de globalização e mudança social, ao mesmo tempo em que facilitam a 
+renovação do diálogo entre as comunidades, também introduzem desafios como a intolerância, 
+ameaças de deterioração, desaparecimento e destruição do patrimônio cultural imaterial. Uma das 
+razões para tal vulnerabilidade é devido à falta de meios para sua salvaguarda.  
+Muitos autores têm chamado a atenção para o papel das humanidades digitais na proteção 
+dessas memórias. Conforme ressaltado por Guia et al. (2021), a ampliação do contato da sociedade 
+com sua memóri a a partir do ambiente digital possibilita o acesso a diversas fontes de acervo e 
+pesquisa. Segundo os autores, as humanidades digitais superam barreiras econômicas e geográficas, 
+promovendo a interseção do patrimônio cultural no cotidiano da sociedade, o que é crucial para sua 
+preservação.   
+Como ponto de partida, abordaremos uma questão aparentemente simples, que, no entanto, 
+mostra sua complexidade à medida que nos debruçamos sobre o tema: afinal, o que são humanidades 
+
+ 17 
+digitais? Liu (2013) não oferece uma definição concreta, mas pondera sobre a identidade das 
+humanidades digitais. Para ele, este é um campo em processo de formaç ão, embora se afilie às 
+disciplinas mais antigas da humanidade, como literatura, história, clássicos e língua. O autor descreve 
+as extensões das humanidades digitais como uma "grande tenda” que está alcançando uma massa 
+crítica de participantes, publicações, conferências, competições de financiamento, institucionalização 
+e visibilidade geral. Segundo Liu (2013), “grande parte das humanidades digitais se concentram em 
+documentos e textos de maneira que distinguem o trabalho do campo da pesquisa digital em estudos 
+de mídia, estudos de comunicação, estudos de informação e sociologia” (p.410).  
+ Para compreender a abrangência das humanidades digitais, vamos observar o mapa 
+apresentado na Figura 1. McCarty (2003) analisa as interações da “ computação em humanidades”, 
+termo posteriormente substituído por humanidades digitais. O mapa posiciona o “Comum 
+Metodológico” como um espaço virtual compartilhado onde diferentes métodos e ferramentas de 
+pesquisa convergem e se integram. Nesse ponto central, as técnicas computacionais interagem com 
+as disciplinas das humanidades e as ciências sociais , envolvendo aspectos como bancos de dados, 
+análise de texto, análise numérica, imagem, recuperação de informações musicais e comunicações.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 18 
+  Figura 1 
+Mapa da Computação em Humanidades 
+ 
+   Nota. Fonte: McCarty, W. (2003). 
+ 
+ 
+Alinhado com as ideias  dialógicas de Liu, o “Manifesto das Humanidades Digitais” 1 (Dacos, 
+2011) define as humanidades digitais como um conjunto que engloba as ciências humanas e sociais, 
+as artes e as letras. Contrariamente à negação do passado, a área se apoia  nos paradigmas, savoir-
+faire (saber-fazer) e conhecimentos próprios dessas disciplinas, ao mesmo tempo em que mobilizam 
+instrumentos e perspectivas do ambiente digital. Para o autor, trata -se de uma transdisciplina que 
+incorpora métodos, dispositivos e perspectivas heurísticas ligadas ao digital no contexto das ciências 
+humanas e sociais.  
+ 
+1 O Manifesto das Humanidades Digitais foi definido na primeira edição do ThatCamp Paris, congresso sobre 
+Humanidades Digitais. 
+
+
+ 19 
+Rollo (2019) sugere que as humanidades digitais potencializam e expandem as oportunidades 
+que o meio digital oferece, possibilitando a expansão do universo de conteúdos,  especialmente 
+materiais que podem ser registrados e preservados para as gerações futuras. De acordo com Martin 
+e Vacca (2018), o processo de digitalização e difusão online da memória também amplia as 
+oportunidades de disseminação do conhecimento. Para as autoras, as humanidades digitais, como 
+área interdisciplinar, promovem um acesso democrático ao conhecimento histórico e cultural. “Seja 
+através da virtualização de documentos, fotografias e diversos registros, esses elementos encontram 
+um canal acessível a um público mais amplo, reduzindo as limitações geográficas que antes 
+restringiam seu alcance” (Martin & Vacca, 2018, p.337).   
+Nesse contexto, Junior e Gama (2022) destacam a relevância de explorar o patrimônio cultural 
+por meio das tecnologias digitais como possibilidade de integrar o universo cultural a novos contextos 
+de aprendizagem. Martin e Vacca (2018) evidenciam outros alcances das humanidades digitais, como 
+seu papel na construção de relacionamentos na indústria da moda, simplificado s por meio da 
+digitalização, permitindo aos usuários explorar conteúdos históricos. As autoras citam o exemplo do 
+Arquivo Vogue, que conta toda a história da moda em formato digital, reunindo a coleção completa 
+da revista Vogue desde 1892 até o presente.  
+Outra atuação das humanidades digitais é apresentada no projeto Symbolum, intitulado 
+Itinerário Mistagógico de Simbolismo Cristão , em que Trocchianesi e Bollini (2023)  apresentam 
+paradigmas relacionais entre design e humanidades. O projeto visa promover um importante conjunto 
+de afrescos e pinturas em edifícios religiosos a través de itinerários narrativos, histórias visuais 
+hipertextuais com uma linguagem poética específica. Segundo os autor es, o aspecto tecnológico das 
+humanidades digitais fornece um terreno fértil para a ativação e mediação desses processos 
+participativos. “Além disso, muitas vezes são uma oportunidade para melhorar acessibilidade e 
+inclusão a nível social e individual, promovendo a partilha de conhecimento implícito de especialistas 
+para o público em geral” (p.7). Strange et al. (2023) ressaltam que as coletas de dados tratados nas 
+humanidades digitais são objetos de importância cultural, política e religiosa, oferecend o acesso 
+
+ 20 
+desses temas ao público em geral. Segundo os autores, “esse benefício é capaz de facilitar o 
+intercâmbio entre plataformas digitais que tem por finalidade compartilhar narrativas culturais em 
+uma escala global” (p.6).  
+No entanto, para Fitzpatrick (2012) a característica distintiva das humanidades digitais está 
+em explorar como a tecnologia digital não apenas influencia a natureza d e nosso trabalho, mas 
+também a maneira como nos comunicamos. Ao considerar a internet como veículo de troca de ideias, 
+criação de comunidade e construção de conhecimento nas humanidades, a autora argumenta que a 
+informação não é uma mercadoria controlada, mas um bem social que deve ser compartilhado e 
+reutilizado. Observando a complexidade das relações em ambiente on -line, Spiro (2012) propõe a 
+criação de uma declaração de valores como forma de estabelecer e organizar essas relações , 
+refletindo seu espírito de colaboração e flexibilidade. A autora ressalta a importância de ponderar 
+sobre as razões dessa s conexões e valores compartilhados, dad o a diversidade de disciplinas, 
+abordagens metodológicas, funções profissionais e inclinações teóricas presente na ampla 
+comunidade das humanidades digitais. 
+Spiro (2012) considera que esses valores devem ser flexíve is e contextuais, de forma que 
+promovam um trabalho focado no bem comum, praticado de forma aberta e colaborativa. Um 
+exemplo de construção participativa de valores é apresentado por Moreira et al. (2023), no qual 
+colaboradores do Digital Lab do CETAPS (Centre for English, Translation and Anglo-Portuguese Studies) 
+na Faculdade de Letras da Universidade do Porto , apontam valores individuais e dilemas éticos para 
+chegar à  problematização coletiva , ressaltando a importância de revisar criticamente valores sob 
+circunstâncias e desafios de cada grupo.  
+Lévy (1992) denomina a abordagem de conhecimento colaborativo e distribuído como 
+tecnologias intelectuais digitais, as quais permitem a criação da inteligência coletiva a partir da troca 
+de informações e colaborações em projetos de forma remota. Essa interação, conforme argumentado 
+por Farias (2015), conduz ao empoderamento da informação e, consequentemente, ao 
+desenvolvimento social comunitário. Essa ideia é compartilhada por Trocchianesi e Bollini (2023), que 
+
+ 21 
+reconhecem no aspecto tecnológico das humanidades digitais um terreno fértil para a ativação e 
+mediação de processos participativos. De acordo com as autoras, esses processos são oportunidades 
+para melhorar acessibilidade e inclusão em nível social e individual, além de promover a partilha do 
+conhecimento implícito de especialistas para o público em geral.   
+No que toca a democratização da informação no campo das humanidades digitais, Bekele et 
+al. (2018) destacam que o acesso ao conhecimento deve ser assegurado por meio da digitalização, 
+acessibilidade e interoperabilidade, visando permitir o compartilhamen to de informações e 
+responsabilidades destinadas à conservação da identidade e à conscientização cultural. Kirschenbaum 
+(2012) observa as humanidades digitais sob uma perspectiva social, abrigando redes de pessoas que 
+trabalham em parceria compartilhando pesquisas, argumentando, competindo e colaborando ao 
+longo dos anos. Nesse contexto, destacamos o conceito das humanidades cidadãs, em que Heinisch 
+et al. (2021) o apresentam como um processo par ticipativo que valoriza a interação entre 
+comunidade, cidadãos e pesquisa em um ambiente colaborativo e inclusivo.  
+Segundo os autores, no âmbito das humanidades, as humanidades cidadãs adotam o princípio 
+de envolver cidadãos nas atividades de instituiç ões de patrimônio cultural e pesquisa acadêmica. As 
+contribuições dos participantes para a pesquisa acadêmica e para a preservação do patrimônio 
+cultural variam desde a descoberta de achados preciosos em arquivos e ambientes digitais até a 
+exploração do conhecimento local. Embora reconheçam que há desafios em gerir pesquisas no campo 
+das humanidades cidadãs, como por exemplo, a gestão dos participantes, que incluem o 
+recrutamento, a comunicação e treinamentos. “Os participantes podem rapidamente se entediar com 
+tarefas simples, como a etiquetagem” (p.108). Os autores destacam que esses projetos exigem que os 
+profissionais acadêmicos mantenham a mente aberta e sejam pacientes em relação às contribuições 
+dos participantes, valorizando suas expertise e conhecimento como recursos.   
+Para Haklay et al. (2021), nas humanidades cidadãs, é essencial considerar os objetivos dos 
+participantes e envolver os cidadãos nas diferentes fases do processo de construção do conhecimento 
+científico. Os autores defendem a inclusividade desses processos, mantendo práticas de pesquisas e 
+
+ 22 
+atividades participativas diversas, nas quais os cidadãos se envolvem de maneira significativa. Um 
+ponto a ser destacado nas ciências cidadãs apresentado por Moreira (2022), é sua interação com o s 
+recursos tecnológicos digitais, especialmente em colaboração com as humanidades digitais. O autor 
+observa o crescimento da penetração de dispositivos digitais com acesso à internet e com capacidade 
+de registro, arquivo, processamento e compartilhamento de dados. No entanto, Moreira (2022) alerta 
+que projetos que envolvem propostas da c omputação, acesso e literacia digital ainda representam 
+barreiras à participação dos cidadãos que precisam ser consideradas. 
+Ao analisar o diálogo das humanidades digitais com as tecnologias de mídia, McCarty (2003) 
+destaca que, por meio da agência da co mputação, as áreas de trabalho interdisciplinares das 
+humanidades digitais permeiam estudos de mídia, aspectos da ciência da computação, tecnologias de 
+marcação e indústrias de linguagem. Seguindo essa perspectiva, nossa análise pretende estabelecer 
+uma relação entre humanidades digitais e a realidade aumentada, levando em conta o conceito de 
+remediação de Bolter e Grusin (1999), que argumentam que “novas mídias digitais não são agentes 
+externos que vêm perturbar uma cultura desprevenida. Elas emergem  de dentro de contextos 
+culturais e remodelam outras mídias que estão incorporadas nos mesmos ou em contextos similares” 
+(p. 21). 
+Dentro dessas relações, destacamos a realidade aumentada, que integra diferentes tipos de 
+mídias como texto, imagens, sons e vídeos, conceituad a por Bolter e Grusin (1999) como 
+hipermediação. Os autores descrevem o conceito como “um espaço heterogêneo com janelas que se 
+abrem para outras representações ou outras mídias. A lógica da hipermediação multiplica os sinais de 
+mediação e tenta, dessa forma, reproduzir a rica sensorialidade da experiência humana” (p. 34).  
+Assim, a realidade aumentada pode atuar como ferramenta remediadora, interagindo com as 
+humanidades digitais através de suas diversas mídias.  
+Antes de introduzir a próxima seção, na qual a realidade aumentada será o foco principal, 
+faremos uma síntese do que foi visto até o momento, com destaque para o papel das humanidades 
+
+ 23 
+digitais na preservação do patrimônio imaterial, sua capacidade para acessar e resgatar memórias e 
+seu potencial para desenvolver narrativas significativas. 
+Em resumo, a  revisão guiada por Liu (2013), McCarty (2003) e Dacos (2011) explora a 
+construção da identidade e as relações estabelecidas pelas humanidades digitais, enquanto Martin e 
+Vacca (2018) e Junior e Gama (2022) destac am seu papel na democratização do acesso ao 
+conhecimento em suas diversas áreas. Fitzpatrick (2012), Trochianese e Bollini (2023) e Moreira (2022) 
+chamam a atenção para seu caráter social como agentes remediadores nos processos participativos e 
+nas relaçõe s que promovem o engajamento social coletivo, como por exemplo, as humanidades 
+cidadãs. Para concluir, destacamos o aspecto dialógico das humanidades digitais com diferentes 
+sistemas tecnológicos e suas mídias, como a realidade aumentada, sob a perspectiva da remediação 
+e hipermediação, conceitos introduzidos por Bolter e Grusin (1999). 
+ 
+1.2. Realidade Aumentada 
+A presente seção explora a realidade aumentada (RA) sob diferentes perspectivas. Como 
+ponto inicial, vamos contextualizar a RA dentro das dimensões reais e virtuais, considerando o 
+Continuum de Milgram. Trata-se de um modelo que descreve a relação entre realidade e virtualidade, 
+criado por Paul Milgram em 1994. Segundo Milgram et al. (1995), a realidade aumentada e a realidade 
+virtual (RV) estão relacionadas, uma vez que o “conceito de RV envolve a imersão total do observador 
+em um ambiente sintético, podendo ou não replicar as propriedades do ambiente real” (p. 283).  Os 
+autores destacam que esse ambiente virtual pode ultrapassar as leis físicas, isentos de gravidade, 
+tempo e materialidade, ao contrário do mundo real que está estritamente sujeito às leis da física.  
+Embora pareçam  ser conceitos opostos, Milgra m et al. (1995) estabelecem uma conexão 
+entre esses extremos, conceituando essa interação como um  continuum realidade-virtualidade. 
+Dentro desse intervalo, encontra-se a realidade aumentada, como ilustrado no esquema abaixo. 
+ 
+ 
+
+ 24 
+Figura 2 
+Representação do Continuum Realidade-Virtualidade (RV) 
+ 
+Nota. Fonte: Milgram et al. (2013). 
+ 
+Considerando a figura como uma tela, à esquerda do continuum, temos uma cena com objetos 
+reais e, à direita, somente objetos virtuais, ambiente no qual os autores identificam a manifestação 
+da realidade mista. Esta é caracterizada pela manifestação conjunta de objetos do mundo real e virtual 
+em uma única exibição. Dessa forma, os autores apresentam a interação da realidade aumentada com 
+outras classes de exibições pertencentes à realidade mista. 
+De acordo com o  Continuum de Milgram,  Bekele et al. (2018) afirmam que a “ realidade 
+aumentada visa melhorar a nossa percepção e compreensão do mundo real através da sobreposição, 
+colocando informações virtuais sobre nossa visão de mundo real” (p.7:4). Esta visão é compartilhada 
+por Azuma et al. (2001), que definem a RA como um “sistema que complementa o mundo real com 
+objetos virtuais (gerados por computador) que parecem coexistir no mesmo espaço que o mundo 
+real” (p.34). Segundo os autores, o sistema traz como propriedades a capacidade de combinar objetos 
+reais e virtuais em um ambiente real, operar interativamente e em tempo real, e registrar objetos 
+reais e virtuais entre si. Gortari (2019) chama a atenção para a transformação que o uso da RA 
+proporcionará na maneira como acessamos, percebemos, interagimos e integramos informações, de 
+modo que conteúdos virtuais e físicos desaﬁarão nossas percepções e conceitualizações do que é real. 
+Ao analisar seu percurso, Azuma (2001) destaca o trabalho do cientista da computação, Ivan 
+Edward Sutherland, que na década de 1960 desenvolveu o primeiro modelo de HMD (Head-Mounted-
+Display) transparente para apresentar gráficos 3D, conforme ilustrado na Figura 3. Ao revisitar seus 
+
+
+ 25 
+primeiros registros, Sutherland (1968) descreve u o protótipo desenvolvido para o HMD como um 
+headset tridimensional. O dispositivo possuía um sistema óptico capaz de ampliar as imagens, 
+apresentando uma imagem virtual diante de cada olho do usuári o. Utilizando espelhos 
+semitransparentes, o modelo permitia ao usuário v isualizar tanto as imagens dos tubos de raios 
+catódicos quanto objetos no ambiente simultaneamente. No entanto, somente em  1990, o termo 
+“realidade aumentada” foi oficialmente cunhado pelo pesquisador Thomas Caudell, que o utilizou 
+para designar o HMD usado na orientação da montagem de equipamentos elétricos de aeronaves da 
+Boeing. Posteriormente, em 2000, o ARToolKit2 expandiu o alcance d o sistema pa ra o ambiente 
+industrial como uma ferramenta de código aberto para a criação de aplicações de realidade 
+aumentada (Pereira et al., 2017).  
+Todavia, foi com o lançamento do aplicativo Pokémon GO em 2016 que a RA se popularizou. 
+Conforme destacado por Rhodes (2019), além de ter sido um grande sucesso comercial em termos de 
+downloads de aplicativos, Pokémon GO é um blockbuster, termo que o autor emprega, inspirado no 
+êxito do filme Birth of a Nation de D. W. Griffith, lançado em 1915. Söbke et al. (2019) ressaltam que 
+Pokémon GO foi o primeiro jogo de RA com utilização de sistema de localização amplamente divulgado 
+para dispositivos móveis.  
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Projeto de código aberto criado para garantir que desenvolvedores de realidade aumentada tenham acesso e 
+compreensão dos algoritmos subjacentes que impulsionam a tecnologia . Fonte: https://www.artoolkitx.org 
+em 28/01/2023. 
+
+ 26 
+                         Figura 3 
+O Primeiro HMD. 
+                
+           Nota. Fonte: Sutherland, I. (1968). 
+ 
+Em concordância com a análise de Rhodes, Liberati (2019) destaca Pokémon GO como um dos 
+melhores exemplos da tecnologia amplamente adotada pela sociedade. O jogo permite a visualização 
+de objetos digitais como parte do mundo cotidiano, à medida que jogadores caminham, organizam 
+viagens e se encontram para capturar as criaturas digitais. Essa dinâmica propicia uma interação entre 
+o real e vir tual, uma vez que criaturas dos jogos  habitam lugares reais como forma de atrair os 
+jogadores.   
+Para Mosco (2023), a fusão entre o mundo real e virtual também é proposta pelo metaverso, 
+que frequentemente está associado à realidade virtual e aumentada. Esse conceito se estrutura de 
+maneira a criar espaços tridimensionais usando códigos e hardwares, proporcionando aos usuários 
+uma imersão total ou parcial, representados por av atares fora do ambiente material convencional. 
+Entretanto, o autor destaca que para tornar esse mundo virtual genuíno, requer grandes avanços 
+tecnológicos e vultosos investimentos de capital. 
+Desafios técnicos semelhantes têm sido uma constante no cenário digital desde os seus 
+primórdios. De acordo com Mosco (2023), nos estágios iniciais da internet, “teria sido igualmente 
+desafiador para aqueles que ligavam através da AOL 3 em 1993, prever que grande parte do mundo 
+ 
+3 Grande empresa de serviços de assinatura de acesso à Internet nos Estados Unidos . Fonte: 
+https://www.britannica.com/topic/AOL em 11/03/2024.  
+ 
+
+
+ 27 
+carregaria hoje supercomputadores nos bolsos” (p.164). Esta previsão, conforme destacada por Feiner 
+(2002), sugere “ uma proliferação de displays de alta resolução, variando de dispositivos pequenos 
+portáteis ou usados no pulso a telas grandes incorporadas em mesas, paredes e pisos. Tais displays  
+certamente se tornarão comuns” (p.50). 
+Segundo Pereira et al. (2017), atualmente a RA encontra aplicação em diversas áreas do 
+conhecimento, destacando setores como educação, medicina, engenharia, entretenimento e 
+robótica. Para os autores, a expectativa é que a tecnologia continue a se expandir devido ao seu 
+grande potencial. Feiner (2002) considera como  um diferencial, a  forma como a  RA apresenta a  
+informação, uma vez que sua tela é integrada às percepções do usuário : “esse tipo de interface 
+minimiza o esforço mental adicional que um usuário tem que gastar ao alternar sua atenção entre 
+tarefas do mundo real e uma tela de computador” (p.50).  
+Na área da cultura, exemplificamos o sistema RA  VISIT (Serres et al., 2023), projetado para 
+apresentar conteúdos sobre obras de arte ao público em museus. De acordo com os autores, o 
+aplicativo VISIT para Android pode ser comparado a outros aplicativos comerciais existentes, os quais 
+auxiliam os visitantes a obter conteúdos multimídias sobre obras de arte. Submetido a testes em uma 
+exposição de grande escala no Château d’Azay -Le-Rideau, na França, os desenvolvedores garantem 
+que seu uso é simples e acessível , mesmo para  não especialistas em informática. Não requer 
+desenvolvimento adicional de software ou hardware especial, permitindo que o usuário se adapte 
+facilmente à sua gestão e seja capaz de ali mentar o sistema com autonomia. Os autores enfatizam 
+que o aplicativo permite download antecipado de conteúdos, trazendo alguma autonomia em relação 
+ao sinal de internet limitado.  
+No turismo, Liang e Elliot (2021) consideram a RA promissora, destacando que a interação dos 
+utilizadores com o ambiente real pode melhorar a experiência dos turistas. Apesar de algumas lacunas 
+que necessitam atenção para melhoria, as autoras reconhecem que a gamificação4 já está inserida na 
+ 
+4 Uso de técnicas características de videojogos em situações do mundo real, aplicadas em variados campos de 
+atividade com o objetivo de resolver problemas práticos, consciencializar ou motivar um público específico 
+para um determinado assunto. Fonte: https://www.infopedia.pt/dicionarios em 11/03/2024. 
+
+ 28 
+sociedade e pode se r uma ferramenta social eficaz para engajar os consumidores  durante suas 
+viagens. Elas argumentam que gestores de destinos turísticos devem considerar integrar gamificação 
+e a realidade aumentada para envolver os turistas, destacando estudos que dizem que a aceitação da 
+RA pelos usuários pode ser influenciad a por fatores como utilidade percebida, prazer percebido e 
+facilidade de uso percebida.  
+Azuma et al. (2001) afirma que a realidade aumentada não se limita apenas a uma tecnologia 
+específica de exibição através de um equipamento de HDM, e tampouco se restringe à percepção 
+visual. O sistema pode potencialmente se aplicar a todos os sentidos, por meio de diversos recursos, 
+como fotografias, sons e cheiros. De acordo com os autores, algumas das suas aplicações permitem 
+retirar objetos físicos do campo visual, assim como adicionar objetos virtuais. Eles ressaltam que, 
+embora alguns autores atribuam a tarefa de remover objetos ao conceito de “Realidade Mediada ou 
+Diminuída”, a consideram  como um subconjunto da realidade aumentada . Kirner e Tori (2006) 
+complementam, afirmando que essa interatividade entre o real e virtual permite, ao mesmo tempo, 
+manter o usuário em seu ambiente físico e trazer o ambiente virtual para o espaço do usuário. Dessa 
+forma, é possível estabelecer uma  interação mais natural e sem necessidade de treinamento ou 
+adaptação. 
+No que se refere aos desafios da tecnologia, Serres et al. (2023) salientam que seu uso em 
+smartphones exige que o usuário possua um dispositivo relativamente recente e com bom 
+desempenho, condição que não se aplica a todos os modelos de dispositivos móveis. Além disso, 
+alguns modelos consomem muita energia, podendo descarregar suas baterias mais rapidam ente do 
+que durante o uso convencional. Os autores concluem que a tecnologia é pouco familiar ao público 
+em geral, havendo pessoas que ainda não possuem um nível adequado de literacia digital para 
+compreender o seu funcionamento. 
+Em relação às previsões fu turas, Kirner e Tori (2006) apontam como próximos passos das 
+tecnologias que manipulam a realidade e a virtualidade, a adição de novos elementos que 
+potencializam a interação do usuário com recursos necessários em seu cotidiano. Eles preveem que 
+
+ 29 
+essa integração será viável por meio da combinação tecnológica entre a realidade virtual, a realidade 
+física, a inteligência artificial e a inteligência humana, baseando-se no conceito da hiper-realidade.  
+Por sua vez, Lévy (2012) propõe reflexões acerca dos avanços tecnológicos e suas implicações 
+para a sociedade em um contexto político-social, questionando se seria utópica a expectativa de que 
+as inovações tecnológicas possam surgir como instrumentos para solucionar desafios complexos da 
+atualidade, como por exemplo, a regulação política. O autor enxerga nas tecnologias digitais o 
+potencial de amplificar e transformar a inteligência humana, a partir da criação de um novo tipo de 
+inteligência coletiva, capaz  de tornar a sociedade mais democrática e participativa. Contudo, ele 
+reconhece como ameaças e riscos, questões relacionadas com o acesso universal, à privacidade de 
+dados e à manipulação da inteligência coletiva.  
+Portanto, nesta seção centrada na realidade aumentada, observamos através do Continuum 
+de Milgram como se estabelece a relação entre a realidade e virtualidade, situando essa tecnologia 
+dentro desse espectro. Ao analisar sua linha do tempo, partimos da concepção do primeiro Dispositivo 
+de Exposição Montado na Cabeça (HDM) por Sutherland (1968), passando pelas previsões de Feiner 
+(2002) até chegar às suas atuais aplicabilidades em diversas áreas, como na educação, medicina, 
+turismo e cultura, conforme apresentado por Pereira et al. (2017), Serres et al. (2023) e Liang e Elliot 
+(2021). Exploramos o conceito de realidade mediada apresentado por Azuma (2001), no qual o 
+sistema interage com todos os sentidos humanos por meio de diversos recursos. Por fim, foram 
+apontadas questões e perspectivas em relação ao futuro das tecnologias virtuais e reais, conforme 
+delineado por Kirner e Tori (2006) e Lévy (2012). 
+ 
+1.3. Identidades Utópicas 
+Nesta seção, vamos explorar os estudo s utópicos, considerando que esta pesquisa se 
+desenvolve no âmbito do projeto Valongo Cidade Utópica, fruto de um protocolo celebrado entre o 
+CETAPS - Centre for English, Translation and Anglo -Portuguese Studies (https://www.cetaps.com/), 
+através do polo sediado na Faculdade de Letras da Univ ersidade do Porto, e a Câmara Municipal de 
+
+ 30 
+Valongo. Seu “objetivo é promover a forma de pensar utópica nas escolas do município com vista à 
+construção participada de um futuro sustentável para a região” (Utopia 500, 2015). Este projeto está 
+integrado ao programa Utopia 500 (https://www.utopia500.net/) que visa “desempenhar um papel 
+ativo na implementação e disseminação da noção de utopia como um motor de mudança social e 
+como uma fonte de inspiração para inovação em ciência e tecnologia” (Utopia 500, 2015). 
+A intervenção do projeto propõe fomentar a ideia de construção coletiva como estratégia para 
+um futuro sustentável na região, envolvendo ativamente a comunidade local. Fundamentamo-nos no 
+conceito de cultura participativa, que, segundo Jenkins (2009), “está emergin do à medida que a 
+sociedade absorve e responde à explosão de novas tecnologias de mídia que possibilitam aos 
+consumidores comuns  que arquivem, anotem, apropriem e recirculem conteúdo de mídia de 
+maneiras poderosas” (p.8).   
+Ao entrar no imaginário coletivo  da comunidade, as identidades utópicas, conforme 
+destacadas por Felipe (1979), podem ser representadas por qualquer indivíduo que perceba falhas na 
+sociedade em que vive e proponha ideias e ações para modificar essa realidade insatisfatória. Para a 
+autora, são essas insatisfações que geram os ideais da sociedade, fundamentadas no desejo por uma 
+condição mais justa e humana. De acordo com Brasão e Batista (2020), quando esses ideais utópicos 
+se referem a um projeto social, a utopia se transforma em uma ideo logia. Para os autores, essa 
+ideologia é um sistema teórico que, ao ser transformado em um projeto social, orienta a sociedade 
+para mudanças mais adequadas.  
+O termo “utopia” foi originalmente cunhado por Thomas More em sua obra literária Utopia, 
+datada de 1516. Através de um diálogo entre o autor e seu personagem principal, o navegador 
+português Rafael Hitlodeu, é apresentada a ilha fictícia da Utopia, conforme ilustrada na Figura 4. No 
+relato, Hitlodeu descreve uma sociedade ideal, contrastando-a com as práticas e estruturas sociais da 
+Europa do século XVI. Aspectos como coletivismo e justiça social caracterizam os princípios utópicos 
+idealizados pelo autor, que utiliza a sátira para criticar a sociedade inglesa da época. Embora Thomas 
+More tenha sido o criador do termo “utopia”, Sargent (2010) argumenta que a concepção da ideia de 
+
+ 31 
+um lugar perfeito remonta a períodos anteriores. O autor baseia -se em registros de lugares 
+imaginários, como os sugeridos na peça Anfictiões de Teleclides (480 AC), o Jardim de Éden do livro 
+de Gênesis, além de outras histórias greco -romanas que exploram a noção de paraíso terrestre e a 
+ideia de uma raça ou era de ouro no passado.  
+Figura 4 
+A Ilha da Utopia. 
+ 
+                         Nota. Fonte: Obra Utopia de More. T. (2017). 
+Sargent (1994) define a utopia em uma variedade de aspectos e com alguma consistência, 
+como um estado ou sociedade imaginária que seja considerada melhor, pelo menos em alguns 
+aspectos, do que aquela em que vive o seu autor. Para ele, é um equívoco abordar  a utopia a partir 
+
+
+ 32 
+de uma única dimensão, visto que se trata de um fenômeno multidimensional. Essa perspectiva é 
+compartilhada por Vieira (2016), que, ao descrever a obra Utopia de Thomas More, reconhece nela a 
+complexidade e múltiplas camadas que ultrapas sam interpretações convencionais. “A história da 
+literatura utópica é, de fato, baseada em diferentes interpretações dela por gerações de leitores que 
+tentaram atualizar a mensagem do livro para a sua própria época, refletindo sobre diferentes 
+maneiras de construir o futuro” (Vieira, 2016, p.27).  
+De acordo com a autora, More não apenas introduz um novo estilo literário, mas também 
+apresenta uma nova perspectiva centrada na agência humana, influenciada pelo humanismo da 
+época, que promove uma revolução na forma de pensar ao focar o discurso no próprio ser e no papel 
+que este ser deve desempenhar no mundo. Esta concepção encontra eco em Beauvoir (1948), que 
+reconhece no ser humano a capacidade de agir ativamente para construir seu próprio destino. Para a 
+autora, ao agirmos de forma livre, afirmamos a nossa própria individualidade e a independência em 
+relação aos outros. 
+Vieira (2016) identifica na obra de More os fundamentos para a discursividade utópica através 
+de quatro modos de pensamentos. São eles os pensamentos prospectivo, crítico, holístico e criativo. 
+A autora observa que o pensamento prospectivo, relacionado ao conceito de futuro como um porvir, 
+não é encontrado claramente no texto fundador, mas sim sugerido em uma ilha distante. No entanto, 
+ressalta que a exploração das hipóteses "e se?" está na base do texto de More. O pensamento crítico 
+é evidenciado pela análise da sociedade europeia do início do século XVI, onde Hitlodeu rejeita e critica 
+a sociedade contra a qual a ilha de Utopia é descrita. O pensamento holístico também prevalece no 
+texto, com a descrição das consequências da abolição da propriedade privada no nível político, 
+econômico e social, demonstrando como a sociedade funciona como sistemas interconectados. Já o 
+pensamento cr iativo, segundo Vieira (2016), foi condicionado pela convicção de que, devido ao 
+pecado humano, a única maneira de estabelecer a paz social seria criando um conjunto de leis que 
+regulamentassem tais ações. 
+
+ 33 
+ A autora enfatiza que esta discursividade represe nta uma valiosa ferramenta devido à sua 
+contribuição para organizar a reflexão sobre as possibilidades de desenvolvimento da sociedade. Essa 
+abordagem evidencia a expressão complexa da utopia, que explora diversas dimensões do 
+pensamento humano e da visão de sociedade ideal. Neste contexto, Levitas (1990) que acredita que 
+há uma suposição comum de que a utopia deve ser um retrato da boa sociedade, adverte sobre a 
+natureza socialmente construída da utopia, destacando que ela resulta de uma resposta às lacuna s 
+percebidas entre as necessidades sociais e as satisfações disponíveis.  
+De acordo com a autora, para dar luz à utopia, é necessário recuperar a esperança. Ela 
+defende que a esperança reside na possibilidade de construir um mundo melhor por meio da 
+coletividade: 
+O sonho só se torna visão quando a esperança é investida numa agência capaz de 
+transformação. O problema político continua a ser a procura dessa agência e da possibilidade 
+de esperança; e só se o encontrarmos é que veremos os nossos sonhos tornarem-se realidade. 
+(Levitas, 1990, p. 231) 
+Essa esperança, segundo Bloch (2000), está inserida dentro de um conjunto de valores que têm a 
+capacidade de influenciar positivamente o presente e o futuro da humanidade. Para ele, a filosofia da 
+história5 revitaliza o passado de maneira utópica, colocando o tempo, a intuição e o lado operacional 
+da vida no centro do universo.  
+Em uma análise mais recente, Berriel (2022) argumenta que a utopia moderna traz em suas 
+concepções pensamentos e significados contraditórios . Vista de forma negativa como imatura, pré -
+política, irrealista, pequeno-burguesa; ao mesmo tempo, de forma positiva, como capaz de associar 
+ética e prática política de forma eficaz.  Para Levitas (1990), não há um consenso em relação ao 
+significado do termo nos estudos utópicos, embora acredite que há uma suposição comum de que a 
+utopia deveria ser um retrato da boa sociedade.  
+ 
+5 Em The Spirit of Utopia, Ernst Bloch aborda o termo “filosofia da história” como uma leitura utópica do passado, 
+em que sonhos, aspirações e potencialidades podem ser resgatadas e realizadas no presente e futuro.  
+
+ 34 
+Ao analisar a palavra” utopia”, Vieira (2010) ressalta que a evolução do seu significado mudou 
+muitas vezes ao longo do tempo, se ndo adotado por autores e pesquisadores de diferentes campos 
+de estudo, com interesses divergentes e objetivos conflitantes. “Tendo a própria palavra utopia sido 
+frequentemente usada como raiz para a formação de novas palavras. Isso inclui palavras como 
+eutopia, distopia, antiutopia, alotopia, eucronia, heterotopia, ecotopia e hiperutopia, que são, na 
+verdade, neologismos de derivação” (p.3). 
+Examinando alguns desses termos sob diferentes perspectivas, Vieira (2010) associa a anti -
+utopia à descrença total. Segundo a autora, sua única finalidade nessa altura era denunciar a 
+irrelevância e a inconsistência dos sonhos utópicos e a ruína da sociedade que isso poderia acarretar. 
+Originada no século XVIII, a anti -utopia tinha como objetivo ridicularizar o próprio espírito utópico. 
+Blaim (2022) acrescenta uma nova perspectiva à anti-utopia. Para o autor trata-se de “um termo que 
+não se refere a um gênero literár io distinto, mas sim a uma função ou propósito social específico 
+dentro de textos distópicos em que questiona ou se opõe a soluções utópicas específicas ou o 
+utopismo em geral” (p.45). 
+Levitas (1990) interpreta a distopia como “a representação do medo do q ue o futuro pode 
+reservar se não agirmos para evitar a catástrofe”  (p. 7). Vieira (2022) afirma que a distopia tem suas 
+origens no século XX, período em que a humanidade desenvolveu tecnologias capazes de impactar na 
+raça humana de acordo com interesses pr óprios. A autora cita como exemplo a tecnologia nuclear, 
+capaz de manipular  geneticamente características biológicas dos seres humanos e causar 
+interferências significativas na biosfera. Sargent (2010) fornece outros exemplos que contribuíram 
+para a impressão distópica da sociedade, destacando práticas como a eugenia , ou seja, reprodução 
+seletiva, que visa eliminar características indesejáveis, proibindo as pessoas que as exibiam de terem 
+filhos ou exigindo que pessoas com as características desejadas tivessem filhos entre si. Para ele, essas 
+políticas resultaram na criação de distopias devido à preocupação com o potencial de uso indevido do 
+poder de fazer escolhas. 
+
+ 35 
+Levitas (1990) interpreta o fenômeno utópico como uma ambivalência, uma vez que “a utopia 
+fascina como expressão dos problemas sentidos e das soluções de situações históricas particulares; 
+inspira como resposta aos problemas recorrentes ao longo da história; no entanto, provoca o medo 
+de que o revolucionário possa cometer” (p.13). Essa ambiguidade, conforme Sargent (2010) destaca, 
+é crucial, pois permite que ambas as perspectivas contenham alguma verdade. O autor explica que 
+“embora a utopia possa ter o potencial autoritário, quando se assume distópica, também desempenha 
+um papel fundamental na motivação das pessoas para a mudança social" (p.28). 
+Ao analisar a literatura utópica, Sargent (1994) reúne todas essas ideias dentro de uma 
+sociedade inexistente, ou seja, imaginária, descrita em detalhes consideráveis quanto à sua estrutura, 
+funcionamento e valores, e normalmente situada em tempo e espaço, pois a utopia (e suas 
+derivações) é contextualizada em um tempo e local específicos. Dessa forma, o autor define utopismo 
+como um sonho social; a utopia, equivalente a eutopia, como um lugar consideravelmente melhor do 
+que a sociedade em que esse leitor vive; a distopia ou utopia negativa, como um lugar 
+consideravelmente pior do que a sociedade em que esse leitor vive; a sátira utópica, como uma crítica 
+à sociedade contemporânea; a anti -utopia, uma crítica ao utopismo ou alguma eutopia específica; a 
+utopia crítica, como uma visão crítica ao gênero utópico; a distopia crítica, que inclui um enclave 
+eutópico, traz a crença de que a distopia possa ser derrotada e substituída pela eutopia; e as 
+comunidades intencionais, como um grupo de pessoas que decidiram viver em comunidade para 
+compartilhar valores que partilham ou outro objetivo acordado.  No entanto, Sargent (1994) destaca 
+que muito antes da criação de qualquer termo para descrever as utopias e suas variações, existiam 
+sonhos sociais que representavam formas alternativas de expressar a necessidade genuína de uma 
+vida melhor.  
+Por volta dos anos 70, surgem novas abordagens utópicas sob uma perspectiva especialmente 
+feminista, apresentada por autoras como Angela Carter, Marge Piercy e Ursula Le Guin, que Moylan 
+(2019) denominou como utopias críticas. Essas utopias, segundo o autor, “proporcionaram uma visão 
+de esperança renovada e fortalecida, em sintonia com o crescente impacto dos movimentos 
+
+ 36 
+oposicionistas socialistas, feministas e ecológicos da época” (pg.125). De acordo com Firmino (2006), 
+essas autoras não apenas propõem novas  visões de sociedade, mas também incorporam elementos 
+críticos, desafiando limitações percebidas na tradição utópica. Moylan (2000) destaca que as utopias 
+críticas, dentro de um âmbito literário, tiveram uma contribuição estratégica ao elevar o nível da 
+imaginação utópica, implementando a autorreflexão das práticas utópicas na vida real. Para o autor, 
+as utopias críticas ajudaram a evitar o aprisionamento ideológico do utopismo, dando vida aos 
+processos de crítica e mudança sociais.  
+Como exemplo de utopia crítica, Griffiths (2005) cita o movimento de abrigo para mulheres, 
+fundado inicialmente na Inglaterra em 1972, que implementou formas experimentais de democracia 
+participativa, inspirando as utopias críticas com a visão utópica de erradicar a violência do s homens 
+contra as mulheres. A autora destaca que esse movimento foi fundamental para colocar o tema 
+"violência doméstica" no centro do debate público e das agendas políticas. Levitas (1990) ressalta que 
+na utopia crítica, os agentes transformadores são descentralizados, representados por indivíduos que 
+não detêm o poder, destacando as mulheres, os gays, não brancos, entre outras minorias que militam 
+de forma coletiva por suas causas.  
+Para Vieira (2010) , esse período representou um “momento aliment ado pela esperança de 
+mudança apresentada por ecologistas, feministas e pensadores da Nova Esquerda, apresentando 
+visões de um futuro melhor, mas de forma alguma um futuro perfeito'' (p. 18). Além de fornecer 
+provocações sociais, as utopias críticas, diz G riffiths (2005), “expressam uma indeterminação que 
+desafia e rejeita a perfeição fechada e estática do modelo das utopias convencionais” (p.14).  
+Não é possível abordar a utopia nos dias atuais sem considerar o impacto da Internet. Para 
+Cowles (2009), os a vanços tecnológicos estão intrinsecamente ligados às aspirações utópicas. 
+Segundo o autor, a internet em si é uma utopia quando vista como uma plataforma de comunicação 
+que, além de integrar tecnologias antigas de veículos como rádio, telefone e televisão, reduziu custos 
+dessas estruturas físicas, inspirando novas tecnologias como chat, mensagens instantâneas, e-mails e 
+páginas da World Wide Web. Segundo Cowles, “desde o início, e dentro dos próprios protocolos que 
+
+ 37 
+ditam sua operação, a Internet foi projetada para simular um lugar” (p.83), sustentando seu potencial 
+utópico à medida que se torna um mundo de infinitos lugares virtuais acessíveis através dos seus 
+localizadores como endereços de IP, URLs, nomes de canais de chat, etc. 
+Dentro d o contexto de internet como lugar, Vieira (2022) destaca a migração da utopia 
+literária para a digital, a partir do surgimento das micronações, em que a autora considera evidente 
+suas semelhanças de lugares imaginários: 
+Ao navegar em um mar que mistura informações reais e irreais, o usuário da internet descobre 
+o site de um país chamado Bergonia; e, como o navegador português, que, ao chegar à ilha 
+da Utopia, explorou as ruas, conversou com os nativos e tentou entender se us costumes, 
+assim o navegante moderno da internet explora meticulosamente o país imaginário de 
+Bergonia, seguindo um caminho feito de hiperlinks. (p. 286)  
+Ao descrever Bergonia, a autora argumenta que as hiperutopias mantêm vivos os princípios 
+fundamentais das utopias clássicas, como a autenticidade, reflexão crítica e as estratégias de 
+detalhamento, tal como em Utopia de Thomas More.  Ela identifica semelhanças entre as estratégias 
+dos autores para conferir autenticidade às suas narrativas. “More constru iu sua narrativa com base 
+no modelo de literatura de viagem; Cometti carregou seu país imaginário na internet, seguindo de 
+perto os modelos estabelecidos por sites de países reais” (p.286).  
+Tierney (2022) observa o utopismo tecnológico a partir da sua face distópica. Ele destaca que 
+“a indústria de alta tecnologia construiu enormes fazendas de servidores que prejudicam ecologias 
+locais de maneiras imprevisíveis. As redes sociais produzem novos espaços para discursos violentos. 
+Alguns bilionários centralizam em torno de si uma riqueza sem precedentes” (p.154). Para o autor, 
+sob a perspectiva utópica, a tecnologia é mais uma convicção do que uma aplicação científica, 
+validando uma cultura fetichista e predatória.  
+Analisando a internet como um novo lugar de r elações, Castells (2001) considera que uma 
+nova ordem social está emergindo no planeta, denominada sociedade em rede, construída em torno 
+das redes de comunicação. Dentro dessa sociedade, o autor destaca o potencial de liberdade que a 
+
+ 38 
+internet proporciona, bem como os desafios enfrentados, como controle e manipulação por meio da 
+vigilância, da propaganda e censura. Além disso, ele enfatiza a perda da privacidade e autonomia dos 
+usuários, decorrente do poder de coação e acesso aos dados privados.  
+Cowles (2009) complementa esta análise ao ponderar que as implicações da internet para a 
+sociedade, ultrapassam as fronteiras da tecnologia. Ele chama a atenção para o seu potencial utópico 
+ao desafiar e transformar as formas sociais tradicionais e as estruturas de poder econômico e político. 
+No entanto, o autor reconhece as limitações desse potencial devido aos esforços de empresas e 
+governos para torná-la mais parecida com a realidade tradicional, através da imposição de regras e da 
+criação artificial de escassez de informação e outros bens digitais. Segundo Cowles, os ideais utópicos 
+da internet se manifestam através de oportunidades que visam melhorar a política e a vida das 
+pessoas, como o acesso à informação para combater a desigualdade e alcançar o maior número  
+possível de pessoas. 
+Após estas abordagens sob diferentes prismas da utopia, vamos fazer um breve resumo do 
+que vimos nesta seção. Acessamos a origem do termo “utopia” através da obra de Thomas More no 
+século XVI, embora po ssamos observar, segundo Sargent  (2010), que a ideia remonta a períodos 
+anteriores. A partir das análises de Vieira (2016) e Beauvoir (1948), vimos diferentes aspectos da 
+utopia, sobretudo seu impacto na sociedade. Levitas (1990) e Bloch (2000) convergem suas visões ao 
+perceberem a utopi a como propulsora do progresso social, ferramenta de crítica social e visão 
+alternativa de uma sociedade mais justa. Adiante, examinamos a evolução do significado da palavra 
+utopia e algumas derivações sob o ponto de vista de diferentes autores, apresentando um resumo do 
+estudo de Sargent (1994). Abordamos também as utopias críticas trazidas por Moylan (2000) e 
+Griffiths (2005), além das implicações da internet para a utopia, refletido por Cowles (2009), Tierney 
+(2022) e Castells (2001). Por fim , dentro do universo digital, falamos das hiperutopias através da 
+análise das micronações apresentada por Vieira (2022). 
+                                                                       … 
+
+ 39 
+Em síntese, este estado da arte busca responder à questão central des ta investigação, que 
+pretende compreender os impactos de um projeto de humanidades digitais participado na 
+ressignificação do legado imaterial, com a contribuição de personagens utópic as, por meio da 
+realidade aumentada. Fundamentou-se em uma revisão bibliográfica de autores que forneceram 
+informações substanciais acerca das humanidades digitais, destacando sua capacidade de resgate do 
+patrimônio cultural, e cercando -se de conceitos utópicos que, mais adiante, serão a base da 
+construção da narrativa d a pesquisa. Investigamos a realidade aumentada sob a perspectiva de seu 
+potencial a ser investido, explorando como esse sistema pode contribuir para o projeto. 
+Além disso, esse estado da arte tem também como objetivo fornecer alicerce teórico para 
+atuar como agente articulador, promovendo a interseção entre humanidades digitais, ferramentas 
+tecnológicas, conceitos utópicos e a participação comunitária, visando fomentar um modelo de 
+narrativa sustentável. Essa construção será centrada em figuras singulares, cujas mentes utópicas 
+desempenharam um importante papel na moldagem do legado cultural da sua comunidade. Como 
+resultado final, planejamos desenvolver um protótipo de roteiro físico -digital que integr e realidade 
+aumentada para proporcionar uma experiência mais imersiva.  
+De acordo com Jenkins (2006) “nenhum de nós pode saber tudo; cada um de nós sabe alguma 
+coisa; e podemos j untar as peças, se associarmos nossos recursos e unirmos nossas habilidades ” (p. 
+24). Assim, buscamos explorar alternativas para desenvolvimento desta pesq uisa por meio da  
+cooperação entre diversos indivíduos.  
+ 
+ 
+ 
+ 
+
+ 40 
+2.   PERCURSO METODOLÓGICO 
+2.1. Contextualização 
+Essa pesquisa apoia-se nas humanidades digitais, que, segundo Burdick (2020), representam 
+novos modos de produção de pesquisa, ensino e publicações colaborativas e transdisciplinares, 
+permeadas por tecnologias computacionais, definidas pelas oportunidades e desafios decorrentes da 
+combinação dos termos "digital" e "humanidades" para formar um novo campo coletivo. Adotamos o 
+método participativo, nomeadamente, as h umanidades cidadãs, propondo a construção de um 
+circuito interativo em realidade aumentada, ide alizado a partir do mapeamento de figuras e lugares 
+utópicos de Valongo. 
+O projeto envolveu a turma do 10º ano da Escola Secundária de Valongo, composta por vinte 
+e nove alunos, com idades compreendidas entre 15 e 16 anos, sob a orientação da professora de  
+Inglês, Olga Almeida, e com o apoio da professora de Geografia, Carla Vicente.  Além disso, cont ou 
+com a colaboração de Helena Lobo, coordenadora da escola, e de Ana Helena Lobo, colaboradora do 
+CETAPS, ambas moradoras de Valongo.  
+Valongo é sede do município que inclui quatro freguesias: Alfena, Ermesinde, Campo| 
+Sobrado e Valongo. O município foi fundado em 1836, durante a reforma administrativa do reinado 
+de D. Maria II. Atualmente, possui uma população de 94.672 residentes, conforme dados do Pordata6. 
+Segundo a Câmara Municipal de Valongo (2024), a região destaca -se por sua riqueza geológica e 
+paleontológica, o que contribuiu para o desenvolvimento da indústria mineira, incluindo ardósia (uma 
+indústria tradicional com grandes implicações ao nível social), antimônio, volfrâmio e carvão. Além 
+disso, o município abriga uma variedade de atividades industriais, como metalomecânica, metalurgia, 
+têxtil, construção civil e mobiliário. Beneficiando da presença de moinhos, nascentes de água, lenhas 
+das serras e da passagem da Estrada Real, Valongo tornou-se conhecido pela produção e fornecimento 
+de pão à cidade do Porto  desde o século XVII de acordo com registros históricos. Isso permitiu aos 
+ 
+6 Dados obtidos em https://www.pordata.pt/municipios emitidos em 01/04/2024. 
+
+ 41 
+padeiros de Valongo abastecer toda a região circundante. A relevânc ia da produção do pão  é 
+destacada abaixo, conforme texto encontrado no site da Oficina de Regueifa e do Biscoito de Valongo 
+(2024), espaço dedicado à promoção do patrimônio cultural local: 
+A fama do pão de Valongo é antiga. Prova disso é um relato de 1700 do responsável pelo 
+Hospital Dom Lopo de Almeida em relação à alimentação dos doentes. Estes não comiam o 
+pão amassado pelas padeiras da cidade por ser de fraca qualidade e escuro, por isso, optavam 
+pela compra de pão às padeiras de Valongo.  (Oficina de Regueifa e do Biscoito de Valongo, 
+s.d.) 
+A Escola Secundária de Valongo é uma instituição pública que se situa na Rua Visconde de 
+Oliveira Passos, no coração de Valongo. A escola tem desempenhado um papel ativo em diversos 
+projetos que buscam a valorização e integração cultural entre alunos, comunidade e município, sendo 
+parceira do projeto Utopia 500.  
+Como conferido, no âmbito desta dissertação, pretende-se responder à questão principal de 
+forma colaborativa. Para isso, serão identificados e reunidos materiais relevantes através de pesquisas 
+e consultas à comunidade local. Além disso, será realizada a  curadoria e digitalização dos materiais 
+selecionados para desenvolver um protótipo de circuito físico -digital com uso da tecnologia de 
+realidade aumentada.  
+ 
+2.2. Circuito Físico-Digital 
+O circuito físico-digital é um produto resulta nte de todas as ações que envolveram esta 
+investigação. Ele materializa as pesquisas, memórias e atividades realizados por meio de um trabalho 
+coletivo de todos os envolvidos. O circuito é apresentado tanto de forma física, através do croqui 
+apresentado no Anexo R: Protótipo  final, quanto de forma digital por meio do site  
+circuitovalongo.wordpress.com. Ambas as formas são interativas, pois em cada ponto do roteiro há 
+aplicação da tecnologia realidade aumentada.  Nessas interações, o usuário irá ver Valongo sob uma 
+perspectiva utópica. 
+
+ 42 
+O critério de seleção dos pontos d este protótipo levou em consideração a  concentração de 
+lugares dentro dos limites do  centro histórico de Valongo . O roteiro é circular  e possui uma 
+equidistância em torno de 1,50 km, contemplando os seguintes locais: Escola Secundária de Valongo, 
+Praça Machado dos Santos,  Museu Municipal e Arquivo Histórico de Valongo, Fábrica Paup ério e 
+Bombeiros Voluntários de Valongo.  
+Diversos aplicativos de realidade aumentada foram testados  para o circuito, como o Adobe 
+Aero, EyeJack e Zapworks Studio. Entretanto, o Artivive atendeu melhor nossas necessidades, tendo 
+em conta a facilidade de uso, baixo consumo de dados móveis e bateria, além de ter uma versão 
+gratuita satisfatória. 
+ 
+2.3. Abordagem  
+Esta pesquisa adotou uma abordagem metodológica interdisciplinar fundamentada nas áreas 
+das humanidades digitais e humanidades cidadãs. Segundo Heinisch et al. (2021), “projetos 
+interdisciplinares são aqueles que estabelecem uma ponte entre ciência (cidadã) (social ou natural) e 
+humanidades (cidadãs)”  (p. 102). Para os autores, seu valor está no potencial de aproveitar as 
+diferenças e abordagens diversificadas que fornecem uma visão integral do estudo.  
+Por termos como objeto de estudo  memórias culturais de  uma comunidade que serão 
+organizadas por meio de instrumentos digitais, encontramos nas humanidades digitais um campo 
+fértil, que, de acordo com Guia et al. (2021), possibilita o acesso a diversas fontes de acervo e pesquisa 
+a partir do seu ambiente digital.  
+Neste projeto, envolvemos ativamente a comunidade por meio de uma parceria com a Escola 
+Secundária de Valongo. Alunos, professores e voluntários participaram do processo de pesquisa, 
+compartilhando suas memórias, relatos históricos e aspirações acerca de Valongo.  Segundo Jagosh et 
+al. (2012), a pesquisa participativa prioriza a coconstrução do conhecimento através de parcerias entre 
+pesquisadores e pessoas afetadas e/ou responsáveis por ação sobre as questões em estudo. Os 
+autores destacam que o nível  de envolvimento colaborativo pode variar ao longo do projeto, e suas 
+
+ 43 
+atividades podem gerar um conjunto de resultados tanto a curto quanto a longo prazo. No nosso caso, 
+buscamos desenvolver um trabalho que pudesse ser observado a curto prazo, com o intuito de obter 
+resultados mensuráveis ao longo de aproximadamente dez meses.  
+De acordo com Bonney et al. (2009), os modelos de participação pública em pesquisa se 
+distinguem principalmente pelo envolvimento do público e pelo seu grau de controle nas diferente s 
+etapas da investigação. Com base no estudo “Participação Pública em Pesquisa Científica - (PPSR)”, 
+este projeto pode ser classificado como colaborativo, ou seja, “projetado por cientistas e nos quais os 
+membros do público contribuem com dados, mas também podem ajudar a refinar o design do projeto, 
+analisar dados ou disseminar descobertas” (Bonney et al., 2009, p.17).  Neste modelo, os 
+investigadores formulam as questões que a pesquisa pretende responder e o público contribui com 
+as coletas de dados para ajudar a respondê-las. Além disso, os participantes se envolvem ativamente 
+em diversas atividades da pesquisa, auxiliando na análise e interpretação dos dados, na apresentação 
+de resultados e no refinamento dos protocolos de coleta de dados. Pa ra os autores, a participação 
+pública em pesquisa científica promove  benefícios como a conscientização e/ou compreensão de 
+conceitos científicos relacionados ao estudo abordado, aumentam o engajamento público em 
+atividades científicas, desenvolvem habilida des relacionadas à ciência, estimulam os participantes a 
+envolver-se na política comunitária, além de torná -los mais confiantes nas tomadas de decisões do 
+planejamento local. 
+No quadro apresentado na Figura 5, é possível observar de que forma o público se envolve no 
+processo de pesquisa cientifica, segundo os modelos PPSR, em diferentes etapas e graus de controle. 
+Essa participação  é categorizada em três perfis de projeto : Projetos Contributivos, Projetos 
+Colaborativos (mais próximo a nossa proposta) e Proj etos Co -criados. A participação do público é 
+avaliada considerando as seguintes etapas do processo científico: escolher ou definir a(s) pergunta(s) 
+para estudo; coletar informações e recursos; desenvolver explicações (hipóteses); projetar 
+metodologias de coleta de dados; coletar amostras e/ou registrar dados; analisar amostras; analisar 
+
+ 44 
+dados; interpretar dados e ti rar conclusões; disseminar conclusões/traduzir resultados em ação ; e 
+discutir resultados e fazer novas perguntas. 
+Figura 5 
+Modelos de Participação Pública em Pesquisas Científicas.  
+ 
+Nota. Models for Public Participation in Scientific Research. Fonte: Bonney et al. (2009). 
+ Considerando que no sso objeto de investigação se concentra na herança cultural de uma 
+comunidade, dentro do formato de participação pública, adotamos as humanidades cidadãs como 
+guia para orientar nossas atividades. De acordo com Heinisch et al. (2021), as humanidades cidadãs, 
+termo que se refere à ciência cidadã nas humanidades, têm como propósito investigar questões sobre 
+valores, significado cultural e significado mais profundo de fenômenos relacionados à cultura humana. 
+“As humanidades cidadãs podem desbloquear o potencial de conhecimentos incorporados, diversos 
+e culturalmente sensíveis e desempenhar um papel crucial na preservação e enriquecimento do 
+patrimônio cultural” (Heinisch et al. 2021, p. 97). 
+Como uma pesquisa de caráter participado, a metodologia foi adaptada a o longo das várias 
+fases do processo, atendendo às demandas dos participantes e fazendo os ajustes necessários. Foram 
+
+
+ 45 
+empregados métodos mistos, incluindo uma análise qualitativa devido à natureza exploratória e 
+interpretativa da pesquisa. A revisão de mat eriais bibliográficos durante a construção do Estado da 
+Arte, incluiu a seleção de artigos de periódicos científicos nacionais e internacionais indexados em 
+diversas bases de dados, a ssim como de teses, livros e capítulos de livros, relacionados aos temas 
+abordados na pesquisa. 
+Além disso, foram realizados entrevistas e coletados depoimentos, como memórias de 
+infância de moradores locais  e pesquisas em documentos qualitativos . Isso inclui  a con sulta e 
+digitalização de parte do livro A Villa de Valongo escrito pelo Padre Joaquim Alves Lopes Reis (1904), 
+a fim de construir a narrativa do roteiro físico -digital. Outra técnica adotada foi a observação dos 
+participantes, que ocorreu de forma transversal ao projeto. Para exemplificar, no caso da participação 
+dos alunos, destacamos dois momentos: primeiro, quando o projeto foi apresentado, observando sua 
+aceitação e adesão, bem como a percepção dos temas estabelecidos; segundo, na introdução da 
+realidade aumentada, avaliando seus contributos ao projeto. 
+ 
+2.4. Estrutura e Ciclos da Pesquisa  
+Por se tratar de uma pesquisa com abordagem colaborativa, a estrutura do projeto foi se 
+moldando de acordo com necessidades emergentes. Alunos, professores e voluntár ios participaram 
+ativamente do processo, ou parte dele, tornando essa intervenção um objeto de estudo para reflexões 
+sobre as necessidades, prioridades e limita ções da pesquisa. A participação dos alunos iniciou pelo 
+mapeamento das “personagens utópicas”  que ajudaram a construir o legado imaterial de Valongo. 
+Eles buscaram identificar indivíduos que, motivados pelo desejo de criar um lugar melhor para viver, 
+tiveram uma visão idealizada e inovadora, contribuindo para tornar Valongo o lugar que é hoje. Além 
+disso, os alunos ajudaram a estabelecer a narrativa do projeto, participaram da experimentação do 
+sistema de realidade aumentada e da concepção do circuito físico-digital.  
+Foram conduzidos cinco workshops abordando diversos temas com os alunos, conforme 
+descrito na Figura 7 : Quadro de detalhamento dos Workshops. Esses encontros visaram oferecer 
+
+ 46 
+ferramentas e insights, realizados durante as aulas das professoras Olga Almeida e Carla Vicente, que 
+auxiliaram na condução das atividades. As pesquisas realizadas pelos alunos fora dos workshops foram 
+acompanhadas pela professora Olga Almeida. No início de cada workshop, foi realizada uma revisão 
+do workshop anterior com o objetivo de relembrar os temas abordados e identificar possíveis 
+questões pendentes. À medida que as sessões se desenvolviam, novas necessidades eram avaliadas. 
+Essas demandas foram identificadas pelos alunos, professor, investigadora e a equipe de orientação. 
+As voluntárias, Ana Helena Lobo e Helena Lobo, também ajudaram na identificação de locais e pessoas 
+com potencial utópico, bem como na recolha de materiais, através de visitas a campo. A seleção dos 
+instrumentos de coleta de dados foi guiada pela natureza da pesquisa (participativa/qualitativa), 
+levando em conta a questão de investigação, o local de intervenção (Valongo), os diferentes 
+participantes e o tempo disponível que tínhamos para finalizar o projeto. Os instrumentos utilizados 
+incluíram entrevistas com moradores locais, exploração física de instalações públicas e privadas no 
+centro histórico de Valongo, investigação documental na biblioteca pública local e pesquisas online.  
+A investigação se deu através de três ciclo, com diferentes etapas, conforme detalhado na 
+Figura 6: Fases da Pesquisa. O primeiro ciclo compreendeu a elaboração do tema, a identificação das 
+questões a serem respondidas e a pesquisa exploratória que compôs o estado da arte. Essa pesquisa 
+foi fundamentada nos temas centrais: humanidades digitais, realidade aumentada e mentes utópicas, 
+acompanhada pela equipe de orientação e filtrada com base na relevância dos conteúdos. 
+O segundo ciclo foi responsável pela captação de participantes, apresentação do projeto e 
+início das atividades práticas. Essas atividades incluíram as recol has de memórias, exploração e 
+registros de materiais e a concepção do circuito físico-digital. Nesta etapa, se observou o envolvimento 
+dos participantes, estabelecendo uma conexão teórico -prática sobre os temas, permitindo avaliar o 
+amadurecimento da concepção teórica e o vínculo estabelecido com as memórias culturais acessadas 
+ao longo do projeto. Através da metodologia de humanidades cidadãs, foi possível estabelecer uma 
+cooperação entre investigador e participantes, e promover o diálogo entre diferentes gerações.  
+
+ 47 
+O terceiro e último ciclo teve como objetivo validar os resultados de cada fase do projeto, 
+refletir sobre a metodologia empregada e avaliar os resultados alcançados na conclusão da pesquisa. 
+Figura 6 
+Fases da Pesquisa - Ciclo Participado e Não-Participado 
+ 
+ 
+Nota. Elaborada pelo autor. 
+ 
+ 
+2.5. Implementação dos Workshops 
+Foram realizados cinco workshops no período de fevereiro a maio de 2024. Participaram desta 
+etapa vinte e nove alunos com idade entre quinze e dezesseis anos, que integram a turma do décimo 
+ano da Escola Secundária de Valongo. Veja os detalhes dos Workshops no quadro abaixo: 
+ 
+ 
+ 
+ 
+
+
+ 48 
+Figura 7 
+Detalhamento dos Workshops realizados na Escola Secundária de Valongo 
+DATA ATIVIDADE DURAÇÃO TEMA 
+01/02/2024 Workshop 1*  120 min. Apresentação do projeto;  
+Diagnóstico dos alunos; 
+Introdução dos conceitos sobre humanidades digitais, 
+mentes utópicas e realidade aumentada;  
+Atividade prática - identificação no mapa de Valongo 
+(impresso) de “lugares bons”. Em segui da, associação a 
+sítios utópicos; 
+Reflexões em conjunto. 
+22/02/2024 Workshop 2* 120 min. Apresentação de conceitos sobre produção audiovisual com 
+o telemóvel; Cloud e Google Drive; 
+Atividade prática - Produção de vídeos com as histórias das 
+personagens e  lugares utópicos pesquisados 
+anteriormente; 
+Reflexões em conjunto. 
+19/03/2024 Workshop 3* 120 min.  Abordagem dos vídeos produzidos na sessão anterior; 
+Introdução a Taxonomia de Schwartz; 
+Atividade prática - Construção de painel com valores 
+utópicos através do aplicativo Mentimeter; 
+Apresentação de exemplos práticos de Realidade 
+Aumentada - Pokémon Go, Minecraft Earth e o aplicativo 
+EyeJack. 
+02/05/2024 Workshop 4* 90 min. Exploração do aplicativo de realidade aumentada Artivive; 
+Atividade prática - Com base no dossiê que contém as 
+personagens e lugares utópicos mapeados, os alunos 
+ressignificaram essas figuras e locais de Valongo. 
+22/05/2024 Workshop 5* 90 min. Exibição de  depoimentos de moradores locais coletados 
+pelos alunos;  
+Atividade prática - Reflexão sobre as leituras em realidade 
+aumentada das ressignificações; 
+Apresentação dos resultados do projeto; 
+Encerramento dos workshops. 
+ 
+Workshop 1*          
+O workshop foi dividido em três momentos. No primeiro momento, o projeto foi introduzido 
+aos participantes . Veja a apresentação no Anexo A . Os objetivos  desta etapa foram apresentar a 
+pesquisa e fazer um diagnóstico dos conhecimentos dos alunos sobre os conceitos trazidos neste 
+
+ 49 
+trabalho, como as humanidades digitais, utopia e realidade aumentada. Em seguida, realizamos uma 
+atividade prática. A turma se dividiu em grupos de quatro a cinco alunos e cada grupo identificou no 
+mapa (Anexo B) seus lugares favoritos e lugares importantes para eles e para a comunidade . Depois 
+cada grupo associou suas escolhas a lugares utópicos propostos, como Jardim da Eternidade, Vale da 
+Fartura, Pico da Felicidade, Praça dos Sorrisos, Bosque da Sabedoria, Paraíso Digital e Santuário do 
+Diálogo. O objetivo desta atividade foi promover a conscientização da comunidade, incentivando-os a 
+explorar e identificar os lugares que consideram significativos e importantes em seu entorno .  Para 
+finalizar, foram propostas algumas reflexões: Quais espaços, prédios, praças em Valongo trazem 
+conceitos utópicos? Quem são as pessoas que contribuíram para a materialização desses espaços e 
+projetos? Veja a descrição no Anexo C. 
+ 
+Workshop 2*      
+Este workshop foi dividido em duas fases. Na primeira fase, abordamos conceitos audiovisuais 
+e armazenamento em nuvem (Cloud) com o objetivo de fornecer conhe cimentos básicos para a 
+produção de conteúdos resultantes das pesquisas. Apresentação utilizada no Anexo D. Aproveitamos 
+o momento para recolher os consentimentos informados. Na segunda fase, realizamos uma atividade 
+prática. A turma se dividiu em grupos de quatro a cinco integrantes. Cada grupo designou um 
+entrevistador, um entrevistado, um responsável pela câmera e um controlador do tempo.  O objetivo 
+da atividade foi registar as histórias já pesquisadas, colocando em prática os conceitos vistos 
+inicialmente Veja a descrição desta fase no Anexo E . Em seguida, s olicitamos que cada grupo 
+carregasse seu vídeo na nuvem, utilizando o Google Drive do e -mail criado para o projeto: 
+circuitovalongo@gmail.com 
+ 
+Workshop 3*      
+Este workshop foi dividido em três etapas. Na primeira etapa, assistimos aos vídeos 
+produzidos no workshop anterior, e cada grupo compartilhou suas experiências durante a gravação. 
+
+ 50 
+Em seguida, os participantes identificaram os valores presentes nas histórias retratadas que 
+caracterizavam as mentes utópicas. Apresentamos a “Tax onomia de Schwartz” , um modelo de 
+organização de valores fundamentais da humanidade, para enriquecer a reflexão dos alunos. Confira 
+a apresentação utilizada nesta etapa no Anexo F. Na segunda etapa, realizamos uma atividade prática 
+onde os alunos enviaram palavras que descreviam mentes utópicas através do Menti meter, uma 
+plataforma online para criação de recursos interativos. Os objetivos foram aumentar o envolvimento 
+e interação dos alunos com os conceitos discutidos e criar um painel digital coletivo com termos que 
+descrevessem mentes utópicas. Esse painel pode ser conferido no Anexo H: Painel Coletivo de Valores 
+Utópicos. Na última etapa, abordamos a realidade aumentada através de exemplos práticos como os 
+jogos Pokémon Go e Minecraft Earth. Também exibimos um vídeo ilustrativo das potencialidades do 
+aplicativo EyeJack. Veja a descrição detalhada do workshop no Anexo G. 
+Workshop 4*  
+Este workshop se deu em dois momentos. Inicialmente, fizemos um breve resumo do ponto 
+em que paramos no último encontro e, e m seguida, apresentamos o aplicativo de realidade 
+aumentada Artivive. Explicamos sua escolha, que foi motivada  devido ao baixo consumo de dados 
+móveis e bateria, facilidade de uso e versão gratuita que atende às nossas necessidades. Após essa 
+introdução, os alunos baixaram o aplicativo para visualizar alguns exemplos de sua aplicação prática, 
+proporcionando um maior contato com a tecnologia, conforme exemplificado no Anexo K. A condução 
+deste workshop foi feita conforme apresentação do Anexo I. No segundo momento, realizamos uma 
+atividade prática. Disponibilizamos uma cópia do dossiê das personagens e locais utópicos 
+pesquisados, com a  proposta que cada grupo ressignific asse uma figura ou local . O objetivo foi 
+projetar essas personagens e lugares para o momento presente.  Para guia r essa ressignificação, 
+utilizamos as seguintes reflexões: quais os valores e princípios que essa utopia defenderia? Que ações 
+e iniciativas seriam implementadas para torn á-la realidade? Quais os desafios e oportunidades que 
+essa utopia enfrentaria no contexto atual? Veja a descrição do workshop no Anexo J. 
+
+ 51 
+ 
+Workshop 5*      
+O workshop foi dividido em duas partes, com um encerramento ao final. Guiados pela apresentação 
+do Anexo M, assistimos às últimas recolhas feitas pelos grupos: as memórias do São João, partilhadas 
+por um morador d e Sobrado , e as  lembranças de uma moradora que cresceu na rua da Fábrica 
+Paupério. Em seguida, abrimos uma discussão para entender como as memórias dos moradores 
+podem representar uma forma de utopia. Na sequência, propusemos uma atividade prática utilizando 
+o aplicativo Artivive para realizar cinco leituras em realidade aumentada das ressignificações feitas 
+pelos alunos , conforme descrito no Anexo N : Descrição do Workshop.  Após observar essas 
+interpretações, cada grupo recebeu um material de apoio com questões para guiá -los em suas 
+reflexões, as quais deveriam ser respondidas em conjunto.  Para encerrar, exibimos um resumo dos 
+workshops realizados na escola entre fevereiro e maio de 2024, destacando as conquistas e resultados 
+alcançados. Também apresentamos o esboço do circuito físico -digital com seis pontos potenciais, 
+conforme descrito no Anexo P: Protótipo Intermediário. Confira a descrição do workshop no Anexo N. 
+ 
+2.6. Questões Éticas 
+Esta seção aborda as questões éticas que  envolveram o desenvolvimento desta pesquisa, 
+garantindo que seu estudo estivesse rigorosamente em conformidade com os princípios estabelecidos 
+pelos autores e todos os envolvidos. Foram observados os seguintes aspectos:  
+- Consentimento dos participantes: A participação  nesta pesquisa foi condicionada à  autorização 
+prévia, obtida por meio de Termo de Consentimento Informado, conforme Anexos W, X e Y. 
+- Confidencialidade: Durante as entrevistas coletadas, foi assegurado o respeito à confidencialidade 
+dos participantes que assim a desejaram, evitando qualquer forma de divulgação não autorizada. 
+- Identificação de material:  Todo o material fornecido por estabelecimentos públ icos e/ou privados 
+foi devidamente identificado e utilizado de acordo com as regras estabelecidas pelas instituições, 
+evitando qualquer violação de direitos autorais ou uso inadequado. 
+
+ 52 
+2.7. Procedimentos        
+Dada a complexidade da pesquisa e o tempo limitado para sua execução, utilizamos diferentes 
+instrumentos e métodos qualitativos para fundamentar nossa análise e mensurar os resultados. 
+Realizamos workshops, entrevistas, análise de documentos, ida a campo, formação de grupos focais, 
+visitas não -estruturadas e observações. Essas abordagens nos permitiram reunir materiais para 
+compreender a evolução da pesquisa.  
+A metodologia adotada foi qualitativa. De acordo com Snape e Spencer (2003), a utilização de 
+diferentes métodos qualitativos é crucial para obter uma compreensão mais abrangente e profunda 
+do objeto de estudo, sendo adequada para investigar processos que ocorrem ao longo do tempo. Os 
+autores afirmam que  a pesquisa qualitativa busca fornecer uma compreensão aprofundada e 
+interpretativa da vida, experiência, expectativas e história dos participantes. Além disso, destacam a 
+flexibilidade no design da pesquisa qualitativa. 
+Creswell (2013) argumenta que a pesquisa qualitativa parte de pressupostos filosóficos e 
+utiliza lentes interpretativas para abordar os significados que indivíduos ou grupos atribuem a um 
+problema social ou humano. O autor destaca como uma das principais características dessas pesquisas 
+a coleta de dados em ambiente natural, onde os participantes experimentaram o problema estudado. 
+Sendo o pesquisador um instrumento -chave, a coleta de dados é realizada por meio de análise 
+documental e entrevista s. Ele também ressalta o uso de múltiplos métodos, como entrevistas, 
+observações e análise de documentos, além de um raciocínio complexo por meio de uma lógica 
+indutiva e dedutiva. Segundo Creswell (2013), “os pesquisadores qualitativos constroem seus padrões, 
+categorias e temas de baixo para cima, organizando os dados indutivam ente em unidades de 
+informação cada vez mais abstratas” (p. 75). 
+Para esta análise, buscamos a triangulação desses métodos como forma de acessar diferentes 
+fontes de dados e aumentar a validade dos resultados. A partir dos workshops, foi possível 
+diagnosticar a compreensão e envolvimento dos alunos em relação aos temas abordados. Os grupos 
+focais, que segundo Finch e Lewis (2003) são sinônimo de “discussão em grupo”, geraram dados a 
+
+ 53 
+partir da interação entre os seus participantes . As visitas não estruturas nos permitiram observar a 
+interpretação local sob uma perspectiva cotidiana e personalizada.  
+Dois grupos focais foram formados para esta investigação.  O primeiro constitui u de  cinco 
+alunos voluntários da turma com a qual trabalhamos. O segundo grupo incluiu a  professora Olga 
+Almeida, que atuou no projeto como facilitadora e participante; Helena Lobo, coordenadora da escola, 
+que participou ativamente do projeto, nos acompanhando na exploração territorial e atuando como 
+interlocutora ao nos apresentar moradores locais; e a Ana Helena Lobo, também moradora local, que 
+contribuiu de várias formas, intermediando entrevistas, compartilhando memórias e oferecendo 
+sugestões para a construção da narrativa.   
+Para cada grupo focal, preparamos um roteiro denominado “gu ião”, disponível no Anexo U: 
+Grupo Focal I e no Anexo V: Grupo Focal II, com o intuito de  mapear pontos essenciais da discussão 
+em grupo; entretanto a conversa foi conduzida de fo rma que fluísse naturalmente para deixar os 
+participantes o mais à vontade possível, gerando insights, reflexões em grupo e feedback. Nosso 
+propósito era compreender o processo sob a ótica de cada representatividade presente.   
+No primeiro grupo focal, focou-se a análise do circuito, visto que no mesmo dia em que nos 
+reunimos, fizemos o teste do protótipo para avaliar o roteiro, tempo/distância do percurso, 
+desempenho do aplicativo de realidade aumentada Artivive, construção da narrativa utópica e 
+detalhes para a finalização do mapa. Durante as discussões, levantamos questões como:  
+- O que eles sentem que mudou ao longo do projeto; 
+- Como foi a experiência de fazer o circuito que eles idealizaram; 
+- Qual foi o papel da realidade aumentada na ressignificação do passado das mentes e locais utópicos 
+e possibilidades de futuros alternativos.  
+No segundo grupo focal,  formado por diferentes frentes de atuação, iniciamos com um 
+pequeno resumo das atividades, incluindo a estratégia de mapeamento das mentes utópicas, as 
+projeções que foram feitas a partir das figuras e locais mapeados e a idealização do circuito físico -
+digital para homogeneizar a conversa. A discussão provocou insights, como reflexões sobre a forma 
+
+ 54 
+utópica da arquitetura do circuito e os desafios encontrados na identificação de figuras e espaços. As 
+participantes Helena e Ana falaram sobre de que forma o as pecto utópico foi observado na escolha 
+das pessoas e lugares que trouxeram para o projeto. 
+Em seguida, discutimos a atuação da realidade aumentada na ressignificação das pessoas e 
+lugares e suas projeções para o presente e futuro. Observando a reação das participantes e o feedback 
+de cada projeção, buscamos compreender o significado do projeto para elas e se houve mudanças em 
+relação à percepção sobre Valongo. Exploramos as implicações de um projeto participativo e seus 
+reflexos na pesquisa e nos indivíduos envolvidos. Para concluir, refletimos sobre o papel da realidade 
+aumentada e o que a tecnologia trouxe para o projeto.  
+As visitas não estruturadas permitiram coletar informações e observar como os participantes 
+receberam os resultados finais do projeto. Visitamos uma moradora que preferiu não ser identificada 
+e sempre viveu em Valongo. Essa visita ocorreu no início do projeto, com a participação da Helena e 
+Ana Helena, permitindo-nos coletar suas memórias. Fizemos também duas visitas não estruturadas à 
+senhora Luísa Pereira, moradora local e proprietária de um armarinho em frente à Praça Machado dos 
+Santos há cinquenta anos. Na primeira visita, ela compartilhou muitas memórias de Valongo, incluindo 
+locais e pessoas que marcaram sua vida, através de uma conversa sem roteiro. No segundo encontro, 
+já na fase de conclusão do projeto, lhe apresentamos o croqui do circuito, onde ela pôde ver, através 
+do dispositivo móvel, as projeções da realidade aumentada. Ao visualizar as imagens, a senhora Luísa 
+reconheceu de imediato a Praça Machado dos Santos na década de 70, com o lago e árvores. Nesse 
+momento, ela reforçou a importância daquele lugar para Valongo e como a praça habita uma memória 
+utópica em suas lembranças. Em seguida, mostramos uma segunda imagem  projetada pelos alunos 
+através da inteligência artificial, conforme Anexo Z: Prompt utilizado na plataforma OpenArt. Embora 
+seja uma projeção futura, reflete os valores compartilhados pela senhora Luísa  em relação à antiga 
+praça. 
+As observações do investigador e da equipe de orientação ao longo de todas as etapas da 
+pesquisa foram fundamentais para compreender o desenvolvimento de cada processo e analisar 
+
+ 55 
+apreciações de todos os envolvidos e resultados obtidos. Cada ciclo foi monitorado com o objetivo de 
+responder à questão principal da pesquisa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 56 
+3.   RESULTADOS 
+ 
+Esta seção apresenta os principais resultados desta pesquisa, com o objetivo de responder à 
+questão de investigação formulada inicialmente, com base nas análises descritas na seção anterior.  
+No Workshop 1, realizamos duas atividades para estabelecer análises temáticas. A primeira 
+consistiu em um diagnóstico para mapear o entendimento dos alunos sobre “mentes utópicas”. O s 
+resultados estão ilustrados no painel abaixo: 
+Figura 8 
+Painel de Perfil de Mentes Utópicas Formado pelos Alunos 
+ 
+ Nota. Nomes que descrevem Mentes Utópicas 
+ 
+A segunda atividade propôs a identificação de “lugares bons” através de um mapa físico de 
+Valongo. Consideramos “lugares bons” os espaços onde os alunos gostam de estar ou que são 
+importantes tanto para eles quanto para a comunidade. Na sequência, eles deveriam relacionar suas 
+
+
+ 57 
+escolhas a lugares utópicos propostos, identificando características ut ópicas de seus lugares 
+preferidos. Como temas utópicos, foram sugeridos o Jardim da Eternidade, Santuário do Diálogo, Vale 
+dos Sonhos, entre outros. Veja resumo dos resultados no quadro abaixo:  
+Figura 9 
+Mapeamento de Lugares Bons e Lugares Utópicos  
+LUGAR IDENTIFICADO NO MAPA DE VALONGO LUGAR UTÓPICO 
+Nossa própria casa Santuário do Diálogo 
+Escola Básica EB 2/3 Bosque da Sabedoria 
+Loja dos pais do João - P. Radical Pico da Felicidade 
+Igreja Matriz Vale dos Sonhos 
+Cemitério de Valongo Jardim da Eternidade 
+Sala de Jogos Paraíso Digital 
+Valongo Vale da Fortuna  
+Mercado Continente Santuário do Diálogo 
+Estação de Valongo Vale da Fartura 
+ McDonald's Vale do Sorriso 
+Biblioteca  Autoconhecimento 
+Pavilhão Municipal de Valongo Praça dos Sorrisos 
+Fábrica de Biscoitos Paupério Jardim da Eternidade 
+Oficina da Regueifa e do Biscoito Bosque da Sabedoria 
+Passadiço da Santa Justa Santuário do Diálogo 
+Nota. Quadro de detalhamento de lugares bons relacionados a temas utópicos. 
+ 
+No Workshop 2, os alunos trouxeram as recolhas de pessoas e locais potencialmente utópicos 
+feitos a partir de nomes de rua de Valongo. Essa pesquisa foi realizada em grupos sob a orientação da 
+professora Olga. Alguns alunos adotaram pseudônimos. Veja no quadro abaixo: 
+ 
+ 
+
+ 58 
+Figura 10 
+Figuras Utópicas a partir do Nome de Ruas 
+EQUIPE  RUA PESQUISADA FIGURA 
+Os Labregos R. Visconde Oliveira do Paço António Martins de Oliveira  
+Grupo das Borboletas R. Padre Américo 
+Avenida Oliveira Zina 
+Padre Américo  
+Oliveira Zina 
+Grupo Estuda R. Visconde Oliveira do Paço 
+R. Trelazé 
+António Martins Oliveira do 
+Passo 
+Grupo 4 R. de Sousa Paupério Fábrica Paupério  
+Grupo 5 R. São João de Sobral  Lenda da Serpente da Serra de 
+Santa Justa  
+Grupo Smurfs R. Alves Saldanha João Marques Saldanha 
+Grupo 7 R. Manuel de Arriaga Manuel de Arriaga 
+Grupo SIS R. de Sousa Paupério António Melo de Sousa Paupério 
+Nota. Quadro com relação das ruas pesquisadas e seus personagens. 
+ 
+No Workshop 3, sentimos a necessidade de revisar os valores utópicos. Elaboramos um 
+painel digital, conforme Figura 11, utilizando o aplicativo Mentimeter, que resultou no envio de vinte 
+e oito termos com destaque para as palavras: Empatia e tradição com maiores ocorrências.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 59 
+Figura 11 
+Mapa Digital de Valores Utópicos 
+ 
+Nota. Painel elaborado através do aplicativo Mentimeter 
+  
+No Workshop 4, os alunos ressignificaram os locais e figuras utópicas a partir do dossiê 
+resultante das pesquisas de todos os participantes. Veja o resumo do trabalho no quadro a seguir: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 60 
+Figura 12 
+Ressignificações de Lugares e Figuras Utópicas de Valongo 
+ESPAÇO/FIGURA RESUMO DA RESSIGNIFICAÇÃO 
+António Martins de Oliveira Ressignificado como um empresário de sucesso na construção 
+civil que emprega muitas pessoas e é comprometido 
+socialmente com sua comunidade. 
+Bombeiros Voluntários de Valongo;   
+João Marques Saldanha 
+O prédio foi ressignificado como o Ministério das Finanças e a 
+figura do senhor João Saldanha como Ministro das Finanças, 
+empresário, capitalista e latifundiário.  
+Escola Secundária de Valongo A es cola foi ressignificada com uma sala para descanso, 
+refeitório com self -service, salas de aula com mesas maiores 
+para projetos e um programa escolar para inserir os alunos no 
+mercado de trabalho. 
+Fábrica Paupério  
+António de Souza Malta Paupério 
+Ressignificado como um empresário bem -sucedido que 
+expandiu a marca Paupério por todo o mundo. 
+Arquivo Histórico & Museu Municipal 
+de Valongo; 
+Bernardo Martins da Nova 
+Ressignificado como um famoso cantor de rock que criou uma 
+loja de CD e vinil onde hoje  é o Museu Municipal e Arquivo 
+Histórico de Valongo. 
+Praça Machado dos Santos A ressignificação da praça resgatou um tempo em que havia um 
+lago e árvores, transformando -a em um local onde as pessoas 
+se reúnem para conversar e conviver, apreciando a natureza. 
+Nota. Quadro com descrição das ressignificações por lugares e figuras. 
+ 
+Como resultado das ressignificações, podemos observar diversas mudanças de significados e 
+funções atribuíd os aos locais e figuras históricas de Valongo, refletindo transformações sociais, 
+culturais e econômicas. Por exemplo,  o Museu Municipal e Arquivo Histórico foi projetado para o 
+presente como uma loja de Cds e vinis,  enquanto a figura d o senhor João Marques Saldanha foi 
+transformada e passou a ser representada como Ministro das Finanças.  
+No Workshop 5, foram apresentados cinco trabalhos em  realidade aumentada através do 
+aplicativo Artivive, conforme  detalhado no  Anexo T : “Projeções em realidade aumentada das 
+ressignificações”. O objetivo desta etapa do projeto foi  interpretar as ressignificações dos alunos , 
+concentrando-se no centro histórico de Valongo para conceber o protótipo do circuito físico-digital. 
+
+ 61 
+Após visualizarem as interpretações através do Artivive, os alunos foram convidados a fazer 
+reflexões em grupo, detalhadas no Anexo N: “Descrição do Workshop 5”. Essas reflexões serviram de 
+referência para guiar algumas discussões nos grupos focais. Abaixo está um resumo das interpretações 
+apresentadas pelo aplicativo Artivive: 
+Figura 13 
+Interpretações das Ressignificações no Artivive 
+PONTO NO CIRCUITO O QUE É VISTO ATRAVÉS DA APP ARTIVIVE 
+Escola Secundária de Valongo Banner de matrículas abertas e áudio com vozes de 
+alunos; 
+Armarinho da Dona Luísa Áudio da Dona Luísa falando sobre a praça Machado 
+dos Santos; 
+Praça Machado dos Santos Imagem da praça Machado dos Santos na época que 
+tinha o lago e imagem da praça idealizada pelos 
+alunos, projetada no OpenARt7 / Áudio com som da 
+natureza; 
+Museu Municipal e Arquivo Histórico de Valongo 
+Bernardo Martins da Nova 
+Esboço da loja de vinil pro jetada pelos alunos e o 
+site da loja / Áudio com som de guitarra; 
+Fábrica Paupério  
+António de Sousa Malta Paupério 
+Capa de revista internacional com uma matéria 
+sobre o legado do senhor António de Sousa 
+Paupério e a história da Fábrica Paupério; 
+Bombeiros Voluntários de Valongo 
+João Marques Saldanha 
+Banner do senhor João Saldanha como Ministro das 
+Finanças / Áudio com o hino de Portugal; 
+Nota. Quadro com descrição das interpretações feitas no aplicativo Artivive a partir das ressignificações.  
+Através das entrevistas, pudemos mapear nossos objetos de estudo e registrar memórias que 
+serviram de base para a construção da narrativa do projeto. A análise de documentos proporcionou 
+acesso às histórias não contadas e complementação de estudos prévios. A ida a campo foi essencial 
+para observar os locais trabalhados em sala de aula sob outra perspectiva, idealizar o roteiro, testar 
+sua funcionalidade e imergir no ambiente físico da pesquisa.  
+A partir dos resultados obtidos nos workshops e nos grupos focais , identificamos seis temas 
+principais: 
+ 
+7 Plataforma de criação que usa inteligência artificial.  
+
+ 62 
+-  Mapeamento das figuras e locais utópicos de Valongo; 
+- Ressignificação do passado através da realidade aumentada;  
+- Valorização do legado imaterial por meio da conexão com a história local;   
+- Percepção da identidade local;  
+- Projeções para o presente e futuro; 
+- Concepção do circuito físico-digital. 
+O primeiro tema, mapeamento das figuras e locais utópicos de Valongo, foi fundamental para 
+estabelecer a narrativa desta pesquisa. Esse mapeamento iniciou pela pesquisa de nomes de ruas e 
+foi aprofundado por meio das consultas a documentos, sites, livros e entrevistas. Dentro deste tema, 
+as humanidades digitais desempenh am um importante papel, permitindo que histórias e memórias 
+orais sejam registradas digitalmente, ganhando voz e sendo eternizadas.  
+Um importante contributo para o mapeamento dessas figuras e personagens veio do livro A 
+Villa de Vallongo. Na introdução, o Padre Joaquim Reis revela suas aspirações utópicas para contribuir 
+com Valongo e divulgar seu legado imaterial ao mundo: 
+Tentar um v ôo sem azas, querer cantar sem vós, fazer por subir sem escada ou vencer um 
+inimigo sem força, tudo eram tarefas arduas e não mais arduas do que aquella que o meu 
+coração suspirava realizar… Ora eu amo a minha patria, e como amar a patria é celebrar seu 
+nome… resolvi fazer uma obra que desse a conhecer todos os povos e a todos os seculos 
+sublimes grandezas da villa de Valongo. (Reis, 1904, pg. III - IV) 
+A cópia do livro foi consultada na biblioteca municipal, entretanto a participante Helena Lobo 
+revelou que possui um exemplar do livro por ter cooperado na realização de sua edição mais recente. 
+Helena confirma a importância do livro para Valongo: “Depois que o Padre escreveu a memória dele 
+(sobre Valongo), ninguém mais escreveu nada e embora não haja nada de científico no livro, oferece 
+muitas coisas importantes para nós percebemos Valongo naquela altura”.  
+ O segundo tema destacado, “ressignificação do passado através da realidade aumentada” 
+resultou do exercício de trazer figuras e lugares do passado para o presente. Esse exercício, realizado 
+
+ 63 
+no Workshop 4, permitiu dar nova vida e significado às figuras e lugares de Valongo. O tema foi 
+abordado no grupo focal I que contou com a participação de cinco alunos voluntários, referidos abaixo 
+como: Participantes Alunos A, B, C, D e E.  
+O Participante Aluno C destacou que a realidade aumentada facilitou a visualização de como 
+era o passado para ressignificar o futuro. A Participante Aluna A complementou dizendo: “A realidade 
+aumentada proporcionou uma melhor compreensão e apreciação do exercício.” Todos os presentes 
+concordaram com essa observação.  
+Ao abordar o tema no segundo grupo focal, também tivemos uma apreciação positiva em 
+relação à realidade aumentada. A participante Ana Helena comentou sobre a leitura da p rojeção da 
+Escola: “Foi exatamente o que os alunos disseram.” Para a professora Olga, a realidade aumentada 
+desempenhou um papel muito importante, ela disse: “Ajudou a trazer o passado para o presente.” A 
+Helena a interrompeu dizendo que queria dar os para béns ao projeto porque no início ela estava 
+expectante porque não estava a ver o produto final: “Para mim foi uma surpresa completa”. 
+ O próximo tema destacado foi a “valorização do legado imaterial por meio da conexão com a 
+história local”. No grupo focal dos alunos, constatamos que muitas das histórias eram desconhecidas 
+por eles. A partir das pesquisas realizadas, eles passaram a participar do processo de construção do 
+legado imaterial de Valongo e, a partir das ressignificações, se conectaram com esses lugares e 
+personagens.  
+Quando questionados se o projeto trouxe uma nova visão de Valongo, todos os participantes 
+alunos disseram enfaticamente que sim. Ressaltaram que nunca tinham parado para pensar nessas 
+pessoas e observar esses lugares. O Participante Aluno C disse que era de Sobrado e não sabia que era 
+ali a Fábrica Paupério. “Hoje percebo mais sobre a história e o passado de Valongo.” O Participante 
+Aluno D, residente em Valongo, afirmou que o projeto trouxe mais conhecimento local. Perguntei se 
+isso mudou a relação deles com a cidade, o Participante Aluno B reforçou a ideia dizendo que : 
+“Mostra-nos a idade e as pessoas que já passaram por aqui.”  
+
+ 64 
+O segundo grupo focal ta mbém refletiu sobre o tema. A professora Olga disse: “Eu fiquei 
+encantada com as coisas que eles haviam descoberto “. Ana Helena ressaltou a importância do registro 
+da memória oral das senhoras entrevistadas e comentou sobre Dona Luísa, dona do armarinho e m 
+frente à Praça Machado dos Santos: “E a senhora Luísa é igual, aquele lugar onde ela tem a loja, ela 
+dali viu Valongo mudar.” Helena concordou e acrescentou: “Exatamente, ela nasceu ali e, depois toda 
+a envolvência que ela tem com aquele lugar e com as m udanças que foram ocorrendo, além da 
+memória privilegiada que ela tem. Acho que com ela nós conseguimos resgatar o passado, mesmo até 
+de coisas que as pessoas lhe diziam por que ela sempre teve aquela loja. E, portanto, sempre foi uma 
+pessoa muito do povo,  envolvida na transmissão de ideias. A questão dela falar na Santa Justa, 
+portanto, naquelas memórias que estão ligadas aqui a Valongo. Foi uma forma de resgatar o Valongo.”  
+ O quarto tema foi a “percepção da identidade local”. À medida que os alunos e os  demais 
+participantes se envolveram mais profundamente com a história e patrimônios de Valongo, houve um 
+reconhecimento da identidade local sob uma perspectiva utópica. O assunto foi abordado no grupo 
+focal com os alunos quando analisamos a construção de V alongo por meio das figuras beneméritas. 
+Dei como exemplo famílias americanas abastadas que doam suas heranças para construir e manter 
+instituições, comparando com Valongo e citando o exemplo benemérito do s senhores Martins da 
+Nova e Ant ónio Paupério. Os a lunos concordaram que essas pessoas foram fundamentais na 
+construção do legado de Valongo.  
+A professora Olga teve um insight sobre a identidade de Valongo a partir da visualização do 
+roteiro do circuito no grupo focal. Ela disse: “Aquilo que vocês fizeram no centro de Valongo, o facto 
+de uma pequena cidade, aldeia ser quase retangular, como no caso do roteiro concentrar no centro, 
+todos os pontos de interesse, é uma característica da arquitetura dos socialistas utópicos do século 
+XIX. Ressaltou também que o centro histórico de Valongo tem como característica ser oitocentista. 
+Nesse momento, Olga ressaltou o papel da realidade aumentada no resgate da identidade local. 
+Segundo ela, a tecnologia ajudou a trazer o passado para o presente: “Tens uma geração que recupera 
+o passado e com isso a identidade de uma localidade e de um território.”  
+
+ 65 
+O quinto tema identificado foi “projeções para o presente e futuro". Os alunos participaram 
+de exercícios imaginativos, projetando de forma utópica como poderiam ser os espa ços e figuras de 
+Valongo no presente e no futuro. Esse exercício permitiu-lhes explorar criativamente as possibilidades 
+futuras, promovendo uma visão diferente da cidade. A realidade aumentada foi usada para ajudar na 
+visualização dessas projeções.  
+Ao abordar o tema nos grupos focais, relembrei que esse foi um exercício em que os alunos 
+foram incentivados a dar asas à imaginação, vislumbrando o futuro de forma livre. A professora Olga 
+complementou dizendo: “Foi a construção de uma narrativa extrapolativa. Tens aqui a geração mais 
+jovem de Valongo que se apropria desse passado e também projeta para o futuro, porque eles 
+também tiveram a oportunidade de transformar as coisas em espaços futuros.” No momento em que 
+viram as projeções da fábrica Paupério Ana Hel ena disse: “Adoro a forma como os alunos foram 
+criativos.” 
+Percebemos que as memórias coletadas também desempenharam um importante papel na 
+transposição da história através do tempo, como observado na fala de Ana Helena sobre duas 
+senhoras entrevistadas: “… as duas sempre foram à frente do seu tempo, talvez pela quantidade de 
+coisas que passaram à frente dos olhos delas.” E continuou: “Na questão da memória coletiva, 
+também pensamos nas pessoas que não vão estar aqui daqui a cinquenta anos. Para mim o facto de 
+ouvirmos melhor sobre o que foi, nos permite pensar no que poderia ter sido. Também pela questão 
+de uma memória oral que está nela, vivo nela, que não está escrito em lugar nenhum.” 
+Por último, apontamos como tema relevante a “concepção do circuito fís ico-digital” po is 
+através dele, promovemos o engajamento e autonomia dos participantes, aspectos essenciais na 
+metodologia adotada no projeto. Na abordagem participativa, alunos, facilitadores, participantes e 
+comunidade são co-criadores tendo um papel ativo na construção da narrativa do projeto que neste 
+caso, resultou no protótipo do circuito utópico de Valongo. Percebemos essa autonomia, por exemplo, 
+durante o grupo focal I, quando os alunos sugerem detalhes para o circuito como duração, marcações, 
+narração e arte do mapa.  
+
+ 66 
+Para a professora Olga, os alunos demonstraram uma grande capacidade de se adaptar às 
+circunstâncias e autonomia: “Era o primeiro dia em que eles tinham contacto contigo e com o projeto 
+e até com a técnica de audiovisual. Mas ficaram muito atentos à parte expositiva, as explicações de 
+como usar as tecnologias, de como fazer uma entrevista. E aquilo, eu nunca imaginei, pronto, eu 
+pensei: Isso hoje vai ser um bocado assim difícil, mas eles em uma aula de noventa minutos, fizeram 
+tudo e vieram a correr porque tinha que ser em espaços fechados. Uns foram para a biblioteca, nos 
+sítios todos, nos cantinhos onde eles conseguiam ficar sem apanhar chuva. Eles fizeram o trabalho. E 
+foi bem difícil, porque o grupo que ficou na sala eu pensei, pronto eles vão desistir, mas não. Eles 
+gravaram várias vezes e não desistiram.” E continuou: “E foi feita uma coisa que é muito importante 
+para mim, e que é isso que também valoriza o projeto, que é dar a autonomia. Dá-lhes a oportunidade 
+de escolher, decidir, procurar mais informação, não se sentir satisfeito com o que tem e ir a procura 
+de mais alguma coisa, embora nem todos os grupos estivessem a funcionar dessa forma, mas quando 
+pediste para eles trazerem mais alguma coisa, eu fiquei encantada com as coisas que eles haviam 
+descoberto.“ Mais a frente finalizando a sessão, a Helena disse: “Nós também aprendemos com o 
+projeto” e depois a Ana Helena: “Para mim, enquanto Valonguense também é muito interessante 
+perceber que existe muita coisa ainda que pode ser explorada e perceber essa dedicação dos alunos.”  
+Os resultados apresentados, tanto tangíveis quanto intangíveis, refletem um trabalho coletivo 
+e robusto. Através das diversas atividades, conseguimos engajar os participantes não apenas nos 
+conceitos, mas também conectá-los à história local por meio das ressignificações de seus espaços e 
+figuras. A criação do circuito físico-digital oferece uma experiência imersiva que combina passado, 
+presente e futuro. Na próxima sessão, analisaremos esses resultados à luz dos autores que guiara m 
+esta investigação.   
+ 
+ 
+ 
+  
+
+ 67 
+4.   DISCUSSÃO DOS RESULTADOS 
+O projeto nos permitiu, entre outras coisas, observar o legado de Valongo a partir de uma 
+perspectiva utópica. O dossiê , construído a muitas mãos, trouxe a história de figuras que tinham o 
+desejo de desenvolver Valongo, ultrapassando as condições da realida de na época. Para Levitas 
+(1990), essa motivação pode ser explicada pelo fato de a utopia ter sua base no desejo humano que 
+por meio da esperança, permite-se opor às condições históricas reais. Ao olharmos para o passado e 
+entendermos que Valongo foi construída por mentes utópicas que almejavam um lugar melhor para 
+si e para sua comunidade, encontramos na discursividade utópica proposta por Vieira (2016) formas 
+de organizar nossas reflexões , fornecendo-nos ferramentas para propor mudanças e construir um 
+futuro melhor. 
+Para tratar esses materiais e pr eservar as memórias orais obtidas, aplicamos conceitos das 
+humanidades digitais, que, segundo Rollo (2019) possibilitam a expansão do universo de conteúdos 
+de forma a preservá-los para gerações futuras. Nesse sentido, percebemos a importância do projeto, 
+tendo em vista o registro de memórias dos moradores locais. As ressignificações foram interpretadas 
+pela realidade aumentada , devido à sua capacidade de sobrepo r imagens, um potencial enfatizado 
+por Azuma et al. (2001) na interação simultânea do mundo real e objetos virtuais.  
+Ao estimular a aproximação com a história local, foi possível estabelecer uma conexão com o 
+legado imaterial de Valongo. Muitos alunos não tinham conhecimento sobre as personagens e locais 
+revelados nas pesquisas. À medida que as atividades eram propostas, percebemos a apropriação dos 
+participantes ao seu próprio lugar, sentindo -se à vontade para desconstruir as histórias das 
+personagens e lugares. Esse trabalho foi possível devido às relações estabelecidas por meio dos grupos 
+formados e atividades comparti lhadas. Kirschenbaum (2012) destaca como um dos aspectos sociais 
+das humanidades digitais, o trabalho em parceria através da criação de redes de pessoas. Sob a 
+perspectiva metodológica, destacamos o papel das humanidades cidadãs, que, segundo Heinisch et 
+al. (2021), valorizam a interação entre comunidade, cidadãos e pesquisa em um ambiente 
+colaborativo e inclusivo.  
+
+ 68 
+A percepção da identidade local foi observada partindo do pessoal para o universal, à medida 
+que os participantes aprofundaram nas histórias da s diferentes personalidades que construíram 
+Valongo. Por trás dessas figuras passadas havia um sentimento íntimo de solidariedade e preocupação 
+em ajudar e contribuir com sua região.  É possível perceber o aspecto utópico por detrás dos 
+beneméritos, que de ixam impresso seus desejos pessoais de tornar Valongo um lugar melhor. 
+Segundo Moylan (2003), a utopia enquanto estrutura de sentimento tem uma ligação sutil com a 
+ideologia, oferecendo uma forma sutil de perceber como o elemento utópico funciona no campo 
+social. O autor conclui que o impulso utópico age através do sentimento.  
+ O processo de construção da narrativa do projeto possibilitou a transposição do tempo, 
+trazendo o passado para o presente e ressignificando o futuro. De forma criativa, os alunos 
+promoveram uma visão diferente de Valongo. Conforme destacado pela professora Olga, o projeto 
+estimulou a geração jovem a se apropriar do passado, transformá -lo e projetar o futuro. Essas 
+transformações tomaram forma por meio da realidade aumentada, utilizan do diferentes recursos, 
+como fotografias, áudio, documentos e imagens. Azuma (2001) destaca o potencial que a tecnologia 
+tem de se aplicar aos nossos sentidos, por meio de recursos como fotografias, sons e cheiros. A 
+realidade aumentada, portanto, atuou co mo uma ponte, permitindo que os participantes 
+experimentassem a história Valongo de maneira sensorial interativa. 
+Na concepção do circuito físico -digital, destacamos o engajamento e autonomia dos 
+participantes, estimulados pela metodologia das humanidades cidadãs. Nela, a participação e o 
+conhecimento popular são vistos como fatores essenciais e valorizados na pesquisa. Para Jagosh et al. 
+(2012), a abordagem participativa nas pesquisas, enfatiza a criação conjunta de conhecimento através 
+da colaboração mútua entre comunidade e investigador . De acordo com Heinisch et al. (2021), o 
+desenvolvimento das tecnologias digitais não apenas levou ao surgimento das humanidades digitais, 
+mas também a novas maneiras de envolver cidadãos nas atividades de instituições de patrimônio 
+cultural e pesquisa acadêmica. Para os autores, as contribuições dos participantes para a pesquisa 
+acadêmica e para a preservação do patrimônio cultural variam desde a descoberta de tesouros 
+
+ 69 
+escondidos em arquivos e ambientes digitais até a exploração do conhecimento local, reconhecendo 
+o importante papel das humanidades cidadãs na preservação e enriquecimento do patrimônio 
+cultural.  
+Olhando para a questão investigada, percebemos que, por meio das humanidades digitais 
+garantimos registros  anteriormente não documentados, observando a história local a partir da 
+perspectiva utópica de figuras movidas pelo desejo e esperança de superar as limitações de sua época.  
+Esse processo estabeleceu uma narrativa capaz de transpor o tempo, trazendo o passado para o 
+presente e ressignificando o futuro, com o apoio da realidade aumentada, que conferiu interatividade 
+ao projeto. Diante disso, constatamos que a rede de colaboração f ormada envolveu os participantes 
+com a história local, promovendo um senso de apropriação.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 70 
+5.   CONCLUSÕES 
+Iniciamos esta investigação com um estudo aprofundado sobre os temas centrais que 
+nortearam as atividades desenvolvidas ao longo dos seus diferentes ciclos . No estado da arte , 
+elucidamos o papel das humanidades digitais na preservação e enriquecimento do patrimônio 
+imaterial. Em seguida , exploramos o potencial da realidade aumentada , experimentando -a para 
+contribuir com o projeto  através d e um  conceito utópico  que trouxe autenticidade à narrativa 
+construída.  
+Ao adotar uma metodologia participativa, o projeto deu voz a pessoas com conhecimento e 
+experiências genuínas que não podem ser acessadas por outro s meios, conferindo um caráter único 
+ao seu escopo. Trabalhando com  diferentes públicos, promovemos diálogo entre gerações e 
+estabelecemos uma linguagem diversificada a partir de distintos pontos de vista. 
+Para além do estudo bibliográfico, desenvolvemos diversas atividades para experimentar 
+nossas propostas e obter resultados concretos que ajudássemos a responder à questão central. 
+Realizamos cinco workshops centrados nos temas principais da pesquisa, desenvolvendo habilidades 
+tecnológicas nos participantes e conceitos abordados que geraram material para a pesquisa. O 
+primeiro workshop nos permitiu fazer um diagn óstico dos alunos participantes em torno das áreas 
+trabalhadas. No segundo, capacitamos os participantes para a produção de conteúdos  audiovisuais; 
+no terceiro, aprofundamos valores utópicos ; no quarto, exploramos a realidade aumentada com o 
+aplicativo Artivive ; e no quinto, concebemos o circuito físico digital a partir do resultado das 
+ressignificações. 
+Por sua vez , as visitas não estruturadas a moradores locais estabeleceram diálogos 
+espontâneos, revelando histórias únicas e personalizadas, a partir das experiências de vida dessas 
+pessoas. Os grupos focais conferiram espontaneidade ao projeto, devido a sua proposta livre, onde os 
+participantes puderam expor suas impressões, opiniões e experiências. Como resultado, destacamos 
+o aperfeiçoamento do circuito físico-digital e a percepção das mudanças proporcionadas pelo projeto. 
+
+ 71 
+Destacamos o engajamento dos participantes que, através de pesquisas e recolhas, criar am 
+um dossiê com figuras e lugares com potencial utópico, servindo de base para as ressignificações. Esse 
+trabalho não apenas estabeleceu novas narrativas , mas também  evidenciou a apropriação dos 
+participantes da própria história, permitindo novas interpretações dessas figuras e lugares.  
+Observamos que as humanidades digitais desempenharam um importante papel na condução 
+da pesquisa por meio dos recursos tecnológicos como a digitalização e preservação de documentos e 
+memórias orais, ampliando o universo de conteúdos disponíveis. Um exemplo significativo foi a 
+digitalização de partes do livro A Villa de Vallongo, apesar de algumas restrições de acesso. O livro só 
+pode ser consultado na biblioteca de Valongo. 
+A realidade aumentada foi fundamental para  dar forma às ideias e projeções das 
+ressignificações do passado e criar um novo ânimo aos participantes em determinados momentos. 
+Embora a escolha do aplicativo Artivive tenha sido acertada, podemos constatar algumas limitações 
+como a necessidade de sinal de internet e condições específicas de iluminação.  
+A metodologia participativa foi enriquecedora, trazendo valiosas contribuições de memórias, 
+pesquisas, ideias e experiências  dos participantes e comunidade . Contudo, a heterog eneidade do 
+grupo apresentou desafios, como manter os participantes envolvidos ao longo do projeto, conciliar 
+diferentes pontos de vista e ajustar agendas, especialmente com o calendário escolar. 
+Apesar desses desafios, o engajamento dos participantes foi notável, permitindo-nos alcançar 
+os resultados dentro do prazo. A partir do feedback nos grupos focais, constatamos que o projeto 
+contribuiu para uma melhor compreensão da identidade  local sob a perspectiva utópica. Como 
+considerações finais, acreditamos que este projeto tem potencial para futuros desdobramentos.  
+Participantes, incluindo a professora Olga Almeida, a coordenadora Helena Lobo, alunos que 
+participaram do grupo focal e os moradores que estiveram em contato com o projeto, expressaram o 
+desejo de expandir as pesquisas e o circuito para outras áreas do concelho de Valongo.  
+ 
+
+ 72 
+REFERÊNCIAS 
+Agrupamento de Escolas de Valongo. (2021). Alunos do Curso Profissional de Técnico de Gestão e 
+Programação de Sistemas Informáticos. https://aevalongo.dyndns.org/ 
+Almeida, F. R. (2018, Julho 18). Uma viagem pela história de Vallongo. O Meu Blog. 
+https://fralmeida.blogspot.com/2018/ 
+Arquivo Histórico Municipal de Valongo. (2022). Facebook.com 
+https://www.facebook.com/arquivohistoricomunicipal.valongo/photos 
+Arquivo Municipal de Valongo. (n.d.). Página Oficial da Câmara Municipal de Valongo. 
+https://arquivo.cm-valongo.pt/ 
+Azuma, R. (1997). A Survey of Augmented Reality.  Presence: Teleoperators & Virtual Environments, 
+6(4), 355-385. 
+Azuma, R., et al. (2001). Recent Advances in Augmented Reality. IEEE Computer Graphics and 
+Applications, 34-47. https://www.researchgate.net/publication/3208983 
+Beauvoir, S. de (1948). Ambiguity and Freedom. In Frechtman, B. (Ed.), The ethics of Ambiguity (1-
+34). Citadel Press. THE ETHICS OF AMBIGUITY | Antilogicalism 
+Bekele, M. K., et al. (2018). A Survey of Augmented, Virtual, and Mixed Reality for Cultural Heritage. 
+ACM Journal on Computing and Cultural Heritage, 11(2), 7:1- 7:36. 
+https://doi.org/10.1145/3145534  
+Berriel, C. E.O. (2022). Political theories and practices.  In Marks, P. et al.(Eds.), The Palgrave 
+Handbook of Utopian and Dystopian Literatures (pp. 293-302). Palgrave Macmillan. 
+https://doi.org/10.1007/978-3-030-88654-7 
+Blaim, A. (2022). Anti-utopia. In Marks, P., et al. (Eds.). The palgrave handbook of utopian and 
+dystopian literatures (pp.39-52). Palgrave Mcmillan. https://doi.org/10.1007/978-3-030-
+88654-7 
+
+ 73 
+Bloch, E. (2000). The Spirit of Utopia. Stanford University Press. ISBN 0-8047-3765-7. 
+Bolter J. D. & Grusin R. (1999). Remediation: Understanding New Media. (First MIT Press Paperback 
+Edition). MIT Press. ISBN 0-262-02452-7 
+Bonney, R., et al. (2009). Public Participation in Scientific Research: Defining the Field and Assessing 
+Its Potential for Informal Science Education. A CAISE Inquiry Group Report. Washington, D.C.: 
+Center for Advancement of Informal Science Education (CAISE). 
+https://www.informalscience.org/sites/default/files/PublicParticipationinScientificResearch.
+pdf 
+Brasão, M. dos R. & Batista, G. A. (2020). A Internet: entre a utopia e a distopia. In Oliveira, L. R. 
+(Ed.), Educação: dilemas contemporâneos (67 - 82). Pantanal Editora. 
+https://doi.org/10.46420/9786599064180 
+Burdick, A., et al. (2020). Um breve guia para as Humanidades Digitais. TECCOGS - Revista Digital de 
+Tecnologias Cognitivas. Vol. 21, pp. 69-98. 
+https://revistas.pucsp.br/index.php/teccogs/article/view/51727/33758 
+Câmara Municipal de Valongo (2024). História. Site Oficial da Câmara de Valongo. https://www.cm-
+valongo.pt/descobrir/historia/historia#industria 
+Castells, M. (2001). A Galáxia da Internet: Reflexões sobre a internet, os negócios e a sociedade. 
+Editora Zahar. 
+Cetaps & Anglo-Portuguese Studies. (2015). Utopia 500.  https://www.utopia500.net/. 
+Cowles, J. (2009). The Internet as Utopia: Reality, Virtuality, and Politics. Oshkosh Scholar. Vol. 4, pp. 
+81-89. 
+Creswell, J. W. (2013). Qualitative Inquiry & Research Design - Choosing Among Five Approaches (3rd 
+ed.). Sage Publications. 
+https://edisciplinas.usp.br/pluginfile.php/7973605/mod_resource/content/1/Creswell_-
+John-W-Qualitative-Inquiry-and-Research-Design_-Choosing-Among-Five-Approaches-SAGE-
+Public.pdf 
+
+ 74 
+Cunha, M. J. (2021, Fevereiro 15). Portais - Brasões - Aldrabas - Tranquetas- Taramelas 
+[Blog].https://manueljosecunha.blogspot.com 
+Dacos, M. (2011, March 26). Manifesto das Digital Humanities. ThatCamp 2012, Paris. 
+https://humanidadesdigitais.org/manifesto-das-humanidades-digitais/.  
+Dias, M. A. (2021). Valongo na primeira república. (1st ed.). Câmara Municipal de Valongo. 
+https://issuu.com/multimediacmvalongo/docs/valongo_na_1a_republica 
+Farias, M. G. G., et al. (2015). Empoderamento para o desenvolvimento social comunitário mediante 
+tecnologias intelectuais digitais. Revista Internacional de Ciencias Sociales, 2(4), páginas 219-
+231. http://lascienciassociales.com 
+Feiner, S. K. (2002). Augmented Reality: A new way of seeing computer scientists are developing 
+systems that can enhance and enrich a user’s view of the world. Scientific American, 50-55. 
+augmented reality: - anew way of seeing 
+Felipe, S. T. (1979). O conceito de utopia na proposta Paulofreiriana. Periódicos UFSC, 69-79.  
+Finch, H., & Lewis, J. (2003). Focus group. In J. Ritchie & J. Lewis (Eds.), Qualitative research practice: 
+A guide for social science students and researchers (170–198). SAGE Publications. 
+https://mthoyibi.files.wordpress.com/2011/10/qualitative-research-practice_a-guide-for-
+social-science-students-and-researchers_jane-ritchie-and-jane-lewis-eds_20031.pdf  
+Firmino, C. (2006). A Utopia morreu. Viva a utopia? Da necessidade de um novo paradigma utópico. 
+Dos Algarves, 14, 19-25. https://www.dosalgarves.com/images/dosalgarves_14.pdf 
+Fitzpatrick, K. (2012). The Humanities, Done Digitally.  In M. G. (Ed.), Debates in the Digital 
+Humanities (12-15). University of Minnesota Press. Debates in the Digital Humanities 
+Gortari, A. B. O. (2019). Characteristics of gama transfer phenomena in location-based augmented 
+reality games. In Geroimenko, V. (Ed.), Augmented Reality Games I - Understanding the 
+Pokémon Go Phenomenon (15-34). This Springer. https://doi.org/10.1007/978-3-030-15616-
+9 
+
+ 75 
+Griffiths, V. A. (2005). Contemporary feminist utopianism and the transformation of the political: 
+Discursive Democracy in Marge Piercy’s Woman on the Edge of Time and the Norwegian 
+Women’s Shelter Movement. Norwegian Open Research Activities (1-89). 
+oai: www.duo.uio.no:10852/13756 
+Guia, M. O. V. da, et al. (2021). Humanidades digitais: conceitos e origem. Digitales PublicAAHD, 2, 1-
+12. https://doi.org/10.24215/27187470e018 
+Haklay, M., et al. (2021). What is citizen science? The challenges of Definition. In Vohland, K., et al., 
+(Eds.), The Science of Citizen Science (13- 34). Springer.      
+https://doi.org/10.1007/978-3-030-58278-4  
+Heinisch, B., et al. (2021). Citizen Humanities. In K. Vohland et al. (eds.), The Science of Citizen 
+Science (97-118). Scopus. https://doi.org/10.1007/978-3-030-58278-4_6 
+Jenkins, H. (2006). Convergence Culture. Where Old and New Media Collide. New York University 
+Press. Henry Jenkins Convergence culture where old and new media collide 2006.pdf 
+Jenkins, H., et al. (2009). Confronting the Challenges of Participatory Culture: Media Education for 
+the 21st Century. The MacArthur Foundation, 1-70. 
+https://www.macfound.org/media/article_pdfs/jenkins_white_paper.pdf 
+Junior, A. M. S., & Gama, A. C. T. (2022). Patrimônio histórico e humanidades digitais: o uso do my 
+maps no ensino de história sobre a ditadura civil-militar no Recife. Revista Espacialidades, 
+18(2), 1-25. https://doi.org/10.21680/1984-817X.2022v18n2ID28296 
+Kirner, C., & Tori, T. (2006). Fundamentos de Realidade Aumentada. In Tori, R. et al. (Eds.), 
+Fundamentos e Tecnologia de Realidade Virtual e Aumentada (22-38) . Editora SBC – 
+Sociedade Brasileira de Computação. Fundamentos e Tecnologia de Realidade Virtual e 
+Aumentada 
+Kirschenbaum, M. (2012). What Is Digital Humanities and What’s It Doing in English Departaments?  
+In M. G. (Ed.), Debates in the Digital Humanities (3-11). University of Minnesota Press. 
+Debates in the Digital Humanities 
+
+ 76 
+Levitas, R. (1990). The Concept of Utopia, 3. Peter Lang.  
+Lévy, P. (1992). As tecnologias da inteligência: O futuro do pensamento na era da informática. 
+Revista Eletrônica Mídias, Educação e Tecnologias. AS TECNOLOGIAS DA INTELIGÊNCIA 
+Lévy, P. (2000). A inteligência coletiva: por uma antropologia do ciberespaço. Dinâmica das cidades 
+inteligentes. Manifesto por uma política molecular. São Paulo: Edições Loyola, 3, 59-82. 
+https://www.scribd.com/doc/91702416/Pierre-Levy-A-Inteligencia-Coletiva 
+Liang, L. J., & Elliot, S. (2021). A systematic review of augmented reality tourism research: What is 
+now and what is next?  Tourism and Hospitality Research, 21(1), 15-30. 
+https://journals.sagepub.com/doi/10.1177/1467358420941913 
+Liberati, N. (2019). Mediation theory between Pokémon GO phenomenon. In Geroimenko, V. (Ed.), 
+Augmented Reality Games I - Understanding the Pokémon Go Phenomenon (51-60) . This 
+Springer. https://doi.org/10.1007/978-3-030-15616-9 
+Liu, A. (2013).  The Meaning of the Digital Humanities. Modern Language Association of America. 
+409-423. 
+https://escholarship.org/content/qt5gc857tw/qt5gc857tw_noSplash_033786a8a80119e7df
+4247276a58e4b6.pdf?t=o89hwi 
+Martin, M., & Vacca, F. (2018). Heritage narratives in the digital era: How digital technologies have 
+improved approaches and tools for fashion know-how, traditions, and memories. Research 
+Journal of Textile and Apparel, 22(4), 335-351. 
+https://www.emerald.com/insight/content/doi/10.1108/RJTA-02-2018-0015/full/html 
+McCarty, W. (2003). Humanities Computing. Encyclopedia of Library and Information Science, 1224-
+1235.  https://www.mccarty.org.uk/essays/McCarty,%20Humanities%20computing.pdf 
+Milgram, P., et al. (1995). Augmented reality: A class of displays on the reality-virtuality continuum. 
+SPIE - The International Society for Optical Engineering, 2351, 282-292. 
+https://doi.org/10.1117/12.197321 
+More, T. (2017). Utopia. (First ed.). Clube do Autor S/A. 
+
+ 77 
+Moreira, L. (2022). Digital Humanities and Citizen Science: The Road Not (Yet) Taken. Thinking Citizen 
+Science - Challenges and opportunities for the Social Sciences. ResearchGate, 1-5. 
+https://www.researchgate.net/publication/364238031_Digital_Humanities_and_Citizen_Sci
+ence_The_Road_Not_Yet_Taken/references 
+Moreira, L., et al. (2023). The making of a sustainable digital humanities lab: A values-oriented 
+approach. Arts and Humanities in Digital Transition, 43-44. https://ah-
+digitaltransition.fcsh.unl.pt/wp-content/uploads/2023/07/ONLINE_Book_of_Abstracts.pdf 
+Moylan, T. (2000). Scraps of the Untainted Sky - Science Fiction, Utopia, Dystopia. Cultural Studies 
+Series. 
+Mosco, V. (2023). Into the Metaverse: Technical Challenges, Social Problems, Utopian Visions, and 
+Policy Principles. Javnost - The Public, 30(2), 161-173 
+https://www.emerald.com/insight/content/doi/10.1108/RJTA-02-2018-0015/full/html 
+Moylan, T. (2003). Utopia e pós-modernidade: seis teses. Revista Leitura, 2(32), 121–134.  
+Oficina de Regueifa e do Biscoito de Valongo. (2024). https://www.oficinadaregueifaedobiscoito.pt/ 
+Pereira P. de F., et al. (2017). Fundamentos de Realidade Aumentada. Unisanta Science and 
+Technology., 6(2), 101-107.  http://periodicos.unisanta.br/index.php/sat 
+Pordata. (2021). População residente em Valongo. Fundação Francisco Manuel dos Santos. 
+https://www.pordata.pt/municipios 
+Reis, J. A. L. (1904). A Villa de Vallongo. Typografia Coelho (a vapor). 
+Rhodes, A. G. (2019). Waiting for the augmented reality ‘Killer App`: Pokémon GO 2016. In 
+Geroimenko, V. (Ed.), Augmented Reality Games I - Understanding the Pokémon Go 
+Phenomenon (3-14) . This Springer. https://doi.org/10.1007/978-3-030-15616-9 
+Ribeiro, H. F. da S. (2020). A sucessão nas empresas familiares - Estudo longitudinal da empresa 
+Paupério: 1874-2020. Repositórios Científicos de Acesso Aberto de Portugal.  
+https://hdl.handle.net/10216/130959    
+
+ 78 
+Rollo, M. F. (2019). Desafios e responsabilidades das humanidades digitais: preservar a memória, 
+valorizar o patrimônio, promover e disseminar o conhecimento. O programa Memória para 
+Todos. Revista Estudos Históricos Rio de Janeiro, 33(69), p. 19-44. 
+http://dx.doi.org/10.1590/S2178-149420200001000003 
+Sargent, L. T. (1994). The three faces of utopianism revisited, 5(1), 1-37. 
+https://www.jstor.org/stable/20719246 
+Sargent, L. T. (2010). Utopianism: a very short introduction. (First Ed.)  Oxford University Press. 
+Serres, B., et al. (2023). VISIT: A Content Management and Exploration System for Mobile Augmented 
+Reality in the Context of Digital Humanities and Cultural Heritage. Journal on Computing and 
+Cultural Heritage, 16(2), 30:1-30:19. https://doi.org/10.1145/3582264 
+Snape, D. & Spencer L. (2003). Qualitative Research Practice - A Guide for Social Science Students and 
+Researchers. 1st Ed.). SAGE publications. https://mthoyibi.wordpress.com/wp-
+content/uploads/2011/10/qualitative-research-practice_a-guide-for-social-science-students-
+and-researchers_jane-ritchie-and-jane-lewis-eds_20031.pdf 
+Söbke, H., et al. (2019). Long-term engagement in mobile location-based augmented reality games. 
+In Geroimenko, V. (Ed.), Augmented Reality Games I - Understanding the Pokémon Go 
+Phenomenon (129-148) . This Springer. https://doi.org/10.1007/978-3-030-15616-9 
+Spiro, Lisa., et al. (2012). “This Is Why We Fight”: Deﬁning the Values of the Digital Humanities. In M. 
+G. (Ed.), Debates in the Digital Humanities (16-35). University of Minnesota Press. Debates in 
+the Digital Humanities 
+Strange, D., et al. (2023). Equality, findability, sustainability: the challenges and rewards of open 
+digital humanities data. International Journal of Performance Arts and Digital Media, 1-21. 
+https://doi.org/10.1080/14794713.2023.2206286 
+Sutherland, I. (1968). A head-mounted three dimensional display. AFIPS - Fall Joint Computer 
+Conference, 757-764. https://dl.acm.org/doi/pdf/10.1145/1476589.147668 
+
+ 79 
+Suvin, D. (2019). On Communism, Science Fiction, and Utopia: The Blagoevgrad Theses. Mediations 
+Journal, 32(2), 139-160. www.mediationsjournal.org/articles/communism-science-fiction-
+utopia 
+Tierney, M. (2022). The twenty-first century.  In Marks, P., et al. (Eds.). The palgrave handbook of 
+utopian and dystopian literatures (pp. 149-164). Palgrave Mcmillan. 
+https://doi.org/10.1007/978-3-030-88654-7 
+Trocchianesi, R., & Bollini, L. (2023). Design, Digital Humanities, and Information Visualization for 
+Cultural Heritage. Multimodal Technol. Interact, 7(102), 1-13.   
+https:// doi.org/10.3390/mti7110102 
+Unesco. (2003, October 17). Convenção para a Salvaguarda do Patrimônio Cultural Imaterial, Paris. 
+https://unesdoc.unesco.org/ark:/48223/pf0000132540_por.locale=en 
+Utopia 500 (2015). Valongo Cidade Utópica. https://www.utopia500.net/valongo 
+Vieira, F. (2004). Lyman Tower Sargent: Uma vida dedicada à Utopia. E-topia: Revista Electrónica de 
+Estudos sobre a Utopia, 2, 1-4.  https://ler.letras.up.pt/uploads/ficheiros/artigo10601.pdf 
+Vieira, F. (2010). The Concept of Utopia. In Claeys, G. (Ed.), The Cambridge Companion to Utopian 
+Literature (pp.3-27). Cambridge University Press. The concept of utopia (Chapter 1) - The 
+Cambridge Companion to Utopian Literature 
+Vieira, F. (2016). The four modes of thinking framed by utopian discursivity; Or why we need Utopia. 
+In Monteiro, M., et al. (Eds.), Utopia(s) - Worlds and Frontiers of the Imaginary (9-24). CRC 
+Press. https://hdl.handle.net/10216/109139 
+Vieira, F. (2022). Micronations and hyperutopias.  In Marks, P., et al. (Eds.). The palgrave handbook 
+of utopian and dystopian literatures (pp.279-292). Palgrave Mcmillan. 
+https://doi.org/10.1007/978-3-030-88654-7  
+ 
+ 
+ 
+     
+
+ 80 
+ANEXOS 
+Anexo A: Apresentação utilizada no Workshop 1 
+ 
+ 
+ 
+
+
+ 81 
+ 
+ 
+ 
+
+
+ 82 
+ 
+ 
+ 
+ 
+
+
+ 83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 85 
+Anexo B: Mapa de Valongo utilizado para atividade no Workshop 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 86 
+Anexo C: Descrição do Workshop 1 
+Workshop 1 - Escola Secundária de Valongo       
+Data e Horário: 01/02/2024 - 9h30 às 11h30; 
+Turma: 10º ano 
+Professora Olga Almeida - 29 alunos, com idades entre 15 e 16 anos;    
+  
+Sessão 1 - Abertura - 30 minutos 
+A professora Olga Almeida iniciou o workshop apresentando a aluna Roberta Rodrigues e 
+destacando a parceria estabelecida entre a Universidade do Porto e a Escola Secundária de Valongo. 
+Foi feita a apresentação da agenda do dia, do projeto e detalhes sobre a proposta de parceria. Além 
+disso, houve uma discussão sobre "mentes utópicas" detalhados abaixo: 
+ 
+Objetivos: 
+- Apresentar a pesquisa aos alunos; 
+- Fazer um diagnóstico para perceber o quanto eles entendem dos conceitos abordados, como as 
+Humanidades Digitais, Utopia e Realidade Aumentada. 
+ 
+Sobre a pesquisa: 
+A pesquisa “Realidade Aumentada: Passado -Presente-Futuro: Um Projeto de Humanidades 
+Digitais em Valongo" tem como objetivo reconstruir memórias a partir das Humanidades Digitais, 
+utilizando a Realidade Aumentada para a concepção de um roteiro físico -digital. Este roteiro visa 
+compartilhar narrativas que se integrem às identidades regionais utópicas de Valongo. A pesquisa 
+integra um conjunto de iniciativas firmadas através de um protocolo entre o Município de Valongo e 
+a Faculdade de Letras da Universidade do Porto, denominado: Valongo: Cidade Utópica. Embora a 
+Escola Secundária de Valongo esteja envolvida em diferentes atividades do projeto, a presente turma 
+(10º ano) ainda não estava inserida em nenhuma delas.  
+ 
+Contextualização: 
+Em seguida explicamos aos alunos que a proposta do projeto se apoia na metodologia das 
+Humanidades Cidadãs, propondo uma participação ativa da escola e comunidade em conjunto com o 
+investigador para explorar as memórias locais.      
+ 
+Conceitos abordados: 
+Humanidades Digitais: Incorpora métodos, dispositivos e perspectivas ligadas ao digital no 
+contexto das ciências humanas e sociais, tendo suas iniciativas norteadas pela ideia de livre acesso e 
+de uma busca por metodologias e ferramentas para que as informa ções estejam cada vez mais 
+disponíveis e melhor organizadas.  
+Realidade Aumentada: Exemplificamos pelo jogo Pokémon Go. 
+ 
+Reflexões:  
+ O que caracteriza as mentes utópicas? Qual seria o perfil dessas pessoas? 
+
+ 87 
+Para ajudá-los nessa reflexão, buscamos exemplos de personagens conhecidos, partindo do geral para 
+o particular como Malala Yousafzai e Nelson Mandela. Os alunos citaram como exemplos Leonardo 
+Da Vinci e Luís de Camões.  
+Resultados: 
+Nessa reflexão, identif icamos valores que alimentam mentes utópicas como imaginação, 
+coragem, conflito e liberdade, justiça, igualdade e sustentabilidade. 
+ 
+Sessão 2- Atividade prática - 75 minutos 
+Etapa 1  
+Material: Mapa físico de Valongo e telemóvel dos alunos;  
+Cada grupo identificou no mapa, seus lugares favoritos, lugares importantes  para eles e para a 
+comunidade; utilizaram seus dispositivos móveis para localizar os pontos desejados; posteriormente, 
+cada grupo elegeu um representante para apresentar à frente da sala os lugares escolhidos e justificar 
+a escolha; 
+ 
+Objetivos:  
+Promover a conscientização dos alunos sobre sua comunidade, incentivando -os a explorar e 
+identificar os lugares significativos e importantes em seu entorno. Desenvolver habilidades de 
+navegação e uso de tecnologia, conectando -se com os espaços físicos ao seu redor. Estimular a 
+representatividade e expressão oral dos alunos, promovendo habilidades de comunicação e debate. 
+ 
+Resultados:  
+Grupo 1  
+- Sede do Estrela (clube do Martim) 
+- As próprias casas 
+- Estádio de Valongo 
+- Estação de Valongo (transportes) 
+- Escola Básica 23  
+- P. Radical (local de lazer) 
+- Oficina da Regueifa e do Biscoito  
+- Parque da Cidade 
+- Igreja  
+- Cemitério 
+- Hospital 
+- Pavilhão 
+- Polícia 
+- Tribunal 
+- Bombeiros 
+- Veterinário 
+- Ginásio 
+- Praça Machado dos Santos 
+- LongusBike (loja de bicicletas) 
+ 
+ 
+
+ 88 
+Grupo 2  
+- Mercado Continente 
+- Estação de Valongo 
+- McDonald´s 
+ 
+Grupo 3  
+- Cemitério (Rua da Misericórdia) 
+- Hipersol (Rua Eduardo Joaquim Reis Figueira) 
+- Igreja (em homenagem ao Paupério) 
+- Capela Nossa Senhora da Saúde (Rua Padre Miguel Paupério do Vale) 
+- Continente  
+- Biblioteca  
+ 
+Grupo 4  
+- Pavilhão Municipal de Valongo 
+- Fábrica de Biscoitos Paupério 
+- Oficina da Regueifa e do Biscoito 
+- Passadiço da Santa Justa 
+ 
+Etapa 2  
+Cada grupo associou suas escolhas a lugares utópicos propostos, buscando características 
+utópicas que poderiam justificar os temas sugeridos, como Jardim da Eternidade, Vale da Fartura, 
+Paraíso Digital e Santuário do Diálogo. 
+ 
+Resultados: 
+Grupo 1  
+Santuário do Diálogo - Casas dos alunos 
+Bosque da Sabedoria - Escola Básica EB ⅔ 
+Pico da Felicidade - P. Radical e a loja dos pais do João 
+Praça dos Sorrisos - Parque da Cidade 
+Vale dos Sonhos - Igreja Matriz 
+Jardim da Eternidade - Cemitério 
+Paraíso Digital - S. de Jogos 
+Vale da Fortuna - Valongo inteiro: “Tivemos sorte em sermos felizes aqui”.  
+ 
+Grupo 2 
+Santuário do Diálogo - Mercado Continente 
+Vale da Fartura - Estação de Valongo 
+Praça dos Sorrisos - McDonald´s 
+ 
+Grupo 3 
+Autoconhecimento - Biblioteca  
+ 
+Grupo 4  
+Praça dos Sorrisos - Pavilhão Municipal de Valongo 
+
+ 89 
+Fábrica de Biscoitos Paupério - Jardim da Eternidade 
+Oficina da Regueifa e do Biscoito - Bosque da Sabedoria 
+Passadiço da Santa Justa - Santuário do Diálogo 
+ 
+Sessão 3 - Reflexões em conjunto - 15 minutos 
+Após a atividade, foram propostas algumas reflexões: 
+- Quais espaços, prédios, praças em Valongo trazem conceitos utópicos? 
+- Quem são as pessoas que contribuíram para a materialização desses espaços e projetos? 
+ Alguns nomes de ruas e pessoas foram citados. 
+ 
+Próximos passos  
+Os alunos foram incentivados a guardar essas reflexões e, buscar junto aos familiares e 
+conhecidos histórias de pessoas e ações que contribuíram para a construção da comunidade, trazendo 
+avanços e melhorias para Valongo, sempre buscando uma relação com a utopia. Os mapas ficaram 
+sob a responsabilidade de um integrante do grupo.  
+Para o próximo workshop, pedimos que tragam as histórias e propomos um trabalho com o 
+processo de digitalização. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 90 
+Anexo D - Apresentação utilizada no Workshop 2 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 91 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 92 
+ 
+ 
+ 
+ 
+ 
+
+
+ 93 
+ 
+ 
+ 
+ 
+ 
+
+
+ 94 
+ 
+ 
+ 
+ 
+
+
+ 95 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 96 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 97 
+Anexo E: Descrição do Workshop 2 
+Workshop 2 - Escola Secundária de Valongo 
+Data e Horário: 22/02/2024 - 9h30 às 11h30; 
+Turma: 10º ano 
+Professora Olga Almeida - 29 alunos, com idades entre 15 e 16 anos; 
+ 
+Sessão 1 - Introdução aos conceitos de produção audiovisual - 45 minutos 
+Iniciamos o workshop recapitulado o encontro anterior, revisando as atividades de coleta de 
+informações sobre personagens e locais utópicos da comunidade. Sob a orientação da professora Olga 
+Almeida, os alunos conduziram suas pesquisas a partir dos nomes de ruas de Valongo, identificando 
+figuras importantes para a cidade e  aprofundando nas histórias por trás dessas personalidades que 
+emprestaram seus nomes às ruas. 
+Aproveitamos também para recolher as declarações de consentimento informado que a 
+professora Olga distribuiu anteriormente. Durante essa mesma sessão preparamos uma apresentação 
+sobre produção audiovisual com os dispositivos móveis e armazenamento em nuvem (Cloud). 
+ 
+Objetivos: 
+A apresentação sobre produção audiovisual com dispositivos móveis e armazenamento em 
+nuvem (Cloud) teve como propósito fornecer noções de p lanejamento de filmagens, incluindo 
+Iluminação, posicionamento do objeto, composição de cena, dicas de fotografia e especificidades de 
+gravação de vídeo, além de abordar os tipos de planos utilizados na produção cinematográfica. O 
+objetivo foi passar noções de produção audiovisual para compor o roteiro do projeto. 
+Em relação ao armazenamento, abordamos o conceito de nuvem como servidores remotos 
+que guardam arquivos acessíveis pela internet, destacando plataformas como Google Drive, Dropbox 
+e OneDrive. Expl oramos as vantagens desse método, enfatizando a segurança dos dados e a 
+praticidade do compartilhamento entre usuários. 
+ 
+Sessão 2 - Atividade Prática - 60 minutos 
+Material: Telemóvel 
+Nesta atividade, os alunos se dividiram em grupos de 4 a 5 integrantes. Cada grupo designou 
+um entrevistador, um entrevistado, um responsável pela câmera e um controlador do tempo. A 
+proposta consistiu na produção de vídeos para registrar as histórias pesquisadas. Orientamos para 
+que o tempo de cada vídeo fosse em torno de um m inuto e quinze segundos, tempo adequado para 
+posterior upload na nuvem. As professoras Olga e Carla distribuíram os grupos por espaços diferentes 
+disponíveis na escola, visando minimizar interferências externas durante as gravações. Entretanto, 
+devido às obras na escola, alguns registros foram comprometidos. 
+Em seguida, solicitamos que cada grupo carregasse seu vídeo na nuvem, utilizando o Google 
+Drive do e-mail criado para o projeto: circuitovalongo@gmail.com 
+ 
+Objetivos: 
+Esta atividade teve como propósito registrar as narrativas trazidas pelos alunos sobre as 
+personagens e locais com potencial utópico em Valongo. Através dos vídeos produzidos, os alunos 
+tiveram a oportunidade de compartilhar suas próprias perspectivas sobre o que torna Valongo um 
+lugar utópico, promovendo o diálogo e a reflexão crítica sobre o tema das “Mentes utópicas". Além 
+disso, a produção dos vídeos teve como objetivo documentar e preservar as histórias para o projeto. 
+ 
+Imprevistos: 
+A atividade de filmagem extrapolou o tempo p revisto, ficando sua exibição adiada para o 
+próximo encontro. Além disso, enfrentamos dificuldades com a qualidade do sinal da internet na 
+escola, o que nos impediu de demonstrar as funcionalidades do Google Drive, como gerenciamento e 
+
+ 98 
+organização de arqui vos e compartilhamento entre usuários. No entanto, a maioria dos alunos j á 
+possuía o aplicativo em seus dispositivos, o que nos permitiu adaptar a atividade. 
+Resultados: 
+1- Grupo "Os Labregos"  
+Pesquisa: Rua Visconde Oliveira do Paço 
+Personagem: António Martins de Oliveira  - 1º Visconde de Oliveira do Passo (n asc. 12/08/1835 -  
+falesc. 23/06/1889); benemérito de Valongo - atos de altruísmo e filantropia; família originária de 
+Sobrado - Casa do Paço - Valongo 
+Endereço: R. Nova, 3430-358 Carregal do Sal  
+*Material para pesquisa “Tese Oliveira Passos” 
+ 
+2 - “Grupo das Borboletas “  
+Rua Padre Américo  
+Personagem: Padre Américo - Sacerdote Católico, escritor e fundador da Obra da Rua, atual Fundação 
+da Obra da Rua. 
+Avenida Oliveira Zina  
+Personagem: Oliveira Zina em 6 de agosto de 1890 propôs o Plano de Reformas na nomenclatura das 
+ruas da Vila de Valongo.  
+ 
+3 - “Grupo Estuda”  
+Rua Visconde Oliveira Paço 
+Personagem: António Martins Oliveira do Passo - Visconde de Oliveira Passo 
+Benemérito de Valongo - atos de altruísmo e filantropia; 
+ 
+Rua Trelazé - em homenagem à cidade francesa Trélazé que trocou alguns dos seus jovens com jovens 
+de Valongo, cujos quais realizaram diversas atividades nas respectivas cidades. 
+Tal como esta rua em Valongo, em Trélazé uma das suas ruas foi nomeada "Rue de Valongo", também 
+em homenagem a esta aliança. 
+ 
+4 - Grupo IV 
+Empresa Paupério e Cia Lda., Sec.: XIX - Família Figueira. Em 1936 registra-se sobre o nome de Fábrica 
+Paupério Bolachas e Biscoitos - Valongo.  
+ 
+5 - Grupo V  
+Rua São João de Sobral - Entrou em 2023 para as 7 Maravilhas de Portugal - Localizada na freguesia 
+de Valongo é uma via urbana que se destaca por sua história rica e por seu papel na vida social e 
+económica da cidade. 
+Lenda: Na Serra de Santa Justa, viviam mouros liderados pelo Reimoeiro. Sua filha adoece gravemente 
+e, sem sucesso com curandeiros, ele recorre à imagem milagrosa de São João dos bugios, tribo cristã 
+próxima. A imagem cura a princesa, mas o Reimoeiro recusa de volta e oferece restos de comida aos 
+bugios. A guerra irrompe entre as tribos. O Velho da Bugiada, líder bugio, é preso após a tomada do 
+seu palanque. Quando tudo parece perdido, bugios fiéis ao rei surgem com uma serpe gigante que 
+assusta os mouros, libertando o Velho e devolvendo a imagem. A lenda da Serpente da Serra de Santa 
+
+ 99 
+Justa exalta a fé, a generosidade e o triunfo do bem sobre o mal. É um exemplo da rica tradição oral 
+portuguesa, passada de geração em geração. 
+ 
+6 - Grupo “Smurfs”  
+Rua Alves Saldanha 
+Personagem: João Marques Saldanha  nasceu no Rio de Janeiro em 16 de maio de 1850. Filho de 
+Joaquim Marques Vinagre e Josefa Carolina Marques, foi batizado na Igreja da Candelária, sendo seu 
+padrinho João Alves Saldanha . Desconhece-se o ano em que veio para Portugal, mas pelo livro 
+“Subscritores da A.H.B.V.V., em 1894” constata -se que em 16 de janeiro de 1895 o Presidente da 
+Associação Humanitária dos Bombeiros Voluntários de Valongo era João Marques Saldanha, cargo que 
+ocupou até 1909. 
+Capitalista de profissão foi também, um benemérito do concelho. Surgem referências suas em 19 12, 
+quando ofereceu a Fonte Pública do Padrão ao Concelho de Valongo, para abastecimento de água 
+potável. Em 1925 fez um donativo no valor de 1000$00 para pintura das portas exteriores da igreja 
+paroquial, guarda-vento e portarias de ferro do adro e cemitério. 
+Tem o seu retrato na sala das sessões da Santa Casa da Misericórdia de Valongo onde foi Provedor de 
+1907 a 1932, e outro na sala das sessões do Quartel dos Bombeiros Voluntários de Valongo. 
+Viúvo e sem descendentes, viveu na sua casa na Rua Guerra Jun queiro com  a governanta, Emília 
+Marques Quelhas. Morreu em 1935. Pelos bens deixados em testamento, alcançou fortuna de que se 
+soube servir para benefício do Município de Valongo. Além de muitas outras benfeitorias destaca -se 
+o valor de 5000$00 deixado par a o Hospital de N.ª S.ª da Conceição de Valongo, não esquecendo 
+também os pobres, cegos e entrevados desse hospital. 
+ 
+7 - Grupo VII 
+Rua Manuel de Arriaga 
+Personagem: Manuel de Arriaga nasceu em 1840 no Açores. Advogado, escritor e professor, integrou 
+o Partido Republicano Português, sendo eleito deputado diversas vezes. Em 1911, tornou -se o 
+primeiro presidente da República Portuguesa, enfrentando um mandato turbulento e marcado pela 
+instabilidade política e social. Deposto por um golpe militar em 1915, exilou -se no Brasil até 1917, 
+retornando a Portugal e falecendo em 1918. Figura importante da Primeira República, Arriaga Portugal 
+é lembrado por sua luta pela democracia e pelos direitos  civis, tornando-se um símbolo da luta pela 
+democracia em Portugal. 
+ 
+8 - Grupo SIS  
+Rua de Sousa Paupério  
+Personagem: António Melo de Sousa Paupério, um dos fundadores da marca Paupério. Uma padaria 
+na altura em que Valongo era o principal fornecedor de p ão à cidade do Porto, justificado pela 
+necessidade de assegurar a elevada procura desta cidade.  Marca tradicional que foi passando de 
+geração em geração, encontrando-se atualmente na 6ª geração.  
+ 
+ 
+ 
+
+ 100 
+Anexo F: Apresentação utilizada no Workshop 3 
+ 
+ 
+ 
+ 
+ 
+
+
+ 101 
+ 
+ 
+ 
+ 
+ 
+
+
+ 102 
+ 
+ 
+ 
+ 
+ 
+
+
+ 103 
+ 
+ 
+ 
+ 
+ 
+
+
+ 104 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 106 
+Anexo G: Descrição do Workshop 3 
+ 
+Workshop 3 - Escola Secundária de Valongo 
+Data e Horário: 19/03/2024 - 9h30 às 11h30; 
+Turma: 10º ano 
+Professora Carla - 29 alunos, com idades entre 15 e 16 anos; 
+ 
+Sessão 1 - Exibição de vídeos - 30 minutos 
+Na primeira parte do workshop assistimos aos vídeos produzidos na sessão anterior. Cada 
+grupo compartilhou suas experiências durante a gravação. Em seguida, solicitamos que os alunos 
+identificassem os valores presentes nas histórias retratadas que caracterizavam as mentes utópicas. 
+Apresentamos a “Taxonomia de Schwartz” desenvolvida pelo psicólogo social Shalom H. Schwartz. 
+Esta taxonomia oferece um modelo teórico que organiza valores fundamentais da humanidade. 
+ 
+Objetivos: 
+O objetivo da discussão sobre os vídeos foi observar a percepção dos alunos sobre valores e 
+características que delineiam as mentes utópicas. Queríamos perceber se, a partir das histórias 
+contadas, eles conseguiam identificar valores utópicos subjacentes às  ações dos indivíduos 
+pesquisados e quais os contributos trouxeram para a comunidade. Para ajudar nessa análise, 
+trouxemos os valores individuais e coletivos propostos por Shalom H. Schwartz: Autodeterminação, 
+estimulação, hedonismo, realização e poder social são valores que expressam interesses individuais, 
+enquanto benevolência, tradição e conformidade expressam interesses coletivos. Na fronteira entre 
+esses valores, encontramos segurança e filantropia que expressam interesses tanto individuais como 
+coletivos. Nosso objetivo ao apresentar esses valores não foi aprofundá -los, mas oferecer exemplos 
+que poderiam destacar uma mente utópica e enriquecer a reflexão dos alunos sobre as histórias 
+apresentadas. 
+ 
+Sessão 2 - Atividade Prática - 45 minutos 
+Material: Telemóvel, Aplicativo MentiMeter 
+Nesta atividade, pedimos que cada aluno enviasse, através do aplicativo MentiMeter 
+(plataforma online gratuita para criação de recursos interativos como nuvem de palavras e 
+questionários, que podem ser compartilhados via int ernet), palavras que descrevessem mentes 
+utópicas. A tarefa poderia ser realizada em grupo ou individualmente. 
+ 
+Objetivo: 
+Estimular a interação dos alunos com os conceitos discutidos, promovendo uma atividade 
+prática através da criação de um painel digital  coletivo com termos que descrevessem mentes 
+utópicas. Avaliar se os alunos estavam mais familiarizados com os conceitos que cercam as mentes 
+utópicas. 
+ 
+Resultados: 
+Os alunos optaram pela atividade em grupo. Dos 8 grupos foram enviadas 10 respostas com 
+28 termos. Dos 28 termos, os mais populares foram: Empatia e tradição. O que aponta para 
+aproveitamento da Taxonomia de Schwartz para a atividade. Os outros termos que formaram o painel 
+
+ 107 
+foram: Amizade, coletivo, compreensão, cultura, equipa, filantropo, gener oso, história, histórico, 
+humilde, inigualável, inovador, pensador, respeito, revolucionário, sacrifício, visionário e único. 
+Também apareceram os termos: afonsog, bruno mota e chentric. Ao final, comentamos sobre o 
+resultado do painel. 
+ 
+Sessão 3 - 30 minutos - Realidade Aumentada 
+Abordamos a realidade aumentada (RA), mencionando exemplos práticos como os jogos 
+Pokémon Go e Minecraft Earth. Exibimos um vídeo do aplicativo EyeJack como modelo de possível 
+programa para incrementar o projeto. Explicamos a funç ão prática da Realidade Aumentada na 
+elaboração do circuito físico-digital. 
+ 
+Objetivo: 
+Exploração da tecnologia para perceber se a realidade aumentada traz algo a mais para o 
+projeto. Iniciar uma percepção sobre os recursos da tecnologia, demonstrando suas  aplicações 
+práticas e possíveis recursos na integração de conteúdo digital ao ambiente físico. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 108 
+Anexo H: Painel Coletivo de Valores Utópico - Aplicativo Mentimeter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 109 
+Anexo I: Apresentação utilizada no Workshop 4 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 110 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 111 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 112 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 113 
+Anexo J: Descrição do Workshop 4 
+Workshop 4 - Escola Secundária de Valongo       
+Data e Horário: 02/05/2024 - 11h30 às 13hs;  
+Turma: 10º ano 
+Professora Prof. Olga Almeida, 29 alunos com idades entre 15 e 16 anos;   
+ 
+Sessão 1- Introdução do Aplicativo de Realidade Aumentada Artivive - 45 minutos 
+Iniciamos o workshop com um breve resumo do ponto em que paramos no último encontro, 
+contextualizando o projeto e destacando a participação dos alunos nas diferentes etapas e a 
+importância do envolvimento dos grupos, relembrando a natureza participativa do trabalho. Na 
+sequência, iniciamos a apresentação da agenda do dia: Artivive, dossiê e atividade prática. Explicamos 
+a razão da escolha do Artivive, considerando-o uma aplicação simples e leve para dispositivos móveis. 
+Os alunos baixaram o aplicativo para visualizar os três exemplos de exibição do Artivive preparados 
+para esta sessão.  
+ 
+Objetivo:      
+A utilização do Artivive teve como objetivo proporcionar uma experiência em realidade 
+aumentada, permitindo que os alunos percebessem o potencial do aplicativo. Essa experiência inicial 
+não foi associada a personagens e locais mapeados, pois o objetivo era apenas introduzir os alunos às 
+potencialidades da tecnologia.  
+Foram preparadas três artworks para esta atividade: 
+- Primeira artwork:  Deu vida a um quadro em aquarela.  
+- Segunda artwork: Apresentou uma interação com a capa de um livro. 
+- Terceira artwork:  Criou uma interação com a capa de uma caixa de vinho.   
+ 
+Sessão 2 - Atividade Prática - 45 minutos  
+Material: Dossiê 
+ 
+A sessão contou com uma breve apresentação do dossiê, preparado a partir das pesquisas dos 
+personagens e locais utópicos de Valongo. O dossiê incluiu oito temas: a Escola Secundária de Valongo, 
+António Martins de Oliveira, António de Souza Paupério e a Fábrica de Biscoito Paupério, João 
+Marques Saldanha, Bernardo Martins da Nova em conjunto com o Museu Municipal e o Arquivo 
+Histórico de Valongo, João Alves Saldanha e os Bombeiros Voluntários de Valongo, Padre Joaquim 
+Alves Lopes Reais que acabamos por descartar por ter poucas informações e a Praça Machado dos 
+Santos. Cada grupo teve como tarefa projetar a figura e/ou lugar para os dias atuais, ressignificando-
+os. A distribuição dos temas foi aleatória, considerando que tínhamos oito grupos com quatro a cinco 
+alunos e sete temas, resultando em dois grupos trabalhando com o mesmo tema. 
+ 
+Objetivo: 
+O objetivo desta atividade foi projetar as v isões utópicas das personagens e lugares que 
+ajudaram a construir a história de Valongo, imaginando como se manifestariam hoje. Para guiar essa 
+ressignificação, utilizamos as seguintes reflexões:       
+- Quais os valores e princípios que essa utopia defenderia? 
+- Que ações e iniciativas seriam implementadas para torná-la realidade? 
+
+ 114 
+- Quais os desafios e oportunidades que essa utopia enfrentaria no contexto atual?  
+O resultado dessas reflexões poderia ser apresentado em forma de texto, desenho, áudio ou 
+poema, conforme a escolha livre para cada grupo.  
+ 
+Resultados: 
+Dos oito grupos, seis concluíram e entregaram a atividade. A professora Olga se prontificou a 
+finalizar a atividade com os grupos que não entregaram ao fim da sessão, em sua próxima aula. As 
+ressignificações resultaram nos seguintes materiais: 
+- António Martins de Oliveira: Reflexão escrita - Ressignificado como um empresário de sucesso 
+na construção civil que emprega muitas pessoas e é comprometido socialmente com sua 
+comunidade. 
+- Fábrica Paupério / António de Souza Malta Paupério: Reflexão escrita - Ressignificado como 
+um empresário bem-sucedido que expandiu a marca Paupério por todo o mundo. 
+- Museu Municipal & Arquivo Histórico de Valongo / Bernardo Martins da Nova: Reflexão 
+escrita com ilustração junto ao prédio do Museu Municipal e Arquivo Histórico de Valongo - 
+Ressignificado como um famoso cantor de rock que criou uma loja de CDs e vinis onde hoje é 
+o Museu Municipal e Arquivo Histórico de Valongo. 
+- Escola Secundária de Valongo: A escola foi ressignificada com uma sala para descanso, 
+refeitório com self -service, salas de aula com mesas maiores para projetos e um programa 
+escolar para inserir os alunos no mercado de trabalho. 
+- Praça Machado dos Santos: A ressignificação da praça resgatou um tempo passado em que 
+havia um lago e árvores, transformando -a em um local onde as pessoas se reúnem para 
+conversar e conviver, apreciando a natureza. 
+- Bombeiros Voluntários de Valongo/ João Marques Saldanha: A figura foi ressignificada como 
+Ministro das Finanças, empresário, capitalista e latifundiário e o prédio dos bombeiros tornou-
+se o Ministério das Finanças.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 115 
+Anexo K: Projeções apresentadas através do aplicativo Artivive  
+ 
+ 
+ 
+ 
+
+
+ 116 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+
+
+ 117 
+Anexo L: Dossiê das Personagens e Lugares Utópicos de Valongo  
+  
+ 
+
+
+ 118 
+ 
+ 
+ 
+
+
+ 119 
+ 
+       
+
+
+ 120 
+ 
+ 
+          
+
+
+ 121 
+ 
+ 
+
+
+ 122 
+ 
+ 
+ 
+ 
+ 
+
+
+ 123 
+ 
+ 
+ 
+
+
+ 124 
+ 
+ 
+ 
+
+
+ 125 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 126 
+Anexo M: Apresentação utilizada no Workshop 5   
+ 
+ 
+ 
+ 
+ 
+
+
+ 127 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 128 
+ 
+ 
+ 
+ 
+
+
+ 129 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 131 
+Anexo N: Descrição do Workshop 5 
+Workshop 5 - Escola Secundária de Valongo       
+Data e Horário: 27/05/2024 - 8h às 9h30;  
+Turma: 10º ano 
+Professora facilitadora: Olga Almeida  
+Número de alunos: 29, com idades entre 15 e 16 anos;  
+Sessão 1 - 20 minutos 
+Iniciamos o workshop recapitulando o encontro anterior e assistimos às últimas recolhas feitas pelos 
+grupos:         
+- Vídeo 1:  Memórias do São João - Entrevista com um morador de Sobrado. 
+- Vídeo 2: Memórias de uma moradora que cresceu na rua da Fábrica de Biscoito Paupério. 
+ 
+Objetivo: 
+Provocar uma discussão para entender como as memórias dos moradores de Valongo podem 
+representar uma forma de utopia. 
+ 
+Resultados: 
+Após assistir os vídeos, alguns alunos falaram sobre a relação de suas famílias com o São João, 
+compartilhando fotos com trajes típicos. Comentamos sobre o Sr. Ant ónio de Souza Malta Paupério, 
+que a partir da uma visão utópica, construiu em sociedade com o Sr. Joaquim Carlos Figueira um 
+negócio para além das expectativas da época.  Segundo Ribeiro (2020), esse negócio sobreviveu a 
+várias crises. Hoje é gerida pela 5ª e 6ª geração da família Figueira, tendo um importante papel para 
+a economia e identidade cultural de Valongo.  
+   
+Sessão 2 - 45 minutos 
+Atividade prática com o aplicativo de realidade aumentada Artivive (5 trabalhos/artworks); 
+Distribuímos um folder por grupo, contendo uma interpretação em realidade aumentada a partir do 
+exercício de ressignificação das personagens e locais utópicos feitas na seção anterior. 
+ 
+Proposta: 
+Cada grupo observou como o seu trabalho de ressignificação foi interpretado em realidade 
+aumentada, e com o material de apoio, refletiram e responderam às seguintes questões:  
+ 
+- Figura do António Martins de Oliveira  
+Ressignificado como um empresário de sucesso na construção civil que emprega muitas pessoas, 
+comprometido socialmente com sua comunidade. 
+ 
+Questões propostas/Respostas 
+1- Porque o grupo escolheu esta profissão para o António Martins de Oliveira?  
+R.: Achamos que ele seria um bom líder, que teria grandes ambições, e que seria justo com os outros.  
+ 
+
+ 132 
+2- Porque elegeu características como “um bom patrão”?  
+R.: Dizemos que ele seria “um bom patrão” porque achamos que faria justiça tanto na comunidade 
+como na própria empresa, teria respeito pelos outros e trataria a todos da melhor forma. 
+ 
+3- Porque o Senhor António construiria centros de apoio? Isso o faz diferente?  
+R.: Construiria centros de apoio porque transmite ser uma pessoa simpática e prestável com os outros. 
+Isso diferencia-o dos outros porque mais ninguém teria a iniciativa de realmente ajudar a comunidade 
+dessa forma.  
+ 
+4- Em que aspectos essas novas interpretações podem ser vistas como utópicas? O que há de 
+idealizado (algo ideal) nessas ressignificações? (Reflexão para desbloqueio: perfis como do António 
+Martins são comuns hoje ou são pessoas raras? Empresários altruístas e comprometidos socialmente). 
+R.: Essas interpretações podem ser vistas como utópicas porque mostrando ser uma boa pessoa e que 
+ajudava os outros, conseguimos imaginar toda uma nova profissão e prestação com a comunidade. 
+Hoje em dia, mesmo existindo muitas instituições de caridade, achamos que pessoas com esse espírito 
+de entreajuda e empatia, ainda são raras.  
+ 
+5- Como a utilização da Realidade Aumentada ajudou a trazer essas visões utópicas à vida?  
+R.: Devido ao término da sessão, o grupo respondeu verbalmente esta questão. Elas disseram que a 
+Realidade Aumentada ajudou a visualizar no presente a ressignificação que deram à figura do Sr. 
+António Martins.  
+ 
+- Figura do António de Souza Malta Paupério e a Fábrica Paupério 
+Ressignificado como um empresário bem sucedido que expandiu a marca Paupério por todo o mundo. 
+Questões propostas/Respostas* 
+(*Dois grupos trabalharam estes temas, designados abaixo por A e B) 
+ 
+1- Porque o grupo expandiu a marca Paupério internacionalmente? Quais as vantagens dessa 
+expansão? (Reflexão para desbloqueio: O grupo acha que ser conhecido mundialmente impactaria a 
+identidade de Valongo e a de seus moradores?) 
+A - A expansão da marca Paupério internacionalmente traria diversas vantagens para Valongo e para 
+seus moradores. Para além da criação de mais postos de trabalho, Valongo seria uma cidade mais 
+conhecida, o que traria turistas, dinamizaria a cidade e a economia de Valongo.  
+ 
+2- Porque o senhor António Paupério está comprometido com a vida e felicidade dos seus 
+funcionários? 
+A - O senhor António Paupério está comprometido com a vida e felicidade dos seus funcionários, pois 
+além de estabilidade pessoal, influencia a estabilidade profissional. Funcionários felizes e re alizados 
+são mais produtivos, focados e trabalhadores.  
+B - António Paupério compromete-se com a vida e felicidade dos seus funcionários, porque, na nossa 
+opinião isso faz os funcionários sentirem-se valorizados, logo serão mais positivos e comprometidos 
+com o seu trabalho. 
+ 
+3- De que maneira apresentar o senhor António Paupério comprometido com a vida e felicidade dos 
+seus colaboradores podem ser vistos como aspectos utópicos nesta ressignificação? (Reflexão para 
+desbloqueio: Esse tipo de conduta é comum entre grandes empresários? Grandes empresas têm essa 
+relação com seus colaboradores?) 
+
+ 133 
+A - O senhor António Paupério estar comprometido com os seus funcionários, característica que não 
+é bastante comum nos grandes empresários, faz dele um bom líder e um empresário que ao valorizar 
+e preocupar-se com os seus funcionários gostem do sítio onde trabalham. O que facilita a evolução da 
+empresa.   
+B - Na nossa opinião é possível a empresa Paupério ser vista como internacional, visto que tem lojas 
+em outros países (China e França).  
+ 
+4- Porque o senhor Paupério distribuiria uma porcentagem da sua produção de biscoitos e bolachas 
+para instituições sociais?  
+A- O senhor Paupério distribuiria uma porcentagem da sua produção a instituições sociais porque é 
+preocupado com as pessoas e está ciente das dificuldades que cada vez mais pessoas ultrapassam. 
+Assim, ao dar parte da sua produção, ajudaria a combater diversos problemas na sociedade.  
+B - O senhor Paupério distribuiria uma porcentagem da sua produção a instituições sociais de modo a 
+melhorar a infraestrutura e desenvolver mais a cidade de Valongo.  
+ 
+5- Como a utilização da Realidade Aumentada ajudou a trazer essas visões utópicas à vida?  
+A - A utilização da Realidade Aumentada ajudou a pensar mais no futuro e a refletir sobre valores 
+utópicos que deviam estar implementados na sociedade.  
+B - A utilização da Realidade Aumentada foi fácil e eficaz, por outro lado tinha demasiado texto. Pode 
+ser mais interativo.  
+ 
+- Figura do Bernardo Martins da Nova  
+Ressignificado como um famoso cantor de rock que criou uma loja de CD e Vinil onde hoje é o museu 
+Municipal e Arquivo Histórico de Valongo. 
+ 
+Questões propostas/Respostas* 
+(*Dois grupos trabalharam estes temas, designados abaixo por A e B) 
+1- O que motivou o grupo ressignificar o senhor Bernardo Martins da Nova como um famoso cantor 
+de Rock? 
+A - A nossa admiração pelo gênero musical. 
+B . Na minha opinião faz sentido, para dar mais vida às ruas de Valongo.  
+ 
+2- Como a transformação de sua antiga morada em uma loja de discos pode ser vista como uma ponte 
+entre o passado e o presente? 
+A - Porque a presença dos vinis que foram feitos no passado e que podemos lembrar no presente. 
+B - Pode ser uma ponte para o passado, pois os vinis já não são tão utilizados e dessa forma pode nos 
+levar de volta ao passado.  
+ 
+3- O que motivou o grupo a transformar o local que hoje abriga o museu e arquivo histórico de Valongo 
+em uma loja de CD e Vinil? (Reflexão para desbloqueio: Valongo é carente em algum tipo específico 
+de entretenimento?). 
+A - Valongo não tem nenhuma loja onde as pessoas possam ouvir músicas ou comprar os seus vinis e 
+CD's preferidos.  
+B - Como os CDs e vinis já não são utilizados, transformaram o local do museu de Valongo em uma loja 
+de CDs e vinis, para as pessoas comprarem algo que não há mais hoje em dia.  
+
+ 134 
+4- Em que aspectos a interpretação do senhor Bernardo Martins pode ser vista como utópica? O que 
+há de idealizado (algo ideal) nessa ressignificação? (Reflexão para desbloqueio: O que o levaria a se 
+interessar pela carreira musical?  
+A - Era completamente improvável que o senhor Bernardo se tornar uma estrela de Rock devido ao 
+seu cargo. 
+B - Pode ser, pois foi uma forma de imaginar como tornar aquela área melhor, isto é, atribuir ao mesmo 
+um significado ligado à história da localidade, e esse pensamento de “o que podia ser melhor?” é um 
+pensamento utópico.  
+ 
+5- Como a utilização da Realidade Aumentada ajudou a trazer essas visões utópicas à vida? Q 
+A - A utilização da Realidade Aumentada permitiu -nos ter uma noção de como seria se a nossa 
+imaginação fosse a dela.  
+B - A Realidade Aumentada permite-nos entender de uma forma facilitada a história por de trás das 
+ideias que vieram a tornar cada local melhor.  
+ 
+- Espaço: Escola Secundária de Valongo 
+A Escola foi ressignificada com sala para descanso, refeitório com self-service, salas de aula com mesas 
+maiores para projetos, e um programa escolar para inserir os alunos no mercado de trabalho.  
+ 
+Questões propostas/Respostas* 
+(*Dois grupos trabalharam estes temas, designados abaixo por A e B) 
+ 
+1 - O que motivou o grupo criar uma sala para descanso e um refeitório self-service na escola? 
+A - O que nos motivou criar uma sala de descanso foi por conta das pessoas que vem mais cedo ou 
+ficam até mais tarde por falta de transporte. Já o self -service é o pensar em mais va riedades de 
+comida, pois pode não ser o gosto de todos.  
+B - A sala de descanso por motivar os alunos. E o refeitório self-service para os alunos comerem o que 
+gostam. 
+ 
+2- Um ambiente escolar mais confortável e acolhedor pode ser considerado uma visão utópica da 
+educação? Justifique sua resposta. 
+A - Sim, pois a realidade das escolas é a violência, e dessa violência por vezes não há castigo, pois a 
+própria escola desinteressa-se. Por isso um ambiente confortável e acolhedor, não sendo a realidade, 
+é uma utopia.  
+B - É uma visão utópica porque é uma visão difícil de alcançar.  
+ 
+3- Quais as mudanças em termos de salas com mesas maiores podem ocorrer em termos de trabalho? 
+(Reflexão para desbloqueio: Esta mudança viabiliza a colaboração e o trabalho em grupo? 
+A - Com mais espaço nas mesas temos mais espaço para a organização e colaboração entre colegas, 
+desenvolvendo as competências académicas, sociais e proporcionar bem estar entre os colegas.  
+B - Mesas maiores permitem fazer mais trabalhos de grupo e promove a cooperação.  
+ 
+4- De que maneira um programa escolar para inserir os alunos no mercado de trabalho pode beneficiar 
+os alunos e a comunidade? (Reflexão para desbloqueio: Essa iniciativa pode preparar os alunos para 
+o futuro e contribuir para uma utopia econômica e social? 
+
+ 135 
+A - Ao proporcionar um programa para inserir os alunos no mercado, os alunos terão uma preparação 
+para a realidade da vida adulta, fazendo com estes ganhem qualidade que irão precisar para exercer 
+tal profissão.  
+B - Ao inserir os alunos no mercado de trabalho permite ter trabalhadores mais experientes, o que é 
+bom para a economia.  
+ 
+5- Como a utilização da Realidade Aumentada ajudou a trazer essas visões utópicas à vida?  
+A - A utilização da RA ajudou a trazer essas visões à vida, ajudando na visualização e compreensão da 
+nossa imaginação, sendo mais fácil transparecer ideias.  
+B - A Realidade Aumentada ajudou a visualizar as visões utópicas.  
+ 
+- Espaço: Praça Machado dos Santos 
+A ressignificação da Praça Machado dos Santos resgatou um tempo em que havia um lago e árvores, 
+transformando a praça em um local onde as pessoas se reuniam para conversar e conviver, apreciando 
+a natureza. 
+ 
+Questões propostas/Respostas 
+1- Qual a importância de ter mais árvores e um lago na praça? Como isso contr ibui para a qualidade 
+de vida da comunidade?  
+R.: A plantação de mais árvores ao longo da praça, além de contribuir para o meio ambiente e para a 
+comunidade, também manteria a praça mais bonita e harmoniosa.  
+ 
+2- Quais os contributos dos espaços de convivê ncia? Reflexão para desbloqueio: Esses espaços 
+fortalecem laços comunitários e familiares?) 
+R.: Os espaços de convivência são bons para o encontro com os amigos e familiares, além de nos 
+proporcionar um bom sítio para conversar. 
+ 
+3- De que forma essa ressignificação pode promover um ambiente mais inclusivo para todos? 
+R.: Com essa ressignificação o ambiente torna -se mais inclusivo justamente pela criação de mais 
+espaços com a natureza.  
+ 
+4- Em que medida essa ressignificação é utópica? Seria possível voltar ao tempo?  
+R.: Esta ressignificação é utópica pois cria novos espaços para toda a comunidade. 
+ 
+5- Como a utilização da Realidade Aumentada ajudou a trazer essas visões utópicas à vida?  
+R.: Sim! Com a Realidade Aumentada conseguimos ver uma nova e melhor perspectiva sobre a nossa 
+cidade e como devemos melhorá-la no futuro.  
+ 
+Encerramento: 
+No encerramento, convidamos os alunos a formar um grupo focal composto por 5 a 6 participantes. 
+Este grupo participará de uma entrevista aprofundada do trabalho real izado e, aproveitaremos para 
+simular do protótipo do circuito com uma ida a campo. Em seguida, exibimos um resumo dos 
+workshops trabalhados na escola no período de fevereiro a maio de 2024. Entre as conquistas e 
+resultados, destacamos a construção de um projeto participativo, o diálogo entre gerações, o registro 
+de memórias, o mapeamento de mentes e locais utópicos, e a ressignificação do legado imaterial de 
+
+ 136 
+Valongo. Por fim, apresentamos o esboço do roteiro físico -digital com 6 pontos potenciais para 
+compor o circuito. São eles:  Escola Secundária de Valongo, Armarinho da Dona Luísa, Praça Machado 
+dos Santos, Museu Municipal & Arquivo Histórico de Valongo, Fábrica Paupério, Bombeiros 
+Voluntários de Valongo (João Marques Saldanha) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 137 
+Anexo O: Protótipo inicial do Circuito - Pontos identificados no Google Earth; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 138 
+Anexo P:  Protótipo intermediário do Circuito - Roteiro traçado no Google Earth; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 139 
+Anexo Q: Protótipo com mapa base para receber a arte; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 140 
+Anexo R: Protótipo final - Croqui do Circuito; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 141 
+Anexo S: Páginas do site do Circuito (http://circuitovalongo.wordpress.com) 
+ 
+ 
+ 
+ 
+
+
+ 142 
+ 
+ 
+ 
+ 
+
+
+ 143 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 144 
+Anexo T: Projeções em realidade aumentada das ressignificações que compõe o circuito - 
+Artivive 
+  
+Escola Secundária de Valongo 
+ 
+ 
+Praça Machado dos Santos 
+ 
+ 
+ 
+ 
+
+
+ 145 
+Arquivo Histórico e Museu Municipal de Valongo - Bernardo Martins da Nova 
+ 
+ 
+Fábrica Paupério - António de Sousa Malta Paupério 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 146 
+Bombeiros Voluntários de Valongo - João Marques Saldanha 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 147 
+Anexo U: Guião que conduziu o Grupo Focal I  
+Guião - Grupo Focal I - Alunos 
+Local: Escola Secundária de Valongo 
+Data: 29/05/2024 
+ 
+1ª Etapa - Teste do circuito: Experimentar o roteiro; utilizar o feedback para melhorar e adaptar o 
+circuito às necessidades apontadas pelos alunos; 
+Colher o máximo de informações durante a experiência do itinerário, tendo em conta a questão de 
+investigação:            
+Quais os contributos de um projeto de Humanidade s Digitais participado para a ressignificação do 
+legado imaterial por meio das Mentes Utópicas utilizando Realidade Aumentada?    
+ 
+2ª Etapa - Reunião: 
+Objetivos - Coletar feedback direto: Obter informações detalhadas sobre as percepções e opiniões dos 
+alunos; 
+Entender motivações e comportamentos: Explorar as razões por trás das ressignificações; 
+Gerar ideias: Estimular a geração de novas ideias e soluções através da interação em grupo; 
+Identificar problemas e desafios: Detectar questões que podem não ter sido observadas nos 
+workshops; 
+ 
+Contextualização: 
+Um projeto de humanidades digitais é caracterizado pelo uso de tecnologias digitais para 
+pesquisar, ensinar, preservar e disseminar conhecimento nas áreas das humanidades. As 
+humanidades digitais são uma in terseção entre disciplinas tradicionais das humanidades (como 
+história, literatura, filosofia, artes e estudos culturais) e metodologias computacionais modernas. 
+Algumas características: 
+- Uso de tecnologias digitais: A incorporação de ferramentas e técnic as digitais, como software de 
+análise de dados, bancos de dados e plataformas de realidade aumentada (AR), é essencial. No 
+contexto da sua investigação, a realidade aumentada seria uma tecnologia chave. 
+- Enfoque na preservação e disseminação: Muitos proje tos de Humanidades Digitais se dedicam à 
+preservação digital de materiais culturais e históricos, além de criar plataformas para disseminar esses 
+materiais de forma ampla e acessível.  
+- Engajamento e co -criação: A colaboração com comunidades e a co -criação de conteúdos são 
+aspectos importantes. Em seu contexto, isso pode significar trabalhar com comunidades locais ou 
+grupos específicos para ressignificar o legado imaterial utilizando a realidade aumentada. 
+ 
+Reflexões em conjunto: 
+- O que os alunos sentem que mudou ao longo do projeto; 
+- Como foi a experiência ao fazer o circuito; 
+- Qual o papel da realidade aumentada na ressignificação do passado, na sua compreensão do 
+legado das mentes utópicas e sobre as possibilidades de futuros alternativos que se abrem.  
+  
+ 
+ 
+
+ 148 
+Anexo V: Guião que conduziu o Grupo Focal II 
+Guião - Grupo Focal II  
+Participantes: Ana Helena Lobo, Helena Lobo e Prof. Olga Almeida. 
+Local: Escola Secundária de Valongo 
+Data: 04/06/2024 
+ 
+Abertura - Contextualizar a reunião (objetivos); 
+     - Colher impressões, insights e sugestões sobre o projeto. 
+ 
+ Resumo das etapas do projeto 
+ 
+1ª etapa - Mapeamento das figuras locais e espaços com perfil utópico de Valongo 
+- Alunos sob a orientação da professora Olga; 
+- Participantes: Helena Lobo e Ana Helena Lobo; 
+- Investigadora: Roberta; 
+ 
+Estratégia: 
+Através de nomes de ruas, pesquisa na internet, consulta na Biblioteca Pública de Valongo (livro: A 
+Villa de Vallongo do Padre Joaquim Alves Lopes Reis), Ida à campo para exploração de locais e 
+entrevistas com moradores locais;  
+ 
+2ª etapa -  Projeções desses espaços e figuras no presente.  
+Atividade realizada durante os workshops com os alunos e facilitadoras professora Olga Almeida e a 
+professora Carla Vicente: Os alunos fizeram o exercício de projetar no presente, as pessoas e lugares 
+que contribuíram para o legado de Valongo - Sob uma perspectiva utópica quem seriam essas 
+pessoas; qual o seu papel hoje na comunidade; Como eles veem os espaços identificados;  
+Exercício de trazer para o presente e dar novo sentido ao futuro. 
+ 
+3ª etapa - Idealização do circuito físico-digital  
+De que forma montamos o roteiro; 
+- Recolhas, pesquisas e projeções (ressignificação); 
+- Selecionamos pontos estratégicos de uma determinada localidade, neste caso, do Centro Histórico 
+de Valongo de forma a compor o circuito.  
+ 
+Material 
+Ficha com as ressignificações dos alunos; 
+Folder para visualização do Artivive associado a cada ponto do circuito; 
+Protótipo do Circuito. 
+ 
+Discussão / Questões por tópicos 
+Mapeamento 
+- Como foi para cada participante (Helena e Ana Helena) / facilitadora (Olga) o processo de 
+identificação das figuras e espaços?  
+- De que forma o aspecto utópico foi observado ao pensar nessas pessoas e lugares?  
+
+ 149 
+Obs.: No caso da Ana e da Helena, estou falando da Sra. Luísa, da sua irmã e dos pontos que 
+percorremos, como a Praça Machado dos Santos, o Arquivo Histórico e Museu, a Fábrica Paupério e 
+a Igreja Matriz de Valongo.  
+No caso da professora Olga, a pesquisa pelos nomes das ruas. 
+- Quais desafios encontraram nessa etapa (Mapeamento)? (Professora Olga e a Carla com os alunos 
+/ Ana e Helena com os moradores). 
+- Houve alguma figura ou espaço que surpreendeu vocês? Em qual sentido? 
+ 
+Projeções dos alunos entrevistados (ressignificação)      
+      - O que acharam das projeções para o presente dos espaços e personagens feitas pelos alunos 
+(ressignificações)? 
+      -  Houve alguma projeção que se destacou? Por quê? 
+      - De que forma vocês acham que esses espaços e figuras seriam hoje? Trariam algo diferente ou 
+mudariam essas ressignificações?  
+ 
+Circuito  
+       - O que acharam da seleção dos seis pontos no centro histórico? 
+       - Há algum ponto que deveria ser incluído? Caso sim, como seria sua ressignificação? 
+       - O que acharam da interpretação dos locais e figuras feitas pelos alunos pensando pelo lado 
+utópico? 
+ - O que acharam da leitura dessas interpretações feitas pela realidade aumentada? A Realidade 
+aumentada ajudou nessas interpretações? 
+ 
+Impacto e Reflexões - Realidade aumentada 
+     
+O que o projeto significou para cada participante? 
+ - Percebem alguma mudança na forma como veem esses lugares e personagens após as novas 
+leituras? 
+Qual foi o papel desempenhado pela realidade aumentada, na opinião das participantes e 
+facilitadoras? Neste caso a Olga pode responder sob o ponto de vista da resposta dos alunos e de 
+sua própria experiência.  
+A Helena, a Ana e a Carla sob a própria experiência ao usar o Artivive.  
+Quais as potencialidades do projeto para resgatar o passado, ressignificando-o à luz do presente e 
+projetando futuros alternativos (utópicos), com recurso à realidade aumentada? 
+ 
+Encerramento: Agradecimento pela participação e contribuição das participantes. 
+ 
+ 
+ 
+ 
+ 
+
+ 150 
+Anexo W: Consentimento Informado (Responsáveis pelos alunos) 
+ 
+
+
+ 151 
+Anexo X: Consentimento Informado (Participantes) 
+ 
+
+
+ 152 
+Anexo Y: Autorização para os alunos realizarem o teste do circuito (Responsáveis) 
+ 
+
+
+ 153 
+Anexo Z: Prompt utilizado para criar a imagem da Praça Machado dos Santos - Plataforma 
+OpenArt

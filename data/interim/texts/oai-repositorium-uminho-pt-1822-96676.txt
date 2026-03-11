@@ -1,0 +1,1670 @@
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+Ana Filipa Oliveira Santana 
+ 
+Comunicação Multimodal do 
+Projeto UMinho em Campo 
+com Inteligência Artificial 
+Generativa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maio de 2025 
+Comunicação Multimodal do Projeto UMinho em Campo com Inteligência Artificial 
+Generativa 
+Ana Filipa Oliveira Santana UMinho | 2025 
+
+ 
+
+ 
+ 
+ 
+                           Ana Filipa Oliveira Santana 
+ 
+ 
+ 
+                       Comunicação Multimodal do Projeto   
+  UMinho em Campo com  
+  Inteligência Artificial Generativa 
+ 
+ 
+ 
+ 
+ 
+Relatório de Trabalho de Projeto  
+Mestrado em Humanidades Digitais 
+        
+       
+  
+  Trabalho efetuado sob orientação da 
+                                   Professora Doutora Sílvia Lima Gonçalves Araújo 
+                  Professora Doutora Filomena Maria da  
+                             Rocha Menezes de Oliveira Soares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   maio de 2025 
+
+
+ 
+ 
+iv 
+ 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR 
+TERCEIROS 
+ 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas 
+as regras e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e 
+direitos conexos. Assim, o presente trabalho pode ser utilizado nos termos previstos na licença 
+abaixo indicada. 
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em 
+condições não previstas no licenciamento indicado, deverá contactar o autor, através do 
+RepositóriUM da Universidade do Minho. 
+ 
+ 
+ 
+ 
+ 
+Atribuição-NãoComercial  
+CC BY-NC  
+https://creativecommons.org/licenses/by-nc/4.0/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+v 
+ 
+AGRADECIMENTOS 
+ 
+ Gostaria de expressar, em primeiro lugar, a minha mais profunda gratidão à Professora 
+Doutora Sílvia Araújo, cuja orientação me abriu as portas para este projeto inovador da 
+Universidade do Minho. A sua constante dedicação e apoio, mesmo face às adversidades que 
+surgiram ao longo do percurso, foram verdadeiramente inestimáveis. 
+Em seguida, não posso deixar de agradecer à Professora  Doutora Filomena Soares, cuja 
+introdução ao projeto foi fundamental e que, de forma incansável, esteve sempre disponível para 
+esclarecer qualquer dúvida que pudesse surgir, demonstrando uma extraordinária generosidade e 
+empenho. 
+Igualmente importante, dirijo o meu reconhecimento a todos os docentes do Mestrado em 
+Humanidades Digitais, cujos ensinamentos e apoio constante foram pilares essenciais no meu 
+percurso académico e pessoal. 
+Manifesto a minha eterna gratidão aos meus familiares, cuja fé inabalável nas minhas 
+capacidades serviu de alicerce nos momentos em que me senti mais vulnerável. A sua confiança, 
+mesmo quando eu própria duvidei da possibilidade de alcançar os meus sonhos, foi uma força 
+motriz que me impulsionou a perseverar e superar os desafios. 
+Aos meus amigos, a quem devo um grande agradecimento pelo apoio emocional a todas 
+as horas, que sempre me fizeram acreditar em mim, agradeço-vos profundamente.  
+Por último, ao Xavier, o meu braço direito na vida, a pessoa que sempre me apoiou em 
+todos os aspetos, todos os sonhos e expectativas, e sempre me disse para sonhar mais alto.  
+ 
+Tudo se consegue quando existe vontade e todas estas pessoas me ensinaram isso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+vi 
+ 
+DECLARAÇÃO DE INTEGRIDADE  
+ 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e 
+confirmo que não recorri à prática de plágio nem a qualquer forma de utilização indevida ou 
+falsificação de informações ou resultados em nenhuma das etapas conducente à sua elaboração.  
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do 
+Minho. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+vii 
+ 
+RESUMO 
+ 
+Este relatório, realizado no âmbito do Mestrado em Humanidades Digitais, decorre sob o 
+projeto Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação  que tem por 
+iniciativa da Universidade do Minho a pretensão de contribuir para a construção de um modelo de 
+sociedade baseado em princípios humanistas, que tenha o saber, a criatividade e a inovação como 
+fatores de crescimento, desenvolvimento sustentável, bem -estar e solidariedade, fundado no 
+respeito pela dignidade da pessoa humana e a sua promoção. 
+Assim, tem como objetivo a criação de uma identidade digital do projeto para a divulgação 
+do mesmo utilizando a IA Generativa como auxílio de modo a tornar o trabalho mais rentável e 
+perceber até que ponto a mesma consegue ir no que toma a criatividade e precisão.  Estará 
+também presente a metodologia abordada neste projeto sendo ela Aprendizagem-Serviço e como 
+é que a mesma foi implementada neste contexto.  
+ 
+ 
+Palavras-chave: Aprendizagem-Serviço, Comunicação multimodal, Criação de Conteúdos, I A 
+Generativa, Voluntariado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+viii 
+ 
+ABSTRACT 
+ 
+This report, carried out as part of the Master's programme in Digital Humanities, is part of 
+the project Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação, an initiative 
+of the University of Minho that aims to contribute to building a model of society based on humanist 
+principles, with knowledge, creativity and innovation as factors of growth, sustainable development, 
+well-being and solidarity, founded on respect for the dignity of the human person and its promotion.  
+The aim is to create a digital identity for the project to publicise it, using Generative AI as 
+an aid to make the work more profitable and to understand how far it can go in terms of creativity 
+and precision. It will also look at the methodology used in t his project, which is Service -Learning, 
+and how it was implemented in this context. 
+ 
+ 
+Keywords: Content Creation , Generative AI, Multimodal Communication , Service-Learning, 
+Volunteering. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ix 
+ 
+ÍNDICE 
+  
+AGRADECIMENTOS ................................................................................................................................. v 
+RESUMO .............................................................................................................................................. vii 
+ABSTRACT ............................................................................................................................................ viii 
+ÍNDICE DE IMAGENS .............................................................................................................................. x 
+1. INTRODUÇÃO ................................................................................................................................. 1 
+1.1 OBJETIVOS 1 
+1.2 ESTRUTURA DO RELATÓRIO 2 
+2. ENQUADRAMENTO TEÓRICO .............................................................................................................. 3 
+2.1 METODOLOGIA APRENDIZAGEM-SERVIÇO 4 
+2.2 IDENTIDADE DIGITAL 5 
+2.3 CRIAÇÃO DE CONTEÚDOS MULTIMODAIS 7 
+2.4 O PAPEL DA INTELIGÊNCIA ARTIFICIAL GENERATIVA NA ÁREA DA COMUNICAÇÃO 8 
+3. PROJETO VOLUNTARIADO NA UMINHO – UMINHO EM CAMPO: JUNTOS NA TRANSFORMAÇÃO . 11 
+3.1 CONSTRUÇÃO DE UMA IDENTIDADE DIGITAL PARA O PROJETO 12 
+3.1.1 FERRAMENTAS UTILIZADAS PARA A CRIAÇÃO DE CONTEÚDOS MULTIMODAIS 14 
+3.1.2 PROCESSO DE CRIAÇÃO DE UM NOVO LOGÓTIPO 15 
+3.2 HACKATHON EM CAMPO 16 
+3.2.1 CRIAÇÃO DOS CONTEÚDOS MULTIMODAIS PARA OS CONTEÚDOS SUBJACENTES AO 
+PROJETO 18 
+3.2.2 CRIAÇÃO DE UM POSTER 18 
+3.2.3 CRIAÇÃO DOS CARTÕES DE ATIVIDADES 19 
+3.2.4 CRIAÇÃO DE MATERIAL DE APOIO AOS ALUNOS 24 
+4. Z-TEC+ PREPARANDO A GERAÇÃO Z PARA ALÉM DAS TECNOLOGIAS – OPÇÃO UMINHO ........... 28 
+5. EFICIÊNCIA DA INTELIGÊNCIA ARTIFICIAL GENERATIVA .............................................................. 36 
+6. CONSIDERAÇÕES FINAIS ............................................................................................................ 38 
+7. REFERÊNCIAS BIBLIOGRÁFICAS ...................................................................................................... 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+x 
+ 
+ÍNDICE DE IMAGENS 
+ 
+Figura 1 – Página inicial do website Sou.UMinho .................................................................... 2 
+Figura 2 – Localização do Projeto UMinho em Campo no website Sou.UMinho ...................... 14 
+Figura 3 – Novo logótipo do Projeto Voluntariado na UMinho – UMinho em Campo: Juntos na 
+Transformação ....................................................................................................................... 16 
+Figura 4 - Sessões presentes na atividade Hackathon em Campo .......................................... 17 
+Figura 5 - Poster alusivo ao projeto Voluntariado na UMinho – Uminho em Campo: Juntos na 
+Transformação ....................................................................................................................... 19 
+Figura 6 - Recurso online de apresentação do Hackathon em Campo .................................... 20 
+Figura 7 - Recurso online de apresentação do Hackathon em Campo .................................... 20 
+Figura 8 - Recurso online de apresentação do Hackathon em Campo .................................... 21 
+Figura 9 - Recurso online de apresentação do Hackathon em Campo .................................... 21 
+Figura 10 - Recurso online de apresentação do Hackathon em Campo ................................. 22 
+Figura 11 - Recurso online de apresentação do Hackathon em Campo ................................. 22 
+Figura 12 - Recurso online de apresentação do Hackathon em Campo ................................  23 
+Figura 13 - Recurso online de apresentação do Hackathon em Campo ................................. 23 
+Figura 14 - Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 25 
+Figura 15 - Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 25 
+Figura 16 - Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 26 
+Figura 17 - Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 27 
+Figura 18 - Primeira página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-
+Tec, preparando a Geração Z para além das Tecnologias” ....................................................... 29 
+Figura 19 - Segunda página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-
+Tec, preparando a Geração Z para além das Tecnologias” ....................................................... 30 
+Figura 20 - Terceira página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-
+Tec+, preparando a Geração Z para além das Tecnologias” .................................................... 31 
+Figura 21 – Caixa de texto relativa ao grupo 2 do ano letivo 2024/2025 .............................. 32 
+Figura 22 - Quarta página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-
+Tec, preparando a Geração Z para além das Tecnologias ........................................................ 33 
+Figura 23 – Caixa de texto relativa ao grupo 6 do ano letivo 2023/2024 .............................. 34 
+Figura 24 - Página de fotos das apresentações relativas ao ano letivo de 2024/2025 ........... 35 
+
+ 
+ 
+xi 
+ 
+Figura 25 – Página de fotos das apresentações relativas ao ano letivo de 2023/2024 .......... 35 
+Figura 26 -  Vantagens e Desvantagens da Inteligência Artificial Generativa ........................... 36 
+Figura 27 – Imagem criada por Inteligência Artificial Generativa ............................................ 37 
+Figura 28 – Processo de aquisição de uma identidade digital ............................................... 38 
+Figura 29 – Objetivos centrais do projeto .............................................................................. 39 
+
+ 
+ 
+1 
+ 
+1. INTRODUÇÃO 
+O presente relatório foi realizado no âmbito do Mestrado em Humanidades Digitais e o seu 
+principal objetivo é descrever o  estágio curricular realizado  caminho de aquisição de uma 
+identidade digital do Projeto Voluntariado na UMinho - UMinho em Campo: Juntos na 
+Transformação, bem como a construção e divulgação do próprio para conhecimento dos docentes.  
+Haverá uma abordagem e explicação sobre a metodologia de Aprendizagem-Serviço a qual foi 
+utilizada no projeto revelando a sua importância no sistema educacional. Aborda-se o papel da IA 
+Generativa na aquisição de uma identidade digital para o presente projeto. Este relatório irá focar-
+se na realização das tarefas que me foram designadas quanto ao projeto Voluntariado na UMinho 
+– UMinho em Campo: Juntos na Transformação.  
+ 
+ 
+1.1 OBJETIVOS 
+Os principais objetivos do presente relatório passam por aumentar, esclarecer e melhorar 
+as informações disponíveis sobre o Projeto Voluntariado na UMinho – UMinho em Campo: Juntos 
+na Transformação. Para tal o trabalho realizado no âmbito deste estágio focou-se na parte da área 
+da comunicação de modo a expandir a divulgação deste projeto de uma forma atrativa e 
+informativa. Desta forma, tivemos de tratar do processo  de aquisição de uma identidade digital 
+através da criação de uma página sobre o mesmo localizada no website da Universidade do Minho 
+Sou.UMinho 1 apresentando toda a informação sobre o mesmo de forma esclarecedora e interativa. 
+Nesta página estão presentes conteúdos multimodais para acesso de todos os interessados. 
+Temos também a criação da rede social Instagram do projeto onde vão ser disponibilizados 
+conteúdos para um acesso mais familiar para todos. 
+ Assim, potencializamos o conhecimento por parte de todos os docentes , discentes e 
+colaboradores fazendo com que este projeto se tornasse mais conhecido e dando oportunidade 
+para que o mesmo crescesse mais num futuro próximo. 
+ 
+ 
+ 
+ 
+ 
+ 
+1 https://sou.uminho.pt/pt 
+
+ 
+ 
+2 
+ 
+Figura 1  
+Página inicial do website Sou.UMinho 
+ 
+ 
+Nota. Website Sou.UMinho 
+ 
+1.2 ESTRUTURA DO RELATÓRIO 
+Em primeiro lugar, vou dar contexto sobre o projeto Voluntariado na UMinho - UMinho em 
+Campo: Juntos na Transformação , seguidamente irei apresentar o enquadramento teórico onde 
+irei falar sobre Metodologia Aprendizagem -Serviço, identidade digital, criação de conteúdos 
+multimodais e IA generativa. Por último, irei apresentar o percurso da aquisição de uma identidade 
+digital do projeto juntamente com a execução das tarefas que me foram designadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+3 
+ 
+2. ENQUADRAMENTO TEÓRICO 
+Tal como sabemos nos dias de hoje a presença online é uma técnica estratégica  de 
+extrema importância para aumentar o alcance do público, promover a marca e consolidar uma 
+presença digital consistente. O primeiro passo para criar uma posição no digital, atualmente, passa 
+na maior parte das vezes pela criação de um website  e/ou redes sociais , onde o cliente ou 
+utilizador tem toda a informação sobre a marca ao seu dispor . Estudos destacam que “os 
+profissionais de vendas de diferentes organizações interagem com os consumidores 
+principalmente através de plataformas digitais” (Shams et al., 2024, p.1).  
+A criação de um website deve ser feita, tendo em conta que, atualmente a primeira ação 
+mais provável que uma pessoa toma, quando quer obter mais informações sobre um assunto 
+específico, é realizar uma pesquisa na internet sobre o mesmo. Assim, a criação de um website 
+bem construído permite que a divulgação de uma marca ou, neste caso, projeto tenha um maior 
+alcance e eficácia. Instituições educativas, agora cada vez mais têm cada vez mais necessidade 
+de se adaptar à crescente relevância do meio digital. Por essa razão, a divulgação de qualquer tipo 
+de informação deve privilegiar plataformas online.  
+No que toca ao s conteúdos criados é de destacar  os conteúdos multimodais, que 
+combinam texto, imagens, vídeos e áudio. Estes têm uma capacidade maior de atrair e manter a 
+atenção do público, uma vez que, diferentes pessoas têm preferências diferentes no que toca ao 
+consumo de conteúdo, a multimodalidade permite atingir uma variedade maior de audiências. 
+Além disso, com o auxílio da Inteligência Artificial Generativa na criação de conteúdos este recurso 
+ajudou na rentabilização do tempo com tarefas repetitivas utilizando o tempo que sobra para a 
+dedicação mais intensiva noutras tarefas, personalização do conteúdo, criação de conteúdo 
+escrito, imagens e vídeos maximizando a eficácia do marketing tal como é referido no artigo “The 
+Impact of Artificial Intelligence and Machine Learning in Digital Marketing Strategies” (Chaitanya & 
+Singla, 2023).  
+Assim, reforça-se a relevância da presença digital, incluindo websites e redes sociais, para 
+a ampliação e o engajamento de públicos interessados, seja em marcas ou em projetos 
+específicos. Conclui-se, portanto, que uma presença online sólida, aliada à interação personalizada 
+com o público, é essencial para conquistar confiança e promover o interesse contínuo do público-
+alvo. 
+ 
+ 
+
+ 
+ 
+4 
+ 
+2.1 METODOLOGIA APRENDIZAGEM-SERVIÇO 
+ 
+Wilczenski & Coomey (2007) definiram Aprendizagem -Serviço como uma metodologia 
+experimental à educação que envolve os alunos em atividades significativas do mundo real que 
+pode contribuir para promover os objetivos curriculares, sociais, e emocionais, beneficiando 
+simultaneamente os alunos e as suas comunidades. Metodologia Aprendizagem-Serviço combina 
+a aprendizagem académica com o serviço à comunidade, promovendo assim uma educação mais 
+significativa, prática e ética  (Goh et al., 2024) . Esta abordagem int egra atividades de serviço à 
+comunidade com objetivos de aprendizagem específicos, permitindo que os alunos desenvolvam 
+competências transversais enquanto contribuem para a solução de problemas reais  aplicando o 
+que aprenderam e desenvolvendo novas competências. 
+Podemos dizer que esta metodologia , apresenta um serviço significativo e inovador para 
+a sociedade, transformando a teoria a que os alunos têm acesso nas universidades em situações 
+práticas que lhes vão proporcionar uma visão realista dos problemas de comunidades locais 
+existindo assim, um mútuo benefício “Service learning is recognised as an innovative pedagogy,  
+which involves various activities that are beneficial for all stakeholders(…)” (Salam et al., 2024). A 
+quantidade de competências adquiridas pelos participantes e aproveitadores desta metodologia 
+são inúmeras  para todos os envolvidos . Estes desenvolvem competências como trabalho em 
+equipa, liderança, comunicação e empatia, ampliam a sua visão social criando um sentimento de 
+responsabilidade cívica apelando ao humanismo de cada um  e melhoram a própria capacidade 
+na questão de resolver problemas . A nível da comunidade esta beneficia também desta 
+metodologia na medida em que recebem apoio e soluções para os seus problemas estabelecendo 
+vínculos com as instituições e promovendo um desenvolvimento sustentável. Para a instituição de 
+ensino é também uma experiência  igualmente enriquecedora, consegue melhorar a experiência 
+de aprendizagem dos alunos tornando -a mais rica e consistente, contribuem diretamente para a 
+formação de cidadãos críticos e socialmente conscientes e fortalecem a sua própria reputação e 
+impacto.  
+A aprendizagem -serviço é uma metodologia cada vez mais utilizada no sistema 
+educacional como uma ferramenta de ensino transformadora, promovendo a integração entre 
+teoria e a prática, educação e sociedade  não só preparando alunos a nível académico, mas 
+também a nível pessoal fornecendo -lhes competências essenciais fora do programa 
+académico.”(…)the name of service learning that it is an amalgamation of both academic learning 
+
+ 
+ 
+5 
+ 
+and community service, which  aims to provide practical learning experience with better 
+understanding of course contents learned in the classrooms (…)” (Salam et al., 2024).  
+No geral, a Aprendizagem -Serviço apresenta -se como uma metodologia pedagógica 
+poderosa, ao unir a teoria e a prática de uma forma que beneficia tanto os alunos como a 
+comunidade onde é implementada. Aumentar o uso desta metodologia poderia ser uma mais-valia 
+a nível geral da nossa comunidade, iríamos formar melhores profissionais e a nível pessoal 
+teríamos pessoas mais empáticas. 
+ 
+ 
+2.2 IDENTIDADE DIGITAL  
+ 
+A identidade digital resume-se ao que uma pessoa, entidade, objeto ou assunto é e pode 
+ser descrita como um conceito que depende de tecnologias, incentivos e necessidades sociais e 
+pode abranger uma vasta gama de aplicações (Ante et al., 2022). Dada a crescente proeminência 
+das tecnologias digitais na nossa sociedade, e a sua incorporação cada vez mais significativa no 
+sistema educativo, torna-se imperativo iniciar a adaptação do sistema educativo às necessidades 
+e características da geração presente nas nossas salas de aula.  As novas tecnologias e o digital 
+vieram contribuir e modificar o sistema educativo de uma boa maneira , tal como é referido por 
+Velasco & Nakamoto  (2023) “Os benefícios das tecnologias digitais  melhoram as práticas 
+educativas e promovem a modernização dos espaços escolares e estratégias integradoras, e desse 
+modo identifica fatores propulsores do seu uso na sala de aula”. 
+Com o objetivo de estreitar cada vez mais a ligação com os alunos e disseminar a 
+informação de forma célere e atrativa, a criação de uma identidade digital torna-se um instrumento 
+crucial para garantir que a mensagem a ser transmitida alcance o público -alvo de forma eficaz e 
+visível. A edificação de uma identidade digital envolve a conceção e gestão estratégica da forma 
+como uma marca, indivíduo ou instituição se apresenta no ambiente virtual, constituindo uma 
+representação digital que reflete aquilo que se pretende promover. Cada publicação feita nas redes 
+sociais contribui para o desenvolvimento  e fortalecimento de uma identidade digital  (Berg et al., 
+2024), desta forma vamos construindo uma presença online e vamos consolidando aquilo que 
+representamos e a imagem que queremos passar para o público. 
+Uma identidade bem estabelecida confere legitimidade ao projeto,  demonstra que o 
+projeto foi cuidadosamente planeado, com uma proposta clara, com nome, logo e elementos 
+visuais consistentes. Uma identidade digital eficaz facilita a comunicação do projeto, permitindo 
+
+ 
+ 
+6 
+ 
+que informações sobre objetivos, resultados e impactos sejam divulgadas de maneira acessível e 
+atraente. As redes sociais e outros canais digitais permitem que o projeto se conecte com um 
+público mais amplo, incluindo potenciais colaboradores, apoio de organizações , parceiros 
+académicos e até mesmo interessados no tema abordado, além de reforçar o posicionamento do 
+projeto tanto no contexto académico como fora dele (Gioia et al., 2013). Tal como sabemos, nos 
+dias de hoje muitos são os casos de pessoas que promovem os seus negócios nas redes sociais, 
+isto deve-se ao facto de que as redes sociais são plataformas vitais para a interação humana, que 
+ultrapassaram a simples tarefa de proporcionar entretenimento aos seus utilizadores  para se 
+começarem a estabelecer como ferramentas essenciais para o mundo dos negócios (Tavares et 
+al., 2024).  
+Por todas estas razões, procedemos à integração do projeto Voluntariado na UMinho – 
+Uminho em Campo: Juntos na Transformação no website Sou.Uminho que é o website oficial da 
+Universidade do Minho, criamos também um e -mail para futuros contactos com 
+instituições/organizações e por último, um  perfil de Instagram que fará com que seja possível 
+haver um contacto mais próximo com os alunos numa plataforma que já lhes é tão familiar e 
+utilizada para entretenimento próprio. 
+No que diz respeito à capacidade de comunicação do propósito, dos valores e à 
+diferenciação em relação a outros projetos, a criação de uma identidade digital configura-se como 
+um meio eficaz de projetar, neste contexto, o projeto para o público-alvo composto por estudantes, 
+docentes, funcionários e potenciais parceiros. É importante também deter a informação num só 
+sítio, neste caso, o website Sou.UMinho para que qualquer pessoa interessada  tenha acesso a 
+toda a informação essencial de uma forma organizada. 
+À medida que o público se familiariza com a identidade digital de uma marca, projeto ou 
+instituição, e com os elementos visuais que a caracterizam de uma forma única, esta passa a 
+conquistar um reconhecimento que se solidifica e perpetua ao longo do tempo.  Uma identidade 
+digital duradoura, ajuda a criar um legado, sendo que mesmo que um dia o projeto termine por 
+alguma razão poderá ser uma referência para outros futuros projetos.  
+Em consequência, evidencia-se a importância do papel da presença digital na expansão e 
+incremento do público interessado numa marca ou, neste caso, na comunicação de um novo 
+projeto. Conclui-se, portanto, que é de suma importância assegurar uma presença online sólida, 
+interagindo com o público de forma personalizada, promovendo a confiança e despertando o 
+interesse do mesmo, para que no futuro haja um aumento na participação e, consequentemente, 
+
+ 
+ 
+7 
+ 
+uma contínua melhoria na imagem do projeto, fundamentada nas sugestões e no feedback dos 
+participantes. Num mundo cada vez mais digital e interconectado, investir na construção e 
+manutenção de uma identidade digital é um passo crucial para o sucesso e visibilidade do projeto. 
+ 
+ 
+ 2.3 CRIAÇÃO DE CONTEÚDOS MULTIMODAIS  
+ 
+“In essence, all communication is multimodal: we use language, gesture, posture, and other 
+non-verbal modes often at the same time to communicate.”  (Mouton, 2014).  Conteúdos 
+multimodais são também uma junção de formas de conteúdo diferentes, como visuais, auditivos, 
+textuais e interativos, para transmitir uma mensagem de maneira mais abrangente.  
+A criação de conteúdos multimodais é fundamental na comunicação moderna, especialmente 
+em contextos onde a diversidade de públicos e plataformas exige abordagens mais flexíveis e 
+envolventes. No que toca ao conteúdo criado os conteúdos multimodais, que combinam texto, 
+imagens, vídeos e áudio, têm uma capacidade maior de atrair e manter a atenção do público. 
+Diferentes pessoas têm preferências diferentes no que toca ao consumo de conteúdo, e a 
+multimodalidade permite atingir uma variedade maior de audiências  e pode determinar como o 
+público-alvo interpreta as informações (Liu, 2015). A integração de várias modalidades facilita o 
+entendimento e a memorização, imagens ajudam a reforçar mensagens escritas, vídeos e 
+animações explicam conceitos complexos de uma maneira mais simples e áudios promovem uma 
+conexão mais emocional e imersiva . Além disso, os conteúdos multimodais são mais inclusivos, 
+sendo que conseguem atender a públicos com deficiências auditivas ou visuais.  
+Em primeiro lugar, para começarmos a criar conteúdos multimodais é importante saber 
+a mensagem que queremos passar, saber qual é o propósito daquilo que estamos a criar e 
+conhecer o público-alvo e os seus interesses e necessidades. 
+A multimodalidade reforça a mensagem principal, pois oferece múltiplas maneiras de 
+comunicar o mesmo conceito. Isso aumenta as chances de que a informação seja compreendida 
+por pessoas com diferentes contextos culturais e educacionais, o que consequentemente leva ao 
+fortalecimento do que estamos a tentar comunicar.  
+Além disto, destaca-se a conceção de conteúdos multimodais no âmbito da educação, um 
+dos aspetos abordados  neste relatório. A pandemia da COVID -19 teve um grande impacto no 
+sistema educativo e na sua abrupta mudança de um regime presencial para um regime total 
+
+ 
+ 
+8 
+ 
+online, contribuindo para o aparecimento de novas formas de comunicação entre alunos e 
+professores (Guo et al., 2024).  
+A criação de conteúdos multimodais inscreve-se numa abordagem vanguardista, que  
+responde ainda que de forma indireta, às características da geração contemporânea, habituada a 
+consumir uma vasta quantidade de informação através de plataformas de entretenimento. Por 
+conseguinte, a integração de conteúdos multimodais n o contexto pedagógico representa uma 
+valiosa mais-valia para enriquecer a dinâmica  nas salas de aula. “The multimodality has had a 
+major impact on the function of literacy in the twenty -first century. Integrating different modes is 
+crucial in education, and multi-modal teaching is rapidly gaining popularity.”  (Guo et al., 2024). 
+A criação deste tipo de conteúdos para a área do ensino é sem -dúvida uma mais -valia, 
+sendo que servem como forma de enriquecer tanto o processo de ensino como o processo de 
+aprendizagem. Conteúdos multimodais conseguem tornar o ensino mais atraente, dinâmi co, 
+promovem o desenvolvimento de competências digitais as quais no futuro podem vir a ser úteis 
+no contexto profissional e, por último, há uma melhor retenção de informações, uma vez que, a 
+combinação de estímulos sensoriais reforça a compreensão e a memo rização. Desde vídeos 
+educativos, infográficos interativos, apresentações dinâmicas, realidade virtual, realidade 
+aumentada e plataformas gamificadas existem imensas possibilidades para a criação de 
+conteúdos multimodais que sejam uma forma de apoio ou completo à aprendizagem dos 
+estudantes. 
+Os conteúdos multimodais têm um potencial de uma imensidade desmedida, desde que 
+sejam devidamente criados, voltados para os interesses e necessidades do nosso público -alvo. 
+Tanto na área da comunicação como na área da educação reforçar a mensagem que esta mos a 
+tentar passar ao nosso público, vai sempre dar -nos maior notoriedade e manter o nosso público 
+interessado (Luo H, 2023). 
+ 
+ 
+2.4 O PAPEL DA INTELIGÊNCIA ARTIFICIAL GENERATIVA NA ÁREA DA 
+COMUNICAÇÃO  
+ 
+A Inteligência Artificial Generativa é um  dos ramos da Inteligência Artificial , que está a 
+transformar a área da comunicação viabilizando novas maneiras de criar, personalizar e distribuir 
+conteúdo. Segundo Oye, et al., (2024) a inteligência artificial generativa usa algoritmos complexos 
+para criar textos, música, imagens e outros tipos de conteúdo. Esta sua capacidade revolucionou 
+
+ 
+ 
+9 
+ 
+a criação de conteúdos , sendo que estes são criados de forma personalizada promove ndo uma 
+comunicação mais eficaz e direcionada ao consumidor. 
+Com a Inteligência Artificial Generativa, é possível criar campanhas publicitárias completas 
+de maneira automática. Por intermédio desta tecnologia, torna-se viável elaborar slogans criativos, 
+textos persuasivos para anúncios, roteiros  cinematográficos e até l ayouts de design. Tal 
+abordagem não só otimiza significativamente o tempo despendido em certas tarefas, mas também 
+fomenta uma experimentação ampliada e uma personalização aprofundada, ajustando as 
+estratégias comunicacionais com base em dados em tempo real e feedback dos consumidor es 
+(Mccall, 2024). “Advertising and marketing professionals employ generative AI to produce targeted 
+ad campaigns, customized visual content, and impactful branding materials tailored to consumer 
+preferences.” (Mccall, 2024). 
+A Inteligência Artificial Generativa assume também um papel preponderante na evolução 
+dos assistentes virtuais e chatbots , conferindo-lhes uma inteligência mais sofisticada e a 
+capacidade de estabelecer interações de forma natural e fluida com os utilizadores. No entanto, 
+existe uma diferença entre os dois, que está no propósito e complexidade das funções de cada 
+um. Os assistentes virtuais  destacam-se pela sua capacidade de realizar uma vasta gama de 
+tarefas, oferecendo uma versatilidade superior em comparação aos chatbo t, que têm interações 
+mais específicas e limitadas concentrando -se apenas em responder a perguntas objetivas e 
+solucionar problemas dentro de um escopo pré -definido. Além disso, a interação proporcionada 
+pelos assistentes virtuais tende a ser mais fluida e  natural, permitindo um diálogo contínuo e 
+dinâmico, ao contrário dos chatbots que oferecem respostas pontuais, com um foco maior em 
+tarefas imediatas. Em termos de tecnologia e integração os chatbots geralmente são usados em 
+plataformas de chat como sites ou redes sociais, por outro lado os assistentes virtuais conseguem 
+emparelhar com múltiplos dispositivos e serviços. Com o apoio desta tecnologia avançada, os 
+chatbots transcendem funções básicas ao responder eficientemente a questões recorrentes e ao 
+resolver desafios mais complexos no âmbito do atendimento ao cliente. Tal inovação não apenas 
+mitiga a sobrecarga das equipas de suporte, mas também assegura que os clientes usufruam de 
+respostas ágeis e rigorosas, disponíveis ininterruptamente, independentem ente da hora do dia.  
+“These tools improve productivity, streamline operations, and extendactive participation”  
+(Sarangam, 2024).  
+Na área da educação a Inteligência Artificial Generativa abriu imensas possibilidades para 
+transformar o sistema educativo tal como o conhecemos. Desde ferramentas que conseguem criar 
+
+ 
+ 
+10 
+ 
+testes ou questionários baseados nas matérias lecionadas que servem como apoio ao estudo dos 
+alunos, tutoriais ou explicações sobre temas em que os alunos sentem dificuldades  oferecendo 
+um apoio personalizado adequado às dificuldades daquele aluno  e correção de exercícios, a 
+inteligência artificial generativa tem vários benefícios a nível da assistência que consegue dar a 
+estudantes. “In education, generative AI holds immense potential to personalize learning  
+experiences, automate administrative tasks, and enhance student engagement.By analyzing 
+individual learning styles and preferences, it can create tailored  educational materials that meet 
+diverse needs” (Oye, et al., (2024). Até mesmo para os docentes, esta ferramenta ajuda na criação 
+de testes ou exames, planeamento de aulas completas e automação de tarefas como correção de 
+exercícios. 
+No entanto, esta ferramenta inovadora também traz os seus desafios, uma vez que 
+também comete erros, erros que podem não ser detetados de imediato por alguém que não 
+possua conhecimento absoluto sobre o assunto em questão.  Para além desta questão, temos 
+também questões relacionadas com privacidade e proteção de dados, direitos de autor  e 
+disseminação de conteúdo falso ou enganoso  (Mccall, 2024) . Deste modo, é fundamental 
+reconhecer as suas fraquezas para conseguir gerar conteúdo factual com a devida qualidade.  
+ No projeto  Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação  a 
+Inteligência Artificial Generativa teve o papel de potencializar a comunicação do mesmo, tornando-
+a mais eficiente e personalizada alinhada conforme as necessidades do consumidor. A criação de 
+conteúdos multimodais com base na Inteligência Artificial Generativa, permitiu -me explorar 
+bastante para além do básico as ferramentas que utilizei, aumentando e melhorando o meu 
+conhecimento sobre as mesmas. Permitiu-me poupar tempo em tarefas repetitivas, ofereceu-me 
+várias ideias de personalização do conteúdo, tendo em conta, o público-alvo e por fim, em termos 
+de criatividade também é uma ferramenta muito útil. Esta abordagem não só reafirma o papel da 
+Universidade do Minho como um agente de inovação, mas também reforça a importância de 
+adotar tecnologias emergentes para enfrentar os desafios contemporâneos na área da 
+comunicação. 
+ 
+   
+ 
+ 
+ 
+
+ 
+ 
+11 
+ 
+3. PROJETO VOLUNTARIADO NA UMINHO – UMINHO EM CAMPO: JUNTOS  
+NA TRANSFORMAÇÃO 
+ 
+A Universidade do Minho, no dia 5 de dezembro de 2023, em celebração do Dia 
+Internacional do Voluntário, procedeu ao lançamento do projeto Voluntariado na UMinho - UMinho 
+em Campo: Juntos na Transformação  2, concebido a partir de um desafio formulado por uma 
+associação de Braga, que encorajou a instituição a envolver-se em iniciativas de voluntariado. 
+Inicialmente, a proposta deste projeto visava a criação de uma nova modalidade 
+institucional dedicada exclusivamente ao voluntariado, bem como a integração de um componente 
+de voluntariado no percurso académico, sendo que seria criada uma Unidade Curricular e seriam 
+atribuídos créditos. No entanto, devido a um conflito intrínseco com os princípios fundamentais 
+que regem o voluntariado, essa abordagem revelou -se inviável. Ainda assim, o projeto conseguiu 
+consolidar-se como uma iniciativa autónoma e independente, mantendo a sua relevância  na 
+formação académica dos discentes, embora de f orma não curricular e extrínseca ao plano 
+académico formal. Assim, o projeto ganhou a forma de uma atividade extracurricular a qual todos 
+os alunos independentemente do seu curso podem ter acesso e adquirir competências, que 
+seguindo apenas um plano académico normal de uma licenciatura ou mestrado não conseguiriam.  
+O projeto Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação  tem 
+como base a metodologia Aprendizagem Serviço, a qual pretende incluir uma responsabilidade 
+social na educação dos estudantes da Universidade, por meio de iniciativas solidárias para com 
+comunidades locais que possuam algum tipo de problemas. Com esta metodologia pretendemos 
+criar não só melhores alunos, mas também melhores cidadãos proporcionando-lhes ferramentas 
+para desenvolverem variadas competências transversais como lideran ça, empatia, trabalho em 
+equipa, comunicação eficaz, criatividade, pensamento crítico e resolução de problemas. 
+Esta abordagem metodológica tem  demonstrado resultados notáveis em diversas 
+instituições de ensino superior onde já foi implementada, como por exemplo a Universidade 
+Católica do Porto. Tive a oportunidade de estar presente numa formação dirigida aos docentes da 
+Universidade do Minho , promovida pela  Universidade Católica do Port o, e constatei a natureza 
+verdadeiramente transformadora deste método pedagógico.  
+Trata-se de uma abordagem inovadora que enriquece a aprendizagem teórica 
+proporcionada nas universidades ao expor os estudantes a cenários concretos em comunidades, 
+ 
+2 https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=62818 
+
+ 
+ 
+12 
+ 
+desafiando-os a aplicar os seus conhecimentos académicos quando lhes apresentamos situações 
+práticas de comunidades com problemas  reais, onde eles podem participar e encontrar uma 
+solução. 
+Os objetivos centrais desta iniciativa são os seguintes: 
+ 
+• Incorporação da responsabilidade social no contexto universitário, utilizando como 
+pilar metodológico a Aprendizagem-Serviço (Service-Learning), promovendo assim 
+uma simbiose entre o desenvolvimento pessoal dos alunos e o impacto positivo 
+na comunidade, promovendo a troca de conhecimentos e experiências para 
+benefício mútuo. 
+• Contribuição para o d esenvolvimento profissional e pessoal  dos alunos , este 
+projeto pretende não só criar bons profissionais como criar pessoas empáticas e 
+conscientes dos problemas das comunidades à sua volta. 
+• Fortalecimento do compromisso social da Universidade do Minho, reforçar o seu 
+papel como instituição que contribui para o desenvolvimento sustentável e 
+inclusivo das comunidades locais e regionais. 
+• Criar impacto a nível comunitário,  através de iniciativas práticas e colaborativas 
+identificar e atuar áreas de necessidade. 
+• Promoção da cidadania ativa,  incentivar discentes, docentes e funcionários da 
+Universidade do Minho a envolverem -se em atividades de voluntariado que 
+contribuam para o bem-estar da sociedade 
+ 
+ 
+3.1 CONSTRUÇÃO DE UMA IDENTIDADE DIGITAL PARA O PROJETO 
+ 
+ A construção de uma identidade digital para o projeto da Universidade do Minho, 
+Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação, revelou-se indispensável 
+por múltiplas razões. Primordialmente, destacou-se pelo incremento da credibilidade associada ao 
+projeto. A conceção de um logótipo exclusivo e a curadoria meticulosa das tonalidades cromáticas 
+aplicadas nos materiais comunicacionais conferiram-lhe uma estética de elevado profissionalismo, 
+consolidando a sua reputação perante o corpo docente e demais instituições. 
+Adicionalmente, esta ação possibilitou a otimização da comunicação, assegurando uma 
+disseminação clara e eficaz dos valores e propósitos intrínsecos ao projeto. Tal abordagem não 
+
+ 
+ 
+13 
+ 
+apenas facilitou a interação com o público -alvo, como também fomentou o networking e o 
+engajamento. A robustez da identidade digital configura -se como um elo estratégico, capaz de 
+atrair potenciais interessados, sejam eles docentes, discentes, colaboradores ou outras entidades, 
+estimulando a interação e o reconhecimento da iniciativa. 
+Importa ainda sublinhar que uma identidade digital sólida constitui um ativo intangível com 
+repercussões a longo prazo, incrementando a visibilidade do projeto e potencialmente captando o 
+interesse de instituições externas para futuras colaborações. Este f ator revela-se especialmente 
+pertinente num contexto universitário, onde a visibilidade e a relevância social do projeto refletem-
+se no impacto positivo na educação e na formação de competências transversais dos estudantes 
+e futuros profissionais. 
+A construção de uma identidade digital consiste, assim, em consolidar uma presença 
+distintiva e memorável no ambiente virtual, alinhada com os objetivos estratégicos do projeto e 
+dos seus intervenientes. Nesse sentido, o primeiro passo consistiu em deliberar entre a criação de 
+um website dedicado exclusivamente ao projeto ou a integração das informações na plataforma já 
+existente, Sou.UMinho, o portal oficial da Universidade do Minho. Este portal reúne informações e 
+serviços relevantes para toda a comunidad e académica. Após ponderação, concluiu -se que, na 
+fase atual do projeto, seria mais vantajoso alojar as informações no Sou.UMinho, dispensando, 
+para já, a criação de um website autónomo. 
+Deste modo, podemos encontrar mais informações sobre o projeto Voluntariado na 
+UMinho – UMinho em Campo: Juntos na  Transformação no website Sou.UMinho da seguinte 
+forma: aquando da nossa entrada no website da Sou .UMinho na página principal encontramos a 
+3AUM, que é uma área de aperfeiçoamento académico sendo um apoio extracurricular e voluntário 
+que funciona de forma autónoma das unidades curriculares . Em seguida, temos de nos dirigir à 
+área dos recursos, onde encontrámos uma série de recursos de apoio aos estudantes em assuntos 
+variados. Finalmente, no fim da página podemos encontrar uma caixa de texto UMinho em Campo.  
+Na figura abaixo podemos observar a localização da página do projeto no site Sou.UMinho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ 
+Figura 2  
+Localização do Projeto UMinho em Campo no website Sou.UMinho 3 
+ 
+ 
+Nota. Website Sou.UMinho 
+ 
+ 
+3.1.1 FERRAMENTAS UTILIZADAS PARA A CRIAÇÃO DE CONTEÚDOS 
+MULTIMODAIS  
+ 
+Para que o nosso projeto adquirisse uma dimensão visualmente atrativa, foi imprescindível 
+o desenvolvimento de conteúdos multimodais, os quais foram criados com duas plataformas. Para 
+a criação de conteúdos que contribuíssem para a difusão do projeto optei pela utilização de duas 
+ferramentas, nomeadamente o Canva e o Gamma.  
+ 
+• Gamma 4 : destaca-se como uma plataforma vanguardista na criação de 
+conteúdos, ao combinar a simplicidade das apresentações visuais com a 
+versatilidade de documentos interativos. Com o auxílio da inteligência artificial 
+generativa integrada nesta plataforma, pude explorar e testar a criatividade, bem 
+como a aplicabilidade desta tecnologia no contexto do projeto. Esta 
+ 
+3 https://sou.uminho.pt/pt/Sou-Estudante/Depois/3AUM/Recursos/UMcampo/Paginas/default.aspx 
+4 https://gamma.app/ 
+
+
+ 
+ 
+15 
+ 
+funcionalidade propiciou uma otimização substancial do processo criativo, 
+permitindo a seleção ágil de layouts e formatação, com sugestões automatizadas 
+pela inteligência artificial, de acordo com as especificações desejadas, com o 
+intuito de conferir aos conteúdos uma estética visualmente atraente para o 
+público-alvo. 
+ 
+• Canva 5 : sendo uma ferramenta gratuita online de design gráfico, permite criar 
+uma grande variedade de materiais visuais. Dado à sua grande acessibilidade e 
+à sua interface intuitiva qualquer um consegue facilmente interagir com esta 
+plataforma e, se for o caso, mergulhar mais fundo em todas as suas 
+funcionalidades.  
+ 
+  
+3.1.2 PROCESSO DE CRIAÇÃO DE UM NOVO LOGÓTIPO 
+ 
+A necessidade de desenvolver um novo logótipo emergiu da insatisfação com o design 
+original, bem como da conceção de um conceito que refletisse a integração das doze escolas e 
+institutos da Universidade do Minho numa única identidade visual, ao mesmo tempo  em que 
+representasse de forma eficaz e consistente o projeto Voluntariado na UMinho – Uminho em 
+Campo: Juntos na Transformação . Assim, a Comissão de Implementação do Voluntariado na 
+UMinho, em colaboração comigo, iniciamos um processo de brainstorming par a explorar as 
+possibilidades de design do novo logótipo. Após um extenso período de deliberação, concordamos 
+com a ideia de utilizar as cores características de cada uma das doze escolas e institutos da 
+Universidade do Minho e combiná-las de maneira harmoniosa para criar uma representação coesa 
+do projeto. 
+Com o intuito de materializar essa visão de forma mais concreta, recorri à inteligência 
+artificial generativa para fornecer uma referência visual do possível logótipo. Para tal, utilizei 
+plataformas avançadas de IA generativa, como o ChatGPT, Ideogram e Le onardo.AI, que foram 
+capazes de gerar uma imagem que alinhava com a nossa ideia inicial. Após uma análise conjunta 
+e definição dos elementos essenciais para o novo logótipo, optei por concretizá -lo na plataforma 
+Canva. 
+ 
+5 https://www.canva.com/ 
+
+ 
+ 
+16 
+ 
+O resultado deste novo logótipo do projeto Voluntariado na UMinho – UMinho em Campo: 
+Juntos na Transformação consiste em doze cores distintas, cada uma representando uma das 
+doze Escolas/Instituições da Universidade do Minho. 
+ 
+Figura 3  
+Novo logótipo do Projeto Voluntariado na UMinho – Uminho em Campo: Juntos na Transformação 
+ 
+ 
+ 
+3.2 HACKATHON EM CAMPO 
+ 
+O Hackathon em Campo foi uma atividade desenvolvida no ano letivo de 2023/2024, no 
+contexto do projeto Voluntariado na UMinho  - UMinho em Campo – Juntos na Transformação,  
+direcionado para a integração da vertente do voluntariado no plano curricular dos estudantes da 
+Universidade do Minho. Esta atividade foi desenvolvida e pensada para integrar tanto os alunos do 
+polo universitário de Gualtar como de Azurém, disponibilizando uma localização fixa em ambos os 
+polos para que os alunos tivessem todos acesso de igual forma. A metodologia Aprendizagem -
+Serviço foi utilizada com auxílio da Inteligência Artificial para atingir os objetivos estipulados deste 
+curso. 
+Esta atividade tinha como finalidade incentivar os discentes a aprimorarem competências 
+de gestão de projetos, com vista a gerar impacto social positivo, motivando-os a realizar ações que 
+beneficiem a comunidade com pensamento crítico e criatividade . Pretendia-se, também, incutir-
+
+
+ 
+ 
+17 
+ 
+lhes uma postura reflexiva e crítica, bem como inspirá -los a conceber e implementar iniciativas 
+que contribuam beneficamente para a comunidade, alicerçadas na criatividade e na inovação. 
+Outro dos objetivos consistia em potenciar competências fundamentais, como trabalho de equipa, 
+liderança, empatia e comunicação eficaz, indispensáveis para uma interação e colaboração bem-
+sucedidas na resolução de desafios de âmbito local. Por fim, este curso tinha como intenção  
+capacitar os estudantes com um conhecimento a mplo e aplicado de inteligência artificial, 
+habilitando-os a desenvolver soluções tecnológicas inovadoras que atendam de forma eficaz às 
+necessidades da comunidade.   
+ No que toca à estrutura do curso, este foi dividido em quatro sessões de duas horas cada 
+uma. Em seguida, temos uma figura que representa a divisão das quatro sessões. 
+ 
+Figura 4  
+Sessões presentes na atividade Hackathon em Campo 
+ 
+Em resumo, o Hackathon em Campo emergiu como um catalisador transformador no 
+sistema educacional da Universidade do Minho, almejando transcender as fronteiras tradicionais 
+do ensino superior.  Esta ação inovadora combina o propósito de proporcionar aos estudantes 
+oportunidades únicas para o desenvolvimento de competências transversais e enriquecedoras, 
+que ultrapassam expectativas curriculares de uma licenciatura ou mestrado, com a missão de 
+
+
+ 
+ 
+18 
+ 
+fomentar colaborações significativas com instituições locais. Ao enfrentar desafios concretos, esta 
+iniciativa não apenas promove o fortalecimento de laços comunitários, mas também capacita os 
+alunos a aplicarem o conhecimento adquirido em contextos práticos e impactante 
+ 
+3.2.1 CRIAÇÃO DOS CONTEÚDOS MULTIMODAIS PARA OS CONTEÚDOS 
+SUBJACENTES AO PROJETO 
+ 
+ No âmbito da aquisição de uma identidade digital associada ao projeto de Voluntariado na 
+UMinho – UMinho em Campo: Juntos na Transformação, designado como Hackathon em Campo, 
+optámos por conceber elementos interativos e esteticamente cativantes, destinados a suscitar o 
+interesse e a curiosidade de docentes, discentes e colaboradores, incentivando-os a explorar mais 
+detalhadamente este projeto inovador e suscitar o seu interesse para uma participação contínua. 
+Desta maneira, foram criados vários tipos de conteúdo com o auxílio da Inteligência Artificial 
+Generativa para que fosse possível satisfazer os consumidores do conteúdo criado, a um nível que 
+os cativasse a saber mais sobre o projeto e ao mesmo tempo deixar uma imagem do mesmo forte 
+e consistente no digital. 
+ 
+3.2.2 CRIAÇÃO DE UM POSTER 
+ 
+Um dos desafios que me foi proposto consistiu na conceção de um poster alusivo ao 
+projeto Voluntariado na UMinho – UMinho em Campo: Juntos na Transformação . Este 
+elemento visual tinha como propósito primordial captar a atenção e suscitar o interesse dos 
+estudantes para a participação ativa no referido projeto. Para tal, procedeu -se a uma 
+meticulosa recolha e seleção de informação, estruturada de forma sintet izada e atrativa, que 
+articulasse a explicação concisa dos objetivos e da essência do projeto, sem esquecer a 
+disponibilização de todos os detalhes imprescindíveis.  Este futuramente irá ser publicado na 
+página de Instagram do projeto. Procedemos então à concretização da criação do poster, na 
+plataforma Canva. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+19 
+ 
+Figura 5 
+Poster alusivo ao projeto Voluntariado na UMinho – Uminho em Campo: Juntos na Transformação 
+ 
+ 
+ 
+3.2.3 CRIAÇÃO DOS CARTÕES DE ATIVIDADES 
+Os cartões de atividades foram elaborados com o propósito de detalhar minuciosamente 
+cada uma das sessões previstas para o Hackathon. Estes descreviam as expectativas associadas 
+a cada sessão, as competências a serem adquiridas, a sua duração e o respetivo  local de 
+realização. Primeiramente, foi elaborado um Google Docs onde escolhemos a informação que 
+queríamos que estivesse nos cartões para não se tornarem em algo desinteressante e com 
+demasiada informação.  Em seguida, fizemos uma revisão da informação, t ítulos escolhidos e 
+
+
+ 
+ 
+20 
+ 
+decidimos a estética que queríamos. Para alcançar este objetivo, optei por recorrer ao Gamma, 
+uma ferramenta que possibilita a criação de conteúdos mais interativos. Esta escolha foi motivada 
+pela sua adequação em captar e manter o interesse do público -alvo, conferindo um caráter mais 
+dinâmico e atrativo , com a presença de botões clicáveis,  à apresentação das informações. 
+Seguem-se os cartões de atividades criados para promover o Hackathon em Campo: 
+ 
+Figura 6  
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+Figura 7  
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+
+
+ 
+ 
+21 
+ 
+Figura 8 
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+Figura 9 
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+22 
+ 
+Figura 10  
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+Figura 11  
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+23 
+ 
+Figura 12  
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 13 
+Recurso online de apresentação do Hackathon em Campo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+24 
+ 
+3.2.4 CRIAÇÃO DE MATERIAL DE APOIO AOS ALUNOS 
+ 
+Como forma de apoio aos alunos no curso Hackathon em Campo, atribuíram-me a tarefa 
+de criar um documento interativo e apelativo que englobasse os dezassete Objetivos de 
+Desenvolvimento Sustentável (ODS) e que incluísse também associações, instituições ou 
+organizações sem fins lucrativos. Desta forma, decidi então mais uma vez optar pela fer ramenta 
+Gamma já que esta oferece boas formas de tornar um recurso online interativo. Primeiramente, 
+foi feita uma pesquisa inicial sobre os Objetivos de Desenvolvimento Sustentável sobre o que cada 
+um representava. Seguidamente, foi feita uma pesquisa sob re associações, instituições ou 
+organizações sem fins lucrativos que existem em Portugal. Por fim, já tendo o conteúdo passamos 
+à fase de criar algo visualmente apelativo e interativo para os alunos.  
+ Na parte da criação, foi utilizada inteligência artificial generativa, automatizando tarefas 
+que de outra forma seriam mais dispendiosas a nível de tempo. Para criar a página principal, a 
+ideia inicial foi que era muito importante esta ser uma página interativa por ser a primeira página 
+que os alunos vão ver.  Por esta razão,  a página principal apresenta cada um dos Objetivos de 
+Desenvolvimento Sustentável, com uma foto que os representa  e uma breve descrição sobre em 
+que consiste cada um deles. Apresenta também um botão com o nome de cada um dos ODS que 
+dá acesso a uma lista de associações, instituições ou organizações sem fins lucrativos que existem 
+em Portugal, cujas ações vão de encontra com um ou mais ODS.  
+A escolha do layout para a primeira página foi algo que debatemos durante algum tempo, 
+tivemos como recurso a inteligência artificial generativa que nos deu várias hipóteses automáticas 
+tendo em conta o prompt que lhe foi dado  sobre um layout interativo e apelativo . A inteligência 
+artificial generativa gerou tanto a foto escolhida para representar cada um dos Objetivos de 
+Desenvolvimento Sustentável, como também o breve resumo que se apresenta por baixo de cada 
+uma dessas mesmas fotos , com base no título de cad a um dos Objetivos de Desenvolvimento 
+Sustentável. Por fim, no final da primeira página temos um botão “Projetos a disponibilizar” que 
+tem como intenção futura servir como um espaço onde alunos de anos futuros possam ver os 
+projetos criados ao longo dos anos por alunos de anos anteriores no âmbito do projeto Voluntariado 
+na UMinho - UMinho em Campo: Juntos na Transformação. 
+ 
+ 
+  
+ 
+
+ 
+ 
+25 
+ 
+Figura 14  
+Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 
+ 
+ 
+ 
+Figura 15 
+Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+26 
+ 
+Figura 16  
+Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 
+ 
+ 
+Depois da página principal temos então as páginas referentes aos dezassete Objetivos de 
+Desenvolvimento Sustentável. O layout escolhido foi também uma das sugestões da inteligência 
+artificial generativa, inicialmente íamos utilizar caixas de texto mais pequenas e ter uma página 
+mais pequena também. No entanto, decidimos criar algo mais leve e fácil de ler então utilizamos 
+caixas de texto mais largas com o nome da asso ciação, instituição ou organização e uma breve 
+descrição sobre a mesma. Desta vez a descrição já foi feita à mão, sendo que algumas destas 
+entidades podem englobar na sua missão mais do um só Objetivo de Desenvolvimento Sustentável, 
+a inteligência artificial generativa demonstrou -se incapaz de conseguir atingir o resultado pedido. 
+Nestas dezassete páginas decidimos acrescentar um botão  “Saiba Mais” que remetesse o aluno 
+para a página inicial do website da associação, instituição ou organização em questão. Devido a 
+alguns problemas com alguns dos URL d os websites, quando exportávamos o documento ou 
+selecionávamos o modo de apresentação o website aparecia como link descon hecido e não 
+conseguíamos aceder ao mesmo. A solução criada foi em alguns casos utilizar páginas de 
+Facebook ou então links de vídeos do Youtube que explicassem a missão de cada uma das 
+entidades. No final de cada uma das páginas temos também no canto inferior direito um botão 
+“Voltar” o qual tem como finalidade voltar para a página inicial. 
+ 
+
+
+ 
+ 
+27 
+ 
+Figura 17  
+Material de apoio aos alunos sobre os Objetivos de Desenvolvimento Sustentável 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+28 
+ 
+4. Z-TEC PREPARANDO A GERAÇÃO Z PARA ALÉM DA S TECNOLOGIAS – 
+OPÇÃO UMINHO 
+ 
+No contexto da recente implementação d a Unidade Curricular uma Opção  UMinho 
+intitulada de “Z-Tec, preparando a Geração Z para além das Tecnologias” foi-me atribuída a tarefa 
+de consolidar os conteúdos elaborados pelos estudantes durante o segundo semestre do ano letivo 
+2023/2024 e do primeiro semestre do ano letivo 2024/2025. 
+ Esta Unidade Curricular  após formação da equipa docente em Aprendizagem-Serviço 
+integrou na sua base de aprendizagem a metodologia Aprendizagem -Serviço. As suas iniciativas 
+não apenas promovem um modelo pedagógico centrado na experiência prática e no impacto 
+comunitário, mas também convergem com  diversos Objetivos de Desenvolvimento Sustentável . 
+Trata-se, assim, da mesma filosofia que orientou o projeto Voluntariado na UMinho – UMinho em 
+Campo: Juntos na Transformação , integrando os princípios da responsab ilidade social nas suas 
+ações. 
+A introdução desta metodologia no âmbito da UC “Z-Tec, preparando a Geração Z para 
+além das tecnologias” marcou a sua aplicação inaugural no segundo semestre do ano letivo de 
+2023/2024, sendo assim feito um teste sobre a mesma, neste contexto. Nesse ano letivo o tema 
+“Revitalizando espaços verdes: desafios e oportunidades para a geração Z” foi idealizado pelo 
+Laboratório da Paisagem de Guimarães , a UC conseguiu contar com 44 alunos  do 1ºciclo todos 
+de áreas diferentes. No primeiro semestre do presente ano letivo a entidade parceira, já foi outra, 
+a Organização ACFA-Braga (Associação de Cuidadores, Familiares e Amigos, Braga)  e o tema 
+desenvolvido foi “Projeto Cuidar e Aprender com a Geração Z” . Nesta mais recente edição foram 
+32 estudantes de Engenharia a participar.  
+Esta UC  visa fomentar competências de  autoconhecimento, trabalho colaborativo e 
+interdisciplinar, responsabilidade e a criação de competências de comunicaçã o, pretende dar 
+ferramentas aos alunos para estes usarem o facto de serem de uma geração que está habituada 
+a receber muita informação através de meios de comunicação, para criarem formas de comunicar 
+os seus projetos. Desta maneira , busca-se equipar os discentes com ferramentas práticas que 
+possibilitem a tradução desse fluxo informacional em aprendizag ens significativas e em ações 
+transformadoras.  
+Tinha como dever unir então todos os projetos elaborados nestas duas últimas edições de 
+maneira que fosse criado uma espécie de portfólio para os alunos futuros e para ter registo da 
+evolução desta Unidade Curricular. 
+
+ 
+ 
+29 
+ 
+Para tal, decidi utilizar o Gamma visto que me pareceu a ferramenta mais adequada tendo 
+em conta o que me foi pedido. Comecei por elaborar um breve resumo dos objetivos e explicar 
+em que é que se baseava a Unidade Curricular. Seguidamente, construí duas pá ginas para o 
+conteúdo elaborado em cada uma das últimas edições, cada página tinha uma breve explicação 
+do tema sugerido e o nome de cada grupo de estudantes  do respetivo ano letivo. Cada caixa de 
+texto contém o nome de um grupo e dentro da mesma podemos e ncontrar tudo o que os 
+estudantes realizaram no âmbito d esta Unidade Curricular. A inteligência artificial generativa 
+também contribuiu para a construção deste documento, sendo que sugeriu o layout de todas as 
+páginas constituintes do projeto e sugeriu a adição de botões.  Participou também da escolha de 
+imagens que representam cada projeto. Em seguida seguem-se as imagens: 
+ 
+Figura 18 
+Primeira página do site criado no gamma alusivo à Opção UMinho intitulada de “Z -Tec, preparando a 
+Geração Z para além das Tecnologias” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+30 
+ 
+Figura 19  
+Segunda página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-Tec, preparando a 
+Geração Z para além das Tecnologias”  
+ 
+ 
+
+
+ 
+ 
+31 
+ 
+Figura 20  
+Terceira página do site criado no gamma alusivo à Opção UMinho intitulada de “Z -Tec, preparando a 
+Geração Z para além das Tecnologias” 
+ 
+
+
+ 
+ 
+32 
+ 
+Figura 21  
+Caixa de texto relativa ao grupo 2 do ano letivo 2024/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+33 
+ 
+Figura 22  
+Quarta página do site criado no gamma alusivo à Opção UMinho intitulada de “Z-Tec, preparando a Geração 
+Z para além das Tecnologias” 
+ 
+ 
+ 
+
+
+ 
+ 
+34 
+ 
+Figura 23  
+Caixa de texto relativa ao grupo 6 do ano letivo 2023/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+35 
+ 
+Figura 24  
+Página de fotos das apresentações relativas ao ano letivo 2024/2025 
+ 
+ 
+ 
+Figura 25  
+Página de fotos das apresentações relativas ao ano letivo 2023/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+36 
+ 
+5. EFICIÊNCIA DA INTELIGÊNCIA ARTIFICIAL GENERATIVA 
+ 
+A implementação da inteligência artificial nas atividades designadas teve como propósito 
+primordial a integração desta tecnologia no domínio da comunicação, especialmente em tarefas 
+como a criação de conteúdos. Consequentemente, torna-se imprescindível proceder à avaliação 
+rigorosa do desempenho da ferramenta na execução das funções atribuídas, analisando em 
+profundidade os desafios subjacentes, a qualidade e a precisão dos resultados, bem como o seu 
+grau de criatividade. O objeti vo final é assegurar a produção de conteúd os altamente alinhados 
+com as necessidades e expectativas do público -alvo. Ademais, todas as ferramentas empregues 
+foram submetidas a uma avaliação criteriosa , considerando parâmetros como a qualidade, a 
+adequação da linguagem ao perfil do público -alvo e a criatividade. Este processo foi enriquecido 
+pela execução automatizada proporcionada pela inteligência artificial com uma revisão humana 
+meticulosa, maximizando, assim, a excelência e o impacto dos resultados obtidos. Neste relatório 
+reconheci algumas vantagens de desvantagens da utilização da Inteligência Artificial Generativa. 
+ 
+Figura 26 
+Vantagens e Desvantagens da Inteligência Artificial Generativa 
+ 
+Apesar de não serem muitas as de svantagens, conseguimos concluir que de facto o 
+trabalho da Inteligência Artificial Generativa não pode ser feito sem acompanhamento de uma 
+revisão humana. No que toca à área da educação não podemos debruçar-nos apenas no trabalho 
+
+
+ 
+ 
+37 
+ 
+desta ferramenta sendo que estamos a formar alunos, não podemos ter conteúdo de pouca 
+qualidade ou até mesmo falso. 
+De facto, a Inteligência Artificial Generativa é uma mais -valia no que toca a tarefas 
+repetitivas, personalização do conteúdo, por vezes na sua criatividade, na quantidade de respostas 
+que nos consegue arranjar para o problema que lhe apresentamos e a velocidade a que estas são 
+reproduzidas. No entanto, temos sempre de ter em conta o que queremos que esta ferramenta 
+nos ajude a criar e para que público. Uma das grandes fraquezas que senti por parte desta 
+ferramenta, no contexto deste relatório foi sem dúvid a a criação de imagens com texto, sendo o 
+texto ilegível. Deixo aqui um desses exemplos: 
+ 
+Figura 27  
+Imagem criada por Inteligência Artificial Generativa da aplicação Gamma 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+38 
+ 
+6. CONSIDERAÇÕES FINAIS 
+ 
+ O presente relatório, inserido no âmbito do Mestrado em Humanidades Digitais, revelou -
+se uma experiência enriquecedora que, para além de desafiar a minha criatividade, contribuiu 
+significativamente para o aprimoramento das minhas competências e habilidades.  Todas as 
+tarefas que me foram atribuídas ao longo deste estágio foram importantes para o desenvolvimento 
+de uma identidade digital para o projeto Voluntariado no UMinho – UMinho em Campo: Juntos na 
+Transformação.  
+ Entre as diversas alternativas avaliadas no âmbito deste estágio, a decisão de centralizar 
+as informações do projeto na plataforma Sou.UMinho revelou -se a mais vantajosa do ponto de 
+vista estratégico. Tal escolha decorreu da acessibilidade proporcionada aos estudantes, potenciada 
+por outros fatores contextuais. Ademais, considerando a natureza ainda embrionária do projeto, 
+não se justificaria, neste momento, o investimento na criação de um website exclusivo. Por todas 
+estas razões, procedemos à integração do projeto Voluntariado na UMinho – Uminho em Campo: 
+Juntos na Transformação no website Sou.Uminho que é o website oficial da Universidade do 
+Minho. Criamos também um e -mail para futuros contactos com instituições/organizações e por 
+último, um perfil de Instagram que fará com que seja possível haver um contacto mais próximo 
+com os alunos numa plataforma que já lhes é tão familiar e utilizada para entretenimento próprio. 
+Contudo, a médio e longo prazo, essa iniciativa poderá tornar -se pertinente, dependendo da 
+consolidação e do impacto do projeto no ambiente académico da Universidade do Minho. 
+ 
+Figura 28 
+Processo de aquisição de uma identidade digital 
+ 
+
+
+ 
+ 
+39 
+ 
+Paralelamente, a implementação de um podcast  já anteriormente criado  associado ao 
+projeto conferiu-lhe uma visibilidade significativa, alinhando -se com as preferências e dinâmicas 
+da geração a que se destina. Em função dessa estratégia, optou-se também pela criação de uma 
+página no Instagram, de modo a ampliar os canais de comunicação e interação com o público -
+alvo. Futuramente, pretende-se dar mais ênfase à criação de conteúdos para estas plataformas de 
+maneira a tentar ampliar o conhecimento do público -alvo sobre este projeto e dar conhecimento 
+do seu objetivo e das suas iniciativas a outras organizações. 
+ A identidade visual deste projeto reveste -se de importância capital, sendo imperativo 
+assegurar a sua consistência, de forma a garantir o reconhecimento e a valorização tanto no 
+contexto interno quanto no panorama externo.  
+ Relativamente à metodologia utilizada Aprendizagem-Serviço esta representa algo muito 
+inovador e até mesmo necessário no sistema educativo que temos em Portugal. A prática é algo 
+que deveria ser mais valorizado, dando os recursos teóricos aos alunos que fazem parte do seu 
+percurso académico é tão ou mais importante fornecer oportunidades de contacto com a área de 
+uma maneira prática.   
+ 
+Figura 29 
+Objetivos centrais do projeto 
+ 
+
+
+ 
+ 
+40 
+ 
+Este projeto reverte a favor do desenvolvimento de competências transversais nos alunos 
+da Universidade do Minho, contribuindo para o desenvolvimento pessoal e profissional dos 
+mesmos. Para a Universidade do Minho também significa um avanço significativ o no sistema 
+educativo, o que poderá contribuir de forma muito positiva para esta instituição.  No Projeto 
+Voluntariado na UMinho - UMinho em Campo: Juntos na Transformação a Inteligência Artificial 
+Generativa teve o papel de potencializar a comunicação do mesmo, tornando -a mais eficiente e 
+personalizada alinhada conforme as necessidades do consumidor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+41 
+ 
+7. REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+Apresentação do Projeto de Voluntariado UMinho . (n.d.). Www.uminho.pt. 
+https://www.uminho.pt/PT/siga-a-uminho/Paginas/Detalhe-do-evento.aspx?Codigo=62818 
+ 
+Agência Portuguesa do Ambiente. (2021). Lista das associações registadas no RNOE. Recuperado 
+em 30 de julho de 202 4, de https://apambiente.pt/sites/default/files/2021-
+06/Lista%20das%20associa%C3%A7%C3%B5es%20%20registadas%20no%20RNOE.pdf 
+ 
+Ante, L., Fischer, C., & Strehle, E. (2022). A bibliometric review of research on digital identity: 
+Research streams, influential works and future research paths.  Journal of Manufacturing 
+Systems, 62, 523–538. https://doi.org/10.1016/j.jmsy.2022.01.005 
+ 
+Aramburuzabala, P. & Cerrillo, R. (2023).  Service-Learning as an Approach to Educating for 
+Sustainable Development" Sustainability 15, no. 14: 11231.  
+https://doi.org/10.3390/su151411231 
+ 
+Bauer, C. H. (2023).  Um guia de como construir uma presença digital. 
+https://doi.org/10.13140/RG.2.2.15611.49441 
+ 
+Berg, V., Arabiat, D., Evalotte Morelius, Kervin, L., Zgambo, M., Robinson, S., Jenkins, M., & 
+Whitehead, L. (2024). Young Children and the Creation of a Digital Identity on Social Networking 
+Sites: Scoping Review.  JMIR Pediatrics and Parenting , 7, e54414 –e54414. 
+https://doi.org/10.2196/54414 
+ 
+campo, Um. em. (2019).  UMinho em campo . https://sou.uminho.pt/pt/Sou-
+Estudante/Depois/3AUM/Recursos/UMcampo/Paginas/default.aspx 
+ 
+Canva. (2025). Canva. https://www.canva.com/ 
+ 
+Chaitanya, K., Saha, G. C., Saha, H., Acharya, S., & Singla, M. (2023). The Impact of Artificial 
+Intelligence and Machine Learning in Digital Marketing Strategies.  European Economic Letters 
+(EEL), 13(3), 982–992. https://doi.org/10.52783/eel.v13i3.393 
+ 
+Confederação Portuguesa das Associações de Defesa do Ambiente. (n.d.). Confederadas. 
+Recuperado em 25 de setembro de 2024, de https://www.cpada.pt/pt/confederadas 
+ 
+EAPN Portugal. (n.d.). Organizações não-governamentais. Observatório de Luta Contra a Pobreza 
+na Cidade de Lisboa. Recuperado em 11 de novembro de 202 4, de https://observatorio-
+lisboa.eapn.pt/links/organizacoes-nao-governamentais/ 
+ 
+Gamma. (2025). Gamma.app. https://gamma.app/ 
+ 
+Gioia, Dennis & Patvardhan, Shubha & Hamilton, Aimee & Corley, Kevin. (2013). Organizational 
+Identity Formation and Change. The Academy of Management Annals. 7. 
+10.1080/19416520.2013.762225. 
+ 
+
+ 
+ 
+42 
+ 
+Goh, V., Coutin, S. B., Denaro, K., Dennin, M., Matthew, R., & Tsukerman, D. (2024). Serving 
+students through service -learning: A digital pandemic histories archive. The Journal of Service -
+Learning in Higher Education, 19.  
+https://journals.sfu.ca/jslhe/index.php/jslhe/article/view/461?utm_source=chatgpt.com 
+ 
+Guia para a IA generativa na educação e na pesquisa . (2024). Unesco.org. 
+https://www.unesco.org/pt/articles/guia-para-ia-generativa-na-educacao-e-na-pesquisa 
+ 
+Guo, X., Chen, S., & Guo, Y. (2024). Advancing multimodal teaching: A bibliometric and content 
+analysis of trends, influences, and future directions. Humanities and Social Sciences 
+Communications, 11(1). https://doi.org/10.1057/s41599-024-04254-0 
+ 
+IA Generativa na Educação: Como Fazemos? - ProFuturo. (2024, October 2). ProFuturo - Programa 
+de Educación Digital Impulsado Por Fundación Telefónica Y Fundación “La Caixa.” 
+https://profuturo.education/pt-br/observatorio/competencias-xxi/ia-generativa-na-educacao-
+como-fazemos/ 
+ 
+Ideogram: Image Generation for Everyone . (2025). Ideogram: Image Generation for Everyone. 
+https://ideogram.ai/login 
+ 
+Leonardo.AI. (n.d.). Leonardo.AI - Generate high -quality images and videos with AI . Leonardo 
+Interactive Pty Ltd. Recuperado de https://leonardo.ai 
+ 
+Liu, X. (2015). Multimodal Definition: The Multiplication of Meaning in Electronic 
+Dictionaries. Lexikos, 25. https://doi.org/10.5788/25-1-1296 
+ 
+Luo H. (2023). Editorial: Advances in multimodal learning: pedagogies, technologies, and analytics. 
+Frontiers in psychology, 14, 1286092. https://doi.org/10.3389/fpsyg.2023.1286092 
+ 
+Mccall, A. (2024, November 20).  Applications of Generative AI in the Creative Sector . 
+https://www.researchgate.net/publication/386050395_Applications_of_Generative_AI_in_the_
+Creative_Sector 
+ 
+Multimodal Communication . (2024). De Gruyter. 
+https://www.degruyter.com/journal/key/mc/html?srsltid=AfmBOorRRTpXI-
+9Qeay92g12xt9GP1a0XNzIRJqRfxJ2yt4CHduFMRGj#overview 
+ 
+OpenAI. (2024). ChatGPT (November 21 version) [Large language 
+model].https://chat.openai.com/[Consultado a 26/11/2024] 
+ 
+Oye, E., Oye, E., Oyin, R., & Zion, R. (2024, December). Generative AI . Recuperado de 
+https://www.researchgate.net/publication/386573199_Generative_AI 
+ 
+Plataforma Portuguesa das ONGD. (n.d.). Lista de ONGD associadas. Recuperado em 3 de outubro 
+de 2024, de https://www.plataformaongd.pt/quem-somos/ongd-associadas/lista-de-ongd-
+associadas 
+ 
+
+ 
+ 
+43 
+ 
+Salam, M., Iskandar, D. N. A., Ibrahim, D. H. A., & Farooq, M. S. (2024). Service learning in higher 
+education: A systematic literature review . Asia Pacific Education Review , 20(4), 573 –593. 
+https://doi.org/10.1007/s12564-019-09580-6 
+ 
+Sarangam, A. (2024, dezembro). Analyzing the accessibility of chatbots and generative AI . 
+International Journal of Scientific Research in Engineering and Management, 8 (12), 1 –6. 
+https://doi.org/10.55041/IJSREM11418 
+ 
+Shams, R., Chatterjee, S., & Chaudhuri, R. (2024). Developing brand identity and sales strategy in 
+the digital era: Moderating role of consumer belief in brand. Journal of Business Research, 179, 
+114689–114689. https://doi.org/10.1016/j.jbusres.2024.114689 
+ 
+Sou.UMinho. (2019). Sou UMinho - Inicio. https://sou.uminho.pt/pt 
+ 
+Tavares, B. V., Ricioli, G. R. R., & Oliveira, J. P. (2024).  O papel das redes sociais na gestão e 
+construção de uma marca. ResearchGate. 
+https://www.researchgate.net/publication/385685751_O_papel_das_redes_socias_na_gestao
+_e_contrucao_de_uma_marca 
+ 
+UMinho em Campo. (2024). Gamma.site. https://uminho-em-campo-jpiypqu.gamma.site/ 
+ 
+Velasco, E., & Teixeira Nakamoto, P. (2023). Plataforma Wordwall: relato de experiência de um 
+projeto de ensino para a criação de conteúdos digitais para apoio das práticas educativas. Kiri -
+Kerê - Pesquisa Em Ensino, 1(15). https://doi.org/10.47456/krkr.v1i15.38961 
+ 
+Wilczenski, F. L., & Coomey, S. M. (2007).  A practical guide to service learning: Strategies for 
+positive development in schools. In A Practical Guide to Service Learning: Strategies for Positive 
+Development in Schools. https://doi.org/10.1007/0-387-46540-5 
+ 
+Wikipédia. (n.d.). Inteligência artificial generativa . Recuperado em 10 de janeiro de 2025, de 
+https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial_generativa 
+ 
+Wojciech Czakon, Mania, K., Jedynak, M., Aneta Kuźniarska, Michał Choiński, & Dabić, M. (2023). 
+Who are we? Analyzing the digital identities of organizations through the lens of micro-interactions 
+on social media.  Technological Forecasting and Social Change , 198, 123012 –123012. 
+https://doi.org/10.1016/j.techfore.2023.123012

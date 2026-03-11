@@ -1,0 +1,2029 @@
+Universidade do Minho  
+                             Escola de Letras, Artes e Ciências Humanas  
+      
+  
+  
+Maria João Da Silva Sá  
+  
+Criar e Comunicar no Digital. A experiência 
+dentro de uma agência de Marketing  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                                                                                                                                                                                                                                                                                                                               
+ 
+                                                               Maio de 2024 
+    
+  
+  
+
+
+ 
+  
+   
+  
+  
+
+ 
+ 
+  
+  
+            Escola de Letras, Artes e Ciências Humanas   
+  
+  
+    
+Maria João da Silva Sá   
+  
+Criar e Comunicar no Digital. A experiência   
+dentro de uma agência de Marketing  
+  
+  
+  
+  
+Relatório de estágio curricular   
+            Mestrado em Humanidades Digitais   
+                        Criação de conteúdos e comunicação digital  
+                        
+                  
+  
+  
+                  Trabalho efetuado sob a orientação de:  
+              Professor Doutor Pedro Dono López  
+  
+  
+           
+                                 Maio de 2024  
+ 
+ 
+
+
+ 
+ii  
+  
+  
+  
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR 
+TERCEIROS  
+  
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as 
+regras e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos 
+conexos. Assim, o presente trabalho pode ser utilizado nos termos  previstos na licença abaixo 
+indicada. Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em 
+condições não previstas no licenciamento indicado, deverá contactar o autor, através do 
+RepositóriUM da Universidade do Minho.  
+Licença concedida aos utilizadores deste trabalho.  
+  
+Atribuição CC  BY  
+https://creativecommons.org/licenses/by/4.0/     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+iii  
+  
+  
+  
+AGRADECIMENTOS  
+  
+Com a finalização deste relatório de Estágio tenho o dever de agradecer às pessoas que 
+fizeram parte deste percurso e que tanto direta e indiretamente participaram neste processo que 
+considero ser muito importante pessoal e profissionalmente.   
+Gostaria de dirigir um agradecimento especial a todos os elementos da empresa Markate 
+por todo o apoio e desenvoltura que me proporcionaram ao longo do meu tempo do estágio. Em 
+particular, à Melissa Benbelëid, Coordenadora de Eventos, por me ter acompanhad o e apoiado 
+em momentos cruciais do estágio e por me ter integrado com o resto da equipa, por todo o apoio 
+e aprendizagem que me proporcionou pessoal e profissionalmente. Também um especial 
+agradecimento à Bruna Oliveira, colega estagiária com a qual tive oportunidade de partilhar bons 
+momentos de trabalho e aprendizagem, e também à Carla Gonçalves e Rita Vilas Boas da área 
+da comunicação que sempre se disponibilizaram para me dar tarefas diferentes, que me 
+permitissem aprender o máximo possível sobre a áre a, e sempre disponíveis para esclarecer 
+qualquer dúvida. Apesar de não diretamente relacionada com a área em que estava a estagiar, 
+agradecer também à Nara Capela pela simpatia e disponibilidade. À Lara Gonçalves por toda a 
+atenção e partilha.  Por último, agradecer à Isabel Ferraz e Laura Varanda pela oportunidade de 
+aprendizagem nesta área tão diversa, e pela oportunidade de crescimento.   
+Ao meu orientador de estágio, Doutor Pedro Dono López os meus sinceros 
+agradecimentos, por todo o acompanhamento, apoio e disponibilidade para me guiar em todo o 
+processo.   
+Um agradecimento final para os meus pais, e à minha família por me proporcionarem a 
+possibilidade de realizar uma formação e por todo o apoio e incentivo. À minha tia e irmã, pela 
+paciência e atenção. À minha melhor amiga e aos meus amigos mais próximos, por me apoiarem 
+e acompanharem com carinho e cuidado. E por último, um especial agradecimento ao Ricardo, 
+por todo o acompanhamento e apoio incondicional e principalmente pela paciência ao longo de 
+todo o processo.   
+  
+ 
+
+ 
+iv  
+  
+  
+  
+DECLARAÇÃO DE INTEGRIDADE  
+  
+Maria Sá, estudante de Mestrado em Humanidades Digitais da Escola de Letras Artes e ciências 
+Humanas da Universidade do Minho, declaro ter atuado com integridade na elaboração deste 
+Relatório de Estágio intitulado “Criar e Comunicar no Digital – A experiên cia dentro de uma 
+agência de Marketing”. Confirmo que todo o trabalho foi feito por mim e não recorri a qualquer 
+forma de falsificação de resultados ou à prática de plágio. Declaro que todas as frases que retirei 
+de trabalhos, livros e sites web que perten cem a outros autores foram redigidos e referenciados 
+de outra forma, por outras palavras, sendo que as citações, se existirem, estarão na fonte 
+bibliográfica.    
+  
+     
+
+ 
+v  
+  
+  
+  
+Criar e Comunicar no Digital  
+  A experiência dentro de uma agência de Marketing.  
+  
+RESUMO  
+    
+Este relatório tem como objetivo relatar quatro meses e uma semana de estágio curricular 
+na agência de Marketing Markate, com início no dia 18 de abril de 2023 e término no dia 25 de 
+agosto de 2023. Este estágio contou com a supervisão e acompanhamento do Professor Doutor 
+Pedro Dono, e na empresa da Profissional Isabel Ferraz. Descreve as atividades que se foram 
+realizando ao longo dos meses bem como os desafios e as dificuldades encontradas como 
+estagiária curricular na empresa.   
+ O estágio foi realizado na empresa Markate situada em Braga, em Nogueira, e teve como 
+propósito pôr em prática os conhecimentos e competências adquiridas no Mestrado em 
+Humanidades Digitais, bem como aprimorá-los, e ao mesmo tempo explorar uma nova área: do 
+marketing e comunicação digital e as suas diversas componentes. A experiência a nível 
+profissional tem adicionalmente como objetivo mostrar como uma agência de marketing age em 
+mundo real.   
+ Inicialmente, existiu um período de adaptação na empresa e a introdução aos trabalhos que iriam 
+ser realizados, assim como uma aprendizagem rápida e gradual de certos conceitos e 
+melhoramento de outras práticas ao longo de todo o estágio.  
+  
+PALAVRAS-CHAVE  
+Estágio curricular, Humanidades Digitais, Marketing Digital, Planeamento.  
+  
+  
+  
+  
+ 
+
+ 
+vi  
+  
+  
+  
+Creation and digital communication   
+                              Experience within a marketing agency. 
+  
+ABSTRACT  
+  
+This report aims to describe the curricular internship of four months and one week in the 
+marketing agency Markate, beginning o n April 17 and ending on  August 25 of 2023. This 
+internship had the continuous collaboration and supervision of the Professor Pedro Dono, and in 
+the company of the professional Isabel Ferraz. Here are described the activities that were carried 
+out throughout the months, as well as the challenges and difficulties found as an intern in the 
+company.   
+The internship was held at the company Markate located in Braga, in Nogueira, and the 
+purpose was to put into practice the improvement of knowledge and competencies related with 
+the Digital Humanities Master, and at the same time exploring a new area: Mark eting and Digital 
+Communication and its various components. The experience at this professional level has 
+additionally the intention to exhibit how an agency of marketing works in real world.  
+Initially, the internship involved a period of adaptation in the company and an introduction 
+to the work that was to be done, as well as a fast and gradual learning of certain concepts and 
+improvement of other practices throughout the internship.   
+  
+ 
+KEYWORDS  
+Curricular Internship, Digital Humanities, Digital Marketing, Planning.  
+  
+       
+  
+ 
+
+ 
+vii  
+  
+  
+  
+  
+ÍNDICE  
+  
+INTRODUÇÃO ...........................................................................................................................1 
+CAPÍTULO 1 - ENQUADRAMENTO TEÓRICO ..............................................................................3 
+1.1 ORIGEM DO MARKETING ................................................................................................3 
+1.2. MARKETING TRADICIONAL E MARKETING DIGITAL ........................................................4 
+1.3. DO MARKETING DE CONTEÚDO E DA COMUNICAÇÃO DIGITAL À CRIAÇÃO DE ..............6 
+CONTEÚDOS .........................................................................................................................6 
+1.4. PLATAFORMAS DIGITAIS PARA A CRIAÇÃO DE CONTEÚDOS   ........................................8 
+2. CAPÍTULO 2 - PROJETOS E ATIVIDADES ............................................................................. 10 
+2.1 A EMPRESA ................................................................................................................. 11 
+2.2 APRESENTAÇÃO, ANÁLISE E DESCRIÇÃO DAS ATIVIDADES E PROJETOS ..................... 12 
+2.2.1 CRIAÇÃO E ORGANIZAÇÃO DE EVENTOS ............................................................... 12 
+2.2.2 CRIAÇÃO DE CONTEÚDOS E MARKETING DIGITAL ................................................ 17 
+2.2.3 TRADUÇÃO E REVISÃO DE CONTEÚDOS ............................................................... 34 
+2.2.4 ANÁLISE E RECOLHA DE DADOS........................................................................... 37 
+2.2.5 FERRAMENTAS DE OTIMIZAÇÃO E CRIAÇÃO DE CONTEÚDOS .............................. 40 
+2.2.6 SÍNTESE DE ATIVIDADES REALIZADAS .................................................................. 44 
+CONSIDERAÇÕES FINAIS ....................................................................................................... 45 
+REFERÊNCIAS BIBLIOGRÁFICAS ............................................................................................ 46 
+WEBGRAFIA  .......................................................................................................................... 47 
+ANEXOS ................................................................................................................................. 49 
+ANEXO 1 – TEXTO REALIZADO PARA A PRÈMIERE VISION PARA A LAMOSA ....................... 49 
+ANEXO 2 – TRADUÇÃO DA BROCHURA INTERNACIONAL PARA A MARKATE ...................... 50 
+
+ 
+viii  
+  
+  
+  
+ANEXO 3: ATIVIDADE EM VILA VERDE PARA O CLUBE DE FUTEBOL LÄNK FC VILAVERDENSE  
+ .............................................................................................................................................. 51 
+ANEXO 4 – TEXTOS REALIZADOS E OTIMIZADOS PARA O WEBSITE DO SPEAKUP ................. 52 
+ANEXO 5 – TRADUÇÃO PROGRAMA CÁVADO + IGUAL ........................................................... 53 
+ANEXO 6: RESULTADOS FINAIS DO TRABALHO EFETUADO PARA O WEBSITE DO SPEAK UP . 54 
+ 
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+ix  
+  
+  
+  
+ÍNDICE DE FIGURAS   
+  
+Figura 1 - Wikipédia em Português do evento Bracara Cup ...................................................... 15  
+Figura 2 - Wikipédia em Inglês do Evento Bracara Cup ........................................................... 15  
+Figura 3 - Calendarização das atividades para as atletas ........................................................ 16  
+Figura 4 - Apresentação em formato PowerPoint para escola em Viana do Castelo................... 17 
+Figura 5 - Imagens que evidenciam a apresentação realizada em Melgaço a alunos do Instituto  
+Politécnico de Viana do Castelo ............................................................................................. 17  
+Figura 6 - Descrição detalhada dos posts e respetivos dias de publicação ..............................19  
+Figura 7 - Calendarização de posts e stories do mês .............................................................. 19  
+Figura 8 - TikTok promocional sobre a empresa ...................................................................... 20 
+Figura 9  - Atividade de promoção em formato fotográfico para a Sé Apartamentos, cliente da 
+empresa Markate - Imagem retirada em formato Story do Instagram da agência Markate ..... 22 
+Figura 10 - Fotografia postada no Instagram da Sé Apartamentos, cliente Markate - Imagem  
+retirada do Instagram da Sé Apartamentos. ................................................... ……………………23     
+Figura 11 - Mood Board realizada para a Sé Apartamentos sobre a localidade de Forjães ........ 24  
+Figura 12 - Texto sobre sustentabilidade para a Lamosa .........................................................25  
+Figura 13 - Story Interativo realizado para o Instagram do Speak Up ...................................... 27  
+Figura 14 - Parte dos Stories criados e o seu planeamento e caraterísticas para agosto - Speak Up 
+ ............................................................................................................................................ 28  
+Figura 15 - Parte dos Posts criados e o seu planeamento e caraterísticas para agosto - Speak Up 
+ ............................................................................................................................................ 29  
+Figura 16 - Parte da calendarização realizada para o planeamento - Speak Up .......................29  
+Figura 17 - Planeamento mês de setembro - Speak Up ..........................................................30  
+Figura 18 - Parte dos posts criados e o seu planeamento e caraterísticas para agosto - Campo em  
+Flor ...................................................................................................................................... 31  
+Figura 19 - Parte dos stories criados e o seu planeamento e caraterísticas - Campo em Flor . 32  
+Figura 20 - Primeiros 3 post(s) criados para o mês de agosto – CIY Club .................................33  
+Figura 21 - Últimos post(s) do planeamento para o mês de agosto - CIY Club ...........................34  
+Figura 22 - Tradução da Conferência do treinador do Länk FC Vilaverdense ...........................36  
+
+ 
+x  
+  
+  
+  
+Figura 23 - Documento com parcerias e patrocínios dos clubes da 1.ªliga – Informação retirada  
+dos respetivos Websites dos clubes profissionais .....................................................................38  
+Figura 24 - Base de dados de Esposende - Sé Apartamentos, com cerca de 492 lugares –  
+Informação retirada do Registo Nacional de Turismo .............................................................. 39  
+Figura 25 - Relatório de Redes Sociais: Instagram e Facebook para a Troficolor ....................... 40  
+Figura 26 - Atividade realizada no TripAdvisor para a Sé Apartamentos .................................... 41  
+Figura 27 - Criação dos textos para o blogue Speak Up e introdução dos mesmos no Wordpess 
+ ..............................................................................................................................................42  
+Figura 28 - Ferramenta SEO nos textos ...................................................................................43  
+Figura 29 - Agendamento Anfilacar .........................................................................................44  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+xi  
+  
+  
+  
+ÍNDICE DE GRÁFICOS  
+  
+Gráfico 1: Síntese de Atividades Realizadas no estágio………………………………………………….45  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+1  
+  
+INTRODUÇÃO  
+  
+O Mestrado em Humanidades Digitais é um ciclo de estudos que sempre visou a interação 
+interdisciplinar de matérias e conceitos e que promoveu a capacidade individual de cada pessoa , 
+como o seu melhor atributo para singrar em diferentes áreas relacionadas com diferentes campos 
+do conhecimento. Os melhores termos para definir Humanidades digitais são “adaptar”, 
+“interrelacionar”, “interdisciplinar”, porque desde que se entra no mestrad o que estas são as  
+principais palavras que podemos associar às diferentes Unidades Curriculares que se encontram 
+ao longo dos semestres.   
+A escolha do estágio partiu sempre muito deste princípio interdisciplinar e a escolha da 
+área em si também. Um estágio é um caminho a percorrer de aprendizagem e implementação de 
+componentes teórico-práticas em contexto real, portanto a escolha não é simples, tendo em conta 
+que será sempre um enorme desafio. Neste caso em específico, a escolha recaiu sobre a área do 
+Marketing, concretamente nas áreas de criação de conteúdos e da comunicação digital. Ao longo 
+do mestrado existiram disciplinas que permitiram um conhecimento base daquilo que é esta área, 
+e mais em específico as Unidades Curriculares de Comunicação Estratégica e Estratégias Digitais.   
+A Markate, agência de marketing e comunicação, foi por isso escolhida. Esta empresa 
+nasceu em 2015 e tem desenvolvido importantes projetos nas áreas da comunicação e do 
+marketing, bem como em outras áreas como o design, e -commerce, Search Engine Optimization 
+(SEO), websites e ainda consultoria e formação. Dentro da Markate existe uma equipa que trabalha 
+diretamente com o Länk Vilaverdense, uma equipa de futebol de Vila Verde  que faz  toda a 
+comunicação e marketing do clube e realizam eventos personalizados no âmbito desportivo.  
+O estágio decorreu entre os dias 18 de abril e 25 de agosto e consistiu num trabalho contínuo 
+durante oito horas por dia, com um dia por semana livre, sob orientação das Doutoras Isabel 
+Ferraz e Laura Varanda. Os objetivos delineados inicialmente para este estágio foram os seguintes:  
+• Pôr em prática conhecimentos adquiridos no Mestrado em Humanidades Digitais.   
+• Entrar em contacto com o mundo laboral e ganhar experiência profissional.  
+• Explorar o funcionamento de uma agência de Marketing e Comunicação.  
+• Criar conteúdos relacionados com marcas.   
+• Desenvolver competências na área da comunicação.  
+
+ 
+2  
+  
+O presente relatório começa por apresentar uma breve introdução sobre o que significa 
+estudar e ser aluno de Humanidades Digitais, bem como explica detalhes do estágio desenvolvido 
+no âmbito das áreas de aprendizagem,  sendo as mesmas o Marketing Digital, a Comunicação 
+Digital e a Criação de Conteúdos.  
+No primeiro capítulo, é introduzido o enquadramento teórico com o apoio em estudos de 
+diferentes especialistas na área do marketing e comunicação digital. O objetivo passou por mostrar 
+o que significa Marketing e como o conceito evoluiu , correlacionando este tema especificamente 
+com as experiências e atividades que foram levadas a cabo ao longo do estágio.   
+No segundo capítulo são, então, descritas as atividades realizadas na empresa durante o 
+estágio. Apesar de existir um maior foco na criação de conteúdos, é possível ver nesta secção a 
+variedade de outras áreas que fizeram parte do estágio e que permitiram outro enriquecimento e 
+conhecimento do que significa trabalhar nas áreas acima referidas. 
+Este relatório termina com um cronograma que é apresentado no capítulo três com o 
+objetivo de mostrar quais as áreas profissionais em foco, incluindo ainda uma conclusão onde 
+estão presentes as observações finais acerca do estágio.    
+Por fim, como não pode deixar de ser, o objetivo deste relatório será mostrar e descrever 
+todos os aspetos do estágio, com a orientação do Professor Doutor Pedro Dono López, de modo 
+que toda esta experiência seja relatada com o maior detalhe possível.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+3  
+  
+CAPÍTULO 1 - ENQUADRAMENTO TEÓRICO  
+  
+O enquadramento teórico deste relatório permite expor a informação necessária à 
+compreensão dos termos e da área em que o estágio decorreu, baseada na bibliografia 
+considerada necessária para o efeito. Não se tratando de um estágio especialmente focalizado na 
+minha área de formação, a informação presente neste enquadramento pretende mostrar os 
+fundamentos e as orientações que foram consideradas no desenvolvimento do estágio.  
+1.1 ORIGEM DO MARKETING  
+  
+A conceptualização do termo Marketing surge no século XV durante os primórdios das 
+transações comerciais iniciadas entre e pelas comunidades da época. Com o passar dos séculos, 
+a evolução dos meios e recursos consequentes da revolução industrial precedem a criação de 
+teorias e métodos que viriam a ser aplicados na gestão e administração de empresas, estimulando 
+a ascensão e afirmação do marketing. É no século XX, aquando da consolidação do mercado 
+transacional e do setor económico, que este conceito se tran sfere para o campo disciplinar e se 
+afirma enquanto área de estudo e de análise nas universidades mais conceituadas, como a 
+Universidade de Nova Iorque.  (Peçanha, 2020) Na época, a funcionalidade adjacente ao marketing 
+estava apenas relacionada com o lucro e o ato de venda, descurando o lado do consumidor e a 
+consequente preocupação com as necessidades deste.  
+ 
+O reposicionamento do marketing no mercado mundial, a par da sua evolução, surgem da alteração 
+das suas perspetivas de atuação que assentam na busca por respostas e soluções às necessidades 
+dos consumidores. Assim, esta área caracteriza-se pelo permanente acompanhamento que faz às 
+mudanças sociais que surgem, bem como à cobertura paralela que faz ao mercado de consumo e 
+à congruente adaptação que faz à realidade do consumidor.  
+ 
+Sendo uma área que para além de entender, estuda r e monitorizar mercados, o marketing, 
+segundo a definição atual da American Marketing Association, “is the activity, set of institutions, 
+and processes for creating, communicating, delivering, and exchanging offerings that have value for 
+customers, clients, partners, and society at large” (American Marketing Association, 2017). 
+Isto significa que a funcionalidade e utilidade do marketing estão intimamente relacionadas com a 
+polivalência empresarial no que concerne à conciliação da busca pela satisfação das necessidades 
+e desejos dos clientes e da produção de lucro. Contudo, impor ta ressalvar a multifuncionalidade 
+
+ 
+4  
+  
+do marketing, que pode ser aplicado em determinado contexto organizacional que priorize, por 
+exemplo, o fortalecimento da marca em prol da produção de lucro.  
+Deste modo, é possível perceber que o aumento do número de vendas de determinado 
+produto ou serviço está no foco de atuação do marketing que opera através da definição de 
+estratégias que respondam às necessidades detetadas no público-alvo previamente selecionado. A 
+compilação destas técnicas de atuação resulta num aumento da visibilidade da marca, bem como 
+num posicionamento coeso e firme da mesma e numa consequente, fidelização dos consumidores 
+à marca.  
+ Para além disso, no marketing é necessário saber gerir uma marca, já que a mesma é 
+construída sob ordem de uma identidade composta por valores e missões que sustentam o 
+processo imagético e de associação mental que cada consumidor faz da marca. Adicionalmente, a 
+construção de boas relações com clientes e parceiros stakeholders e contribui para o sucesso e 
+fortalecimento da marca, externa e internamente, sendo o aumento de vendas e a fidelização 
+consequências da ativação destes mecanismos. Finalmente, é nec essário educar o mercado, isto 
+é, quando um criador de conteúdos procura, através de um post nas redes sociais, mostrar a 
+utilidade de um determinado produto, objetivando a transmissão de informação e expansão de 
+conhecimento de forma dinâmica, não tendo como objetivo direto o lucro ou o aumento de venda. 
+Segundo Ogden e Crescitelli (2008, p. 6),  “Objetivos tanto podem ser metas para o futuro como 
+previsões para as tendências futuras (uma previsão de vendas) e podem estar relacionados com a 
+satisfação do público, com os objetivos de vendas unitárias, com os objetivos de vendas globais, 
+com os canais de distribuição a serem atingidos ou com qualquer valor de metas relacionadas com 
+o marketing [...]. Os objetivos devem ser específicos e realistas.”   
+ 
+1.2. MARKETING TRADICIONAL E MARKETING DIGITAL    
+  
+Nos últimos 60 anos, a comercialização passou do foco no produto (Marketing 1.0) para 
+focar no consumidor (Marketing 2.0).  
+Hoje, vemos como o marketing se transforma mais uma vez, respondendo às novas 
+dinâmicas do entorno onde é aplicado.    
+                           
+                                                                                   (Rosa A, 2016)  
+
+ 
+5  
+  
+A definição de marketing tem evoluído ao longo dos anos , tendo passado por um processo social 
+em que o objetivo das empresas, para além da venda, também passa, cada vez mais, por optar 
+por uma mentalidade de transparência e satisfação das necessidades e desejos dos consumidores 
+e potenciais clientes. Esta citação de Kotler, publicada por Alex Rosa,  no ano de 2016, já previa 
+esta necessidade de interrelacionar as componentes sociais e administrativas, de forma a 
+estabelecer e a tornar mais coeso o termo marketing, sendo por isso necessária uma relação 
+bilateral para que exista uma satisfação de ambas as partes.   
+É neste contexto, e tendo em conta a evolução galopante das tecnologias que envolvem a 
+informação e a comunicação, que as empresas de marketing tem cada vez mais optado pela 
+utilização do computador como uma ferramenta de atuação e contribuído, para a entã o origem e 
+expansão do denominado marketing digital. (Ogden e Crescitelli, 2008, p.101)  
+  
+O objetivo do marketing digital é usar o poder da rede mundial de computadores interconectados (World Wide 
+Web) para realizar um novo tipo de comunicação de relacionamento com os consumidores, o chamado 
+marketing interativo, no qual o relacionamento é bidirecional, isto é, o consumidor não é passivo, mas sim ativo 
+ao longo de todo o processo.  
+    
+Deste modo, é possível verificar que o marketing digital é a aplicação do marketing em 
+plataformas digitais, através de sites, blogues, e atualmente nas redes sociais em que para além 
+de promoverem a marca, as empresas acabam por promover esta interação bilateral, 
+comunicando dinamicamente com o público e estimulando oportunidades de venda.   
+ O marketing digital acaba por afirmar firmemente vantagens em relação ao marketing tradicional 
+pois permite uma maior agilidade no que diz respeito à quantidade de tempo investida em revisões 
+e correções. Complementarmente, existe um baixo custo de invest imento no que concerne a 
+propaganda através da internet, permitindo que por serem de baixo custo as atualizações feitas 
+em anúncios se mantenham em voga. Avaliar algo que se publica também se torna mais fácil, 
+sendo que existem plataformas que conseguem fa cilmente medir as interações, gostos de uma 
+publicação intuitivamente como por exemplo, o Google Analytics . O cliente tem um tratamento 
+personalizado, adaptado às suas necessidades, facilitando igualmente o processo da empresa na 
+obtenção de informação sobre o cliente, para adequar o seu trabalho da melhor forma. A internet, 
+
+ 
+6  
+  
+o digital e as redes sociais permitem ainda um maior alcance no número de usuários que tem 
+acesso à informação que a empresa está a querer divulgar.   
+ No entanto, o conceito de marketing digital não funciona por si só, tendo algumas limitações. É 
+importante e necessário, por esse motivo, apontar algumas sobreposições com outras áreas que 
+envolvem a comunicação integrada de marketing para que o mesmo acrescente a componente 
+interativa que dele faz parte. Os objetivos para o marketing digital devem, por isso, seguir as 
+mesmas bases propostas para outras componentes: ser atingível, mensurável e realista.  (Ogden 
+e Crescitelli, 2008, p. 104)  
+ 
+ 
+1.3. DO MARKETING DE CONTEÚDO E DA COMUNICAÇÃO DIGITAL À CRIAÇÃO DE  
+CONTEÚDOS  
+  
+O marketing de conteúdo assume -se enquanto vertente do marketing e tem como objetivo 
+atrair um determinado público -alvo através da criação e publicação de variados conteúdos, em 
+diferentes formatos: texto, vídeo, infográficos, etc. O conceito de segmentaçã o de públicos 
+pressupõe o conceito de persona que significa um protótipo ideal de pessoa que representa o 
+cliente. Pressupõe f azer o levantamento das caraterísticas das personas como nome, idade, 
+escolaridade, preferências e aspirações, análise que facilita esta busca do público-alvo específico. 
+Este conceito de marketing de conteúdo pode ser feito através do marketing digital utilizando 
+mecanismos mais atuais através das redes sociais, campanhas online, influencers, e -mail 
+marketing, ebooks, marketing viral e análises específicas em relação ao comportamento do 
+consumidor online.    
+  
+Shivani Karwal, acerca deste conceito, explica que:  
+Content marketing involves publishing information in various content formats to build trust and 
+authority among your audience in order to acquire and obtain customers, so they end up 
+purchasing your product  [….] Everything you see online is content whichever form it may be in 
+such as text, image, video etc. being distributed using different methods such as blogging, 
+podcasts, webinars, infographics, slides, pdf downloads, etc. All these forms and mediums of 
+presenting your content are powerful for gaining the attention of your audience, building up your 
+audience and slowly increasing sales by converting them from just viewers into actual customers. 
+“... Content marketing is not only important for getting your brand  more out there and creating 
+
+ 
+7  
+  
+awareness and leads through readers, but also important from an optimization perspective, i.e 
+getting fresh content out there can be regularly indexed in search engines and ranked (2015, 
+p.169)  
+  
+ O marketing atual, sendo ele digital em muitas empresas, depende fortemente de uma relação 
+com a comunicação digital que está diretamente relacionada com ferramentas e métodos que se 
+aplicam à internet e redes sociais, sendo que esta realidade digital e o uso de determinadas 
+ferramentas tecnológicas se tornou indispensável. A comunicação digital está diretamente 
+relacionada com a estratégia e as ações de comunicação que se encontram no ambiente digital, 
+tornando-se essencial que a mesma seja trabalhada com imensa atenção, pois acaba por interferir 
+diretamente na visão que os clientes criam sobre a marca no mercado.   
+A inovação digital exigiu um aumento da criatividade e da flexibilidade e de novos 
+posicionamentos e da aquisição de novos conhecimentos para os profissionais de comunicação 
+porque o ambiente digital pressupõe benefícios indispensáveis, como a redução de custos. Investir 
+em ações digitais não exige grandes gastos ou despesas avultadas, ao contrário do que se verifica 
+em ações convencionais, como materiais impressos, existindo ao mesmo tempo um maior alcance, 
+pois, os conteúdos digitais são acessíveis praticamente em todo o lado, ao contrário dos materiais 
+impressos que têm um alcance mais restrito . Em acréscimo, existem várias ferramentas que 
+facilitam a análise de resultados para avaliar se o tipo de estratégia adotado pela empresa está a 
+resultar ou não. As principais ferramentas, como já mencionado, passam pela utilização de sites e 
+blogues, as redes sociais, webinars e e-mail marketing, e outras ferramentas mais atuais, como a 
+gestão de influencers. Portanto, a criação de conteúdos é exatamente o termo pr ático que resulta 
+da associação dos termos anteriormente referidos, o que resulta na produção e execução do 
+planeamento prévio.   
+Para criar um bom conteúdo é preciso ter em conta que existem certos passos que são 
+importantes seguir para que o mesmo seja bem produzido e realizado. Através de pesquisas, 
+planeamentos, escrita, ou o tipo de formato escolhido: imagens, vídeos, links. E deverá ainda ter-
+se em conta uma boa edição, sempre otimizando o conteúdo à medida que o mesmo é realizado. 
+E é exatamente nesta fase, de “entrega” que é possível avaliar através de plataformas , como o 
+Google Analytics, a interação da publicação que foi planeada, para obter mais informação sobre o 
+mesmo. (Karwal, 2015, p. 176)  
+  
+
+ 
+8  
+  
+ 
+1.4. PLATAFORMAS DIGITAIS PARA A CRIAÇÃO DE CONTEÚDOS   
+  
+                   Marketing de conteúdo é a nova propaganda e a hashtag é a nova tagline (Kotler et al., 2017)   
+Diante da influência intensa das tecnologias na sociedade, surge uma cultura voltada para o virtual 
+(Araújo et al., 2016 cit. por Molina e Molina, 2022, p.7). Cultura que permite uma produção em 
+massa de conteúdos digitais e respetiva comunicação, e que torna possível a criação de uma 
+ligação com o consumidor, fortalecendo a marca. Desta forma existem diferentes plataformas que 
+permitem um trabalho contínuo, a nível de conteúdo, sendo as três principais:   
+1. Instagram   
+No Instagram existe a possibilidade de promover qualquer produto da marca ou respetivo 
+serviço, fazendo posts informativos através de conteúdo de curta dimensão, como uma frase curta 
+e a sua legenda. Pode ainda ser utilizado através da função de vídeo em stories (imagens/vídeos 
+que são postadas quase em tempo real) , promovendo o produto que a empresa pretende. Desta 
+caraterística, é ainda possível tirar proveito da sua funcionalidade de “reels”, em que é criado um 
+vídeo que fica postado na página de Instagram da mesma, em que é promovido algum produto ou 
+identidade da marca  para que exista um maior número de interação e visualizações  entre 
+potenciais visualizadores, possíveis compradores e a marca . Importa referir que o hashtag (#) é 
+também uma das suas principais caraterísticas pois permite uma procura mais direta de conteúdo.  
+Devido às diversas funcionalidades que o Instagram permite, é uma ferramenta cada vez mais 
+utilizada por empresas de Marketing e Comunicação aquando do planeamento comunicativo que 
+realizam para cada cliente.  
+2. TikTok  
+O TikTok distingue-se do Instagram , por ser  uma plataforma que visa um conteúdo mais 
+dinâmico e interativo e, portanto, certas marcas conseguem tirar grandes vantagens deste tipo de 
+interação. A título de exemplo, uma marca de roupa para promover uma peça pode mostrar a 
+mesma em diversos visuais nos quais ela pode ser utilizada, reforçando o valor da peça e 
+aumentando o valor que o artigo irá ter para o consumidor. O TikTok pode ser ainda utilizado de 
+um ponto de vista institucional, isto é, para além de promover os produtos da empresa, pode 
+promover a própria empresa, e respetivos colaboradores, através de TikToks, dinâmicos, criativos 
+e divertidos que mostrem a personalidade da marca em si.   
+
+ 
+9  
+  
+3. Facebook  
+No Facebook, já é mais fácil adicionar mais texto, vídeos mais longos, um tipo de conteúdo mais 
+extenso, ou seguir o Instagram, visto que este permite a repostagem do mesmo post do Instagram 
+no Facebook.   
+Para além de todas estas plataformas digitais, existem outras mais específicas, que valem a pena 
+mencionar devido à utilidade que têm na criação de conteúdos nestas plataformas:   
+• Pinterest – plataforma de inspiração para criar conteúdos dinâmicos e 
+alternativos;  
+• Youtube – permite divulgar vídeos em formato de alta resolução;  
+• E-Mail (newsletter) e website;    
+Estas redes permitem negócios online de interesse para conectar serviços e pessoas de forma 
+dinâmica e empreendedora, sistemas que permitem gerenciar a base de Leads (potenciais 
+clientes), acompanhar as redes sociais, pesquisar e analisar as Keywords (palavras-chave) e gerar 
+relatórios completos e personalizados, visando identificar os potenciais clientes para produtos e 
+marcas que possam configurar vendas (Molina e Molina, 2022).   
+Desta forma é possível verificar uma evolução  contínua do Marketing, que se adapta 
+sempre ao mundo em que vivemos, fazendo com que esteja sempre em evolução, seja agora 
+através das redes sociais ou no futuro, possivelmente, relacionada com a inteligência artificial.  
+  
+  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+10  
+  
+2. CAPÍTULO 2 - PROJETOS E ATIVIDADES  
+  
+Este capítulo será dedicado à apresentação de todos os projetos e atividades realizados 
+ao longo do estágio na agência de comunicação Markate, que será também apresentada no 
+mesmo.   
+As atividades que decorreram ao longo do estágio foram diversas e estiveram relacionadas 
+com diferentes conceitos e marcas da empresa como estava previsto no plano original. 
+Inicialmente, o enquadramento do estágio estaria relacionado com o evento Bracara Cup e algumas 
+das principais tarefas e atividades que foram realizadas no início do estágio estão, por isso, 
+relacionadas diretamente com esse evento  Simultâneamente realizava outros trabalhos e 
+participava em diferentes atividades. 
+ No que diz respeito ao evento Bracara Cup, o estágio tomou outro rumo. As atividades 
+que foram realizadas estiveram relacionadas maioritariamente com outras marcas e clientes da 
+empresa, dada a impossibilidade de realizar o estágio no formato inicialmente apresentado em 
+que o evento assumiria uma grande parte do tempo de estágio, tendo sido por motivos alheios 
+impossível a continuação da minha participação. Desse modo irá ser apresentado na mesma todo 
+o trabalho realizado em prol do evento, bem como as res tantes atividades que vão ser relatadas 
+em concordância com as diferentes tipologias, que englobam as diferentes áreas do estágio.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+11  
+  
+ 
+2.1 A EMPRESA  
+  
+A empresa onde realizei o estágio denomina -se Markate. Como já foi previamente mencionado, 
+nasceu em 2015 e está sediada na freguesia de Nogueira na cidade de Braga.   
+Esta agência de comunicação dedica -se ao desenvolvimento de áreas como o marketing digital, 
+audiovisual e multimédia, bem como e-commerce, design, consultoria e formação. Realizam todo 
+o processo comunicativo dos seus clientes e marcas com quem trabalham, desde o processo 
+criativo ao marketing, independentemente da área a que as mesmas se dedicam.  
+A empresa caracteriza-se pela sua versatilidade, tendo como mote principal a personalização de  
+cada trabalho a cada cliente. Produz todo o tipo de conteúdo necessário, a partir de um estudo 
+aprofundado e detalhado de cada cliente ou potencial cliente. É, por isso, uma agência de 
+Marketing e Comunicação completa, onde é possível desenvolver competências valiosas nas 
+diferentes áreas que subsistem no seio da empresa, de forma integrada.   
+Dentro da empresa, estagiei maioritariamente nas áreas de marketing digital e criação de 
+conteúdos, essencialmente no digital. Tal passava pela criação de planeamentos de redes sociais, 
+criação de textos sobre diferentes temas, produção de conteúdos como v ídeos, fotografias de 
+promoção para determinado evento ou para diferentes marcas. Ou seja, trabalhei essencialmente 
+com a criação de diferentes conteúdos em diversos formatos, para diferentes marcas.  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+ 
+12  
+  
+2.2 APRESENTAÇÃO, ANÁLISE E DESCRIÇÃO DAS ATIVIDADES E PROJETOS  
+  
+Neste subcapítulo serão então apresentadas as atividades e projetos realizados no âmbito do 
+estágio organizadas em cinco tipologias: Criação e Organização de Eventos, Criação e 
+Planeamento de Conteúdos e Marketing Digital, Tradução e Revisão de documentos,  Análise de 
+Dados, e Criação e Otimização de Conteúdos.  
+  
+2.2.1 CRIAÇÃO E ORGANIZAÇÃO DE EVENTOS  
+2.2.1.2 BRACARA CUP  
+  
+Este primeiro tópico reflete as atividades realizadas no âmbito da criação e organização de 
+eventos, mais especificamente associadas ao evento Bracara Cup. O Bracara Cup é um evento 
+relacionado com futebol, associado à equipa Länk FC Vilaverdense. Conta já com quatro edições 
+realizadas no norte de Portugal, sendo que uma delas foi realizada em formato digital, devido ao 
+COVID-19. Este evento promove o desporto e a competi ção de elite, apostand o em 2023 num 
+torneio de futebol feminino. O projeto do torneio s eria inicialmente um , porém, à medida que a 
+sua organização decorria, foram necessários alguns ajustes e reestruturações que impediram a 
+minha continuação na organização do mesmo como mencionado anteriormente. No entanto, parte 
+das atividades relacionadas com o evento chegaram a ser feitas com a minha participação e irão 
+por isso ser mencionadas.  
+A primeira atividade que foi desenvolvida com a equipa consistiu na criação de uma página da 
+Wikipédia em português sobre o Bracara Cup, que foi criada com sucesso. No entanto, a sua 
+publicação nunca foi definitiva devido à política de fontes da Wikipédia, que exige um certo rigor e 
+especificidade no que respeita a(s) fonte(s) de informação, tipo de conteúdo e se o site pode ser 
+considerado fidedigno.    
+Como o Bracara Cup  é um evento realizado há poucos anos, ainda não existem fontes 
+disponibilizadas online que permitam considerar as informações declaradas por mim acerca do 
+evento como sendo fidedignas. Embora os comunicados de imprensa (press releases) transmitam 
+conteúdo sobre o evento, estas fontes não são consideradas fidedignas pelos editores da Wikipédia, 
+uma vez que são tidas como fontes promocionais do evento, argumentando que a Wikipédia não 
+
+ 
+13  
+  
+é uma plataforma de divulgação de iniciativas.  Na figura 1 identifica -se o trabalho realizado por 
+mim na Wikipédia:   
+ 
+  
+Este verbete da Wikipédia  foi também criado em inglês, o qual levantou dificuldades 
+inicialmente devido aos conhecimentos de HTML que se revelaram necessários para levar a cabo 
+a tarefa. No entanto, estas dificuldades foram ultrapassadas usando um formato menos complexo.  
+Na figura 2 apresenta-se a página não publicada da Wikipédia em inglês:  
+  
+ 
+Figura  
+1 
+  
+- 
+  
+Wikipédia em Portug 
+uês do  
+evento Bracara Cup 
+  
+Figura    
+2 
+  
+- 
+  
+Wikipédia em Inglês  
+do Evento Bracara Cup 
+
+ 
+14  
+  
+  
+No que diz respeito à organização do evento, existiram diversas matérias que eram tratadas e 
+resolvidas em reuniões que incluíam sempre todos os elementos da equipa. Numa das reuniões 
+foi abordado o orçamento do evento , onde aprendi a entender como funciona a dinâmica e a 
+preparação deste tipo de eventos, realizados a nível nacional e internacional. Foram apresentados 
+pormenores financeiros que foram tratados de forma minuciosa e sempre com o propósito de 
+oferecer a melho r experiência possível às equipas e , aos seus acompanhantes e familiares. A 
+relevância deste aspeto é que um torneio de elite, preparado nos moldes como o do Bracara Cup, 
+implica gestão.   
+ Quando me designaram a tarefa de organização das atividades extra evento para as atletas, este 
+aspeto de gestão foi algo a ter em conta, de modo a proporcionar a melhor experiência possível. 
+Esta ação que realizei consistiu em contactar empresas e marcas de diferentes áreas para o 
+evento, com o intuito de oferecer um leque variado de atividades. O propósito era preencher os 
+momentos em que as atletas não tinham jogos, com atividades dinâmicas e educacionais 
+proporcionando em simultâneo entretenimento.  Para registar as atividades e os contactos foi 
+necessário criar um documento Excel com toda informação, como se pode ver na figura 3:   
+  
+ 
+  
+Figura     
+3 
+  
+  
+- 
+  
+Calendarização das atividades para as atletas 
+
+ 
+15  
+  
+Finalmente, uma das últimas atividades que realizei no âmbito do evento foi estruturar e 
+realizar diversas apresentações em formato PowerPoint para apresentar a potenciais voluntários 
+do torneio, isto é, alunos de diversas escolas, da área do desporto que tivessem interesse em fazer 
+parte deste evento e também a possíveis candidatos para serem Team Hosts das equipas. O 
+conteúdo apresentado na figura 4 foi elaborado por mim e por um membro que me guiou na 
+estrutura e formato da apresentação, e os detalhes finais, a nível de design, foram realizados pela 
+equipa da empresa. Na figura 5, está presente nas imagens o que foi uma sessão presencial no 
+Instituto Politécnico de Viana do Castelo em Melgaço. 
+  
+ 
+  
+  
+  
+Figura 4  
+  
+- 
+  
+Apresentação 
+  
+ em formato 
+  
+ Power 
+Point  
+para  
+escola e 
+m Viana do Castelo 
+  
+
+ 
+16  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5  
+  
+- 
+  
+ Imagens 
+   que  
+evidenciam 
+  
+a apresentação  
+realizada 
+  
+em Melgaço a alunos do Instituto Politéc 
+nico de  
+Viana do Castelo 
+  
+
+ 
+17  
+  
+2.2.2 CRIAÇÃO DE CONTEÚDOS E MARKETING DIGITAL  
+  
+Este capítulo apresentará uma descrição das atividades realizadas nas áreas de criação de 
+conteúdos e marketing digital para diferentes clientes da Markate e também para a própria 
+empresa. 
+ 
+2.2.2.1 MARKATE  
+ 
+Como mencionei anteriormente, diversos trabalhos foram realizados no âmbito de diferentes 
+marcas, mas também para a própria Markate. As atividades que irei mencionar agora foram 
+realizadas para a própria Markate. O objetivo da primeira atividade desenvolvida  seria realizar o 
+planeamento das redes socias para o mês de julho da empresa. Este planeamento inclui, os dias 
+em que as ações decorrem, a descrição detalhada da ação, e um planeamento datado mais o que 
+seria postado, como se pode verificar nas figuras 6 e 7. A parte mais desafiante seria criar conteúdo 
+diverso para os diferentes dias em que os mesmos fossem postados, e ajustá-los à identidade da 
+marca em si.   
+.   
+  
+  
+     
+  
+  
+  
+  
+                                              
+
+ 
+18  
+  
+ 
+  
+                     
+ 
+  
+  
+  
+Figura 6 
+ - 
+  
+  
+Desc 
+rição detalhada dos posts e respetivos dias de publicação 
+  
+Figura 7 
+  
+- 
+  
+Calendarização de posts  e stories  do mês 
+  
+
+ 
+19  
+  
+A segunda atividade consistiu em participar num TikTok que mostrava a identidade da empresa 
+Markate, através de um vídeo dinâmico e interativo que tinha como tema: as formas que cada 
+trabalhador da empresa entra no local de trabalho.   
+Nas figura 8 é possível observar parte desse vídeo.  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                  Figura 8 – Tik Tok promocional sobre a empresa 
+  
+   
+   
+   
+
+ 
+20  
+  
+  
+  
+2.2.2.2 LÄNK FC VILAVERDENSE  
+  
+O Länk FC Vilaverdense é um clube de futebol de Vila Verde, caraterizado pela formação e eventos 
+de elite.  
+Para o Länk FC Vilaverdense, apenas foi realizada uma atividade que consistia em ir até à cidade 
+de Vila Verde durante o dia, criar um TikTok promocional com bilhetes de um jogo de futebol que 
+o Länk FC Vilaverdense tinha agendado, com o objetivo de motivar os adeptos do clube a ir 
+assistir ao jogo e apoiar a equipa.   
+Esta atividade acabou por ser bastante dinâmica no que diz respeito à criação de conteúdos e 
+planeamento de atividade digital para promover o clube. Adicionalmente, a inda existiu a 
+oportunidade de conhecer as instalações, mais especificamente a sede do Länk FC Vilaverdense 
+e a sua história.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+21  
+  
+  
+2.2.2.3 SÉ APARTAMENTOS  
+  
+A Sé Apartamentos é uma empresa de imóveis para alojamento local e funciona maioritariamente 
+no distrito de Braga. Para esta marca foram realizados diferentes conteúdos e atividades.  
+A primeira atividade ocorreu aquando da participação numa sessão fotográfica. A atividade estava 
+relacionada com a promoção de um apartamento e do seu espaço e a sessão consistia em 
+interpretar o papel de alguém que vivia na casa em questão. Foi uma ativid ade que deu para 
+entender como funciona em contexto real uma sessão profissional de promoção, certos ângulos e 
+perspetivas, bem como estratégias promocionais que se aplicam em cenários daquele tipo. Na 
+figura 9 é possível ver um story da mesma atividade, publicado pela Markate no Instagram: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Figura 9 - Atividade de promoção em formato fotográfico para a Sé Apartamentos, cliente da empresa Markate - Imagem 
+retirada em formato story do Instagram da agência Markate  
+  
+  
+  
+  
+
+
+ 
+22  
+  
+Na figura 10 é possível ver um exemplo de uma fotografia da sessão que foi selecionada para ser 
+publicada, não só no Instagram da marca, mas também no website:  
+ 
+  
+No seguimento dos trabalhos surgiu a oportunidade de realizar uma Mood Board  acerca de 
+Forjães. Uma Mood Board é uma colagem de imagens, elementos gráficos e outros materiais, 
+muito usada nos diversos campos do  design. Essa ferramenta serve para guiar profissionais a 
+criarem peças unificadas ou sob determinado tema, bem como para apresentar um conceito para 
+colegas de equipe ou clientes. (Canva Brasil, 2024) 
+Nesse sentido, foi feita uma Mood Board de Forjães com o intuito de mostrar as oportunidades 
+turísticas da zona e arredores, para potenciais clientes da Sé Apartamentos, que se quisessem 
+aventurar a passar férias em Forjães, Esposende. A figura 11 representa parte desta Mood Board. 
+Foi uma atividade que, para além de estratégia, envolveu pesquisa e planeamento, para mostrar 
+ao potencial cliente, quais seriam as vantagens de se alojarem em Forjães e de que forma 
+poderiam usufruir do seu tempo em locais próximos.   
+  
+  
+  
+  
+Figura 10 - 
+  
+  
+ Fotografia postada no Instagram da Sé Apartamentos 
+ , cliente Markate.  
+  
+ Imagem retirada do Instagram da Sé Apart 
+amentos. 
+ 
+   
+
+ 
+23  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Figura 11   
+- 
+  
+Mood Board 
+   
+realizada para a Sé Apartamentos  
+sobre a localidade de Forjães 
+  
+
+ 
+24  
+  
+2.2.2.4 LAMOSA  
+  
+A marca Lamosa carateriza -se pelo profissionalismo na área da indústria têxtil. Os 
+conteúdos criados para esta marca foram baseados em investigação sobre a área, 
+interrelacionando os valores da marca à medida das criações de conteúdo, que foram dois 
+trabalhos de redação para um Website e Newsletter. Nesse sentido, a primeira atividade consistiu 
+na elaboração de um texto sobre a sustentabilidade, visto que este cliente queria ter algo sobre 
+esse tema no website da empresa, para tornar mais visível a sua identidade de marca e o facto de 
+adotarem políticas de sustentabilidade , tanto na produção como na criação dos seus produtos. 
+Visto que seria publicado no Website da marca , este texto foi desenvolvido em português e em 
+inglês. Na figura 12 é possível ler o texto criado por mim nas duas línguas:   
+ 
+   
+Figura   
+ 12 - 
+  
+ Texto sobre sustentabilidade para a Lamosa 
+  
+
+ 
+25  
+  
+Para esta marca foi também criado um texto sobre a participação na Première Vision  a mais 
+importante feira de setor têxtil e moda no mundo. A ideia seria promover e mostrar a participação 
+num evento que promove os seus ideais, enquanto dão a conhecer a sua presença neste tipo de 
+eventos internacionais. Como  o texto seria publicado na Newsletter da empresa , as línguas de 
+redação foram o português e o inglês. Isto pode verificar-se no anexo 1 presente neste relatório.          
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+           
+  
+   
+  
+  
+  
+  
+  
+ 
+
+ 
+26  
+  
+  
+2.2.2.5 SPEAK UP  
+  
+O Speak Up é uma escola de inglês, que visa um modelo de formação único adaptado às 
+caraterísticas de cada pessoa. Para esta marca foram elaborados diversos conteúdos em 
+diferentes formatos, o que permitiu uma aprendizagem vasta de ferramentas e outras 
+componentes.   
+A primeira aprendizagem recaiu sobre a Plataforma Premiere, com o propósito de criar posts 
+interativos para as redes sociais da marca. Este programa serve para editar vídeos de uma forma 
+profissional e é uma ferramenta bastante utilizada para produzir diversos tipos de conteúdo, sejam 
+eles stories interativos ou vídeos promocionais. A figura 13 apresenta o exemplo de um  post 
+interativo para o Instagram realizado por mim, utilizando a plataforma mencionada.   
+ 
+  
+  
+  
+Figura  
+ 13 
+  
+- 
+  
+   
+Story Interativo realizado para o Instagram do Speak Up 
+  
+
+ 
+27  
+  
+Uma outra atividad e consistiu na criação de dois textos tipo blogue para o website da escola. A 
+ideia seria ser criativo nos temas escolhidos, de forma a tentar cativar o público leitor a interessar-
+se pelos mesmos. Foram então criados dois textos com os títulos “10 palavras mais comu ns em 
+inglês” e “Idiomas para o verão”, visto que o estágio se realizou na época de verão. Estes textos 
+encontram-se no Anexo 4 deste relatório.  
+Para o Speak Up, e tendo em conta a definição de planeamento que já apresentei brevemente 
+aquando do capítulo de criação de conteúdos na empresa Markate, o planeamento foi o mais 
+extenso realizado ao longo do estágio. Isto deve -se à frequência de posts e, neste caso, também 
+dos stories. Seriam 15 de cada um, somando um total de trinta publicações. Nas figuras 14, 15 e 
+16 é possível verificar uma parte do planeamento e a sua respetiva calendarização.   
+  
+        
+   
+Figura 14 - 
+  
+   
+Parte dos Stories  criados e o seu planeamento e caraterísticas para agosto  
+- 
+  
+Speak Up 
+   
+
+ 
+28  
+  
+ 
+  
+  
+ 
+  
+Figura  
+ 15 - 
+Parte 
+  
+ dos Posts criados e o seu planeamento e caraterísticas para agosto -  
+Speak Up 
+  
+Figura     
+ 16 
+  
+- 
+  
+ Parte da calendarização  
+realizada para o planeamento - 
+Speak Up 
+  
+
+ 
+29  
+  
+Um trabalho di ferente que foi desenvolvido para esta marca consisti u na realização de uma 
+apresentação com as informações específicas de determinados micro e macro influenciadores em 
+Portugal para a realização de parcerias, a nível de promoção da escola e respetivos cursos.   
+Para o Speak Up realizei ainda o planeamento de redes sociais do mês de setembro. Na  
+ figura 17, é possível ver parte dos posts do planeamento realizado para setembro.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  
+ 17 
+  
+- 
+  
+Planeamento mês de  
+setembro 
+  
+- 
+  
+Speak Up 
+  
+
+ 
+30  
+  
+2.2.2.6 CAMPO EM FLOR  
+  
+A Campo em Flor é um local de venda de flores para diversos eventos e ocasiões. Para esta marca 
+foi criado também um planeamento de redes sociais para o mês de agosto com cerca de 10 posts 
+e 10 stories. Nas figuras 18 e 19 é possível ver a parte desse planeamento.   
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Figura  
+18 
+  
+- 
+  
+Parte dos posts criados e o seu plane 
+amento e caraterísticas para agosto  
+- 
+  
+Campo em Flor 
+  
+
+ 
+31  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Figura  
+ 19 
+   
+- 
+  
+Parte do 
+s stories  criados e o seu planeam 
+ ento 
+  
+ e caraterísticas -   
+Campo em Flor 
+  
+
+ 
+32  
+  
+ 
+2.2.2.7 CIY CLUB  
+  
+A CIY Club – Code it yourself Club é uma empresa direcionada para o incentivo da programação 
+em idades mais jovens. No mesmo sentido que na Campo em Flor, foi realizado um planeamento 
+de redes sociais para esta marca.   
+Esta empresa requeria um post por semana, sendo que foram criados para o mês de agosto, cerca 
+de cinco posts.  Na Figuras 20 e 21 é possível ver todo o planeamento realizado. O desafio aqui 
+foi criar conteúdo interativo no ambiente das definições digitais, aplicando conceitos da área e 
+relacionado com a respetiva marca, de forma a atrair as camadas mais jovens. Foi também 
+possível colocar em prática conhecimentos do Mestrado em Humanidades Digitais , visto que é 
+uma empresa com uma visão do digital como uma ferramenta do futuro.   
+  
+  
+ 
+  
+  
+  
+    
+  
+Figura  
+ 20 
+  
+- 
+   
+Primeiros 3 post(s) criados para o mês de agosto -  
+  
+   
+ CIY Club 
+  
+
+ 
+33  
+  
+ 
+  
+ 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Figura   
+ 21 
+   
+- 
+  
+Últimos 
+  
+Post(s) do planeamento para o mês de agosto - CIY Club 
+  
+   
+   
+
+ 
+34  
+  
+2.2.3 TRADUÇÃO E REVISÃO DE CONTEÚDOS  
+  
+Neste capítulo irão ser apresentados os trabalhos realizados no âmbito da Tradução e Revisão de 
+Conteúdos. As traduções foram feitas de inglês para Português e de Português para inglês. Este 
+tipo de trabalho foi feito para a própria Markate e outras empresas clientes da mesma.   
+  
+2.2.3.1 MARKATE  
+  
+A atividade realizada para a Markate consistiu em traduzir a brochura internacional da própria, da 
+língua inglesa para a língua portuguesa. O principal objetivo da brochura é dar a conhecer o 
+trabalho e valores da marca a nível nacional, mas principalmente a nível internacional.  
+Antes de realizar a tradução, tive oportunidade de em conjunto com a colega responsável pelo 
+design da mesma, de ver e aprender como se realiza a brochura , abordar certos detalhes e dar 
+opinião sobre aspetos estéticos da mesma, entrando brevemente no mundo do design. No Anexo 
+2 deste relatório, é possível aceder a parte da brochura internacional traduzida.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+ 
+35  
+  
+2.2.3.2 LÄNK FC VILAVERDENSE  
+  
+A atividade que realizei neste contexto para o Länk FC Vilaverdense consistiu em ver e rever uma 
+tradução de uma entrevista , dada no âmbito de uma conferência.  A entrevista foi realizada em 
+português e o objetivo era rever a tradução que foi feita em inglês, para que, ao ser postada nas 
+redes sociais como o Youtube, o número de espetadores fosse mais elevado. Na figura 22, é 
+possível ver o texto original, a tradução e o vídeo de conferência.    
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Figura  
+ 22 
+  
+- 
+   
+Tradução da Conferência do treinador do Länk FC Vilaverdense 
+  
+
+ 
+36  
+  
+2.2.3.3. CÂMARAS MUNICIPAIS: CÁVADO + IGUAL   
+  
+A última atividade realizada a nível de revisão e tradução esteve relacionada com a revisão de 
+certos documentos municipais referentes a estudos realizados na população, em diferentes 
+Câmaras localizadas no norte do país como: Esposende, Braga, Vila Verde,  Barcelos, Terras de 
+Bouro e Amares.   
+O objetivo consistiu em perceber se os documentos estavam traduzidos dentro do contexto em 
+que se aplicavam e se transmitiam a informação bem como os seus resultados de forma direta e 
+eficaz. Foi um trabalho realizado no âmbito do programa Cávado + Igual , um programa 
+direcionado para as questões da igualdade e conciliação, onde se promovem ambientes laborais 
+mais saudáveis, igualitários e que conciliem acima de tudo a igualdade entre géneros.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+37  
+  
+ 
+2.2.4 ANÁLISE E RECOLHA DE DADOS  
+  
+Estas atividades consistiram em organizar e recolher dados para facilitar o acesso à informação 
+de determinadas marcas.   
+  
+2.2.4.1 LÄNK FC VILAVERDENSE  
+  
+Para o Länk FC Vilaverdense, a atividade consistiu em agregar num Excel todos os parceiros e 
+patrocínios oficiais dos clubes da primeira liga de futebol masculino, para que fosse possível 
+começar a contactar possíveis parceiros para o clube. Esta ação deco rre da subida de divisão da 
+equipa para a segunda liga, no âmbito da qual seria necessário a recolha desta informação para 
+a criação de uma base de dados e uma rede de contactos extensa. Na figura 23, é possível ver 
+um exemplo de parte do documento criado.   
+ 
+  
+  
+  
+  
+Figura 
+ 23 
+  
+- 
+  
+Documento com parcerias e patrocínios dos clubes da 1ªliga  
+– 
+  
+Informação retirada dos  
+respetivos Websites dos clubes profissionais 
+  
+
+ 
+38  
+  
+2.2.4.2 SÉ APARTAMENTOS  
+  
+Para a Sé Apartamentos, o trabalho realizado foi extenso, já que compreendeu a criação 
+de bases de dados de alojamentos locais relativos a localidades como Esposende, Terras de Bouro, 
+Vieira do Minho e Guimarães. Com isto, o objetiv o incidiu sobre a criação de uma base de dados 
+à qual a empresa pudesse recorrer com um acesso facilitado à informação de modo a começar a 
+expandir para estes locais. Para realizar esta ação, foi necessário utilizar o site relativo ao Registo 
+Nacional de Turismo que fornecia a informação necessária. Na figura 24, encontra-se uma parte 
+de uma dessas bases de dados referente a Esposende. Estas bases foram sendo criadas e 
+concluídas ao longo de várias semanas, visto que existiam tarefas que teria de realizar em 
+simultâneo. 
+  
+ 
+Figura 24 - Base de dados de Esposende - Sé Apartamentos, com cerca de 492 lugares – Informação retirada do Registo Nacional de  
+Turismo  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+
+
+ 
+39  
+  
+ 
+2.2.4.3 TROFICOLOR  
+  
+A Troficolor é uma marca que se especializa em ganga denim, e as suas especificidades e também 
+ao setor têxtil. Foi realizado um relatório mensal da atividade da marca nos meses de junho e julho 
+para perceber os dados estatísticos de atividade tanto no Facebook como no Instagram. Isto foi 
+possível devido à existência de ferramentas associadas ao Facebook e Instagram, como o Google 
+Business que permitem uma análise detalhada e estatística do conteúdo postado referente a esta 
+marca. (Figura 25)  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+Figura  
+ 25 
+  
+- 
+   
+Relatório de Redes Sociais: Instagram e Facebook para a Troficolor 
+  
+
+ 
+40  
+  
+  
+2.2.5 FERRAMENTAS DE OTIMIZAÇÃO E CRIAÇÃO DE CONTEÚDOS   
+  
+Finalmente abordarei as ferramentas para a criação e otimização de conteúdo s tendo em conta 
+que foi a área do estágio em que realizei menos atividades. Esta área despertou muito interesse, 
+no âmbito profissional, mas também a nível pessoal.  
+2.2.5.1 SÉ APARTAMENTOS  
+  
+Para a Sé Apartamentos, a atividade consisti u em otimizar certos alojamentos locais 
+pertencentes à empresa com o intuito de estarem presentes em mais plataformas às quais as 
+pessoas podem recorrer para escolherem o seu alojamento local, como é o caso do TripAdvisor. 
+O TripAdvisor é uma plataforma de viagens, que transmite aos seus utilizadores opiniões e 
+comentários relacionados com o turismo, incluindo fóruns de viagens que funcionam de forma 
+interativa.   
+Como tal, uma das partes da atividade foi participar nas sessões fotográficas desses 
+mesmos espaços , para poder publicar conteúdo fidedigno e próximo da realidade e depois 
+efetivamente criar e gerir então estes alojamentos no TripAdvisor.  
+Na figura 26 é possível ver, a ferramenta TripAdvisor com três alojamentos locais já registados na 
+plataforma.   
+ 
+  
+ 
+ 
+Figura  
+ 26 
+  
+- 
+   
+Atividade realizada no TripAdvisor para a Sé Apartamentos 
+   
+
+ 
+41  
+  
+2.2.5.2 SPEAK UP  
+  
+A atividade que foi realizada no âmbito da escola de inglês Speak Up foi a mais desafiante, visto 
+que trabalhei com a ferramenta  Search Engine Optimization  (SEO) na plataforma Wordpress. O 
+desafio consistiu em melhorar artigos, que eu mesma tinha criado a partir do Wordpress do próprio 
+Speak Up (figura 27), para que estes textos ficassem o mais otimizados possível.   
+A ferramenta SEO apresentava as partes do texto em que existiam problemas e que poderiam, 
+portanto, ser melhoradas a partir de alterações feitas nos texto s (figura 28). O resultado deste 
+trabalho está presente no Anexo 6 deste relatório.  
+  
+  
+ 
+    
+Figura  
+ 27 
+   
+- 
+   
+Criação dos textos para o blogue Speak Up e introdução dos mesmos no Wordpess 
+  
+
+ 
+42  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Figura  
+ 28 
+   
+- 
+  
+Ferramenta SEO nos textos 
+  
+
+ 
+43  
+  
+2.2.5.3 ANFILACAR  
+  
+A Anfilacar é uma empresa que oferece serviços de importação nível premium no serviço 
+automóvel. A última atividade de otimização de conteúdos foi para esta marca, em que o objetivo 
+passava por agendar publicações em redes sociais como o Instagram e o Facebook  a partir das 
+plataformas Google e Meta Business. Esta experiência permitiu-me adquirir competências ao nível 
+das técnicas de agendamento de conteúdos, que são utilizadas para facilitar a concretização dos 
+planeamentos efetuados não só para a Anfilacar, como também para outras marcas. Na figura 29 
+é possível ver parte deste agendamento na plataforma Meta Business.   
+  
+  
+  
+  
+ 
+Figura 29 - Agendamento Anfilacar  
+  
+  
+  
+  
+  
+  
+  
+
+
+ 
+44  
+  
+           
+2.2.6 SÍNTESE DE ATIVIDADES REALIZADAS  
+  
+ 
+Gráfico 1 - Síntese de atividades realizadas no estágio  
+  
+Atendendo à diversidade de funções desempenhadas ao longo do estágio, revelou -se 
+adequada a utilização de um cronograma que transpusesse toda a informação. Confirma -se, 
+portanto, que 50% do trabalho desenvolvido se debruçou sobre a área de criação de conte údos e 
+do marketing digital, ainda que, em diversos formatos.   
+Ademais foi, paralelamente, possível fazer parte de projetos em áreas distintas, como  é 
+exemplo o departamento de criação e organização de eventos que, por sua vez, tiveram um peso 
+significativo no início do estágio. Posteriormente, prossegui junto da repartição da tradução e 
+revisão de documentos, área que está intimamente mais relacionada com a minha formação base, 
+nomeadamente na Licenciatura em Línguas e Literaturas Europeias.   
+O balanço final caracteriza -se, primordialmente, pela positiva, considerando que, 
+efetivamente, metade do meu estágio foi ao encontro do objetivo inicialmente definido para este 
+projeto que consistia, essencialmente, na criação de conteúdos e comunicação digital, através de 
+uma agência de marketing.  
+  
+  
+  
+  
+  
+  
+% 
+50 
+20 
+% 
+15 
+% 
+% 
+10 
+5 
+% 
+Criação de Conteúdos e 
+Marketing Digital 
+Criação e Organização de 
+Eventos 
+Tradução e Revisão de 
+Conteúdos 
+Análise e Recolha de dados 
+Ferramentas de Criação e 
+Otimização de conteúdos 
+
+ 
+45  
+  
+CONSIDERAÇÕES FINAIS  
+  
+O relatório deste estágio descreve as atividades realizadas ao longo do mesmo em 
+comunicação e criação de conteúdos na empresa Markate. Ao longo dos meses em que o estágio 
+decorreu foi-me possível adquirir novas competências em diversas áreas relacionadas de forma  
+direta e indireta com a área, o que tornou este estágio rico em novos conceitos e dinâmicas, bem 
+como permitiu uma evolução académica, pessoal e profissional.  
+Aprendi mais sobre comunicação em diferentes âmbitos, e assisti ao desempenho de uma 
+agência de marketing em contexto real. Através do contacto com diversas atividades propostas e 
+dinâmicas tive a oportunidade de explorar e utilizar diferentes formatos de comunicação e criação, 
+o que me permitiu um melhor conhecimento dos procedimentos a seguir.   
+Embora não sendo a minha área de formação, existiram diversas componentes que se 
+relacionavam com a mesma, que tornaram a experiência mais desafiadora. Todos os dias havia 
+uma nova aventura ou aprendizagem, associadas à aquisição de competências relevantes para o 
+mercado de trabalho. Estagiar nestas áreas despertou interesses que não reconhecia serem meus 
+e que me impulsionaram a continuar a fazer formação principalmente na área da investigação e 
+criação de conteúdos, bem como um conhecimento avançado das  ferramentas utilizadas nesse 
+âmbito de atuação. 
+ Este relatório tenta demonstrar exatamente a presença de diversidade e dinamismo, bem como a 
+aprendizagem feita a nível prático de todos os conceitos mencionados ao longo deste período.   
+Optar por um estágio na área da comunicação e criação de conteúdos, relacionado com marketing, 
+permitiu-me concluir que, tal como mencionado no início do relatório, um Mestrado em 
+Humanidades Digitais precede o conceito de autoconhecimento e interdisciplinaridade ao 
+desafiarmo-nos constantemente com novos projetos de áreas com impacto societal. Esta foi uma 
+experiência que me trouxe enorme satisfação, por ter concluído mais um desafio essencial para o 
+meu percurso pessoal, académico e profissional.   
+  
+  
+  
+ 
+ 
+
+ 
+46  
+  
+REFERÊNCIAS BIBLIOGRÁFICAS  
+  
+Karwal, S. (2015) Digital Marketing Handbook (1.ª ed.) Create Space. 
+Kotler, P. e Cox, K. (1988). Marketing Management and Strategy (4.ªed.) Prentice-Hall 
+International Editions. 
+Kotler, P., Kartajaya, H., Setiawan, I. (2017). Marketing 4.0: do tradicional ao digital (I. 
+Korytowski, Trad.). Sextante. 
+ttps://www.academia.edu/41900956/Marketing_4_0_Do_Tradicional_ao_Digital_Phil 
+ip_Kottler   
+Molina, J. e, Molina, A. (2022). Produção de conteúdo em Marketing Digital: A influência 
+na relação com os clientes. Revista Ibero-Americana de Humanidades, Ciências e Educação 
+– REASE  https://doi.org/10.51891/rease.v8i8.6692.   
+Ogden, J. e , Crescitelli, E.  (2008). Comunicação integrada de Marketing . Conceitos, 
+Técnicas e Práticas  (2ªed.)Pearson Prentice Hall.  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+ 
+47  
+  
+WEBGRAFIA  
+  
+American Marketing Association (2017) .Definition of Marketing. 
+https://www.ama.org/thedefinition-of-marketing-what-is-marketing/     
+ 
+Brasil, C. (2024). Como Fazer Moodboard Online. 
+https://www.canva.com/pt_br/aprenda/moodboard/   
+ 
+Be-Wide (s.d). O que é a criação de conteúdo digital? Conheça tudo sobre o tema. 
+https://www.be-wide.com/criacao-de-conteudo-digital/      
+ 
+Calvet, L. (2022, agosto). Comunicação digital: como ser visualizado e desejado pelos 
+clientes. Voitto. https://www.voitto.com.br/blog/artigo/comunicacao-digital  
+  
+Camargo, G. (s.d). Produção de conteúdo: Conheça todos os segredos dessa atividade. 
+rockcontent. https://rockcontent.com/br/blog/producao-de-conteudo/   
+  
+Cintra, A. (s.d). Veja 8 ferramentas para produção de conteúdo. Post digital. 
+https://www.postdigital.cc/blog/artigo/veja-8-ferramentas-para-producao-de-conteudo/  
+  
+fsbcomunicação (s.d). Comunicação Digital: O que é, seus benefícios, caraterísticas e  
+tendências. https://www.fsb.com.br/noticias/comunicacao-digital/  
+ 
+Inbound Ware (s.d). As etapas do processo criativo na produção de conteúdos.  
+https://inboundware.pt/as-etapas-do-processo-criativo-na-producao-de-conteudos/     
+Markate (s.d). Portfólio: Os nossos projetos.    https://www.markate.pt/_projectos  
+Patel, N. (s.d). As 32 principais ferramentas de marketing digital do mercado em 2023 
+https://neilpatel.com/br/blog/ferramentas-de-marketing-digital/   
+Peçanha, V. (2020). O que é Marketing: todo o que você precisa saber sobre a arte de 
+conquistar e fidelizar clientes. rockcontent. https://rockcontent.com/br/blog/o-que-e- 
+marketing/   
+  
+
+ 
+48  
+  
+Redator Rock Content (s.d). Glossário de Marketing Digital: o guia definitivo!  
+https://rockcontent.com/br/blog/glossario-de-marketing-digital/   
+  
+Rosa, A. (2016, junho) . 27 frases Philip Kotler, o pai do marketing moderno. O Blog da 
+agência.https://wmmspropaganda.wordpress.com/2016/06/08/27-frases-philip-
+kotlero-pai-do-marketing-moderno/   
+  
+Shiva, M. (2023, fevereiro). Criação de conteúdo digital: 11 dicas para produzir conteúdo 
+de valor. Netshow.me https://netshow.me/blog/conteudo-online-empresa  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+49  
+  
+ 
+ANEXOS  
+  
+ANEXO 1 – TEXTO REALIZADO PARA A PREMIÈRE VISION PARA A LAMOSA  
+  
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+50  
+  
+ANEXO 2 – TRADUÇÃO DA BROCHURA INTERNACIONAL PARA A MARKATE  
+    
+
+
+ 
+51  
+  
+ANEXO 3: ATIVIDADE EM VILA VERDE PARA O CLUBE DE FUTEBOL LÄNK FC 
+VILAVERDENSE 
+ 
+  
+   
+
+
+ 
+52  
+  
+ 
+ANEXO 4 – TEXTOS REALIZADOS E OTIMIZADOS PARA O WEBSITE DO 
+SPEAKUP  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+53  
+  
+ANEXO 5 – TRADUÇÃO PROGRAMA CÁVADO + IGUAL  
+   
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+54  
+  
+ANEXO 6: RESULTADOS FINAIS DO TRABALHO EFETUADO PARA O WEBSITE DO 
+SPEAK UP

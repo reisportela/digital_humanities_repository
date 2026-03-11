@@ -1,0 +1,1977 @@
+Universidade do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+Filipa Cristina Alves Guimarães 
+ 
+Contributo do design de experiência e de 
+interface do utilizador para o marketing digital: 
+Uma experiência de estágio na iCognitus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+abril de 2025 
+Contributo do design de experiência e de interface do utilizador 
+para o marketing digital: Uma experiência de estágio na iCognitus UMinho | 2025 Filipa Guimarães 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+Filipa Cristina Alves Guimarães 
+ 
+Contributo do design de experiência e de 
+interface do utilizador para o marketing digital: 
+Uma experiência de estágio na iCognitus 
+ 
+ 
+ 
+ 
+ 
+Relatório de Estágio 
+Mestrado em Humanidades Digitais 
+ 
+ 
+ 
+ 
+Trabalho efetuado sob a orientação do 
+Professor Carlos Filipe da Silva Portela 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+abril de 2025
+
+
+ 
+ii 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras 
+e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos conexos. 
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada. 
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não 
+previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da Universidade 
+do Minho. 
+Licença concedida aos utilizadores deste trabalho 
+ 
+Atribuição-NãoComercial-SemDerivações  
+CC BY-NC-ND  
+https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+ 
+  
+
+
+ 
+iii 
+AGRADECIMENTOS 
+ Gostaria de expressar a minha sincera gratidão a todos aqueles que contribuíram para a realização 
+deste estágio e a conclusão deste projeto.  
+ Em primeiro lugar , gostaria de agradecer aos meus pais pelo apoio incondicional e paciência 
+demonstrados ao longo destes anos acadêmicos. Um obrigada ao meu irmão e à minha cunhada, pelos 
+conselhos dados nos momentos difíceis.  Agradeço também aos meus amigos, com quem partilhei 
+palavras de apoio, momentos reconfortantes, gargalhadas e lágrimas ao longo destes anos. Obrigada 
+pela amizade de uma vida. 
+ Um especial agradecimento ao meu orientador, Professor Filipe Portela, cujo ensino despertou o meu 
+interesse em UX/UI design. Agradeço o seu apoio, orientação e paciência ao longo de todo o processo. 
+O seu conhecimento e experiência foram fundamentais para o meu desenvolvimento profissional. 
+ Por fim, agradeço à empresa iCognitus4ALL - IT Solutions pela oportunidade de realizar este estágio 
+e pela confiança depositada no meu trabalho. Agradeço o meu supervisor, Enge nheiro Nuno Santos, 
+pela colaboração e pela constante disponibilidade para partilhar conhecimentos e ideias. Quero também 
+agradecer a Beatriz Araújo pelos conselhos valiosos ao longo deste processo. 
+ A conclusão deste relatório não teria sido possível sem o vosso apoio. A todos, o meu sincero 
+agradecimento. 
+  
+
+ 
+iv 
+DECLARAÇÃO DE INTEGRIDADE 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo que 
+não recorri à prática de plágio nem a qualquer forma de utilização indevida ou falsificação de informações 
+ou resultados em nenhuma das etapas conducente à sua elaboração.  
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da Universidade do Minho. 
+  
+
+ 
+v 
+Resumo 
+ Este relatório descreve o estágio curricular realizado na empresa iCognitus4ALL - IT Solutions, no 
+âmbito do 2º ano de Mestrado em Humanidade s Digitais, da Universidade do Minho. O Mestrado em 
+Humanidades Digitais oferece uma abordagem multidisciplinar, combina ndo as humanidades com a  
+tecnologia, permitindo a criação de soluções que equilibram inovação tecnológica com as necessidades 
+e interações humanas. Neste sentido, a iCognitus é uma organização especializada no desenvolvimento 
+de soluções tecnológicas inovadoras , que procura não só melhorar a educação, mas também 
+desenvolver soluções tecnológicas eficazes . Durante este estágio, os conhecimentos adquiridos no 
+Mestrado foram essenciais para o desenvolvimento de soluções visuais e funcionais que alinham 
+tecnologia e experiência do utilizador. 
+O estágio teve como  objetivo desenvolver competências em design de interfaces de utilizador (UI), 
+experiência do utilizador (UX) e comunicação empresarial. Para tal, foram desenvolvidos protótipos em 
+Figma, design de conteúdos para websites e redes sociais, bem como propostas de identidade visual, 
+como assinaturas de email e papel timbrado. A metodologia aplicada ao longo do estágio baseou-se no 
+Kanban, uma vertente da metodologia Agile, que permitiu uma gestão flexível e eficiente das tarefas, 
+garantindo a entrega de projetos de alta qualidade. 
+ Durante os quatro meses de estágio remoto, foram elaboradas 57 propostas de design no Canva e 
+20 no Figma, sendo que uma das propostas foi utilizada como base para um projeto real. Além disso, 
+foram desenvolvidos conteúdos para websites, redes sociais, desdobráveis e apresentações, destacando 
+a importância d e uma comunicação empresarial consistente e visualmente atrativa. A experiência no 
+estágio também proporcionou oportunidades de resolução de problemas de usabilidade e adaptação a 
+novas ferramentas, consolidando a aprendizagem teórica em um ambiente profis sional prático e 
+desafiador. 
+ Em suma, o estágio na iCognitus representou uma valiosa oportunidade para aplicar as competências 
+adquiridas durante o Mestrado em um ambiente profissional , expandindo também os conhecimentos 
+em UX/UI, design gráfico e comunicação, contribuindo para o desenvolvimento de projetos impactantes 
+e centrados no utilizador. 
+Palavras-chave: Figma; iCognitus; Marketing Digital; QuizOne; UX/UI design. 
+  
+
+ 
+vi 
+Abstract 
+ This report details the internship carried out at iCognitus4ALL - IT Solutions, as part of the 2nd year 
+of the Master's in Digital Humanities at the University of Minho. The Master's in Digital Humanities offers 
+a multidisciplinary approach, combining huma nities with technology, enabling the creation of solutions 
+that balance technological innovation with human needs and interactions. In this context, iCognitus is a 
+company specialized in developing innovative technological solutions, aiming to improve educ ation and 
+create effective technological solutions. During this internship, the knowledge acquired in the Master's 
+program was essential for developing visual and functional solutions that align technology with user 
+experience. 
+The internship aimed at deve loping skills in user interface design (UI), user experience (UX), and 
+business communication. It involved the creation of prototypes in Figma, content design for websites and 
+social media, as well as visual identity proposals such as email signatures and letterhead. The 
+methodology applied during the internship was based on Kanban, an Agile methodolo gy that enabled 
+flexible and efficient task management, ensuring the delivery of high-quality projects. 
+Over the course of four months of remote work, 57 design proposals were created using Canva and 
+20 using Figma, with one of these proposals being used a s the basis for a real project. Additionally, 
+content for websites, social media, brochures, and presentations was developed, emphasizing the 
+importance of consistent and visually appealing business communication. The internship also provided 
+opportunities to address usability challenges and adapt to new tools, consolidating theoretical learning in 
+a practical and demanding professional environment. 
+In summary, the internship at iCognitus was a valuable opportunity to apply the skills acquired during 
+the Master's program in a professional environment, expanding knowledge in UX/UI, graphic design, and 
+communication, contributing to the development of impactful, user-centered projects. 
+Keywords: Figma; iCognitus; Digital Marketing; QuizOne; UX/UI design. 
+  
+
+ 
+vii 
+Índice 
+1. Introdução .............................................................................................................................. 1 
+1.1. Enquadramento .................................................................................................................. 1 
+1.2. Apresentação da Empresa de Acolhimento .......................................................................... 2 
+1.3. Objetivos ............................................................................................................................ 4 
+1.4. Estrutura do relatório .......................................................................................................... 4 
+2. Revisão de literatura  .............................................................................................................. 6 
+2.1. Principais técnicas de Marketing Digital ............................................................................. 6 
+2.2. Processo de planeamento estratégico de Marketing ........................................................... 8 
+2.2.1. Integração do Plano de Estratégia em Marketing Digital ................................................... 9 
+2.2.2. O Papel Crucial do UX/UI Design .................................................................................. 10 
+2.3. Elementos de UX/UI que Potencializam o Marketing Digital ............................................. 12 
+2.4. Estudos de Caso e Exemplos Práticos ............................................................................. 13 
+2.5. Desafios e Considerações Éticas ..................................................................................... 17 
+2.6. Perspetivas Futuras ........................................................................................................ 19 
+3. Metodologia .......................................................................................................................... 22 
+3.1. Ferramentas e Recursos ................................................................................................... 23 
+3.2. Planeamento .................................................................................................................... 24 
+4. Projeto ................................................................................................................................. 29 
+4.1. Análise do Trabalho Desenvolvido...................................................................................... 30 
+4.1.1. T1 – Design de Assinatura de E-mail ............................................................................... 32 
+4.1.2. T2 – Design para Website de um Cliente ......................................................................... 34 
+4.1.3. T3 – Melhorias para os Websites da Empresa ................................................................. 35 
+4.1.4. T4 – Design de Papel Timbrado ...................................................................................... 37 
+4.1.5. T5 – Design de Templates de PowerPoint ........................................................................ 38 
+4.1.6. T6 – Design de Conteúdos para Redes Sociais ................................................................ 39 
+
+ 
+viii 
+4.1.7. T7 – Design de Desdobráveis .......................................................................................... 40 
+4.1.8. T8 – Questionário no Figma ............................................................................................ 41 
+4.1.9. T9 – Design do Website do QuizOne ................................................................................ 43 
+5. Discussão  ............................................................................................................................ 48 
+6. Conclusão ............................................................................................................................ 52 
+7. Referências Bibliográficas ..................................................................................................... 55 
+8. Anexos ................................................................................................................................. 59 
+Anexo 1 – Avaliação do estágio curricular pela empresa de acolhimento ....................................... 59 
+  
+
+ 
+ix 
+Lista de figuras 
+Figura 1 – Página inicial da iCognitus4ALL – IT Solution ..................................................................... 3 
+Figura 2 – Website do QuizOne .......................................................................................................... 4 
+Figura 3 – Plano de estratégia de Marketing ....................................................................................... 8 
+Figura 4 – Diferenças entre UI e UX Design ...................................................................................... 11 
+Figura 5 – Website Arngren .............................................................................................................. 15 
+Figura 6 – Página inicial da Netflix .................................................................................................... 16 
+Figura 7 – Website Flightpath ........................................................................................................... 17 
+Figura 8 – Diagrama de Gantt .......................................................................................................... 25 
+Figura 9 – Workflow do projeto ......................................................................................................... 29 
+Figura 10 – Assinatura original ......................................................................................................... 33 
+Figura 11 – Proposta de assinatura 2 ............................................................................................... 33 
+Figura 12 – Versão HTML final da assinatura 2 ................................................................................ 34 
+Figura 13 – Página Home da iCognitus ............................................................................................ 35 
+Figura 14 – Design do papel timbrado original .................................................................................. 37 
+Figura 15 – Design do Papel timbrado escolhido, versões 2 (esquerda), 4 (centro) e 9 (direita) ......... 37 
+Figura 16 – Exemplo de apresentação PowerPoint atualizada ........................................................... 39 
+Figura 17 – Exemplo de conteúdo para redes sociais atualizado ....................................................... 40 
+Figura 18 – Exemplo de um design de desdobrável criado: Desdobrável da iCognitus ....................... 40 
+Figura 19 – Exemplo da versão final do formato resposta do questionário ......................................... 42 
+Figura 20 – Exemplo da versão final do formato edição do questionário ............................................ 43 
+Figura 21 – Versão inicial (esquerda) e versão final (direita) da página de entrada ............................. 44 
+Figura 22 – Exemplo do design utilizado na página dos clientes ........................................................ 45 
+Figura 23 – Wireframe 1 .................................................................................................................. 46 
+Figura 24 – Wireframe 2 .................................................................................................................. 46 
+Figura 25 – Versão final da página inicial da plataforma QuizOne ...................................................... 47 
+  
+
+ 
+x 
+Lista de tabelas 
+Tabela 1 – Casos de estudo ............................................................................................................. 14 
+Tabela 2 – Ferramentas utilizadas e as suas aplicações .................................................................... 23 
+Tabela 3 – Total de horas de estágio ................................................................................................ 26 
+Tabela 4 – Matriz de Avaliação de Risco ........................................................................................... 26 
+Tabela 5 – Análise das tarefas realizadas durante o projeto .............................................................. 31 
+Tabela 6 – Análise SWOT ................................................................................................................. 49 
+Tabela 7 – Tabela resumo das tarefas e resultados .......................................................................... 53 
+  
+
+ 
+xi 
+Lista de abreviaturas 
+SEM – Search Engine Marketing 
+SEO – Search Engine Optimization 
+PPC – Pay-per-Click 
+KPI – Key Perfomance Indicator 
+SWOT – Strengths, Weaknesses, Opportunities and Threats  
+PESTAL – Políticos, Económicos, Sociais, Tecnológicos, Ambientais e Legais 
+CTA – Call to Actions 
+SVG – Scalable Vector Graphics 
+  
+  
+
+ 
+1 
+1. Introdução 
+Este relatório apresenta uma visão abrangente do estágio curricular realizado na empresa iCognitus, 
+focando-se no desenvolvimento de competências em design de interfaces e comunicação empresarial. 
+O estágio curricular foi realizado no âmbito do Mestrado em Humanidades Digitais da Univ ersidade do 
+Minho, que oferece uma abordagem multidisciplinar ao combinar as tecnologias e as humanidades. Esta 
+experiência permitiu aplicar conceitos teóricos relacionados com a interação entre o humano e a 
+tecnologia, com destaque para o design centrado no utilizador. O projeto, com a duração de quatro 
+meses em formato remoto, permitiu a aplicação prática dos conhecimentos ad quiridos durante o 
+Mestrado, com ênfase na prototipagem e no design de interfaces de utilizador 
+ O projeto visou aprimorar as habilidades em comunicação empresarial, desde a apresentação de 
+propostas até a publicação de conteúdos em diversos contextos, incluindo websites e redes sociais. Além 
+disso, o desenvolvimento de interfaces de utilizador para dispositivos móveis foi central, com a criação 
+de soluções que alinham usabilidade e estética, sempre considerando as necessidades do cliente e do 
+utilizador final. 
+Durante o projeto, foram realizadas várias tarefas que refletem os objetivos estabelecidos, como a 
+criação de propostas de design para assinaturas de e -mail, o desenvolvimento de layouts de website, 
+melhorias na usabilidade de sites existentes, e a cr iação de materiais gráficos para diferentes 
+plataformas. Cada uma dessas atividades foi executada seguindo um fluxo de trabalho estruturado, que 
+envolveu pesquisa, design, feedback e ajustes contínuos , seguindo ainda a metodologia Kanban, uma 
+das vertentes da metodologia Agile, que facilitou a organização e gestão eficiente das tarefas. 
+1.1. Enquadramento 
+Nesta secção, é apresentada uma descrição detalhada do desenvolvimento do projeto, abordando 
+diversos aspetos que contribuíram para a experiência e o desenvolvimento profissional ao longo do 
+trabalho realizado. A execução deste projeto permitiu integrar os conhecimentos teóricos adqu iridos 
+durante o mestrado às exigências de um ambiente profissional. Durante o projeto, houve várias 
+oportunidades para aplicar de forma prática os conceitos estudados, especialmente na Unidade 
+Curricular de Interfaces Web. 
+O projeto teve duração de quatro meses no total, tendo início a 5 de fevereiro e terminando a 31 de 
+maio. Os dias 1 e 2 de fevereiro foram dedicados à apresentação e definição do plano de trabalho, assim 
+
+ 
+2 
+como, a reuniões com a equipa sobre atividades futuras e leituras iniciais para conh ecimentos dos 
+produtos. O projeto foi conduzido em formato remoto, com supervisão do engenheiro Nuno Santos e 
+colaboração de Beatriz Araújo. 
+Durante este período, foram desenvolvidas habilidades em comunicação empresarial, incluindo a 
+apresentação clara e eficaz de propostas e resultados. O trabalho envolveu a criação de propostas de 
+publicação de conteúdos em diversos contextos, com foco especial na iCognitus. A proficiência no uso 
+da ferramenta Figma foi aprimorada, com a criação de interfaces de utilizador para dispositivos móveis 
+e a identificação e resolução de problemas relacionados. 
+O projeto enfatizou a comunicação empresarial eficaz, a resolução de problemas e o domínio da 
+ferramenta Figma. A experiência de trabalhar num ambiente profissional remoto  contribuiu para o 
+desenvolvimento de disciplina, autonomia e gestão de tempo. A oportunidade de colaborar com 
+profissionais experientes proporcionou um crescimento significativo tanto nas competências técnicas 
+quanto nas interpessoais. A integração da teo ria com situações práticas e a aprendizagem contínua , 
+foram fundamentais para o desenvolvimento pessoal e profissional ao longo do projeto.  
+Para compreender melhor o contexto em que essas habilidades foram aplicadas, é relevante 
+conhecer a empresa envolvi da no projeto. A seguir, será apresentada uma visão geral da empresa, 
+incluindo a sua missão, áreas de atuação e impacto no setor de tecnologia da informação. Esta 
+introdução oferece uma base para entender melhor as tarefas realizadas e os objetivos alcançados 
+durante o desenvolvimento do projeto. 
+1.2. Apresentação da Empresa de Acolhimento 
+A iCognitus4ALL – IT Solutions1 é uma empresa sediada na Escola de Medicina da Universidade do 
+Minho em Braga. Esta empresa de consultoria em tecnologia da informação e sistemas de comunicação, 
+dedicada ao desenvolvimento de soluções inovadoras, tem como missão desenvolver ferramentas de 
+alta qualidade destinadas a Entidades e Instituições Públicas e Privadas  (ICognitus, 2021b). Os seus 
+produtos são distintos pela sua segurança, usabilidade e flexibilidade, sendo estes adaptáveis a diversos 
+ambientes de negócios. A empresa apresenta ainda uma dedicação para melhorar a educação e 
+desenvolver soluções tecnológicas eficazes. 
+ 
+1 https://www.icognitus.com/  
+
+ 
+3 
+Fundada em 2013, a iCognitus o ferece soluções que podem ser facilmente adaptadas a qualquer 
+ambiente empresarial ou instituição, independentemente do seu tamanho, seja de forma presencial ou 
+através de meios digitais, algo que pode ser decidido pelos clientes conforme as suas necessidades. 
+ 
+Figura 1 – Página inicial da iCognitus4ALL – IT Solution. Fonte: ICognitus (2021a) 
+Entre os seus produtos está o QuizOne®, uma ferramenta online, fiável e segura que abrange todos 
+os aspetos do processo, desde a etapa de recrutamento até ao ciclo completo de avaliação e relatórios. 
+Oferecem ainda uma ampla variedade de formatos de avaliação, desde avaliações educacionais em 
+pequena escala, até testes de certificação e licenciamento de alta segurança  (ICognitus, 2021b). O 
+QuizOne® permite avaliações remotas com controlo por vídeo, garantindo maior segurança e um 
+ambiente de teste realista. É uma solução digital robusta e segura, que atende às necessidades em 
+constante evolução dos seus clientes. 
+
+
+ 
+4 
+ 
+Figura 2 – Website do QuizOne. Fonte: ICognitus (2022) 
+1.3. Objetivos  
+Nesta secção , observa -se representado os principais objetivos do projeto que foram definidos 
+previamente para o estágio curricular e que foram cumpridos ao longo do mesmo. Os principais objetivos 
+definidos previamente para o estágio curricular foram:  
+• Desenvolver a capacidade de apresentar propostas e resultados de forma clara  e eficaz, assim 
+como criar conteúdos para diferentes contextos, especialmente para a página web da iCognitus 
+e redes sociais;  
+• Aprimorar a proficiência na utilização do Figma para criar interfaces de utilizador, focando-se na 
+experiência do utilizador e na resolução de problemas de usabilidade;  
+• Propor e implementar soluções eficazes para os desafios encontrados durante o 
+desenvolvimento de interfaces e conteúdos.  
+Estes objetivos enquadram-se respetivamente em três áreas essenciais: comunicação empresaria l, 
+prototipagem e design de interfaces, e resolução de problemas.  
+1.4. Estrutura do relatório 
+ A estrutura deste relatório foi cuidadosamente organizada para proporcionar uma compreensão clara 
+e sistemática das atividades realizadas durante o estágio curricular. O documento inicia com uma 
+introdução que apresenta o projeto, incluindo o contexto, a e mpresa onde foi realizado e os objetivos 
+
+
+ 
+5 
+estabelecidos. Esta secção oferece uma visão geral do projeto e define as bases para o que será discutido 
+a seguir. 
+ O Capítulo 2 “Revisão de literatura é dedicado ao enquadramento teórico , abordando o marketing 
+digital e o papel crucial do design de experiência do utilizador (UX) e da interface do utilizador (UI). Esta 
+secção oferece uma base teórica que context ualiza a importância das práticas e conceitos aplicados 
+durante o projeto. 
+ No Capítulo 3 “Metodologia”, é descrita a metodologia empregada durante o projeto, detalhando as 
+ferramentas e recursos utilizados. Esta secção descreve a abordagem metodológica adotada, incluindo 
+a aplicação da metodologia Kanban, uma vertente da metodologia Agile, que foi fundamen tal para a 
+organização e gestão das tarefas ao longo do projeto.  Além disso, são abordadas ferramentas 
+específicas, como o Figma, utilizadas para o desenvolvimento dos designs e protótipos. 
+ O Capítulo 4 “Projeto” apresenta uma descrição abrangente das atividades realizadas durante o 
+projeto e uma análise detalhada de cada tarefa executada. Este capítulo destaca as principais tarefas, 
+descreve o processo de criação, os desafios enfrentados e as soluções implementadas. 
+ O relatório é concluído com uma reflexão sobre o trabalho realizado. Esta secção oferece uma análise 
+crítica da experiência d o projeto, destacando as aprendizagens adquiridas e o desenvolvimento 
+profissional que ocorreu ao longo do período de projeto. 
+ 
+  
+
+ 
+6 
+2. Revisão de literatura  
+Neste capítulo, serão explorados os principais conceitos e tendências relacionados ao Marketing 
+Digital e o papel crucial do UX/UI design no desenvolvimento de soluções tecnológicas, proporcionando 
+assim uma base teórica para entender as práticas aplicadas ao longo do projeto. 
+Dentro do contexto da era tecnológica emergente, em que a internet tem um impacto cada vez maior 
+nas nossas vidas, o Marketing Digital tornou-se uma ferramenta vital nas estratégias de negócios. A sua 
+capacidade de alcançar audiências de maneira eficaz e personalizada representa uma vantagem 
+estratégica crucial para as empresas. Nesse cenário dinâmico, é imperativo que as empresas explorem 
+constantemente a construção de uma "conexão emocional" entre consumidores e a marca (Mushka, 
+2023). 
+O Marketing Digital é definido pelo uso de várias táticas e técnicas digitais para conectar-se com os 
+clientes, onde eles passam a maior parte do tempo: online (Desai, 2019). C onsiste fundamentalmente 
+na promoção de serviços e produtos por meios da Internet e, uma vez que não está vinculado a uma 
+área geográfica, isto permite que as empresas ofereçam e vendam produtos /serviços aos clientes, 
+eliminando muitas barreiras tradicionais para o desenvolvimento empresarial (Mushka, 2023). 
+O futuro dos negócios está intrinsecamente ligado ao Marketing Digital e, de acordo com Yeole et al. 
+(2023), a integração de tecnologias efi cazes do passado e o crescente interesse em personalizar e 
+atender às necessidades individuais, serão o futuro do Marketing Digital. 
+2.1. Principais técnicas de Marketing Digital 
+ Atualmente, no mundo digital, as empresas dispõem de várias opções para alcançar o público de 
+forma eficiente. Cada método tem características únicas que permitem abordagens diferentes, 
+dependendo dos objetivos da campanha e do perfil dos consumidores. Ao utilizar estes métodos de 
+forma estratégica, as empresas podem potencializar o alca nce e envolvimento das suas campanhas, 
+oferecendo uma vantagem competitiva significativa. 
+ A escolha da técnica certa é fundamental para o sucesso de qualquer campanha de Marketing Digital. 
+É importante entender não só onde o público-alvo passa o seu tempo online, mas também como interage 
+com o conteúdo em diferentes plataformas. Entre as várias técnicas disponíveis, destacam-se: 
+
+ 
+7 
+• SEM (Search Engine Marketing): Conjunto de estratégias que visam aumentar a visibilidade nos 
+motores de busca. SEM engloba tanto resultados de pesquisa orgânicos quanto pagos, embora 
+muitas vezes seja utilizado para se referir especificamente aos resultados pagos, de maneira a 
+fazer contraste com SEO (Moran & Hunt, 2006); 
+o SEO (Search Engine Optimization): Estratégia que melhora a visibilidade de um site nos 
+resultados orgânicos dos motores de busca (Desai, 2019). Este processo permite que 
+um website se classifique melhor nas páginas de resultados de pesquisa. Normalmente, 
+os resultados de pesquisa orgânica, encontram-se abaixo de anúncios de pesquisa paga 
+e consistem em um título e uma pré-visualização do conteúdo, como, por exemplo, um 
+texto da página web, imagens ou vídeos (Moran & Hunt, 2006); 
+o PPC (Pay-per-Click): Modelo de publicidade onde um valor monetário é cobrado cada vez 
+que um dos seus anúncios é clicado. Um exemplo comum de PPC é o Google Ads, que 
+permite pagar por posições elevadas nas páginas de resultados de pesquisa da Goo gle 
+a um preço por clique dos links colocados (Desai, 2019). 
+• Marketing de Conteúdos: Criação e promoção de conteúdo valioso e relevante, com o propósito 
+de gerar reconhecimento da marca e, consequentemente, atrair e envolver um público -alvo 
+claramente definido (Desai, 2019); 
+• Redes Sociais: Plataformas que facilitam a interação direta com os consumidores, ajudando a 
+construir relacionamentos e fortalecer a marca. Assim como no Marketing de Conteúdos, 
+promove a marca e o seu conteúdo nas redes sociais para aumentar o reconhecimento da marca 
+e gerar mais visualizações (Desai, 2019); 
+• Email Marketing: As empresas utilizam esta ferramenta para comunicar diretamente com os 
+clientes, oferecendo informações personalizadas como eventos e promoções. Como  exemplos 
+deste tipo de email temos emails de boas -vindas aos clientes, promoções de feriados para 
+membros e newsletters de subscrição (Desai, 2019); 
+• Marketing de Afiliados: Tipo de publicidade baseada em desempenho onde se recebe uma 
+comissão por promover os produtos ou serviços de outra pessoa num website. Exemplos incluem 
+a visualização de anúncios de certas marcas (Glovo, Uber, etc.) em vídeo através do YouTube e 
+a publicação de links de afiliados nas contas de redes sociais (Desai, 2019); 
+
+ 
+8 
+• Native Advert ising: Anúncios que se integram naturalmente ao conteúdo de uma plataforma, 
+proporcionando uma experiência menos intrusiva para o utilizador. Native Advertising  pode 
+assumir uma grande variedade de formas, desde publicações patrocinadas em plataformas de 
+redes so ciais, até artigos e vídeos patrocinados em sites que publicam conteúdo original 
+(Wojdynski & Golan, 2016). 
+2.2. Processo de planeamento estratégico de Marketing  
+O crescimento rápido e contínuo da internet leva a que várias empresas e negócios tenham que 
+tomar decisões sobre que tipo de abordagem e estratégia devem utilizar. Para obter resultados 
+desejáveis, existem etapas e passos que devem ser primeiro explorados. O processo de criar uma 
+estratégia de marketing procura fazer melhor uso dos recursos da empresa para identifica r 
+oportunidades de marketing, incentivar o espírito de equipa e a identidade da empresa, assim como 
+ajudar a empresa a alcançar os seus objetivos corporativos.  Para ilustrar detalhadamente o 
+funcionamento de um plano de estratégia de marketing, apresent a-se um diagrama cíclico ( Figura 3) 
+que passa pelas seguintes etapas: 
+ 
+Figura 3 – Plano de estratégia de Marketing 
+• Análise da Situação: Na análise de situação, é considerada tanto a análise interna da empresa 
+como externa. Na análise interna, devem ser examinados métodos analíticos como os KPI, ou 
+Indicador-Chave de Desempenho, isto é, o número de visitantes do website, número de 
+subscritores e duração das visitas. É necessário fazer ainda uma análise SWOT que foca nas 
+forças e fraquezas internas da organização, por exemplo, o desempenho do website ou 
+
+
+ 
+9 
+comunicação nas redes sociais. Na análise externa, o foco encontra -se na análise de 
+concorrentes, na análise SWOT, que identifica oportunidades e ameaças externas à marca, e na 
+análise PESTAL que estuda os fatores políticos, económicos, sociais, tecnológicos, ambientais 
+e legais. 
+• Objetivos: Esta fase relata o que a empresa pretende atingir com a adoção das estratégias, como 
+aumento de vendas, acrescentar valor à marca ou criar laços com o consumidor. Estes objetivos 
+devem ser alcançáveis, específicos, mensuráveis, relevantes e com prazo definido. 
+• Estratégia: A estratégia permite a concretização dos objetivos e servirá como guia na definição 
+das táticas. Nesta fase, é definido o posicionamento da marca, ou seja, como a marca ou 
+empresa será vista no mercado em relação a concorrentes, e identificado o público -alvo, 
+considerando fatores como cultura, classe social, idade e estilo de vida, situação económica e 
+ocupação. 
+• Táticas: Explora as ferramentas e processos necessários para a sua implementação, incluindo 
+um plano de contingência que prepara soluções alternativas para possíveis problemas, 
+processos de implementação como detalhar as ações necessárias para executar a estratégia e, 
+se aplicável, a escolha de técnicas de marketing digital adequadas. 
+• Resultados: Nos resultados, é feita a avaliação do desempenho para verificar se a campanha 
+está a atingir os resultados pretendidos. Também é executado o diagnóstico de desempenho 
+que analisa a eficácia das táticas utilizadas e ajusta-as conforme necessário. 
+2.2.1. Integração do Plano de Estratégia em Marketing Digital 
+Numa fase inicial de planeamento e desenvolvimento de campanhas , o foco está na definição de 
+objetivos claros e mensuráveis, como aumentar a notoriedade da marca ou impulsionar as vendas, como 
+observado na Análise de Situação e em Objetivos n a Figura 3. Assim como na fase de Estratégia e 
+Táticas, identifica -se o público -alvo ideal através de pesquisas de mercado e análise de dados, 
+selecionando as técnicas mais eficazes, estabelecendo uma estratégia sólida para alcançar este mesmo 
+público-alvo. Empresas precisam de criar um plano de ação detalhado que permite estabelecer um 
+cronograma e uma estratégia sólida para a campanha. 
+
+ 
+10 
+Após o planeamento, o foco recai sobre o conteúdo e storytelling, que podemos relacionar à fase das 
+Táticas, sendo este essencial para captar e manter a atenção do público -alvo. A criação de narrativas 
+envolventes com as quais o público -alvo se possa identificar, é fundamental para captar e manter a 
+atenção. O storytelling deve promover a marca de maneira autêntica e emocional, estabelecendo uma 
+conexão profunda com os consumidores. A frequência e a consistência na produção de conteúdo são 
+cruciais para manter o interesse e construir uma audiência fiel. Além disso, a utilização de técnicas SEO 
+para otimizar o conteúdo pode aumentar a sua visibilidade nos motores de pesquisa. 
+Ainda na fase das Táticas, a gestão de comunidade e envolvimento é igualmente vital no marketing 
+digital. Nesta etapa, as empresas interagem regularmente  com os consumidores para construir uma 
+comunidade fiel em torno da marca. Utilizar plataformas de redes sociais e fóruns para iniciar conversas 
+e responder a perguntas para receber feedback é fundamental para manter o envolvimento. Construir 
+relacionamentos fortes com os clientes é extremamente importante, pois consumidores envolvidos são 
+mais propensos a recomendar a marca e a fazer compras repetidas. 
+Por fim, a Experiência do Utilizador, ligada novamente às Táticas e aos Resultados. Proporcionar uma 
+experiência positiva aos utilizadores é essencial para a satisfação e fidelização do cliente. Envolve ainda 
+a criação de interfaces intuitivas, fáceis de usar e agradáveis, tornando todas as interações com a marca 
+positivas. A otimização contínua da usabilidade do website ou aplicação é fundamental para atender às 
+necessidades dos utilizadores. A Experiência do Utilizador será discutida mais detalhadamente a seguir. 
+2.2.2. O Papel Crucial do UX/UI Design 
+A união entre Marketing Digital, Design de Experiência do Utilizador (UX) e Interface do Utilizador (UI) 
+é essencial na criação de uma presença digital de sucesso. Enquanto o Marketing Digital proporciona 
+uma abordagem estratégica para alcançar e cativa r audiências, o UX/UI Design aprimora a interação, 
+usabilidade e identidade visual, fundamentais para a retenção e satisfação do utilizador. Um design 
+intuitivo e atraente pode fazer a diferença entre um utilizador que abandona o site e um que se torna 
+cliente. 
+A integração eficaz destes parâmetros, não só promove a visibilidade online, mas também estabelece 
+uma conexão duradoura e significativa entre as empresas e os seus consumidores. No dinâmico 
+panorama digital, a busca contínua pela excelência em Marke ting Digital, aliada a um design centrado 
+no utilizador, emerge como um caminho para o êxito de negócios futuros. 
+
+ 
+11 
+Para compreender melhor como funciona o UX/UI Design, é necessário definir o que implica tanto o 
+Design de Experiência do Utilizador (UX), como a Interface do Utilizador (UI). De acordo com Bilousova 
+et al. (2021), o Design de Experiência do Utilizador foca -se em desenvolver as funcionalidades da 
+aplicação, com foco na melhoria da experiência global do utilizador, ao interagir com o produto digi tal. 
+Por outro lado, a Interface do Utilizador concentra-se mais no processo de apresentação da aplicação e 
+visa melhorar a sua interatividade. 
+ 
+Figura 4 – Diferenças entre UI e UX Design. Fonte: Sanketnagare (2024) 
+a) Experiência do Utilizador (UX)  
+De acordo com Interaction Design Foundation , cada interação entre humanos e objetos tem uma 
+experiência do utilizador associada, mas, em geral, os profissionais de UX estão interessados na relação 
+entre utilizadores humanos e computadores e produtos baseados em computador, como websites, 
+aplicações e sistemas. 
+A experiência do utilizador diz respeito à interação do utilizador com o produto e pode abranger desde 
+produtos físicos, por exemplo a maçaneta de uma porta, até experiências digitais. Como o cliente se 
+sente em relação ao produto quando está a utilizar o serviço, se está a enfrentar algum problema ao 
+interagir com o produto ou aplicação, e também quão fácil é para um utilizador realizar uma determinada 
+tarefa para utilizar um produto (Sanketnagare, 2024)  são pontos que o profissional de UX deve ter em 
+atenção. 
+ 
+
+
+ 
+12 
+b) Interface do Utilizador (UI) 
+Ao contrário da experiência do utilizador, a interface do utilizador abrange apenas experiências 
+digitais. Enquanto a experiência do utilizador é um conjunto de tarefas focadas na otimização de um 
+produto para um uso eficaz e agradável, o design da interface do utilizador foca -se no aspeto, 
+apresentação e na interatividade de um produto. Trata-se de garantir que a interface do utilizador de um 
+produto seja o mais intuitiva possível, o que significa considerar cuidadosamente cada elemento visual 
+e interativo que o utilizador possa encontrar, por exemplo é necessári o pensar em ícones e botões, 
+tipografia e esquemas de cores, espaçamento, imagens e design responsivo (Lamprecht, 2023). 
+Como já foi observado, UX e UI Design são dois conceitos diferentes, mas que se complementam 
+durante o processo. De acordo com Mittal (2018), para criar um produto eficaz e bem-sucedido, tanto o 
+UX como o UI precisam de estar presentes. Existem muitos exemplos de produtos que parecem 
+brilhantes e bonitos, mas falharam devido ao design de UX do produto. Da mesma forma, existem muitos 
+produtos que são fáceis de usar, mas não têm o fator ‘uau’ que um bom UI adiciona a um produto. 
+Importante ainda mencionar que na construção de um design UX/UI, tanto a Usabilidade como a 
+Identidade de um site ou aplicação tornam -se cruciais para a rete nção e satisfação do utilizador. De 
+acordo com Ji et al. (2018), os termos de Usabilidade significam que o serviço utilizado no processo é 
+projetado para seguir o caminho mais curto e considerar a conveniência do utilizador, como projetar 
+adequadamente o p osicionamento dos botões para que o utilizador não cometa erros facilmente. Os 
+termos de Identidade referem-se à consideração do ponto de vista do utilizador, ou seja, se o componente 
+do serviço é projetado para ser intuitivo, facilmente visível e tem uma aparência atrativa. 
+2.3. Elementos de UX/UI que Potencializam o Marketing Digital 
+No cenário competitivo atual, a integração eficaz de UX/UI com estratégias de Marketing Digital é 
+crucial para o sucesso de qualquer empresa. Uma página web pode ser considerada vital ao determinar 
+a credibilidade de um negócio (Aslan, 2021). Uma experiência de utilizador bem projetada não só 
+melhora a satisfação do cliente, mas também potencializa os esforços de marketing digital ao aumentar 
+a taxa de conversão e promover a lealda de à marca. As empresas modernas que investem nessa 
+integração estão mais bem posicionadas para alcançar e cativar o seu público-alvo de maneira eficaz. 
+Existem alguns elementos -chave de UX/UI que podem significativamente melhorar o desempenho 
+do marketing de uma empresa. Entre esses elementos, a navegação intuitiva é fundamental pois permite 
+
+ 
+13 
+que os utilizadores encontrem facilmente o que procuram, sem a necessidade de instruções 
+complicadas, reduzindo assim a frustração e aumentando tempo de permanência no  site, o que pode 
+levar a maiores taxas de conversão. Exemplos incluem menus claros e organizados, links internos bem 
+estruturados e barras de pesquisa eficientes. 
+A estética visual e o reforço da marca são igualmente importantes, pois um design visual atraente e 
+coerente com a identidade da marca ajuda a criar uma impressão positiva e memorável nos visitantes. 
+Por exemplo, o uso consistente de cores, fontes e imagens que reflitam a identidade da marca pode 
+aumentar a sua credibilidade. 
+Outro elemento-chave são os botões CTA (Call to Actions) que permite aos utilizadores fazer compras 
+diretas e reais através de plataformas sociais e redireciona para a página relevante. O resultado mais 
+importante da utilização destes botões será o aumento significativo da facilidade de compra, juntamente 
+com o aumento das vendas diretas e da defesa da marca (Dindar, 2024). Exemplo disto são os botões 
+chamativos com textos claros e diretos, como "Compre Agora" ou "Inscreva -se", utilizando contrastes 
+de cor e garantindo que eles se encontrem em locais de fácil acesso. 
+Finalmente com o aumento do uso de dispositivos móveis, o design responsivo  tornou-se uma 
+necessidade. Ele assegura que o site funcione bem em todos os dispositivos, proporcionando uma 
+experiência de utilizador con sistente e agradável, independentemente de o acesso ser feito via 
+computador, tablet ou smartphone. 
+A integração destes elementos de UX/UI no marketing digital é essencial para criar uma experiência 
+coesa e envolvente para os utilizadores. Uma página web q ue não só é funcional, mas também 
+esteticamente agradável e fácil de navegar, pode transformar visitantes casuais em clientes leais. 
+Portanto, as empresas que reconhecem a importância destes elementos e investem na melhoria 
+contínua da sua presença digital, têm uma vantagem competitiva significativa no mercado moderno.  
+2.4. Estudos de Caso e Exemplos Práticos 
+ Neste ponto, serão analisados  alguns exemplos práticos de sites que demonstram uma integração 
+positiva e negativa de UX/UI Design com estratégias de marketing digital. Estes estudos de caso ajudarão 
+a ilustrar como uma abordagem eficaz pode impactar positivamente, ou negativamente, a experiência 
+do utilizador e os resultados de marketing de uma empresa. A Tabela 1 resume os principais elementos 
+
+ 
+14 
+analisados nestes estudos de caso, inc luindo o público-alvo, a qualidade da integração de UX/UI e as 
+soluções ou recomendações propostas para cada website. 
+Tabela 1 – Casos de estudo 
+Website Descrição Público-alvo 
+Integração de 
+UX/UI 
+Design 
+Soluções ou 
+Recomendações 
+Arngren 
+Site norueguês 
+fundado em 2002. 
+Vende gadgets e 
+eletrodomésticos, 
+incluindo veículos. 
+Entusiastas de 
+tecnologia, 
+veículos e 
+aficionados por 
+eletrónica na 
+Noruega. 
+Integração 
+negativa. 
+Reformulação completa 
+da aparência, adicionar 
+categorias mais claras, 
+aumentar a fonte e 
+adicionar mais espaço 
+para organização. 
+Netflix 
+Serviço de 
+streaming de vídeos 
+americano fundado 
+em 2007. 
+Entusiastas de 
+filmes, séries e 
+documentários de 
+todas as idades. 
+Integração 
+positiva. 
+Manter a abordagem 
+atual, com foco contínuo 
+na personalização e 
+usabilidade intuitiva. 
+Flightpath 
+Agência de 
+marketing digital, 
+fundada a 1994, 
+com sede na cidade 
+de Nova Iorque. 
+Marcas que 
+procuram 
+transformação 
+digital e inovação.  
+Integração 
+positiva. 
+Manter a navegação 
+intuitiva e continuar a 
+destacar áreas de 
+especialização e projetos 
+anteriores para reforçar a 
+fiabilidade e 
+autenticidade. 
+A seguir, é apresentada uma descrição mais detalhada de cada um destes websites e a sua respetiva 
+integração positiva ou negativa de UX/UI Design. 
+• Arngren 
+Arngren2 é um site norueguês fundado em 2002. O principal objetivo deste site é vender gadgets e 
+eletrodomésticos, incluindo veículos. O púb lico-alvo são principalmente entusiastas de tecnologia, 
+ 
+2 https://arngren.net/  
+
+ 
+15 
+consumidores de veículos e aficionados por eletrónica residentes na Noruega, que desejam comprar ou 
+procurar o preço de bicicletas, carros, entre outros (Do, 2023).  
+ 
+Figura 5 – Website Arngren. Fonte: Arngren (s.d.) 
+O site (Figura 5) demonstra uma integração negativa de um UX/UI Design. As cores usadas são 
+aleatórias, sendo que apenas os preços têm uma cor constante de vermelho. A página é uma confusão 
+de produtos colados uns aos outros e apresentados por toda a página sem qualquer espaço. Não tem 
+ainda um design responsivo pois não reage bem à mudança de tamanho da página. A solução para o 
+site seria uma completa reforma de aparência, como adicionar categorias mais clara s, a utilização de 
+uma cor única, aumentar a fonte e adicionar mais espaço de maneira a ficar mais organizado. 
+• Netflix 
+Como exemplo de um bom UX/UI Design temos a Netflix 3 (Figura 6), um serviço de streaming de 
+vídeos americano fundado a 2007. 
+ 
+3 https://www.netflix.com/  
+
+
+ 
+16 
+ 
+Figura 6 – Página inicial da Netflix. Fonte: Romanchuk (2023) 
+Tanto em termos de aparência, como em termos de funcionalidade, a Netflix é considerada  como 
+bem organizada e estética. A presença de uma área dedicada a recomendações personalizadas, com 
+base no histórico de visualizações e preferências, assim como, na maneira que se pode interagir com a 
+plataforma, por exemplo, ao clicar num programa começar a reproduzir de fundo um trailer ou o primeiro 
+episódio, permite que o utilizador tenha uma experiência não só p essoal como interativa. A Netflix é 
+conhecida pelos seus utilizadores passarem mais tempo a decidir que programa ver, do que a realmente 
+a ver um programa, e isso deve-se em parte ao facto do seu design ser intuitivo e imersivo. 
+• Flightpath 
+Flightpath4 (Figura 7) é considerado um bom exemplo de UX/UI Design em ação. Esta empresa, 
+fundada a 1994, dedica -se a criar experiências digitais im pactantes e inovadoras que ajudam as 
+empresas a alcançar os seus objetivos de negócios. O seu público -alvo são marcas que procuram 
+transformação digital e negócios em fase de crescimento e expansão. 
+ 
+4 https://www.flightpath.com/  
+
+
+ 
+17 
+ 
+Figura 7 – Website Flightpath. Fonte: Flightpath Inc. (s.d.) 
+ A navegação intuitiva e utilização eficaz do espaço em branco ajuda m a manter o site organizado e 
+visualmente agradável, permitindo aos utilizadores encontrar facilmente a informação que procuram. O 
+design responsivo do website garante ainda que os utilizadores tenham uma experiência consistente e 
+otimizada. Além disso, todas as suas áreas de especialização estão enumeradas na página inicial, 
+permitindo que potenciais clientes as percorram de forma conveniente e rápida para verificar se 
+correspondem às suas necessidades. O site apresenta uma página que mostra alguns dos seus projetos 
+anteriores, juntamente com uma secção que  destaca colaborações com nomes populares. Ambos os 
+elementos desempenham um papel crucial em persuadir os visitantes sobre a fiabilidade e autenticidade 
+dos seus serviços (Editorial Team, 2024). 
+2.5. Desafios e Considerações Éticas 
+No desenvolvimento e implementação de estratégias de UX/UI, as empresas enfrentam diversos 
+desafios e considerações éticas que precisam ser cuidadosamente equilibrados para garantir a eficácia 
+e a integridade da experiência do utilizador. A seguir, serão discutidos dois dos principais desafios: o 
+equilíbrio entre estética e funcionalidade e questões de privacidade e segurança. 
+a) Estética e Funcionalidade 
+Encontrar o equilíbrio perfeito entre um design atraente e uma funcionalidade eficiente é um desafio 
+constante. Nem sempre o que é fácil de entender para uns, é fácil de entender para outros. Por exemplo, 
+
+
+ 
+18 
+na maioria dos sites o logotipo da empresa, localizado no canto superior esquerdo, quando clicado leva 
+o utilizador à página inicial. Embora essa funcionalid ade seja intuitiva para muitos, alguns utilizadores 
+podem não a reconhecer imediatamente. Isso ressalta a importância de considerar o público -alvo ao 
+criar um design. 
+Em situações em que o público -alvo abrange uma grande quantidade de pessoas com histórias  de 
+vida e gerações diferentes, muitas vezes a simplicidade é a resposta. Um design simples pode ser 
+considerado mais acessível para os utilizadores navegarem e utilizarem, independentemente da sua 
+experiência tecnológica. Isso pode significar a escolha de  layouts limpos, menus intuitivos e uma 
+navegação direta que priorize a clareza sobre a complexidade estética. 
+Embora a estética seja importante para criar uma impressão visual agradável, ela não deve 
+comprometer a usabilidade. Pensar na acessibilidade é igualmente importante, pois garante que pessoas 
+com dificuldades visuais ou motoras possam usar o site. Isso inclui usar cores que se contrastam, fontes 
+fáceis de ler e alternativas textuais para imagens. 
+b) Privacidade e Segurança 
+Com o aumento das preocupaçõ es sobre privacidade e segurança online, as empresas devem 
+garantir que as suas práticas de UX/UI sejam éticas e sigam as regras. É essencial que as empresas 
+protejam os dados pessoais dos utilizadores. Isto significa usar medidas de segurança e ser 
+completamente transparente sobre como os dados são coletados e usados. Em Portugal segue -se o 
+regulamento RGPD (Regulamento Geral sobre a Proteção de Dados), aplicado a todos os cidadãos da 
+União Europeia. O regulamento (2016/679) permite que os cidadãos tenham formas de gerir os seus 
+dados pessoais (Wikipedia, 2024). 
+As interfaces devem ainda obter o consentimento dos utilizadores de forma clara para coletar e usar 
+os seus dados. Um exemplo claro disto são a s cookies. Quando um utilizador visita um site, aparece 
+uma notificação que pede para aceitar as cookies. Essas cookies rastreiam o comportamento e recolhe 
+dados. É importante que os utilizadores entendam e concordem com isso. Políticas de privacidade claras 
+e notificações explícitas garantem que os utilizadores saibam como os seus dados serão utilizados. 
+Práticas que manipulam os utilizadores a tomar decisões não intencionais devem ser evitadas.  
+Abordar estes desafios e considerações éticas no UX/UI Design é crucial para criar experiências de 
+utilizador eficazes e responsáveis. Ao equilibrar estética e funcionalidade, e priorizar privacidade e 
+
+ 
+19 
+segurança, as empresas podem construir confiança e lealdade entre os seus utilizadores, garantindo 
+sucesso a longo prazo. 
+2.6. Perspetivas Futuras  
+À medida que o marketing digital e o UX/UI Design continuam a evoluir, é crucial que as empresas 
+acompanhem as novas tendências e promovam a inovação por meio da colaboração entre diferentes 
+áreas. Neste ponto, será explorado algumas tendências mais promissoras e  será destacado a 
+importância do trabalho em equipa para criar experiências para os utilizadores cada vez melhores.  
+O futuro do marketing digital e do UX/UI Design está a ser moldado por várias novas tendências que 
+prometem mudar a maneira como as empresas interagem com os seus clientes. Uma dessas 
+tendências, e provavelmente das mais faladas recentemente, é a Inteligência Artificial (IA) e o Machine 
+Learning. Ambos estão a tornar as aplicações e sites mais inteligentes ao aprender o que interessa aos 
+utilizadores, sugerindo tópicos e conteúdos que possam ser do seu interesse ou úteis. Além disso, 
+antecipam as nossas necessidades com base nas nossas ações e preferências habituais (Velasco, 
+2024). Exemplos incluem chatbots avançados que melhoram o atendimento ao cliente, recomendações 
+personalizadas com base no histórico de navegação e compras e análises que ajudam as empresas a 
+tomar decisões mais informadas. 
+Outra tendência import ante é a Realidade Aumentada (AR) e a Realidade Virtual (VR). Estas 
+tecnologias estão a ser usadas para criar experiências imersivas que envolvam os utilizadores de uma 
+maneira nova e excitante, permitindo a interação dos conteúdos digitais de forma mais realista, utilizando 
+imagens e ambientes em 3D. As lojas estão a usar AR para ajudar os clientes a ver produtos no seu 
+espaço real antes de comprar, facilitando as decisões de compra. VR transporta as pessoas para 
+ambientes totalmente fictícios em jogos, ap rendizagem ou simplesmente para diversão, oferecendo 
+novos tipos de aventuras digitais. Assim, os designers precisam de pensar na criação de experiências 
+que se sintam reais e funcionem bem nestes espaços 3D (Velasco, 2024). Um exemplo disto seria os 
+novos óculos da Apple, Apple Vision Pro, que permite uma experiência imersiva que mistura o conteúdo 
+digital no espaço físico onde o utilizador se encontra, permitindo usar os olhos, mãos e voz para navegar 
+as várias funcionalidades. 
+Além disso, a interface de voz, ou Voice User Interfaces (VUI), está a ganhar destaque com o aumento 
+do uso de assistentes virtuais e dispositivos de comando de voz, como por exemplo Google Assistant, 
+
+ 
+20 
+Alexa ou Siri. Eles entendem o que o utilizador diz melhor do que nunca, facilitando a interação com os 
+dispositivos. As interfaces de voz permitem fazer coisas sem usar as mãos, como pesquisar informações, 
+fazer planos, fazer compras online ou controlar dispositivos de casa inteligente (Velasco, 2024). Isto 
+muda a forma como os utiliza dores interagem com a tecnologia e exige novos designs UX que sejam 
+intuitivos e fáceis de usar com comandos de voz.  
+Não se pode esquecer ainda o design inclusivo e a acessibilidade. Há um foco crescente em garantir 
+que todos os utilizadores, independentemente das suas habilidades, possam aceder e usar os serviços 
+e funcionalidades digitais. Como mencionado no ponto sobre Estética e Funcionalidade, em Desafios e 
+Considerações Éticas, o desenvolvimento de interfaces acessíveis para pessoas com dificuldades visuais 
+ou motoras é um tópico que cada vez mais requere atenção. 
+Para acompanhar estas tendências e criar experiências de utilizador de alta qualidade, a inovação e 
+a colaboração entre diferentes áreas são fundamentais. A formação de equipas com profissionais de 
+várias áreas, como marketing, designers, especialistas de dados, entre outros, é uma abordagem eficaz. 
+Estas equipas podem trabalhar  em conjunto desde o início de um projeto, o que garante, não só um 
+brainstorm de ideias, assim como todas as perspetivas sejam consideradas e o produto final se ja bem 
+desenvolvido e integrado. 
+Workshops e sessões de brainstorming regulares são essenciais para incentivar a troca de ideias e a 
+inovação. Estas atividades ajudam a identificar novas oportunidades e ameaças, permitindo a resolução 
+de problemas diretamente. Além disso, hoje em dia, em que a comunicação e a resolução de problemas 
+podem ser feitas online, o uso de ferramentas de colaboração, como o Microsoft Teams, facilita ainda 
+mais o trabalho conjunto, especialmente em ambientes de trabalho remoto. 
+No processo do crescimento tecnológico, será essencial seguir as novas tendências e promover a 
+inovação através da colaboração entre diferentes áreas. As empresas que investirem nestas áreas 
+estarão mais bem preparadas para criar experiências de utilizador excelentes e memoráveis, garantindo 
+assim uma vantagem competitiva em relação ao resto do mercado. 
+Ao longo das tarefas realizadas no contexto do projeto, foi possível aplicar e explorar algumas destas 
+tendências no UX/UI Design e marketing digital. A experiência no desenvolvimento das páginas para a 
+plataforma QuizOne revelou a importância de se manter atualizado com as inovações tecnológicas e de 
+integrar práticas de design moderno.  
+
+ 
+21 
+Além disso, o projeto sublinhou a importância de uma interface inclusiva e acessível, refletindo as 
+melhores práticas em design inclusivo e adaptado a diversas necessidades dos utilizadores. A 
+colaboração entre diferentes áre as e o feedback contínuo foram cruciais para melhorar e refinar as 
+propostas, destacando a relevância de um trabalho em equip a para enfrentar desafios e promover a 
+inovação. 
+ 
+  
+
+ 
+22 
+3. Metodologia 
+Neste capítulo, encontra-se detalhado a metodologia utilizada ao longo do projeto. A metodologia 
+adotada foi crucial para garantir a organização e eficiência do trabalho realizado, permitindo um fluxo de 
+trabalho flexível e adaptável às necessidades do projeto.  A metodo logia utilizada como abordagem 
+principal para a execução do projeto foi a metodologia Kanban, uma das vertentes da metodologia Agile.  
+De acordo com  Daraojimba et al. (2024), a s metodologias Agile são mais adaptáveis, permitindo 
+reavaliações e ajustes frequentes ao longo do ciclo de vida do projeto. Esta flexibilidade pode resultar 
+em maior satisfação do cliente, uma vez que o produto final tem mais probabilidades de atender às 
+necessidades em evolução das partes interessadas. A metodologia Kanban enfatiza a entrega contínua 
+sem exigir iterações com prazos fixos. Utiliza um quadro visual para monitorizar o fluxo de trabalho e as 
+tarefas, sendo especialmente adequado para ambientes onde os requisitos de trabalho mudam 
+frequentemente (Daraojimba et al., 2024). 
+A metodologia Kanban, utilizada pela empresa na monitorização de projetos, foi implementada para 
+facilitar a visualização e acompanhamento de todas as tarefas em curso, através de um quadro visual 
+onde as atividades eram organizadas em colunas  que representavam diferentes estados de progresso, 
+tais como “A Fazer”, “Em Progresso”, e “Concluído”. Esta abordagem permitiu uma gestão eficiente 
+das tarefas, onde cada nova atividade recebida era imediatamente inserida no quadro, priorizada 
+conforme a necessidade, e seguida de perto até à sua conclusão. 
+A equipa presente no projeto era composta pela estagiária, encarregue da execução das tarefas, sob 
+a supervisão de Nuno Santos e com a colaboração de Beatriz Araújo. Esta estrutura de equipa permitiu 
+uma divisão clara de responsabilidades e assegurou que o feedback fosse continuamente integrado no 
+processo de trabalho. Durante o projeto, o fluxo de trabalho seguiu as seguintes etapas: 
+1. Obtenção e Priorização de Tarefas: As tarefas eram recebidas frequentemente e adicionadas ao 
+quadro Kanban, onde eram priorizadas de acordo com a sua urgência.  Esse sistema de 
+priorização permitiu que o trabalho fosse orientado pelas necessidades mais imediatas da 
+empresa, garantindo que os recursos fossem utilizados de forma eficaz; 
+2. Execução e Feedback: À medida que as tarefas avançavam para a fase "Em Progresso", o foco 
+era na execução eficiente das mesmas. Durante esta fase, o feedback dos supervisores, Nuno 
+
+ 
+23 
+Santos ou Beatriz Araújo, era continuamente integrado, p ermitindo ajustes em tempo real , 
+assegurando que o resultado final estivesse alinhado com as expectativas e padrões da empresa; 
+3. Entrega e Revisão: Após a conclusão das tarefas, elas eram submetidas para revisão final. Caso 
+houvesse necessidade de ajustes, as tarefas retornavam ao fluxo, passando novamente pelo 
+quadro até serem completamente finalizadas e aprovadas. 
+3.1. Ferramentas e Recursos 
+Durante o projeto, diversas ferramentas foram utilizadas em diferentes ramos especializados, 
+incluindo marketing, tecnologia da informação e design. A  Tabela 2 apresenta uma visão geral das 
+principais ferramentas empregadas e as suas respetivas aplicações específicas.  
+Tabela 2 – Ferramentas utilizadas e as suas aplicações 
+Ferramentas utilizadas Tipo de tecnologia Tarefas utilizadas 
+Figma Ferramenta de design colaborativa. 
+Design para Website de um 
+Cliente, questionário no Figma e 
+design do Website do QuizOne. 
+Canva 
+Plataforma de design gráfico 
+online. 
+Design de assinatura de E-mail, 
+design de papel timbrado, design 
+de templates de apresentações 
+PowerPoint, design de 
+desdobráveis e design de 
+conteúdos para as redes sociais. 
+Visual Studio Code Plataforma de edição de código. Design de assinatura de E-mail. 
+QuizOne 
+Plataforma online que facilita a 
+criação e gestão de testes de 
+avaliação. 
+Material de estudo. 
+Microsoft Teams Plataforma de colaboração. Comunicação diária com a equipa. 
+Como mostrado na Tabela 2, cada ferramenta desempenhou um papel crucial nas tarefas realizadas 
+durante o projeto. A seguir, é apresentada uma descrição mais detalhada de como cada uma delas foi 
+utilizada. 
+
+ 
+24 
+• Figma: O Figma é uma ferramenta de design colaborativa que permite criar protótipos interativos 
+e layouts detalhados. Foi essencial para desenvolver interfaces intuitivas e eficientes para 
+dispositivos móveis. Utilizando principalmente para o design de interfaces de utilizador nas 
+propostas de posicionamento de um elemento gráfico, no questionário e n o design do website 
+do QuizOne; 
+• Canva: O Canva é uma plataforma de design gráfico online que facilita a criação de diversos 
+materiais visuais, como infográficos e publicações para redes sociais. Esta ferramenta foi 
+especialmente útil na produção de conteúdos visuais para campanhas de marketing, sendo 
+utilizada para a criação de propostas de assinatura de email, papel timbrado, templates de 
+apresentações PowerPoint, panfletos e conteúdos para as redes sociais; 
+• Visual Studio Cod e: É uma plataforma de edição de código que suporta várias linguagens de 
+programação. Foi utilizado para escrever o código em HTML das propostas de assinatura de 
+email; 
+• QuizOne: O QuizOne é uma plataforma online que facilita a criação e gestão de testes de  
+avaliação. Durante o projeto, esta ferramenta fui utilizada como recurso e material de estudo 
+para criar o questionário; 
+• Microsoft Teams: O Microsoft Teams é uma plataforma de colaboração que integra chat, 
+reuniões online e armazenamento de arquivos. Foi essencial para a comunicação diária com a 
+equipa, organização de reuniões e partilha de documentos e informações relevantes. 
+Estas ferramentas não só foram cruciais para realizar as tarefas específicas atribuídas a cada área, 
+mas também contribuíram para o desenvolvimento profissional ao longo do projeto. Ao utilizar o Figma 
+para criar o design do site do QuizOne, foi possível aplicar os conceitos aprendidos nas aulas. Este 
+projeto ajudou a melhorar as habilidades de design e a entender melhor as necessidades dos utilizadores 
+finais. 
+3.2. Planeamento 
+Para gerir as atividades diárias da estagiária, foi utilizado um Microsoft Excel e o Microsoft Word que 
+serviram de base para criar um Diagrama de Gantt (Figura 8). O diagrama ajuda a estruturar as tarefas 
+em diferentes fases, permitindo uma visão clara da sequência e dos prazos estabelecidos.  
+
+ 
+25 
+Durante a execução do projeto, foram realizadas várias tarefas que contribuíram significativamente 
+para o alcance dos objetivos. As tarefas listadas abaixo foram estruturadas de acordo com o cronograma 
+e reorganizadas num Diagrama de Gantt: 
+• Tarefa 1 (T1 – Design de Assinatura de E-mail): Elaborar propostas de design para a assinatura 
+de email; 
+• Tarefa 2 (T2 – Design para Website de um Cliente): Realizar propostas de design para website 
+de um cliente; 
+• Tarefa 3 (T3 – Melhorias para os Websites da Empresa ): Apresentar propostas de melhorias 
+para os websites da empresa; 
+• Tarefa 4 (T4 – Design de Papel Timbrado): Criar propostas de design de papel timbrado; 
+• Tarefa 5 (T5 – Design de Templates de PowerPoint): Elaborar propostas de design de templates 
+de apresentações PowerPoint; 
+• Tarefa 6 (T6 – Design de Conteúdos para Redes Sociais ): Apresentar propostas de design de 
+conteúdos para as redes sociais; 
+• Tarefa 7 (T7 – Design de Desdobráveis): Desenvolver propostas de design de desdobráveis; 
+• Tarefa 8 (T8 – Questionário no Figma): Realizar um questionário em Figma; 
+• Tarefa 9 (T9 – Design do Website do QuizOne): Criar propostas de design do Website do QuizOne 
+(entry e menu). 
+ 
+Figura 8 – Diagrama de Gantt 
+ Como observado neste diagrama (Figura 8), o dia 28 de fevereiro, destacado a amarelo, foi dedicado 
+à reunião de acompanhamento de projeto. 
+
+
+ 
+26 
+Em relação à carga horária, esta foi distribuída de forma a maximizar a produtividade, sendo que o 
+horário de trabalho foi de segunda a sexta-feira, das 9h às 18h, com uma hora de intervalo para almoço. 
+Esta organização permitiu manter um ritmo constante e  equilibrado entre trabalho e descanso.  O total 
+de horas dedicadas ao projeto foi distribuído conforme apresentado na Tabela 3. 
+Tabela 3 – Total de horas de estágio 
+Total de horas de estágio 
+Fevereiro 146 
+Março 128 
+Abril 168 
+Maio 170 
+ 612 
+ Para complementar a gestão das atividades e mitigar possíveis problemas que poderiam surgir 
+durante o projeto, foi realizada uma avaliação dos riscos associados ao desenvolvimento das tarefas. A 
+seguir, apresenta-se uma Matriz de Avaliação de Risco  (Tabela 4), onde são identificados os principais 
+riscos, a sua gravidade, a probabilidade de ocorrência e as ações de mitigação adotadas: 
+Tabela 4 – Matriz de Avaliação de Risco 
+Risco Gravidade Probabilidade 
+Severidade 
+(Gravidade x 
+Probabilidade) 
+Ação de Mitigação Ocorreu 
+Erros nos 
+designs devido a 
+mudanças de 
+requisitos 
+3 4 12 (Alto) 
+Aumentar o rigor 
+na revisão e 
+estabelecer uma 
+comunicação clara 
+sobre mudanças. 
+Não 
+Comunicação 
+ineficaz no 
+ambiente remoto 
+2 4 8 (Médio) 
+Implementar 
+reuniões semanais 
+e usos de 
+ferramentas de 
+Sim 
+
+ 
+27 
+Risco Gravidade Probabilidade 
+Severidade 
+(Gravidade x 
+Probabilidade) 
+Ação de Mitigação Ocorreu 
+comunicação 
+eficiente. 
+Atrasos na 
+entrega de 
+tarefas devido à 
+complexidade do 
+design 
+2 3 6 (Médio) 
+Reavaliar o 
+cronograma e 
+priorizar tarefas 
+críticas. 
+Não 
+Falta de 
+feedback 
+contínuo do 
+cliente 
+2 2 4 (Médio) 
+Estabelecer check-
+ins regulares com 
+o cliente. 
+Não 
+Dificuldade na 
+adaptação a 
+novas 
+ferramentas 
+1 2 2 (Baixo) 
+Planear sessões 
+de treinamento 
+para melhorar a 
+proficiência nas 
+ferramentas. 
+Não 
+ Esta matriz ajudou a priorizar as ações preventivas e corretivas necessárias para garantir o sucesso 
+das tarefas realizadas ao longo do projeto, contribuindo para a entrega de projetos de alta qualidade e 
+dentro dos prazos estabelecidos. A seguir, encontra-se a justificativa para as classificações de cada risco: 
+• Erros nos designs devido a mudanças de requisitos:  Mudanças nos requisitos podem gerar 
+retrabalho significativo e prejudicar o progresso do projeto. Por isso, a Gravidade apropriada 
+seria: 3. Consid erando a frequência dessas mudanças em projetos, a Probabilidade 4 reflete 
+essa realidade; 
+• Comunicação ineficaz no ambiente remoto: A comunicação remota pode causar mal-entendidos 
+ou falta de feedback adequado. Embora isso possa levar a problemas e retrabalho, o impacto 
+geral é controlável, justificando a classificação de Gravidade: 2. A frequência com que isso pode 
+ocorrer durante um projeto remoto justifica uma Probabilidade: 4; 
+
+ 
+28 
+• Atrasos na entrega de tarefas devido à complexidade do design:  A complexidade inerente ao 
+design pode impactar o cronograma, mas, como os atrasos são geralmente controláveis e não 
+causam danos severos ao proj eto, foi atribuída uma Gravidade: 2. Como atrasos são uma 
+possibilidade real em projetos criativos, foi classificado com Probabilidade: 3; 
+• Falta de feedback contínuo do cliente:  A falta de feedback pode causar atrasos e retrabalho, 
+mas, como não afeta gravemente o projeto se ocorrer, foi classificada com Gravidade: 2. Dado 
+que a comunicação com o cliente tende a ocorrer, ainda que com intervalos, foi atribuída uma 
+Probabilidade: 2; 
+• Dificuldade na adaptação a novas ferramentas:  A adaptação a novas ferramentas pode atrasar 
+o progresso, mas geralmente não causa grandes problemas, justificando uma Gravidade: 1. 
+Como a maioria das ferramentas já é familiar, a Probabilidade 2 foi atribuída. 
+ 
+ 
+ 
+  
+
+ 
+29 
+4. Projeto 
+Neste capítulo, é apresentada uma descrição das atividades realizadas durante o projeto, 
+proporcionando uma visão clara e estruturada do trabalho desenvolvido. Esta secção visa contextualizar 
+as análises subsequentes ao descrever as tarefas e os objetivos alcançados, organizados de acordo com 
+o workflow seguido. 
+ Para melhor ilustrar o processo, o fluxo das atividades pode ser visualizado na Figura 9, que apresenta 
+o fluxo de trabalho geral utilizado durante o projeto. Cada tarefa passou por diferentes fases, desde a 
+receção até à entrega final, com revisões contínuas baseadas em feedback. 
+ 
+Figura 9 – Workflow do projeto 
+Neste projeto, cada tarefa foi planeada e executada de acordo com as necessidades específicas da 
+empresa iCognitus e dos seus clientes. O processo demonstrado na Figura 9, assegurou que os 
+resultados fossem de alta qualidade, atendendo tanto às expectativas dos clientes como aos padrões 
+internos da organização. Abaixo, são descritas em detalhe as principais ta refas realizadas ao longo do 
+projeto e as suas características: 
+• T1 – Design de Assinatura de E -mail: Foram desenvolvidas 15 propostas no Canva, incluin do 
+10 variações de um design e 5 conceitos distintos. Após a seleção  de duas assinaturas, estas 
+foram ajustadas conforme feedback e convertidas para HTML. Também foi criado um guia para 
+a implementação no Outlook; 
+
+
+ 
+30 
+• T2 – Design para Website de um Cliente: Utilizando o Figma, foram experimentadas diferentes 
+posições para a imagem de um elemento gráfico com o objetivo de encontrar uma colocação 
+que fosse visualmente agradável e não comprometess e a funcionalidade do site. As propostas 
+finais, após várias iterações, atenderam às necessidades do cliente; 
+• T3 – Melhorias para os Websites da Empresa : Foram sugeridas reorganizações de se cções, 
+melhorias na usabilidade e correções ortográficas para os sites da iCognitus e QuizOne, 
+incluindo a criação de uma página de perguntas frequentes; 
+• T4 – Design de Papel Timbrado: Foram criadas dez variações de papel timbrado no Canva, com 
+três propostas selecionadas para ajustes. Além disso, foram desenvolvidos designs específicos 
+para o QuizOne, alinhados à identidade visual da plataforma; 
+• T5 – Design de Templates de PowerPoint : Foram desenvolvidas três propostas de templates 
+para a iCognitus e mais três para o QuizOne, com ajustes gráficos e de cores baseados no 
+feedback, garantindo a funcionalidade e o alinhamento estético; 
+• T6 – Design de Conteúdos para Redes Sociais : Foram criados conteúdos visuais focados nos 
+serviços da empresa, com ajustes realizados após feedback para garantir o alinhamento com a 
+identidade visual; 
+• T7 – Design de Desdobráveis : Foram desenvolvidos desdobráveis para iCognitus e QuizOne, 
+garantindo que fossem informativos, acessíveis e visualmente atrativos;  
+• T8 – Questionário no Figma : Foram criados dois formatos de questionário, um de resposta e 
+outro de edição, com diversas iterações para assegurar clareza e funcionalidade; 
+• T9 – Design do Website do QuizOne : Duas páginas, de entrada e menu, foram criadas no 
+website, com ajustes contínuos baseados no feedback para otimizar a usabilidade e o design. 
+4.1. Análise do Trabalho Desenvolvido 
+Neste capítulo, é realizada uma análise detalhada das nove atividades e tarefas. O objetivo desta 
+análise é refletir sobre os desafios enfrentados, os problemas encontrados e as soluções implementadas 
+durante o período do projeto . Cada tarefa será discutida em profundidade, destacando os aspetos 
+técnicos e operacionais envolvidos, bem como a aprendizagem obtida em cada processo.  
+
+ 
+31 
+Durante o projeto, o desenvolvimento de cada tarefa exigiu a aplicação de diversas habilidades e 
+conhecimentos técnicos. Foram enfrentados desafios que exigiam soluções criativas e práticas . Este 
+capítulo visa detalhar cada uma dessas tarefas, proporcionando uma visão clar a dos processos 
+envolvidos, dos problemas encontrados e das estratégias adotadas para resolvê-los.  
+Tabela 5 – Análise das tarefas realizadas durante o projeto 
+Tarefa Objetivo Situação Inicial Situação Final 
+T1 – Design de 
+Assinatura de E-
+mail 
+Modernizar a 
+comunicação visual e 
+reforçar a identidade da 
+empresa 
+Assinaturas 
+desatualizadas e com 
+necessidade de revisão 
+Criação de 2 modelos 
+de assinatura e de um 
+guia para 
+implementação 
+T2 – Design para 
+Website de um 
+Cliente 
+Posicionar um elemento 
+gráfico, que será a nova 
+representação visual do 
+cliente 
+O layout do website 
+não integrava 
+adequadamente o novo 
+elemento gráfico  
+4 designs que atendiam 
+às necessidades do 
+cliente e mantinha a 
+usabilidade do site 
+T3 – Melhorias 
+para os Websites da 
+Empresa 
+Melhorar a usabilidade 
+dos websites da 
+iCognitus e QuizOne 
+Presença de erros 
+ortográficos e uma 
+organização confusa 
+Sugerido correções 
+ortográficas, 
+reorganização de 
+secções e adição de 
+uma página de FAQs 
+T4 – Design de 
+Papel Timbrado 
+Modernizar e alinhar o 
+design do papel 
+timbrado à identidade 
+visual da empresa 
+Design desatualizado e 
+com necessidade de 
+revisão 
+3 designs para a 
+empresa e 5 designs 
+para a QuizOne 
+T5 – Design de 
+Templates de 
+PowerPoint 
+Criar designs 
+visualmente apelativos e 
+funcionais, alinhados 
+com a identidade visual 
+da empresa 
+Os templates não 
+seguiam a identidade 
+visual da empresa 
+3 designs para a 
+empresa e 3 designs 
+para a plataforma 
+QuizOne 
+T6 – Design de 
+Conteúdos para 
+Redes Sociais 
+Criar conteúdos 
+visualmente apelativos, 
+para aumentar a 
+Nenhum conteúdo 
+disponível que 
+retratava os serviços 
+Um post que retratava 
+os serviços prestados 
+pela empresa 
+
+ 
+32 
+Tarefa Objetivo Situação Inicial Situação Final 
+presença online da 
+empresa  
+da empresa 
+T7 – Design de 
+Desdobráveis 
+Desenvolver materiais 
+informativos para 
+distribuição em eventos 
+e campanhas  
+PDFs informativos 
+compridos e densos 
+7 modelos de design, 
+com informação mais 
+compactada e 
+visualmente atraente 
+T8 – Questionário 
+no Figma 
+Melhorar a usabilidade 
+do questionário 
+Questionário comprido 
+e confuso 
+2 modelos de design: 
+um de resposta e outro 
+de edição, mais claros e 
+funcionais 
+T9 – Design do 
+Website do QuizOne 
+Melhorar a interface do 
+website, com ênfase na 
+usabilidade e design 
+A página de entrada e 
+o menu estavam 
+desatualizados e pouco 
+funcionais  
+2 modelos de design, 
+um de entrada e outro 
+de menu, otimizados 
+para melhor navegação 
+Na Tabela 5, é observado um resumo detalhado de cada tarefa desenvolvida ao longo do estágio na 
+iCognitus. A tabela apresenta o objetivo de cada tarefa, a situação inicial antes do trabalho ser iniciado, 
+e a situação final após a implementação das soluções. A seguir, serão analisadas detalhadamente cada 
+uma destas tarefas. 
+4.1.1. T1 – Design de Assinatura de E-mail 
+A primeira tarefa consistiu na criação de propostas de design de assinaturas de email para a empresa, 
+com o objetivo de modernizar a comunicação visual e reforçar a identidade corporativa.  A atividade foi 
+dividida em várias etapas, desde a pesquisa e inspiração até o design final e a implementação.  A etapa 
+inicial envolveu a pesquisa de tendência s atuais em design de assinaturas de email e a análise de 
+exemplos relevantes. Além disso, foram coletadas informações sobre a assinatura atual da empresa  
+(Figura 10) e assinaturas antigas para compreender a evolução do design e os elementos essenciais a 
+serem mantidos ou melhorados. 
+Com base na pesquisa realizada e nas informações fornecidas  foram desenvolvidas 15 versões 
+diferentes de propostas de assinaturas na plataforma Canva. Dessas, 10 eram variações diferentes de 
+um mesmo design, explorando diferentes cores, fontes e layouts, enquanto as outras 5 eram designs 
+
+ 
+33 
+completamente distintos, visando oferecer uma gama diversificada de opções. Após a entrega destas 15 
+propostas, duas foram selecionadas para avançar com atualizações , como exemplo  de uma destas 
+propostas é apresentada a assinatura 2 (Figura 11). 
+ 
+Figura 10 – Assinatura original 
+ 
+Figura 11 – Proposta de assinatura 2 
+Feedback e ajustes recebidos para as assinaturas de email selecionadas: 
+• Assinatura 1: Reduzir o espaço entre o nome e a morada. 
+• Assinatura 2 (Figura 11): Mover o logotipo para o lado esquerdo, clarificando visualmente o 
+término da mensagem de email. C olocar o número de telefone, email e link do website abaixo 
+da morada.  
+Foi também solicitado que as assinaturas fossem convertidas para formato HTML, acrescentando 
+um aviso de confidencialidade no final, e que fosse criado um ficheiro de texto com instruções passo a 
+passo sobre como carregar a assinatura para Outlook. Durante  a criação do ficheiro HTML no Visual 
+
+
+ 
+34 
+Studio, foram realizados vários testes para garantir que a assinatura estivesse de acordo com o 
+solicitado. 
+ 
+Figura 12 – Versão HTML final da assinatura 2 
+O feedback final envolveu uma modificação rápida na morada, sendo que ficou mais curta: 
+• Morada original: Escola de Medicina | Universidade do Minho; Campus de Gualtar | 4710-057, 
+Braga 
+• Morada modificada : Universidade do Minho, Ed.19 | 4710 -057, Braga ( como observado na 
+Figura 12) 
+4.1.2. T2 – Design para Website de um Cliente 
+A segunda tarefa envolveu o desenvolvimento de propostas de posicionamento de um novo elemento 
+gráfico que deveria ser incluído em todas as páginas d o website. O elemento gráfico destina -se a ser 
+uma representação da nova imagem do cliente,  cujo nome não pode ser divulgado por razões de 
+confidencialidade. Esta atividade envolveu uma análise detalhada do lay out atual do site  e a 
+compreensão dos objetivos do cliente em relação à funcionalidade e estética. 
+Inicialmente, o layout do website foi copiado para a plataforma Figma, permitindo visualizar e 
+modificar o layout de forma mais eficiente. Devido a várias restrições, o espaço disponível para posicionar 
+
+
+ 
+35 
+o elemento gráfico  era limitado, exigindo a identificação de uma localização que fosse visualmente 
+agradável sem comprometer a estética e a usabilidade do site. 
+O ficheiro do elemento gráfico foi fornecido em formato SVG (Scalable Vector Graphics), um formato 
+de imagem vetorial que permite redimensionar a imagem sem perder qualidade . Este formato facilitou 
+a sua integração no layout do Figma , permitindo testar diferentes posi ções e tamanhos enquanto 
+mantinha a clareza e a qualidade da imagem.  
+Embora seja um projeto em progresso e o resultado final não possa ser apresentado, o trabalho 
+envolveu várias iterações e discussões com a equip a, garantindo que cada proposta atendesse às 
+necessidades específicas do cliente. O feedback contínuo da equip a foi crucial para ajustar o design, 
+mantendo a harmonia visual do site enquanto incorporava o elemento gráfico de forma eficaz. Esta 
+experiência proporcionou uma oportunidade de aplicar conhecimentos em um contexto real.  
+4.1.3. T3 – Melhorias para os Websites da Empresa 
+Durante o projeto, foram propostas melhorias para os sites da iCognitus e QuizOne . Esta tarefa 
+envolveu uma análise cuidadosa do layout, da navegação e do conteúdo dos s ites, com o objetivo de 
+melhorar a usabilidade e a experiência do utilizador.  
+ 
+Figura 13 – Página Home da iCognitus. Fonte: ICognitus (2021a) 
+Para o site da iCognitus (ICognitus, 2021a) , na página principal  (Figura 13), a organização dos 
+clientes seguida pela secção azul dava a impressão de que a página tinha terminado, como se a secção 
+azul fosse o rodapé. Isto poderia confundir os utilizadores, levando -os a pensar que não h avia mais 
+conteúdo relevante na página. Por isso, recomendou-se a reorganização dessas secções para tornar a 
+
+
+ 
+36 
+navegação mais intuitiva e para que a secção azul não fosse confundida com o rodapé. Além disso, foi 
+sugerido adicionar hiperli gações aos logos dos clientes que direcionassem para a s páginas 
+correspondentes, como , por exemplo,  ao clicar no logo da University of Plymouth, o utilizador ser ia 
+redirecionado para o site da universidade. 
+Na página dos serviços  (ICognitus, 202 1c), a equipa identificou  que havia demasiado texto e 
+informações ao mesmo tempo, o que podia sobrecarregar o utilizador. Sugeriu-se uma organização mais 
+visual e intuitiva do conteúdo. Notou-se também que as últimas três hiperligações ( Educational 
+Assessments, Professional Certification Assessments, Recruitment & Selection ) não levavam a lugar 
+nenhum. Foi proposta a atualização ou remoção dessas hiperligações para evitar frustração do utilizador. 
+Na página R&D (Research & Development), recomendou-se alinhar os botões "Read More" e os blocos 
+de cada artigo para que todos tivessem o mesmo tamanho, proporcionando uma aparência mais 
+organizada. 
+Para o site do QuizOne (ICognitus, 2022), na página inicial, sugeriu-se reduzir o espaço branco sem 
+informação para utilizar melhor o espaço da página, algo que também podia ser encontrado em outras 
+situações. Em cada página individual dos módulos, observou-se a repetição de certas perguntas em 
+Frequently Asked Questions . Propôs-se criar uma página separada dedicada apenas a perguntas e 
+respostas sobre a plataforma, reduzindo a abundância e tornando a página mais limpa. 
+Como proposta geral para ambos os sites, foram sugeridas as seguintes medidas: 
+1. Reorganização do Conteúdo: 
+• Estruturar melhor o conteúdo para torná-lo mais claro e fácil de entender; 
+• Corrigir erros ortográficos, como o uso incorreto de "patience" em vez de "patient". 
+2. Disponibilidade Multilíngue: 
+• Disponibilizar os sites em várias línguas, incluindo português, fr ancês e espanhol, para 
+melhorar a acessibilidade e alcançar um público global. 
+Essas propostas visaram melhorar a experiência dos utilizadores nos sites da iCognitus e QuizOne. 
+Com essas melhorias, a navegação tornar-se-ia mais fácil, o conteúdo mais acess ível, e a aparência 
+geral dos sites mais agradável, aumentando a satisfação dos utilizadores. 
+
+ 
+37 
+4.1.4. T4 – Design de Papel Timbrado 
+A quarta tarefa implicou desenvolver propostas de design de papel timbrado para a empresa. A tarefa 
+começou com a análise do papel timbrado original fornecido (Figura 14), que serviu como base para as 
+novas propostas. Utilizando a ferramenta de design gráfico online Canva, foram criadas inicialmente dez 
+propostas de papel timbrado para a iCognitus, cada uma apresentando variações no layout e nos 
+elementos gráficos. 
+ 
+Figura 14 – Design do papel timbrado original 
+ 
+Figura 15 – Design do Papel timbrado escolhido, versões 2 (esquerda), 4 (centro) e 9 (direita) 
+Após a apresentação dessas propostas, foram selecionadas as propostas 2 (esquerda), 4 (centro) e 
+9 (direita), como observado na Figura 15, para serem atualizadas com algumas modificações. Foi 
+solicitado incluir texto em mais de uma página, garantindo a continuidade do design e a legibilidade. 
+Além disso, foi pedido ainda para acrescentar no rodapé a morada e os contatos da empresa, 
+proporcionando uma aparência mais profissional e completa. Seguindo essas diretrizes, as propostas 
+
+
+ 
+38 
+foram ajustadas conforme solicitado. Posteriormente, foi solicitado realizar o mesmo exercício ao papel 
+timbrado da QuizOne, criando 5 versões que refletissem a identidade visual da plataforma.  
+4.1.5. T5 – Design de Templates de PowerPoint 
+O desenvolvimento de propostas de design de templates de apresentações PowerPoint para a 
+iCognitus e para a plataforma QuizOne  visou criar designs que fossem visualmente apelativos e 
+funcionais, alinhados com a identidade visual da empresa.  O processo iniciou -se com a análise dos 
+templates de apresentações e xistentes para entender os elementos gráficos e o design utilizado. 
+Utilizando o Canva, foram elaboradas três propostas para a iCognitus e três propostas para o QuizOne, 
+cada uma apresentando diferentes layouts, esquemas de cores e estilos tipográficos. 
+Após a entrega dos templates, foram recebidas recomendações para ajustes: 
+• Interação dos elementos gráficos: Foi sugerido verificar como os elementos gráficos interagiam 
+com o texto, uma vez que alguns elementos ocupavam grande parte dos slides, deixando pouca 
+margem para a informação; 
+• Inclusão de imagens: Recomendaram a adição de mais slides com imagens, em vez de apenas 
+ilustrações gráficas; 
+• Design dos elementos gráficos:  Os elementos gráficos arredondados, especialmente na 
+numeração, foram considerados que davam uma impressão de desenho. Foi sugerido optar por 
+linhas retas e um design mais limpo; 
+• Coesão entre marcas:  Para as apresentações do QuizOne, foi sugerido integrar  alguns 
+elementos visuais da iCognitus para manter a coesão entre as duas marcas; 
+• Uso de cores:  Foi mencionado a necessidade de utilizar mais tons de azul, mesmo nas 
+apresentações da iCognitus, que inicialmente focavam mais no verde, cor representativa da 
+marca. 
+Pode-se observar na Figura 16, em exemplo de um template em que as modificações foram feitas, 
+sendo que à esquerda é observado o design inicial e à direita o design final. 
+
+ 
+39 
+ 
+Figura 16 – Exemplo de apresentação PowerPoint atualizada 
+Os templates foram então revisados para garantir que os elementos gráficos não interferissem no 
+espaço necessário para o texto e a informação. Os elementos gráficos arredondados foram ajustados 
+para linhas retas, conferindo um aspeto mais limpo e profissional aos slid es. Adicionalmente, foram 
+integrados alguns slides da iCognitus nas apresentações do QuizOne para manter uma coesão visual 
+entre as duas marcas, enquanto se preservava a identidade única de cada uma. 
+4.1.6. T6 – Design de Conteúdos para Redes Sociais 
+A sexta tare fa de criar  propostas de design de conteúdos para as redes sociais da empresa visou 
+desenvolver designs para serem utilizados em plataformas sociais como LinkedIn, YouTube e Facebook, 
+com foco nos serviços oferecidos pela empresa. O processo começou com o desenvolvimento de um 
+design inicial, que foi apresentado para obter feedback preliminar. Com base nas orientações recebidas, 
+foi recomendado utilizar mais cores azuis e incorporar linhas retas para alinhar melhor o design com a 
+identidade visual da empresa. 
+Seguindo essas diretrizes, foram desenvolvidos mais quatro designs adicionais, garantindo que todos 
+seguissem as novas orientações visuais mencionadas. Utilizando a ferramenta Canva, os elementos 
+gráficos foram ajustados para criar uma aparência mais coesa e profissional. Após a entrega dos quatro 
+designs atualizados, não foi recebido mais feedback, o que indicou que os novos designs estavam de 
+acordo com as expectativas e diretrizes da empresa. O processo de criação de conteúdos para as redes 
+sociais, permitiu aplicar os princípios de design gráfico em um contexto de marketing digital, garantindo 
+que os materiais fossem esteticamente agradáveis e eficazes na comunicação das mensagens da 
+empresa de forma clara e coesa. 
+
+
+ 
+40 
+ 
+Figura 17 – Exemplo de conteúdo para redes sociais atualizado 
+4.1.7. T7 – Design de Desdobráveis 
+O desenvolvimento dos desdobráveis (panfletos) para a iCognitus e para a plataforma QuizOne  
+envolveu a elaboração de materiais informativos para cada módulo: Eventos ( Events), Formulários 
+(Forms), OSCE, Quiz e Recrutamento (Recruitment). A criação dos panfletos foi realizada em português 
+e inglês, garantindo a acessibilidade para um público diversificado. 
+A informação necessária para a criação dos desdobráveis foi obtida através de pesquisa online e de 
+PDFs fornecidos. No entanto, para o módulo de Recruitment, as informações não estavam disponíveis 
+online, sendo necessário solicitar um PDF específico para obter os dados necessários. 
+ 
+Figura 18 – Exemplo de um design de desdobrável criado: Desdobrável da iCognitus 
+Os designs dos panfletos foram ajustados para incorporar mais tons de azul e linhas retas, alinhando-
+os com a identidade visual da empresa . Para os desdobráveis dos módulos, foi mantido um design 
+
+
+ 
+41 
+consistente para simbolizar que pertenciam à mesma categoria. Já para os desdobráveis da iCognitus e 
+do QuizOne, foram utilizados designs diferenciados para refletir as identidades individuais de cada um. 
+A criação dos desdobráveis envolveu a organização e formatação d e informações de forma clara e 
+atraente, garantindo que o conteúdo fosse facilmente compreensível e visualmente agradável. Utilizando 
+a ferramenta Canva, foi possível aplicar elementos gráficos de forma criativa . A ausência de feedback 
+específico sobre os desdobráveis entregues sugeriu que os materiais estavam de acordo com as 
+expectativas e padrões da empresa. Este trabalho permitiu a aplicação de habilidades de design gráfico 
+e a capacidade de pesquisar e sintetizar informações de maneira eficaz, resultando em materiais 
+informativos e visualmente atraentes. 
+4.1.8. T8 – Questionário no Figma 
+Durante o projeto, foi realizada a recriação de um questionário no Figma, com o objetivo de 
+desenvolver dois formatos distintos: um de resposta (como o utilizador que responde vê o questionário) 
+e outro de edição (mostrando o formulário como o editor o vê). Foi entregue uma imagem do questionário 
+original para servir de base na recriação.  
+O desenvolvimento iniciou-se pelo formato de resposta. Na primeira versão, a principal mudança foi 
+a divisão das perguntas em secções, permitindo a navegação entre elas através de um botão "continue" 
+e a inclusão de uma barra de progresso com bolas que indicava quantas secções faltavam. 
+O feedback recebido para o formato de resposta foi o seguinte:  
+• Remoção de elementos de edição:  Alguns elementos específicos do formato de edição foram 
+identificados como visíveis para o utilizador, embora não deveriam estar presentes no formato 
+de resposta. Na versão 2, esses elementos foram removidos; 
+• Barra de progresso: Foi recomendado substituir as bolas na barra de progresso por uma barra 
+contínua; 
+• Reorganização do texto: Foi sugerido reorganizar o espaçamento do texto e ajustar o tamanho 
+da letra; 
+• Encurtamento das laterais: Recomendou-se encurtar o tamanho do questionário nas laterais. 
+
+ 
+42 
+A versão 3 incorporou essas alterações, e o feedback foi direcionado a ajustes menores no 
+espaçamento e no tamanho da letra. A versão 4 focou em refinamentos adicionais, incluindo: 
+• Distribuição de títulos e inputs: Ajustes na distribuição dos títulos e inputs; 
+• Alinhamento de perguntas e descrições: Melhorias no alinhamento das perguntas e descrições; 
+• Estilo de texto: Alteração no tamanho e cor da letra (títulos em preto sem negrito e descrições  
+em cinza, ao invés de títulos em negrito e descrições em preto sem negrito). 
+Esses ajustes resultaram na versão final, versão 5, do formato de resposta do questionário. 
+ 
+Figura 19 – Exemplo da versão final do formato resposta do questionário 
+Após a finalização da versão 5 do formato de resposta, iniciou -se o desenvolvimento do formato de 
+edição. A primeira versão deste formato apresentava o questionário corrido pela página, com um menu 
+à esquerda permitindo a navegação entre as secções e um botão de pré -visualização. À direita, um 
+segundo menu exibiu os tipos de perguntas que poderiam ser inseridas, por exemplo, questões 
+múltiplas, perguntas de desenvolvimento, anexos, etc. 
+Na versão 2 do formato de edição, foram feitos os seguintes ajustes: 
+• Marcador visual: Adição de um marcador visual para indicar a secção selecionada; 
+• Menu de edição: Inclusão de um menu à direita com opções de edição detalhadas para cada 
+pergunta, como escrita da pergunta, adição de uma descrição, marcação da pergunta como 
+obrigatória, formatação de texto (itálico, sublinhado, negrito), e inserção de vídeos ou imagens; 
+
+
+ 
+43 
+• Ícone de eliminação: Cada pergunta recebeu um ícone de lixo para a opção de eliminação. 
+ 
+Figura 20 – Exemplo da versão final do formato edição do questionário 
+O processo de criação dos questionários no Figma envolveu várias iterações e ajustes baseados em 
+feedback contínuo, garantindo que o produto final fosse funcional, acessível e visualmente coerente com 
+a identidade da empresa. A experiência permitiu aplicar e expandir as habilidades da estagiária no Figma, 
+particularmente na criação de interfaces intuitivas e eficazes para diferentes tipos de utilizadores. 
+4.1.9. T9 – Design do Website do QuizOne 
+Como tarefa final do projeto, foi desenvolvida a criação do zero de duas páginas para a plataforma 
+QuizOne. Essas páginas foram desenvolvidas com o objetivo de proporcionar uma experiência intuitiva 
+e funcional para os utilizadores, abrangendo tanto uma página de entrada genérica, acessível a todos os 
+utilizadores, quanto uma página inicial dedicada aos utilizadores que fizeram login na plataforma. 
+a) Página de Entrada (Entry) 
+O processo de criação da página de entrada do QuizOne começou com a definição da estrutura 
+básica e o layout visual. A página foi dividida em três áreas principais: login, recrutamento e eventos. A 
+interface inicial visava ser visualmente atrativa e funcional, inspirada em diversas referências de design 
+de websites.  
+Na versão 1 (podemos ver o resultado no lado esquerdo da Figura 21), seguiu-se as diretrizes e 
+dividiu-se a página em três áreas principais. 
+• Feedback da versão 1: 
+o Mover o botão de login para o lado esquerdo para melhorar a usabilidade; 
+
+
+ 
+44 
+o Reduzir a sombra dos elementos para um visual mais limpo; 
+o Arredondar os cantos das caixas; 
+o Criar áreas distintas com fundos intercalados para melhor organização visual. 
+• Feedback da versão 2: Introduzir uma imagem de fundo na área de login. 
+Na versão 3, a imagem de fundo foi introduzida, assim como um footer com informações de contato 
+da empresa e links para redes sociais e páginas da iCognitus. A versão 3 não foi satisfatória, portanto, 
+foi criada uma variante, a versão 3.2, para melhorar o design, sendo esta última a selecionada. 
+• Feedback da versão 3: Ajustes de espaçamento, posicionamento e tamanhos de letra. 
+Na versão 4, novos ajustes foram feitos com base no feedback recebido, especialmente na zona de 
+login. O feedback da versão 4 foi um bocado confuso, levando ao desenvolvimento de duas propostas 
+na versão 5 (5.1 e 5.2). A versão 5.1 foi a escolhida, permitindo o prosseguimento para a versão 6. 
+• Versão 6: Introdução de uma caixa branca com opacidade. 
+• Versão 7 (final): Arredondamento dos cantos das caixas dos eventos para harmonia visual. 
+ 
+Figura 21 – Versão inicial (esquerda) e versão final (direita) da página de entrada 
+
+
+ 
+45 
+É relevante mencionar que a versão inicial deste design serviu como base para dois clientes 
+diferentes, conforme ilustrado na Figura 22. A imagem foi recortada, com certos elementos ocultados 
+por ser um projeto em progresso e por questões de anonimato. 
+ 
+Figura 22 – Exemplo do design utilizado na página dos clientes 
+b) Página Inicial da Plataforma QuizOne 
+Para a página inicial da plataforma QuizOne, foi necessária uma abordagem focada na organização 
+das informações e na apresentação visual . O desenvolvimento começou com a criação de wireframes 
+para planear a estrutura e os elementos visuais da página.  
+Foram desenvolvidos dois wireframes ( Figura 23 e Figura 24) para organizar as informações,  
+baseados na estrutura original da plataforma e em referências adicionais de design. O menu dropdown 
+foi incluído no topo da página, integrando a agenda, que também está presente na estrutura original da 
+plataforma. Além da agenda, houve dificuldades em decidir que tipo de dados e gráficos deveriam ser 
+incluídos, resultando na criação da parte que não se encontra a azul nos wireframes (Figura 23 e Figura 
+24).  
+
+
+ 
+46 
+ 
+Figura 23 – Wireframe 1 
+ 
+Figura 24 – Wireframe 2 
+• Versão 1: Desenvolvimento inicial baseado nos wireframes, utilizando elementos de ambas as 
+versões. 
+• Feedback da versão 1: 
+o Utilizar cores mais apelativas como pastel; 
+o Reduzir o uso de sombras; 
+o Adaptar caixas ao tamanho do texto disponível. 
+• Versão 2: Implementação das melhorias sugeridas. Esta versão não recebeu feedback adicional, 
+marcando o término do projeto. O resultado final pode ser observado na Figura 25. 
+
+
+ 
+47 
+ 
+Figura 25 – Versão final da página inicial da plataforma QuizOne 
+Durante o desenvolvimento, enfrentaram -se desafios técnicos, como a manutenção do submenu 
+aberto enquanto o cursor estava sobre ele, resolvendo o problema ao aumentar a área de deteção de 
+movimento do  cursor no menu. O desenvolvimento destas duas páginas foi um processo iterativo , 
+envolvendo diversas revisões e ajustes baseados em feedback construtivo. Foi uma experiência valiosa 
+que permitiu aplicar e expandir as habilidades de design da estagiária. 
+ 
+  
+
+
+ 
+48 
+5. Discussão  
+O projeto proporcionou uma oportunidade significativa para aplicar conhecimentos de design em 
+diversas tarefas, todas contribuindo para o desenvolvimento e melhoria das plataformas e materiais da 
+iCognitus. Ao longo do projeto, foi possível unir os princípios adquiridos no Mestrado, que foca na 
+interação entre a tecnologia e as humanidades. Cada tarefa envolveu não apenas a criação de conteúdos 
+digitais, mas também a consideração das necessidades e experiências dos utili zadores, reforçando a 
+ideia presente em Humanidades Digitais, onde o foco é a criação de soluções tecnológicas que facilitam 
+a vida das pessoas. 
+Esta reflexão será dividida em uma  avaliação detalhada do impacto do trabalho realizado, e numa 
+análise SWOT (Tabela 6), centrada no projeto e na sua contribuição para a iCognitus. Durante o projeto, 
+foram realizadas nove tarefas, cada uma com impacto significativo na organização: 
+• As propostas de assinatura de email (T1) e papel timbrado (T4) visaram padronizar a identidade 
+visual da empresa, contribuindo para uma comunicação corporativa mais profissional e 
+consistente; 
+• As propostas de melhorias para os sites da iCognitus e QuizOne  (T3), incluindo correções de 
+erros ortográficos e sugestões de layout, resultaram em uma experiência de utilizador mais 
+coesa e intuitiva; 
+• As p ropostas de templates de apresentações PowerPoint (T5) facilitaram a criação de 
+apresentações mais atrativas e consis tentes, melhorando a comunicação visual durante 
+reuniões e eventos; 
+• As propostas de conteúdos para as redes sociais (T6) ajudaram a aumentar a presença online 
+da empresa, criando materiais visuais atrativos para captarem a atenção do público-alvo; 
+• As propostas de desdobráveis (T7) forneceram materiais informativos de alta qualidade para 
+distribuição em eventos e campanhas, melhorando a comunicação e marketing da empresa; 
+• O questionário desenvolvido em Figma (T8) proporcionou uma ferramenta interativa e fácil de 
+usar para a coleta de dados, melhorando a eficiência do processo de avaliação; 
+
+ 
+49 
+• As propostas para o website do QuizOn e (T9) incluíram melhorias significativas no design da 
+página de entrada e do menu, resultando em uma interface mais amigável e funcional. Certos 
+designs criados nesta tarefa foram utilizados como base em outros projetos de clientes, 
+demonstrando a aplicabilidade e a qualidade das soluções propostas. 
+A análise SWOT  (Tabela 6) a seguir é centrada no trabalho realizado durante o projeto e na sua 
+contribuição para a iCognitus. 
+Tabela 6 – Análise SWOT 
+Forças (Strengths) Fraquezas (Weaknesses) 
+• Capacidade de padronizar a identidade 
+visual 
+• Habilidade em fornecer soluções 
+personalizadas 
+• Fraca comunicação entre a equipa 
+• Desafios em alinhar prazos e 
+expectativas em ambiente remoto 
+Oportunidades (Opportunities) Ameaças (Threats) 
+• Expansão de soluções digitais inovadoras  
+• Integração de novas tecnologias 
+• Necessidade de adaptação contínua às 
+mudanças no mercado 
+• Potencial aumento da concorrência em 
+soluções criativas 
+Descrição detalhada da análise SWOT:  
+• Forças (Strengths):  
+o Capacidade de padronizar a identidade visual: O trabalho realizado, especialmente com 
+propostas de design e templates, contribuiu para uma identidade visual mais coesa e 
+profissional na iCognitus. A padronização fortaleceu a marca e facilitou a comunicação 
+com clientes; 
+o Habilidade em fornecer soluções personalizadas: A variedade de designs criados, desde 
+websites a materiais de marketing, demonstrou a capacidade de adaptar soluções para 
+atender às necessidades específicas da empresa e dos seus  clientes, proporcionando 
+um impacto positivo na satisfação e retenção de clientes. 
+ 
+
+ 
+50 
+• Fraquezas (Weaknesses):  
+o Fraca comunicação entre a equipa:  Apesar dos avanços, a falta de uma comunicação 
+mais eficiente e estruturada entre os membros da equipa resultou em desalinhamentos 
+e retrabalho, o que limitou a agilidade na entrega de projetos. Isso impactou diretamente 
+a eficiência e a qualidade das entregas; 
+o Desafios em alinhar prazos e expectativas em ambiente remoto: A ausência de interação 
+presencial dificultou a coordenação e o cumprimento dos prazos, o que pode ter 
+comprometido a capacidade da empresa de entregar resultados dentro do cronograma 
+previsto. 
+• Oportunidades (Opportunities):  
+o Expansão de soluções digitais inovadoras: O trabalho realizado revelou oportunidades 
+para a iCognitus expandir a sua oferta de soluções digitais. O aprimoramento de designs 
+e interfaces, aliado à adoção de novas tecnologias, pode posicionar a empresa como 
+líder em inovação no mercado;  
+o Integração de novas tecnologias: A integração de ferramentas de design e prototipagem 
+mais avançadas, como o Figma, mostrou -se eficaz. Ao continuar a investir em novas 
+tecnologias, a iCognitus pode otimizar seus processos e aumentar a produtividade, 
+resultando em projetos mais eficientes e de maior qualidade. 
+• Ameaças (Threats):  
+o Necessidade de adaptação contínua às mudanças no mercado: O mercado de design e 
+tecnologia está em constante evolução, exigindo que a iCo gnitus se mantenha 
+atualizada com as tendências e tecnologias mais recentes. A incapacidade de se 
+adaptar rapidamente pode comprometer a competitividade da empresa; 
+o Potencial aumento da concorrência em soluções criativas:  O aumento da procura por 
+soluções criativas e inovadoras atrai mais concorrência. Se a iCognitus não continuar a 
+inovar e diferenciar-se, pode perder espaço no mercado, especialmente em um setor 
+onde a originalidade é altamente valorizada. 
+
+ 
+51 
+Ao longo do projeto, observou-se uma evolução notável na capacidade de adaptação e na qualidade 
+do trabalho entregue. A melhoria na comunicação e no entendimento das expectativas dos supervisores 
+contribuiu significativamente para o sucesso do projeto.  Além disso, o desenvolvimento de habilidades 
+técnicas, especialmente no uso do Figma, foi um ponto alto, permitindo a criação de interfaces intuitivas 
+e funcionais. 
+A experiência de projeto trouxe benefícios significativos para a iCognitus, melhorando a funcionalidade 
+e a estética de diversas plataformas e materiais. As metodologias aplicadas e as ferramentas utilizadas 
+foram decisivas para alcançar esses resultados, demonstrando a importância de uma abordagem 
+integrada de design e desenvolvimento. A experiência adquirida ao longo do proje to oferece uma base 
+sólida para enfrentar futuros desafios no campo do design e desenvolvimento web, contribuindo para o 
+crescimento profissional e para a inovação contínua dentro da organização. 
+A avaliação crítica do trabalho realizado ao longo do projeto revelou tanto pontos fortes quanto áreas 
+a serem aprimoradas. Como observado em Anexos, d o ponto de vista da equipa da iCognitus, os 
+resultados entregues foram satisfatórios no que diz respeito à padronização da identidade visual e à 
+criação de soluções personalizadas para os d iferentes projetos. No entanto, a equipa destacou que a 
+comunicação em ambiente remoto poderia ter sido mais eficiente, com a falta de interações presenciais 
+dificultando o alinhamento de expectativas e, em algumas ocasiões, resultando em retrabalho. Outro  
+desafio identificado foi a dificuldade ocasional em termos de originalidade, especialmente em tarefas 
+que exigiam soluções criativas e inovadoras, o que impactou a agilidade do processo de design. 
+Além disso, a equipa sublinhou a importância de uma maior proatividade na busca de feedback 
+contínuo, que poderia ter acelerado a resolução de problemas e aumentado a qualidade das entregas 
+finais. Apesar desses desafios, a iCognitus reconheceu que as metodologias aplicadas, como o Kanban, 
+foram eficazes para a gestão de tarefas em um contexto remoto, e o uso de ferramentas como o Figma 
+contribuiu positivamente para o desenvolvimento de interfaces intuitivas e funcionais. No geral, o 
+trabalho realizado durante o projeto foi considerado um valioso contributo para a empresa, com impactos 
+significativos nos projetos desenvolvidos e potencial para continuar a influenciar futuras iniciativas. 
+  
+
+ 
+52 
+6. Conclusão 
+O estágio curricular na iCognitus foi uma experiência enriquecedora, proporcionando uma imersão 
+profunda no mundo do design de interfaces e na comunicação empresarial. Durante este período, foi 
+possível aplicar de forma prática os conhecimentos adquiridos no plano curricular, com um foco 
+constante nas necessidades dos utilizadores. Essa abordagem permitiu não ap enas o desenvolvimento 
+de projetos alinhados com os objetivos da empresa, mas também a aquisição de novas competências 
+na utilização de ferramentas de criação de protótipos e design. 
+ Entre os principais objetivos do projeto estavam o desenvolvimento de co mpetências em 
+comunicação empresarial, a prototipagem e design de interfaces, e a resolução de problemas. No final 
+do projeto, os resultados alcançados demonstram que esses objetivos foram plenamente atingidos. 
+ No que diz respeito à comunicação empresarial, foram elaboradas 57 propostas de design no Canva, 
+incluindo ajustes contínuos para atender às necessidades específicas dos projetos. Essas propostas 
+incluíram elementos visuais e funcionais que contribuíram para a padronização e aprimoramento da 
+identidade visual da empresa, cumprindo assim o objetivo de criar conteúdos eficazes e atraentes para 
+diferentes contextos, como páginas web e redes sociais. 
+ Quanto ao objetivo de prototipagem e design de interfaces , foi utilizado o Figma para o 
+desenvolvimento de 2 wireframes e 20 propostas de design. Uma dessas propostas foi selecionada e 
+utilizada como base para um projeto real, o que evidencia a eficácia e relevância das soluções criadas. 
+Além disso, essas atividades aprimoraram significativamente as habilidades técnicas em prototipagem, 
+seguindo práticas de UX e UI. 
+ Finalmente, no âmbito da resolução de problemas, o projeto permitiu enfrentar e solucionar diversos 
+desafios, especialmente relacionados à usabilidade e funcionalidade dos projetos. Foram implementadas 
+melhorias em sites existentes, como a reorganização de secções, correção de erros ortográficos, ajuste 
+de questões de espaçamento e layout em questionários e designs de interfaces. Essas ações garantiram 
+que os produtos entregues fossem funcionais e atendiam às expectativas tanto da empresa quanto dos 
+utilizadores finais. 
+ A experiência de projeto foi fundamental para o desenvolvimento profissional, permitindo a integração 
+de conhecimentos teóricos com a prática em um ambiente real e remoto. Além disso, a aplicação da 
+metodologia Kanban foi fundamental para a organização e gestão eficiente das tarefas ao longo do 
+
+ 
+53 
+projeto, facilitando o cumprimento dos prazos e a entrega de projetos de alta qualidade . O projeto não 
+só cumpriu os objetivos estabelecidos, mas também proporcionou um avanço significativo nas 
+habilidades de comunicação empresarial, prototipagem e design de interfaces, preparando a estagiária 
+para enfrentar desafios futuros na área de design. 
+ Em resumo, o estágio  curricular na iCognitus, apesar das dificuldades que um ambiente remoto 
+contém, ofereceu uma valiosa oportunidade para aprofundar os conhecimentos adquiridos no Mestrado 
+em Humanidades Digitais. O Mestrado, que liga as áreas das tecnologias e humanidades, forneceu uma 
+base teórica sólida que foi aplicada diretamente no desenvolvimento de competências e habilidades em 
+UX/UI Design. A base teórica proporcionada pelo Mestrado, especialmente na Unidade Curricular de 
+Interfaces Web, foi aplicada de forma prática ao longo do estágio  curricular, permitindo não só criar 
+soluções digitais esteticamente agradáveis, mas também funcionais e acessíveis. 
+ Abaixo, encontra-se uma tabela resumo (Tabela 7) que detalha as principais tarefas realizadas e os 
+resultados alcançados: 
+Tabela 7 – Tabela resumo das tarefas e resultados 
+Tarefa Resultado 
+T1 – Design de Assinatura de E-mail 
+15 designs de assinatura , 2 designs escolhidos 
+para ajustes. 
+T2 – Design para Website de um Cliente 
+4 designs diferentes em Figma para o design de 
+website. 
+T3 – Melhorias para os Websites da Empresa 
+Implementação de correções ortográficas, 
+reorganização de se cções, melhorias de layout 
+para usabilidade. 
+T4 – Design de Papel Timbrado 
+10 designs de papel timbrado para a empresa, 3 
+selecionados. 5 designs para a plataforma 
+QuizOne. 
+T5 – Design de Templates de PowerPoint 
+3 propostas de design para a iCognitus e 3 para 
+a QuizOne. 
+T6 – Design de Conteúdos para Redes Sociais 
+4 designs diferentes para aumentar a presença 
+online da empresa. 
+
+ 
+54 
+Tarefa Resultado 
+T7 – Design de Desdobráveis 
+7 propostas de design de desdobráveis para 
+eventos e campanhas. 
+T8 – Questionário no Figma 
+5 propostas de design de resposta e 2 propostas 
+de design de edição. 
+T9 – Design do Website do QuizOne 
+2 wireframes e 20 propostas de design, com uma 
+proposta utilizada em projeto real. 
+  
+
+ 
+55 
+7. Referências Bibliográficas 
+Arngren, F. (s.d.). Arngren. https://arngren.net/ [Consultado a 10/07/2024] 
+Aslan, Y. (2021). Marketing and UI/UX Analysis of Company Chanodil. ResearchGate. 
+https://www.researchgate.net/publication/350048173_Marketing_and_UIUX_Analysis_
+of_Company_Chanodil [Consultado a 09/07/2024] 
+Bilousova, L. I., Gryzun, L.E., & Zhytienova, N. V. (2021). Fundamentals of UI/UX design as a component 
+of the pre -service specialist's curriculum. Second International Con -ference on History, 
+Theory and Methodology of Learning (ICHTML 2021) , 104. 
+http://repository.hneu.edu.ua/handle/123456789/27153 [Consultado a 08/07/2024] 
+Daraojimba, N. E. C., Nwasike, N. C. N., Adegbite, N. a. O., Ezeigweneme, N. C. A., & Gidiagba, N. J. O. 
+(2024). COMPREHENSIVE REVIEW OF AGILE METHODOLOGIES IN PROJECT 
+MANAGEMENT. Computer Science & IT Research Journal, 5 (1), 190 –218. 
+https://doi.org/10.51594/csitrj.v5i1.717 [Consultado a 09/07/2024] 
+Desai, V. (2019, Março). Digital Marketing: A review. International Journal of Trend in Scientific Research 
+and Development , Special Issue , pp. 196 -200. https://doi.org/10.31142/ijtsrd23100 
+[Consultado a 25/06/2024] 
+Dindar, H. (2024). The influence on consumer purchase intention of call -to-action in promotional 
+messages on instagram channel  [Tese de Mestrado, Vilnius University Business School]. 
+eLABa – nacionalinė Lietuvos akademinė elektroninė bibliotek a. 
+https://epublications.vu.lt/object/elaba:191573658/ [Consultado a 09/07/2024] 
+Editorial Team (2024, April 2). 10 Exceptional Marketing Agency Website Examples You’ll Want To Copy. 
+OptimizePress. https://www.optimizepress.com/marketing-agency-website-examples/ 
+[Consultado a 31/07/2024] 
+Flightpath Inc. (s.d.). FlightPath. https://www.flightpath.com/ [Consultado a 31/07/2024] 
+Lamprecht, E. (2023, June 2). The difference between UX and UI design – a beginner’s guide. 
+CareerFoundry. https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-
+and-ui-design-a-laymans-guide/ [Consultado a 09/07/2024] 
+
+ 
+56 
+ICognitus. (2021a). iCognitus – IT Solutions. https://www.icognitus.com/ [Consultado a 17/07/2024] 
+ICognitus. (2021 b). About us – iCognitus. https://www.icognitus.com/about-us/ [Consultado a 
+10/07/2024] 
+ICognitus. (2021 c). Products & Services – iCognitus. (2021). https://www.icognitus.com/services/ 
+[Consultado a 10/07/2024]  
+ICognitus. (2022). QuizOne – Advanced Assessment Platform . https://quiz.one [Consultado a 
+12/07/2024] 
+Interaction Design Foundation. (s.d.). The Basics of User Experience Design . Interaction Design 
+Foundation. 
+Ji, H., Yun, Y., Lee, S., Kim, K., & Lim, H. (2018). An adaptable UI/UX considering user’s cognitive and 
+behavior information in distributed environment. Cluster Computing, 21 , pp. 1045 -1058. 
+https://doi.org/10.1007/s10586-017-0999-9 [Consultado a 08/07/2024] 
+Linh, D. (s.d.). Arngren Redesign Case Study. Linh Do – Visual UX Designer . 
+https://dophamyenlinh.wixsite.com/portfolio/arngren-redesign-case-
+study#:~:text=Our%20team%20is%20responsible%20for,from%20vehicles%20to%20electro
+nic%20collectibles [Consultado a 10/07/2024] 
+Mittal, A. (2021, December 27). UX vs. UI — Similarity & Differences. Medium. 
+https://blog.prototypr.io/ux-vs-ui-similarity-differences-837775584cd8 [Consultado a 
+09/07/2024] 
+Moran, M., & Hunt, B. (2006). Search Engine Marketing, Inc.: Driving Search Traffic to Your Company's 
+Website. (3rd ed.). Pearson plc. 
+https://books.google.pt/books?hl=en&lr=&id=4TjKBQAAQBAJ&oi=fnd&pg=PR11&dq=Sea
+rch+Engine+Marketing&ots=AoAxT9-
+okc&sig=90Ub0BY3FP24Iy9hpYLL6o0Bjwo&redir_esc=y#v=onepage&q&f=false 
+[Consultado a 04/07/2024] 
+
+ 
+57 
+Mushka, D. (2023, Dezembro). GENESIS OF DIGITAL MARKETING IN THE AGE OF DIGITAL 
+REVOLUTION. Innovative Solutions in Modern Science , 5(60). 
+https://doi.org/10.26886/2414-634x.5(60)2023.1 [Consultado a 21/06/2024] 
+OpenAI. (2023). ChatGPT (May 16 version) [Large language model]. https://chat.openai.com/ 
+[Consultado a 14/07/2024] 
+OptimizePress. (s.d.) Flightpath Agency Landing Page. OptimizePress. 
+https://www.optimizepress.com/inspiration/flightpath-agency-landing-page/ [Consultado 
+a 31/07/2024] 
+Romanchuk, J. (2023, December 06). 16 Best Dynamic Website Design Ex amples We Love. HubSpot. 
+https://blog.hubspot.com/website/dynamic-website-
+examples?hubs_content=blog.hubspot.com%2Fwebsite%2Fbad-vs-good-
+design&hubs_content-cta=-medium [Consultado a 10/07/2024] 
+Romanchuk, J. (2024, June 24). 19 Examples of Bad Website Design in 2024 [+ What They Got Wrong]. 
+HubSpot. https://blog.hubspot.com/website/bad-vs-good-design [Consultado a 
+10/07/2024] 
+Sanketnagare. (2024, May 29). UI vs UX: What’s the Difference between UI & UX Design? GeeksforGeeks. 
+https://www.geeksforgeeks.org/difference-between-ui-and-ux-design/ [Consultado a 
+09/07/2024] 
+Shreya_garg. (2024, July 10). What is User Experience (UX) Design? GeeksforGeeks. 
+https://www.geeksforgeeks.org/user-experience-or-ux-design/?ref=shm [Consultado a 
+09/07/2024] 
+Vector Solutions. (2023, October 26). Risk Matrix Calculations – Severity, Pro bability, and Risk 
+Assessment. Vector Solutions . https://www.vectorsolutions.com/resources/blogs/risk-
+matrix-calculations-severity-probability-risk-assessment/ [Consultado a 02/09/2024] 
+Velasco, C. (2024, March 20). The Future of UI/UX Design: Emerging Trends and Technologies. Floowi. 
+https://floowitalent.com/the-future-of-ui-ux-design-emerging-trends-and-
+technologies/#:~:text=The%20future%20of%20UI%2FUX%20design%20is%20shaped%20by
+%20emerging,ahead%20in%20this%20dynamic%20field [Consultado a 10/07/2024] 
+
+ 
+58 
+Wikipedia. (2024, May 11). Regulamento Geral sobre a Proteção de Dados . 
+https://pt.wikipedia.org/wiki/Regulamento_Geral_sobre_a_Prote%C3%A7%C3%A3o_de_
+Dados [Consultado a 10/07/2024] 
+Wojdynski, B. W., & Golan, G. J. (2016). Native advertising and the future of mass communication. 
+American Behavioral Scientist , 60(12), pp. 1403 –1407. 
+https://doi.org/10.1177/0002764216660134 [Consultado a 05/07/2024] 
+Yeole, S., Salunkhe, Y. B., & Hake, V. (2023, Novembro). Digital Marketing: a new storm in the sea of 
+marketing. ResearchGate. 
+https://www.researchgate.net/publication/375926145_Digital_Marketing_A_New_Stor
+m_in_the_Sea_of_Marketing [Consultado a 25/06/2024] 
+ 
+  
+
+ 
+59 
+8. Anexos 
+Anexo 1 – Avaliação do estágio curricular pela empresa de acolhimento

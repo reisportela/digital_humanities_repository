@@ -1,0 +1,1043 @@
+Universidade do Minho Escola de Letras, Artes e Ciências Humanas      Alexandre Manuel Dias do Paço Preservação Digital de Património Municipal - Experiência no Arquivo da Cidade de Neuchâtel                       abril 2024
+Preservação Digital de Património Municipal - Experiência no Arquivo da Cidade de Neuchâtel Alexandre Manuel Dias do Paço UMinho | 2024 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alexandre Manuel Dias do Paço 
+ 
+ 
+Preservação Digital de Património 
+Municipal – Experiência no Arquivo da 
+Cidade de Neuchâtel 
+ 
+ 
+ 
+ 
+ 
+Relatório de Estágio 
+Mestrado em Humanidades Digitais 
+ 
+ 
+ 
+Trabalho realizado sob orientação de 
+Professora Doutora Idalete Maria Da Silva Dias 
+ 
+ 
+abril 2024
+
+ii 
+ 
+ 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as regras e 
+boas práticas internacionalmente aceites, no que concerne aos direitos de autor e direitos conexos. Assim, 
+o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada. 
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não 
+previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da Universidade do 
+Minho. 
+ 
+ 
+  
+
+
+iii 
+ 
+AGRADECIMENTOS 
+Este relatório não seria possível sem o apoio de muitas pessoas, e gostaria de expressar os meus 
+sinceros agradecimentos a todos aqueles que contribuíram para o sucesso desta etapa final. 
+Em primeiro lugar, gostaria de agradecer à minha orientadora, a Prof essora Idalete Dias, cuja 
+orientação e conhecimento foram importantíssimos para o estágio e para o relatório e por se mostrar 
+disponível a ajudar, mesmo sendo à distância e com fusos horários distintos. 
+Seguidamente, à equipa do s Arquivos da Vila de Neuchâ tel pela sua orientação e ajuda. Desde o 
+Arquivista Principal e meu orientador dentro da instituição, o Dr. Gregoire Oguey, que foi sempre atencioso 
+e por me permitir ter esta experiência incrível; ao Arquivista anterior, o senhor Olivier Girardbille que sempre 
+se mostrou disponível aquando do período de férias do  Dr. Oguey e à estagiária, Maeva Hulmann, que me 
+permitiu evoluir bastante a nível linguístico. 
+Um agradecimento a todos os Professores do Mestrado em Humanidades Digitais, por todas as 
+aprendizagens. A todos os meus colegas do Mestrado em Humanidades Digitais, pela partilha e discussão 
+de ideias e pelo apoio mútuo ao longo desta etapa. Um obrigado por me fazerem crescer enquanto pessoa 
+e por aturarem muitos dos meus problemas. 
+A todos os  meus amigos que mesmo estando longe, nunca deixaram de me apoiar e de mostrar 
+preocupação pela minha saúde mental, pois não foi um período fácil a esse nível e sempre me encorajaram 
+e me mantiveram motivado a continuar. 
+Não poderia deixar de agradecer à minha família, mais especificamente aos meus pais e irmãs, que 
+sempre me incentivaram e apoiaram a abraçar esta oportunidade no estrangeiro e nunca me fizeram duvidar 
+de mim nem das minhas capacidades para o conseguir. Sou grato por tudo o que fizeram por mim, não só 
+neste tempo, mas durante toda a minha jornada académica. 
+A todos, expresso a minha gratidão. Sem o vosso apoio, nada disto seria possível. Obrigado do fundo 
+do meu coração. 
+Sem vocês, nada disto era possível. Fico eternamente grato. 
+
+iv 
+ 
+DECLARAÇÃO DE INTEGRIDADE 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e confirmo que 
+não recorri à prática de plágio nem a qualquer forma de utilização indevida ou falsificação de informações 
+ou resultados em nenhuma das etapas con ducente à sua elaboração. Mais declaro q ue conheço e que 
+respeitei o Código de Conduta Ética da Universidade do Minho. 
+STATEMENT OF INTEGRITY 
+I hereby declare having conducted this academic work with integrity. I confirm that I have not used 
+plagiarism or any form of undue use of information or falsification of results along the process leading to its 
+elaboration. 
+ I further declare that I have fully acknowledged the Code of Ethical Conduct of the University of 
+Minho. 
+  
+
+v 
+ 
+RESUMO 
+Este relatório de estágio, redigido no âmbito do Mestrado em Humanidades Digitais da Universidade 
+do Minho, apresenta a experiência na área de preservação digital de arquivos, realizada nos Archives de la 
+Ville de Neuchâtel, Suíça. O principal objetivo do referido estágio consistiu em desenvolver e adquirir 
+competências na área da preservação digital e na organização e catalogação de arquivos físicos. O 
+enquadramento teórico vai explorar conceitos relacionados com a área, tal como demonstrar a importância 
+dos mesmos. De seguida será efetuada uma breve descrição e apresentação da entidade acolhedora, tal 
+como uma explicação acerca daquilo que é e como funciona o arquivo de uma cidade. Após esta breve 
+explicação serão apresentadas, de uma forma detalhada, toda s as tarefas realizadas ao longo do estágio, 
+tal como os desafios encontrados. 
+Em suma, este estágio proporcionou-me uma oportunidade de colocar em prática as aprendizagens 
+obtidas ao longo das Unidades Curriculares do Mestrado em Humanidades Digitais. 
+Palavras-chave: Arquivo Municipal, Cidade de Neuchâtel, Memória Coletiva, Património Documental, 
+Preservação Digital; 
+  
+
+vi 
+ 
+ABSTRACT 
+This internship report, written as part of the Master's Degree in Digital Humanities at the University 
+of Minho, presents the experience in the area of digital preservation of archives, carried out at the Archives 
+de la Ville de Neuchâtel, Switzerland. The main objective of this internship was to develop and acquire skills 
+in the area of digital preservation and the organization and cataloguing of physical archives. The theoretical 
+framework will explore concepts related to the area, as well as demonstratin g their importance. This will be 
+followed by a brief description and presentation of the host organization, as well as an explanation of what a 
+city archive is and how it works. After this brief explanation, all the tasks carried out during the internship will 
+be presented in detail, as will the challenges encountered. 
+In short, this internship gave me the opportunity to put into practice the lessons learned during the 
+course of the Master's in Digital Humanities. 
+Keywords: Municipal Archive, City of Neuchâ tel, C olective Memory, Documentary Heritage, Digital 
+Preservation; 
+  
+
+vii 
+ 
+Índice 
+1. Introdução ...................................................................................................................... 1 
+1.1 Enquadramento Teórico ............................................................................................................ 2 
+1.2 Qual a função de um Arquivo Municipal? ................................................................................... 6 
+1.3 Objetivos .................................................................................................................................. 8 
+2. Entidade acolhedora: Archives de la Ville de Neuchâtel .................................................. 9 
+3. Tarefas realizadas ........................................................................................................ 12 
+3.1 Transcrição de documentos .................................................................................................... 14 
+3.2 Digitalização de documentos ................................................................................................... 21 
+3.3 Sistema de organização e pesquisa de documentos ................................................................ 25 
+3.4 Organização e revisão de livros de contas ................................................................................ 29 
+3.5 Exercício de evacuação de documentos com a Proteção Civil ................................................... 31 
+3.6 Visita às instalações do Arquivo de Peseux e do Arquivo de Corcelles ....................................... 35 
+4. Desafios durante o estágio ........................................................................................... 36 
+5. Conclusão .................................................................................................................... 37 
+6. Bibliografia .................................................................................................................. 39 
+7. Anexos ......................................................................................................................... 41 
+7.1 Anexo 1: Certificado do Estágio ............................................................................................... 41 
+ 
+  
+
+viii 
+ 
+Índice de Figuras 
+ 
+FIgura 1 Exemplo dos metadados do Inventaire des Archives de la Communauté de Valangin, no 
+inventário online dos Archives de la Ville de Neuchâtel .............................................................................. 9 
+FIgura 2 Olivier Girardbille, antigo arquivista principal dos Archives segurando o documento mais antigo 
+presente na instituição ........................................................................................................................... 10 
+FIgura 3 Grégoire Oguey, o novo responsável pelos Archives de la Ville de Neuchâtel ............................ 11 
+FIgura 4 Capa do panfleto da exposição 'Place Aux Femmes' ................................................................ 12 
+FIgura 5 Primeira página do panfleto da exposição 'Place Aux Femmes'................................................ 12 
+FIgura 6 Cartaz referente à exposição 'Place Aux Femmes' ................................................................... 13 
+FIgura 7 Capa do Inventaire de l'Ancien Regime de Peseux................................................................... 14 
+FIgura 8 Tabela utilizada na transcrição de documentos, excerto pertencente à transcrição do Inventaire 
+de l'Ancien Regime de Peseux ................................................................................................................ 15 
+FIgura 9 Primeira página do Inventaire de l'Ancien Régime de Peseux................................................... 16 
+FIgura 10 Nota explicativa por parte do autor da revisão feita ao Inventaire de Peseux, M. Montandon .. 16 
+FIgura 11 Capa do Inventaire Chambrier.............................................................................................. 17 
+FIgura 12 Primeira página do Inventaire Chambrier ............................................................................. 17 
+FIgura 13 Excerto de uma página do Inventaire de Peseux ................................................................... 18 
+FIgura 14 Excerto de uma página do Inventaire Chambrier ................................................................... 18 
+FIgura 15 Modelo hierárquico da norma ISAD(G) ................................................................................. 19 
+FIgura 16 Aparelho utilizado para a digitalização de documentos nos Archives ..................................... 21 
+FIgura 17 Digitalização em curso ......................................................................................................... 22 
+FIgura 18 Lombada do Carnet de Caisse do início de 1659 até fevereiro de 1671 ................................ 22 
+FIgura 19 Digitalização da capa do Carnet de Caisse ........................................................................... 23 
+FIgura 20 Página 4 do Carnet de Caisse .............................................................................................. 23 
+FIgura 21 Um dos planos apresentados para o novo edifício do Porto de Neuchâtel ............................. 24 
+FIgura 22 Esboço de um dos planos de organização de documentos apresentados ao Dr. Oguey ......... 25 
+FIgura 23 Esboço do design das etiquetas utilizadas para a organização dos documentos .................... 25 
+FIgura 24 Processo de recorte das etiquetas utilizando um X-ato .......................................................... 26 
+
+ix 
+ 
+FIgura 25 Etiqueta afixada numa prateleira no Nível 1 .......................................................................... 27 
+FIgura 26 Etiqueta afixada numa prateleira no Nível das Escadas ......................................................... 27 
+FIgura 27 Local onde se encontra o Nível das Escadas ........................................................................ 28 
+FIgura 28 Capa cinza utilizada na organização dos documentos ........................................................... 29 
+FIgura 29 Capa amarela utilizada na organização dos documentos ...................................................... 29 
+FIgura 30 Momento da pequena palestra dirigida por Grégoire Oguey .................................................. 31 
+FIgura 31 Grégoire Oguey a apresentar as maquetes históricas à Protection des Biens Culturels (PBC) 31 
+FIgura 32 Dois membros da PBC a cobrir os documentos com um plástico para os proteger ................ 32 
+FIgura 33 Dois membros da PBC a realizar o transporte de documentos .............................................. 32 
+FIgura 34 Alexandre Paço, Grégoire Oguey e 3 elementos da proteção civil no local destinado aos 
+documentos ........................................................................................................................................... 33 
+FIgura 35 Grégoire Oguey a confirmar a ordem dos documentos .......................................................... 33 
+FIgura 36 Elementos da PBC envolvidos no exercício e o Grégoire Oguey ............................................. 34 
+FIgura 37 Edifício onde se encontra localizado o Arquivo de Peseux ..................................................... 35 
+FIgura 38 Certificat de Travail pela entidade acolhedora, Archives de la Ville de Neuchâtel.................... 41 
+  
+
+x 
+ 
+Siglas, Acrónimos e Abreviaturas 
+ DDC – Dewey Decimal Classification 
+ICA – International Council on Archives 
+OCR – Optical Character Recognition 
+PBC – Protection des Biens Culturels 
+  
+
+1 
+ 
+1. Introdução 
+A preservação do património municipal desempenha um papel fundamental na manutenção da 
+identidade e memória de qualquer comunidade que pretende preservar o passado, entender o presente 
+e preparar o futuro. Num mundo cada vez mais digital, a tarefa de conservar documentos relacionados 
+com a história de uma cidade tornou -se mais  complexa e um desafio crucial para garantir que o 
+património seja protegido e acessível a gerações futuras. Este relatório de estágio descreve a minha 
+experiência de estágio nos ‘Archives de la Ville de Neuchâtel’. 
+A cidade de Neuchâtel, localizada na Suíça, é rica em história e cultura, e o arquivo desempenha 
+um papel fundamental na preservação e acesso a documentos que demonstram a trajetória da cidade 
+ao longo dos séculos, como é o caso das maquetes históricas, que demonstram a evolução entre os 
+séculos XII e XX. 
+O objetivo deste estágio era entrar no mundo da preservação digital e contribuir de forma positiva 
+para o bom funcionamento dos Arquivos da Cidade de Neuchâtel, tal como aprimorar técnicas de 
+preservação. Este relatório incide sobre a importância da preservação digital, destacando o papel crucial 
+desempenhado pelos ‘Archives de la Ville de Neuchâtel’ na preservação e restauração de documentos 
+históricos da cidade, tal como documentos do foro pessoal que contêm a história e linhagem de famílias 
+(Capítulo 3). A evolução tecnológica oferece a possibilidade de se utilizar novas ferramentas para a 
+preservação destes documentos no formato  digital, tal como a transcrição de documentos ou a 
+digitalização (Capítulo 3.1 e 3.2), e a catalogação dos mesmos nu m sistema de pesquisa que permite 
+um fácil acesso aos documentos (Capítulo 3.3). As atividades realizadas durante este período de estágio 
+nos ‘Archives de la Ville de Neuchâtel’  são apresentadas e detalhadas, incluindo tarefas espec íficas e 
+uma colaboração com um departamento da proteção civil  (Capítulo 3.5). Além disso, o relatório reflete 
+sobre os principais desafios encontrados ao longo desta experiência única (Capítulo 4) 
+  
+
+2 
+ 
+1.1 Enquadramento Teórico 
+Segundo o Vocabulario Portuguez e Latino de Raphael Bluteau (1712-1728), o termo ‘archivo’ deriva 
+do Grego Archeion, e "He o lugar em que se guardaõ papeis, os titulos de huma familia, ou  de huma 
+comunidade"1. O Conselho Internacional de Arquivos (International Council on Archives - ICA)2 define um 
+arquivo como um conjunto de documentos produzidos por pessoas, de foro público ou privado, no 
+exercício da sua atividade: “Archives are the documentary by-product of human activity retained for their 
+long-term value. They are contemporary records created by individuals and organisations as they go about 
+their business and therefore provide a direct window on past events.” 
+De acordo com o site do International Council on Archives, existe um recurso valiosíssimo do qual 
+dependemos para aprender mais acerca  do passado, e esse recurso são os arquivos. Segundo o ICA, 
+estes são criados por indivíduos e organizações no exercício da sua atividade, fornecendo uma ligação 
+com o passado e podendo apresentar -se de diversas formas, visto que um arquivo não tem 
+necessariamente de ser em formato de texto, muito pelo contrário. Cada vez mais vemos a digitalização 
+de arquivos, compostos por uma vasta tipologia documental, não raras vezes em estado físico de 
+degradação, com o intuito principal de preservar a documentação e informação. Os arquivos, sejam eles 
+compostos por manuscritos, documentos impressos, fotografias, documentos áudio e vídeo em qualquer 
+suporte, podem ser arquivos públicos, privados ou históricos. O ICA apresenta também quatro 
+características que um arquivo deve possuir, sendo elas autenticidade, fiabilidade, integridade e utilidade, 
+tal como diversas fontes de onde estes podem provir, por exemplo de entidades estatais, universidades 
+e escolas, famílias, organizações religiosas, entre outras. 
+Os locais preparados para guardar uma grande quantidade de informações são conhecidos como 
+arquivos e alguns países possuem Arquivos do Estado e Arquivos Municipais que abrigam de forma 
+organizada informações sobre a história e a cultura do país ou do município. Estas i nformações estão 
+presentes em documentos, que são recebidos por uma organização, que os guarda e preserva como 
+fonte de informação para a execução de diferentes atividades. No caso dos arquivos de uma cidade, 
+estes podem, a título de exemplo, conter inform ações importantes para futuras alterações a realizar na 
+cidade, tal como a fundação da cidade e a sua evolução até aos dias de hoje. O arquivo tem duas 
+finalidades: servir a administração (da cidade) e servir a história. No caso da administração, os arquivos 
+fornecem e facilitam o acesso a informações e documentos; preservam e colocam à disposição dos 
+                                                           
+1 Bluteau, Vocabulario Portuguez e Latino, 1712. 
+2 https://www.ica.org/discover-archives/what-are-archives/  
+
+3 
+ 
+cidadãos documentos, quer sejam de caráter informativo ou probatório. No caso de  servir a história, o 
+arquivo fornece informações e documentos que de alguma f orma podem reescrever a história política, 
+social ou económica de um país, ou simplesmente de uma cidade, pois é no arquivo que todos os 
+documentos importantes se encontram. 
+As principais funções de um arquivo passam por recolher e ordenar todos os documentos que possui; 
+avaliar e selecionar os documentos, tendo em conta o seu estado de conservação; arquivar os 
+documentos, assegurando a integridade dos mesmos, evitando danos que possam, consequentemente, 
+levar à sua perda; e, em muitos casos, auxiliar na re stauração de documentos de que disponham. A 
+estes documentos podemos chamar de Património Documental Municipal, os quais em conjunto criam 
+uma memória cultural, que é importante preservar, pois fazem uma ligação entre o passado, o presente 
+e o futuro. Esta  memória cultural é caracterizada por heranças simbólicas materializadas em textos, 
+monumentos e escrituras. Tendo em conta que se trata de um arquivo municipal, para além de memória 
+cultural, também podemos falar de património e memória industrial, famili ar e coletiva da cidade. Com 
+o evoluir da tecnologia, o arquivo digital torna-se cada vez mais importante para as empresas, visto que 
+a quantidade de informação que estas geram tem crescido exponencialmente. Apesar da digitalização 
+documental ser um processo demorado e rigoroso, com uma boa organização e um bom planeamento, 
+é fundamental para o uso adequado do sistema de arquivo de uma empresa ou entidade. Um arquivo 
+digital traz várias vantagens a uma empresa, entre elas, uma melhoria no fluxo de trabalho,  sendo 
+possível o sistema rastrear tarefas completas e incompletas dentro da empresa, ou automatizar tarefas 
+repetitivas para poupar tempo à empresa ou instituição. 
+A preservação do património é um tema de grande importância. A proteção e preservação do 
+património cultural e histórico têm sido uma preocupação constante em todo o mundo, na medida em 
+que as comunidades procuram manter uma ligação entre o seu passado e garantir que as gerações 
+futuras tenham acesso e possam compreender a sua história. O contex to atual é marcado por uma 
+mudança significativa na forma como as informações e os registos são armazenados. Este campo ganhou 
+destaque à medida que a sociedade passou da criação e armazenamento de informações em formato 
+físico, como papel, para formato digital. A preservação digital emergiu como uma abordagem essencial 
+para garantir a acessibilidade a longo prazo do património cultural e histórico. Esta refere-se ao conjunto 
+de estratégias e práticas que visam garantir a integridade, autenticidade e acessi bilidade a longo prazo 
+de documentos, imagens, vídeos e outros tipos de documentos digitais, visto que com o avanço da 
+tecnologia, a preservação digital se tornou uma preocupação fundamental para instituições culturais, 
+
+4 
+ 
+como arquivos, bibliotecas e museus,  assim como para empresas e entidades governamentais como 
+uma câmara municipal, por exemplo, que pretendem preservar o património municipal, que é uma parte 
+essencial da identidade de uma cidade. Os arquivos municipais, como os Archives de la Ville de 
+Neuchâtel, desempenham um papel crucial na preservação da memória coletiva de uma comunidade, 
+abrangendo um grande número de documentos culturais e históricos, como registos de governos 
+anteriores e atuais, fotografias antigas, mapas, arte pública e arquitetur a histórica. A digitalização e a 
+preservação destes documentos tornam o seu acesso mais fácil, quer seja para os cidadãos como para 
+historiadores, que podem explorar este conteúdo de forma virtual. Além de preservar estes documentos 
+para estarem acessíveis  às gerações futuras, o arquivo de uma cidade também serve para arquivar 
+documentos governamentais que mais tarde podem ser de extrema relevância na tomada de decisões 
+importantes para o futuro da cidade, quer seja para a construção de um novo edifício, co mo para ter 
+acesso às plantas da cidade e ainda para tomar decisões relativamente ao orçamento da cidade. Importa 
+ainda referir que os arquivos municipais contribuem para assegurar a transparência governamental, visto 
+que, ao manter alguns dos registos ace ssíveis ao público, ajudam a manter as decisões do governo 
+visíveis. 
+A preservação digital apresenta uma série de desafios, sendo um dos mais críticos a obsolescência 
+de alguns formatos e programas digitais. À medida que os sistemas e os softwares evoluem, os arquivos 
+digitais podem ficar inacessíveis sem uma conversão adequada para os novos métodos e/ou programas 
+utilizados. Perante esta realidade, e para combater isso é essencial que os arquivos acompanhem a 
+evolução tecnológica por via, por exemplo, da a quisição de programas e equipamentos adequados, do 
+estabelecimento de parcerias com instituições que possam prestar apoio na reconversão de material, da 
+utilização de programas e sistemas interoperáveis, de modo que os documentos permaneçam acessíveis. 
+Um dos desafios fundamentais da preservação digital é garantir que as informações permaneçam 
+sempre disponíveis. Além disso, a gestão de grandes volumes de dados digitais é algo importante a ter 
+em conta, visto que à medida que as instituições acumulam uma qu antidade cada vez maior de 
+informações digitais, a organização, a catalogação e a indexação eficientes tornam -se cruciais para a 
+pesquisa futura. Manter a integridade e a autenticidade desta informação digital também é uma 
+preocupação, visto que devem ser protegidos contra o acesso não autorizado, sendo que nos Archives 
+de la Ville de Neuchâtel existe um programa, o ETIC, que apenas está acessível a utilizadores da rede da 
+Câmara de Neuchâtel. De modo a abordar estes desafios foram desenvolvidas normas e me lhores 
+práticas na área da preservação digital, tal como é o caso da ISAD (G) (General International Standard 
+
+5 
+ 
+Archival Description), uma norma do ICA, disponível em 17 línguas diferentes e utilizada nos Archives de 
+Neuchâtel como a norma a seguir na transcrição de documentos. 
+  
+A experiência nos Archives de Neuchâtel proporcionou-me uma oportunidade única para explorar os 
+vários métodos de funcionamento, quer seja na transcrição de documentos ou na digitalização dos 
+mesmos. Durante este estágio foram aplica dos conceitos de preservação digital para garantir que a 
+história rica e diversificada da cidade de Neuchâtel continue a ser acessível e apreciada pelas gerações 
+presentes e futuras. Nos próximos capítulos, as atividades realizadas durante o estágio e as 
+aprendizagens realizadas ao longo do mesmo serão detalhadas.  
+
+6 
+ 
+1.2 Qual a função de um Arquivo Municipal? 
+Os Arquivos Municipais estão presentes na maioria das cidades, funcionando num edifício 
+individual, ou numa pequena secção da câmara municipal. Veja-se, a título de exemplo, o caso do Arquivo 
+Municipal de Esposende, que apenas em julho de 2022 se transferiu para um edifício autónomo. 
+A principal função de um Arquivo Municipal é preservar os documentos do município, quer sejam 
+grandes livros de contas, quer documentação relacionada com a história de uma família. 
+O Arquivo Municipal é constituído pela documentação produzida e recebida pelo 
+Município, no desenrolar da sua atividade, independentemente do seu suporte ou formato, e pela 
+informação recolhida que, pe lo seu valor informacional e histórico, apresenta relevância 
+comprovada para o Concelho e para a construção da memória futura. Ao Arquivo Municipal 
+compete a gestão do ciclo de vida da informação e dos documentos produzidos e recebidos pelo 
+Município, com vista à sua organização, tratamento, avaliação, conservação e comunicação. 
+Para além destas, compete ainda ao Arquivo Municipal a definição, divulgação e sensibilização 
+junto dos serviços de boas práticas de gestão da informação.3 
+As principais funções de um Arquivo são as de guardar, preservar e divulgar os documentos e 
+os registos oficiais relacionados com a administração e a história da cidade. No entanto, podemos 
+enumerar as várias funções de um Arquivo de modo que seja compreendida a existência e impor tância 
+do mesmo numa cidade. 
+Deste modo, e tendo já sido referida anteriormente, esta preservação inclui documentos 
+históricos, registos de propriedade, fotografias, entre outros, sendo que isso envolve a aplicação de 
+práticas de preservação, como a manute nção de condições adequadas de armazenamento e a gestão 
+de metadados de modo a facilitar a recuperação e a pesquisa de informações. De seguida temos o 
+acesso à informação, pois o Arquivo é responsável por facilitar o acesso público à informação por parte 
+dos cidadãos, e fornece um local onde estes podem aceder aos documentos e analisá-los. Nos Archives 
+existe um espaço de consulta designado de ‘Sala de Leitura’. 
+Com isto podemos passar para outra função relacionada com a educação, pois muitos Arquivos 
+Municipais possuem protocolos com escolas ou universidades e em conjunto com estes realizam aulas, 
+o que foi o caso dos Archives de Neuchâtel em que em várias ocasiões foram lecionadas aulas a 
+                                                           
+3 https://www.oeiras.pt/arquivo-municipal 
+
+7 
+ 
+estudantes da UniNE (Université de Neuchâtel) pelo Dr. Oguey. Outro exemplo ainda relacionado com a 
+educação é a realização de exposições e a organização de palestras. Por fim, outra função, ligada ao 
+título deste relatório, a preservação digital. À medida que o tempo avança, muitos documentos acabam 
+por se deteriorar e a informação fica cada vez menos percetível, e com o avanço tecnológico é possível 
+preservar-se estes documentos, ficando esta tarefa a cargo do Arquivo de uma cidade, de modo que 
+estes fiquem acessíveis no futuro. 
+Resumindo, os arquivos municipais podem ser vistos como os guardiões da história e memória 
+de uma cidade, desempenhando um papel crucial na preservação do património cultural e textual da 
+mesma, quer seja do foro público ou privado.  
+
+8 
+ 
+1.3 Objetivos 
+Os objetivos definidos por mim antes do início do estágio foram sendo ajustados ao longo do mesmo 
+com base num maior conhecimento do funcionamento dos Archives de la Ville de Neuchâtel e das tarefas 
+que me iam sendo incumbidas. Abaixo encontram-se listados esses mesmos objetivos. 
+ Adquirir competências na organização e catalogação de arquivos físicos; 
+ Conhecer os diferentes métodos de digitalização e processamento eletrónico de fundos 
+específicos, implementados nos Arhives de la Ville de Neuchâtel; 
+ Entender o método de atuação em caso de emergência; 
+ Explorar ferramentas utilizadas na digitalização, catalogação e processamento eletrónico de 
+documentos no Arquivo da Cidade de Neuchâtel; 
+  
+
+9 
+ 
+2. Entidade acolhedora: Archives de la Ville de Neuchâtel 
+Os Archives de Neuchâtel,  localizados na cidade de Neuchâtel,  na Suíça, está em funcionamento 
+desde 1976, responsável por recolher, preservar e disponibilizar documentos e registos de valor histórico 
+e cultural relativos à cidade e à região circundante. Isso inclui documentos administrativos, registos 
+históricos, fotografias, mapas e uma variedade de outos documentos, como, por exemplo, os de foro 
+pessoal, arquivos privados, de empresas e famílias, sendo que estes encontram -se localizados numa 
+zona específica e privada dentro do edifício. Estes documentos são entregu es na instituição, e são 
+armazenados; tendo como exemplo, fotografias, plantas de um edifício, brasão de uma família, etc.  
+No website 4 oficial dos Archives de la Ville de Neuchâtel, está disponível o inventário dos documentos 
+que estão acessíveis ao público, de modo que os cidadãos possam agendar um dia e uma hora para 
+poderem ter acesso a estes, como o “ Inventaire des Archives de la Communauté de Valangin” , sendo 
+fornecidos metadados, tais como o nome do autor, o conteúdo do documento, as condições de acesso, 
+o idioma e o tipo de documento, tal como podemos ver na FIgura 1. 
+  
+                                                           
+4 https://www.neuchatelville.ch/etudier/archives-de-la-ville/inventaires#panel-5285-1  
+FIgura 1 
+Exemplo dos metadados do Inventaire des Archives de la Communauté de Valangin, no inventário online dos 
+Archives de la Ville de Neuchâtel 
+
+10 
+ 
+Os cidadãos podem agendar uma hora para procederem à consulta dos documentos no local ou 
+podem dirigir-se ao Arquivo às quartas e quintas das 9h até às 12h e das 13h30 até às 17h, que são os 
+dias em que os Arquivos estão abertos ao público; também é possível realizar uma visita às maquetes 
+existentes no edifício, que demonstram a evolução da cidade desde o século XIII até ao início do século  
+XXI. O cantão de Neuchâtel divide-se em 4 municípios diferentes (Neuchâtel, Peseux, Valangin, Corcelles-
+Cormondrèche), e o  património documental de todos encontra-se guardado nos Archives, sendo a 
+principal função do departamento, guardar, preservar e tornar acessíveis todos estes documentos. No 
+entanto, cada um destes municípios, por sua vez, também possui um departamento que funciona como 
+um arquivo, tendo eu tido a experiência de visitar dois dos Arquivos, o de Peseux e o de Cor celles-
+Cormondrèche. 
+Os Archives foram geridos nos últimos 20 anos pelo senhor Olivier Girardbille5, presente na FIgura 
+2 a exibir o documento mais antigo que se encontra nos Archives à data da notícia da sua aposentação, 
+a Charte de Franchise 1214, tendo terminado as suas funções em dezembro 2022.   
+  
+                                                           
+5 https://www.arcinfo.ch/neuchatel-canton/littoral/neuchatel-commune/neuchatel-avant-son-depart-larchiviste-communal-presente-quatre-documents-
+marquants-1245916 
+FIgura 2 
+Olivier Girardbille, antigo arquivista principal dos Archives segurando o 
+documento mais antigo presente na instituição 
+
+11 
+ 
+O seu sucessor é Grégoire Oguey, como podemos ver na FIgura 36, que iniciou funções em 
+janeiro de 2023. No entanto, o senhor Girardbille acordou com a Ville de Neuchâtel manter -se nos 
+Archives até ao final de junho 2023 de modo a assegurar que a transição se realizasse da melhor forma 
+possível. Assim sendo, o meu orientador dentro da instituição, como já foi referido anteriormente, foi o  
+Dr. Grégoire Oguey, professor de paleografia, na Universi dade de Neuchâtel. É licenciado em Letras e 
+Ciências Humanas pela Universidade de Neuchâtel, doutorado em História Medieval e Arquivista 
+diplomado pela Escola de Paleografia, Diplomacia e Arquivo do Vaticano. É  também, desde 2016, 
+arquivista nos Arquivos do Estado de Neuchâtel.  
+  
+                                                           
+6 https://www.rtn.ch/rtn/Actualite/Region/20221207-Nouveau-responsable-pour-les-Archives-de-la-Ville.html 
+FIgura 3 
+Grégoire Oguey, o novo responsável pelos Archives de la Ville de Neuchâtel 
+
+12 
+ 
+3. Tarefas realizadas 
+ O estágio teve início no dia 20 de março de 2023 com uma visita guiada às instalações, incluindo 
+uma explicação das maquetes que apresentam a evolução da cidade. Foi também explicado que aquele 
+edifício onde estão situados os Archives não é o primeiro edifício. Ao l ongo do estágio foram realizadas 
+diferentes tarefas, tanto no plano digital, como a transcrição de documentos para formato eletrónico, 
+como no plano físico, no caso da organização de livros de contas. A maioria das tarefas foi solicitada pelo 
+orientador na  instituição; apenas uma tarefa foi solicitada pelo anterior arquivista, o senhor Olivier 
+Girardbille. Assim sendo, no decorrer do estágio tive a oportunidade de aceder a diferentes documentos 
+pertencentes ao património da cidade, todos eles referidos na e xplicação de cada tarefa realizada, e de 
+proceder à transcrição de dois deles, o “Premier Volume de l’Inventaire de 1790” e o “Inventaire des 
+Archives d’Ancien Régime de Peseux” e de digitalizar livros de registos de contas do final do século XVII. 
+Pude também analisar e rever grandes livros de registos de contas de anos recentes, e de proceder à 
+organização e divisão dos mesmos.   
+  
+FIgura 4 
+Capa do panfleto da exposição 'Place Aux Femmes' 
+FIgura 5 
+Primeira página do panfleto da exposição 'Place Aux 
+Femmes' 
+
+13 
+ 
+Concebi e coloquei em prática um sistema de localização física dos arquivos existentes no edifício. 
+Tive ainda a oportunidade de participar num exercício em conjunto com o departamento da proteção civil 
+de Neuchâtel, responsável pela proteção dos bens cult urais, e também de presenciar a cerimónia de 
+abertura de uma exposição nos Archives, levada a cabo por estudantes do Mestrado em Ciências 
+Históricas da Universidade de Neuchâtel, que teve início a 12 junho 2023, intitulada “Place Aux 
+Femmes”, tendo como ob jetivo demonstrar a presença feminina na Universidade de Neuchâtel.  Na 
+FIgura 4 e na FIgura 5 podemos ver o panfleto criado para a exposição e o cartaz inicial do mesmo, 
+e na FIgura 6 podemos ver o cartaz da exposição.  
+  
+FIgura 6 
+Cartaz referente à exposição 'Place Aux Femmes' 
+
+14 
+ 
+3.1 Transcrição de documentos 
+Ao longo do estágio, uma das tarefas realizadas foi a transcrição de documentos, passando do físico 
+para o digital. A primeira experiência na edição de textos foi realizada na Unidade Curricular ‘Património 
+Textual: Texto e Cultura’ do Mestrado em Humanidades Digitais da Univ ersidade do Minho, que me 
+permitiu adquirir as competências necessárias para cumprir as tarefas de edição e transcrição para 
+formato eletrónico. Foi possível transcrever dois livros inteiros, tendo sido o primeiro o Inventário do 
+Antigo Regime de Peseux (L’Inventaire de l’Ancien Régime de Peseux), cuja capa podemos ver na FIgura 
+7.  
+  
+FIgura 7 
+Capa do Inventaire de l'Ancien Regime de Peseux 
+
+15 
+ 
+O registo das informações presentes nos documentos era realizado num documento Word, utilizando 
+uma tabela, como o exemplo da FIgura 8. O conteúdo deste livro encontra-se dividido em 8 colunas. A 
+primeira coluna diz respeito a os níveis  de descrição presentes no documento; a segunda refere -se à 
+letra e/ou letras que remetem para uma determinada série: no caso do primeiro documento, todas as 
+séries estavam identificadas com uma letra, seguindo a ordem alfabética e existem casos em que temos 
+a dobragem das letras como vemos na FIgura 8; a terceira coluna, corresponde ao número do dossier, 
+em numeração arábica no Inventaire de Peseux e em numeração romana no Inventaire Chambrier; a 
+quarta coluna, diz respeito ao número de cada peça, como podemos ver na FIgura 8; a numeração no 
+lado esquerdo da página, como a que vemos na FIgura 13, serve para contabilizar as peças e não para 
+numerar as linhas; a quinta coluna contém a descrição de cada peça; a sexta e a sétima servem pa ra 
+colocar a data de início e a data de fim de cada peça, sendo que muitas vezes apenas existe a data de 
+início, ou em alguns casos, não existe indicação da data, colocando-se a referência “sans date”; por fim, 
+a oitava coluna contém comentários, como, por  exemplo, a referência a uma peça que se encontrava 
+sublinhada com caneta vermelha, situação que ocorreu por várias vezes.  
+  
+FIgura 8 
+Tabela utilizada na transcrição de documentos, excerto pertencente à transcrição do Inventaire de l'Ancien Regime de 
+Peseux 
+
+16 
+ 
+A transcrição deste primeiro documento foi bastante simples, sendo que era possível entender bem 
+a informação, as palavras eram percetíveis, como podemos ver na FIgura 9. Este primeiro documento, 
+o Inventário do Antigo Regime de Peseux  já havia sido revisto, tal como se acha registado na nota 
+explicativa existente no final do mesmo, assinada pelo autor desta mesma revisão, M. Montandon, como 
+podemos verificar na FIgura 10. No entanto, apesar da facilidade na compreensão e leitura das palavras 
+devido ao facto de estas estarem percetíveis, deparei-me com aquela que foi a minha maior dificuldade 
+na realização desta primeira transcrição, que foi o idioma.  O facto do documento se encontrar em 
+Francês mostrou ser um desafio, visto que possuía conhecimentos ele mentares da língua e muitas das 
+palavras ou não percebia ou desconhecia. A linguagem utilizada também era antiga e cada autor tem a 
+sua forma de escrever e este caso não é exceção. Por exemplo, ao escrever “e” que em francês é “et”, 
+o autor utilizava “&”. Sempre que encontrava uma palavra que não entendia ou tinha dúvidas  sobre a 
+forma correta de escrever a palavra em francês, assinalava as respetivas palavras  a amarelo no 
+documento Word e mais tarde questionava o Dr. Oguey.   
+  
+FIgura 9 
+Primeira página do Inventaire de l'Ancien Régime de Peseux 
+FIgura 10 
+Nota explicativa por parte do autor da revisão feita ao 
+Inventaire de Peseux, M. Montandon 
+
+17 
+ 
+ Por outro lado, a segunda transcrição que realizei foi do “ Inventaire raisonné des Grandes 
+Archives de la Ville de Neuchâtel”, também denominado de “Inventaire Chambrier”, do século XVIII, que 
+é um documento visivelmente mais antigo, sendo visível pela capa do mesmo, representado na FIgura 
+11. A primeira página onde consta o título deste segundo documento é de fácil leitura e compreensão, 
+como podemos ver pela  FIgura 12, sendo notório o cuidado do autor em estruturar o documento de 
+forma clara, os títulos das secções sublinhados e em tamanho visivelmente maior, e de escrever de 
+forma legível. Nesta transcriç ão, apesar de ter sido mais complicado decifrar as palavras devido à 
+degradação do documento e ao facto de a escrita não ser tão percetível como podemos ver na  FIgura 
+14, a compreensão das palavras foi mais fácil pois já estava mais familiarizado com a língua francesa e 
+já tinha tido a prática da primeira transcrição.   
+  
+FIgura 11 
+Capa do Inventaire Chambrier 
+FIgura 12 
+Primeira página do Inventaire Chambrier 
+
+18 
+ 
+Através da FIgura 13 e da FIgura 14 podemos fazer uma comparação entre a escrita do 
+Inventaire de Peseux e o Inventaire Chambrier, e a dificuldade que encontrei na transcrição do segundo. 
+É visível que na FIgura 13 temos um texto mais legível, com uma escrita mais cuidada, com uma 
+divisão do texto por linhas, o que facilita a leitura do documento . Na FIgura 14 temos um documento 
+visivelmente mais degradado, escrito com uma letra bastante pequena, folha não pautada , tendo 
+somente uma linha que divide o título da peça do seu conteúdo, tal como o facto de as palavras presentes 
+no verso serem visíveis, o que torna a leitura muito mais complicada. 
+Devido a esta dificuldade na leitura do texto, a segunda transcrição foi bastante demorada e 
+acabou por transmitir a sensação de que o meu trabalho estava a ser lento, pois sentia que estava preso 
+naquela transcrição há demasiado tempo, mas quando terminei esta transcrição foi possível perceber o 
+grande contributo dado aos Archives com este trabalho pelas palavras de agradecimento dirigidas pelo 
+Dr. Oguey.  
+  
+FIgura 13 
+Excerto de uma página do Inventaire de Peseux 
+FIgura 14 
+Excerto de uma página do Inventaire Chambrier 
+
+19 
+ 
+Ambas as transcrições seguiram a norma ISAD(G), seguindo a estrutura apresentada na FIgura 
+15. De acordo com esta norma, há uma ordem hierárquica que se segue:  existe um fundo, constituído 
+por um conjunto de documentos, seguido de séries e cada uma destas séries tem associada a si 
+diferentes dossiers compostos por diferentes pièces, como podemos ver na FIgura 13 que apresenta 
+uma página do Inventaire de Peseux.  
+  
+FIgura 15 
+Modelo hierárquico da norma ISAD(G) 
+
+20 
+ 
+Esta experiência de poder realizar diferentes transcrições, de diferentes épocas, sendo o primeiro 
+manuscrito do século XIX e o segundo do ano de 1790, século XVIII, e poder também fazê -las numa 
+língua diferente tornou-a ainda mais enriquecedora para conso lidar as minhas competências de edição 
+de documentos manuscritos, assim como a minha capacidade em interpretar e analisar documentos, 
+tanto os mais recentes como os mais antigos. 
+  
+
+21 
+ 
+3.2 Digitalização de documentos 
+A digitalização de documentos é o processo de converter documentos físicos, como documentos em 
+papel, fotografias ou microfilmes, em formato digital. Este processo é realizado por meio de equipamento 
+e ferramentas de OCR ( Optical Character Recognition ) como o que podemos ver na  FIgura 16, ou 
+câmaras digitais de alta resolução e envolve a criação de arquivos eletrónicos que representam uma 
+réplica digital do documento original. Há várias vantagens associadas à digitalização de documentos, 
+como, por exemplo, a acessibilidade e a partilha de documentos, tornando-os disponíveis para consulta. 
+A digitalização de documentos também reduz a necessidade de espaço de armazenamento físico, 
+problema enfrentado por muitas bibliotecas e arquivos; os documentos digitais podem ser facilmente 
+copiados e armazenados, o que ajuda a proteger contra perdas devido a desastres naturais, incêndios 
+ou danos físicos; a própria pesquisa em documentos digitalizados é muito mais rápida e eficiente do que 
+a pesquisa em documentos físicos, porque em muitos dos casos podemos simplesmente pesquisar um 
+termo especifico, como uma palavra chave ou metadados, e são-nos automaticamente apresentadas as 
+ocorrências da(s) palavra(s) pesquisada(s) na barra de pesquisa.  
+  
+FIgura 16 
+Aparelho utilizado para a digitalização de documentos 
+nos Archives 
+
+22 
+ 
+Este tipo de documentos digitalizados muitas vezes pode ser melhorado por meio de técnicas de 
+processamento de imagem, tornando -os mais legíveis, especialmente no caso de documentos antigos 
+ou deteriorados, o que foi o caso dos Carnets de Caisse (Cadernos de Registo de Contas), como o que 
+vemos na FIgura 17, imagem tirada aquando da digitalização, e na FIgura 18, que nos dá uma melhor 
+perceção do estado do documento. A digitalização de documentos também contribui para a 
+sustentabilidade, reduzindo a necessidade de papel e recursos associados à produção e manutenção de 
+documentos físicos, pois a preservação do original é de extrema importância no caso de documentos 
+históricos. Posto isto, tive a oportunidade de digitalizar diferentes documentos , mais especificamente 
+registos de contas do final do século XVII, compreendidos entre os anos de 1658 e 1681, utilizando um 
+scanner da marca alemã Zeutschel, que possuía diversas funcionalidades para a digitalização dos 
+documentos, tal como escolher se esta deveria ser a cores ou a preto e branco, se queríamos digitalizar 
+o documento na totalidade, ou apenas o lado esquerdo ou direito do documento, podendo ainda recortar 
+a imagem que fora digitalizada.  
+  
+FIgura 17 
+Digitalização em curso 
+FIgura 18 
+Lombada do Carnet de Caisse do início de 1659 até fevereiro 
+de 1671 
+
+23 
+ 
+A este aparelho conectava-se um dispositivo USB, de forma a guardar as digitalizações, que eram 
+de imediato guardadas em formato PDF, como podemos ver na FIgura 19 e na FIgura 20. A partir da 
+digitalização destes diferentes livros de registo de conta s foram retiradas algumas páginas, como o 
+exemplo que podemos ver na  FIgura 20, escolhidas pelo Dr. Oguey, que posteriormente foram 
+utilizadas para os seus alunos universitários realizarem a tarefa de transcrição do conteúdo dessas 
+páginas para avaliação.  
+  
+FIgura 19 
+Digitalização da capa do Carnet de Caisse 
+FIgura 20 
+Página 4 do Carnet de Caisse 
+
+24 
+ 
+Além da digitalização destes documentos referidos acima, também foi realizada a digitalização 
+de algumas fotografias antigas, como por exemplo a fotografia na FIgura 21, que representa um novo 
+plano para o porto do Neuchâtel. No ano de 1890, foi a concurso públic o a construção de um novo 
+edifício para o porto  de Neuchâtel, tendo sido submetidas duas candidaturas. No entanto, não houve 
+vencedor do concurso, tendo os proponentes recebido Menção Honrosa por parte da Cidade de 
+Neuchâtel. Nenhum dos dois planos foi utilizado, visto que foi decidido sediar naquele local os correios 
+da cidade, La Poste. A digitalização e consequente preservação de documentos, neste caso iconográficos 
+complementados com documentos textuais, permite rastrear e entender decisões tomadas no passado 
+e que tiveram impacto na (re)construção da Cidade.  
+  
+FIgura 21 
+Um dos planos apresentados para o novo edifício do Porto de Neuchâtel 
+
+25 
+ 
+3.3 Sistema de organização e pesquisa de documentos 
+A criação de um novo sistema de organização e pesquisa de documentos foi -me pedida pelo 
+responsável, Grégoire Oguey, visto que o arquivista anterior, Olivier Girardbille, não utilizava um sistema 
+específico de localização. De modo a facilitar a procura dos documentos por parte do Dr. Oguey e de 
+futuros colaboradores dos Archives, criei então um novo sistema de organização e pesquisa de 
+documentos em conjunto com o responsável. 
+A realização desta tarefa, a criação de um novo sistema de localização e pesquisa de 
+documentos, revelou-se bem mais simples do que aquilo que inicialmente foi pensado, pois as minhas 
+propostas revelaram-se mais elaboradas do que aquilo que era pretendido. Podemos ver na FIgura 22 
+um esboço de um dos planos apresentados ao Dr. Oguey e na  FIgura 23 o esboço das etiquetas, no 
+entanto não possuo exemplos, nem imagens dos planos que foram propostos e realizados no Excel.   
+  
+FIgura 22 
+Esboço de um dos planos de organização de documentos 
+apresentados ao Dr. Oguey 
+FIgura 23 
+Esboço do design das etiquetas utilizadas para a 
+organização dos documentos 
+
+26 
+ 
+Um dos sistemas apresentados foi o Dewey Decimal Classification System (DDC), que é utilizado 
+pela maioria das bibliotecas. O sistema de Dewey faz uma divisão de todo o conhecimento em 10 grupos 
+principais, sendo que para cada grupo são designados 100 números. O primeiro grupo, do 000 -099, 
+Geral; 100-199, Filosofia e Psicologia; 200-299, Religião; 300-399, Ciências Sociais; 400-499, Línguas; 
+500-599; 600 -699, Ciências Aplica das; 700 -799, Artes; 800 -899, Literatura; 900 -999, Geografia e 
+História. Estes 10 grupos encontram-se divididos em subgrupos de temas mais específicos. No entanto, 
+não era este o tipo de sistema que o Dr. Oguey pretendia. 
+Assim sendo, em conjunto com ele e consoante aquilo que me pedia, chegamos à conclusão de 
+que o melhor sistema para os Archives era a colocação de etiquetas em cada fileira das estantes com a 
+identificação do piso e o número da estante, tal como podemos ver nos esboços de etiquetas 
+apresentadas na FIgura 23. Em seguida, procedi à contagem das prateleiras que iam precisar de uma 
+etiqueta em todos os pisos do edifício. 
+Após decidirmos qual o melhor design para as etiquetas, procedemos à impressão das mesmas 
+na papelaria Cighélio, que se encontrava nas imediações do edifício dos Archives e de seguida iniciou-se 
+o processo apresentado na FIgura 24, o recorte das etiquetas.   
+  
+FIgura 24 
+Processo de recorte das etiquetas utilizando um X-ato 
+
+27 
+ 
+Quando terminei, proced i à afixação das etiquetas nas estantes utilizando um agrafador de 
+pressão, e isto foi feito ao longo de todo o edifício, em todos os pisos onde existiam estantes com 
+documentos. Finda esta tarefa de colocação das etiquetas, procedi à alteração da localiza ção dos 
+documentos no sistema interno dos Archives, o ETIC que continha a localização de todos os arquivos 
+existentes no interior e exterior do edifício. Este processo foi bastante demorado, visto que envolveu 
+conferir todos os documentos em cada prateleira e confirmar que a localização que constava no sistema 
+correspondia à localização efetiva do documento na estante. No caso de não se verificar correspondência, 
+apontava o número de série desse documento num caderno e posteriormente conferia em conjunto com 
+o arquivista anterior, Olivier Girardbille, o local correto do documento. Não tive a oportunidade de alterar 
+a localização de todos os documentos até ao final do estágio. Na FIgura 25 e na FIgura 26 podemos 
+ver as etiquetas já afixadas em dois níveis diferentes.  
+  
+FIgura 25 
+Etiqueta afixada numa prateleira no Nível 1 
+FIgura 26 
+Etiqueta afixada numa prateleira no Nível das 
+Escadas 
+
+28 
+ 
+A divisão dos arquivos é feita por N1 (Niveau 1)  para o rés -do-chão; para as escadas é 
+simplesmente um E de Escaliers; N2 (Niveau 2) para o primeiro andar onde se e ncontra a sala dos 
+armários movéis e que dá acesso direto ao piso seguinte; N3 (Niveau 3) para o segundo andar. Antes de 
+iniciar esta parte final da tarefa, questionei o Dr. Oguey acerca de qual seria o melhor local para começar 
+e foi-me pedido que começasse pelo local que podemos ver na FIgura 27, as Escadas (E). De seguida 
+passei para a sala dos armários móveis, em que apenas tive que fazer a alteração nas prateleiras 
+existentes por baixo das escadas que faziam ligação ao piso superior, mas não possuo fotografias desse 
+local, tendo em conta que não é acessível ao público.  No local apresentado na  FIgura 27, os 
+documentos não se encontravam todos disponíveis no sistema ETIC, visto que a maioria são arquivos do 
+foro privado. No entanto, consegui realizar a alteração da localização de todos os doc umentos que 
+constavam no sistema ETIC.  
+  
+FIgura 27 
+Local onde se encontra o Nível das Escadas 
+
+29 
+ 
+3.4 Organização e revisão de livros de contas 
+Aquando de um período de férias do Dr. Oguey, e após ter terminado todas as tarefas que me 
+tinham sido solicitadas, foi-me pedido por parte do senhor Girardbille que revisse e organizasse livros de 
+contas. 
+Posto isto, foram-me fornecidos os Grandes Livros de Contas que continham os livros de contas 
+de um certo período , entre os anos de 1984 e 1996, com a exceção de 1992 e 1993, de  diferentes 
+áreas como finanças, atividades militares, saúde, etc. No entanto apenas tratei dos livros de contas do 
+setor desportivo da cidade, que referiam o orçamento atribuído para aquele ano, o dinheiro que foi gasto, 
+os setores do desporto financiados e o orçamento que restou. Estes livros de contas encontram -se 
+divididos por subtemas, sendo que eram numerados 1.1, 1.2, 1.3. 
+A revisão destes livros tinha como principal objetivo confirmar que todas as folhas presentes em 
+cada capa correspondiam ao ano registado na capa, visto que em alguns casos estas eram 
+correspondentes a outros anos e era necessário colocá-las na capa correta. Posteriormente, organizava 
+todas as folhas pertencentes a um determinado ano numa capa cinza como a da FIgura 28, no entanto, 
+no caso de se tratar de apenas uma folha num dos subtemas colocava numa capa amarela como a da 
+FIgura 29.  
+  
+FIgura 28 
+Capa cinza utilizada na organização dos 
+documentos 
+FIgura 29 
+Capa amarela utilizada na organização dos 
+documentos 
+
+30 
+ 
+Seguidamente, juntava todas as capas relativas ao ano em questão  que eram guardadas num 
+dossier devidamente identificado, e, em seguida, colocava a informação num ficheiro Excel que continha 
+uma tabela onde especificava a quantidade de capas cinzentas e amarelas utilizadas para cada um dos 
+Grandes Livros de Contas e a cor das mesmas, tal como o ano relativo a cada uma dessas capas, de 
+modo a ficar tudo registado no sistema. Após terminar a tarefa, o ficheiro Excel foi enviado ao senhor 
+Girardbille. Não disp onho de nenhuma fotografia desta tarefa, visto que toda a informação presente 
+nestes livros de contas é privada e pertencente à Cidade de Neuchâtel. 
+  
+
+31 
+ 
+3.5 Exercício de evacuação de documentos com a Proteção Civil 
+De acordo com a informação no website oficial da proteção civil Suíça «La structure de la protection 
+civile repose sur 5 domaines d’activité: l'aide à la conduite, l'appui technique, l'assistance, la logisti que 
+et la protection des biens culturels.»7 Uma área de importância é a de proteção dos bens culturais. 
+Entre os dias 10 e 12 de maio decorreu em colaboração com a  Proteção dos Bens Culturais,  
+Protection des Biens Culturels, um exercício de evacuação de documentos em caso de uma catástrofe 
+natural ou um incêndio. No entanto, a fase inicial deste exercício deu-se no dia 8 de maio, em que o Dr. 
+Oguey, o senhor Girardbille e eu nos dirigimos para o local que ia receber os documentos que iam ser 
+evacuados, o Depôt de Suchard, e estivemos a reorganizar a disposição dos documentos de forma a 
+abrir espaço para colocar os arqui vos que iam ser transportados, sendo que este outro local se 
+encontrava ao lado do Arquivo numa sala, maioritariamente composta por armários móveis, pertencente 
+ao Museu de História Natural de Neuchâtel, onde os Archives de Neuchâtel possuem alguns armários 
+nos quais estão armazenados documentos e objetos; posto isto, no dia 10 de maio iniciou-se uma outra 
+fase na qual os responsáveis da proteção civil e aqueles que iam realizar este exercício vieram assistir a 
+uma pequena palestra efetuada pelo Dr. Oguey na sala de leitura, dando a conhecer a todos de que 
+forma funcionava o Arquivo e fazendo também uma visita guiada às instal ações, como podemos ver na 
+FIgura 30 e na FIgura 31.   
+  
+                                                           
+7 “A proteção civil Suíça é um dos 5 parceiros do sistema coordenado de proteção da população da Suíça. A estrutura da proteção civil baseia-se em 5 
+áreas de atividade: apoio à liderança, apoio técnico, assistência, logística e proteção dos bens culturais.” https://www.protection-civile.ch/pci/index.php 
+FIgura 30 
+Momento da pequena palestra dirigida por Grégoire 
+Oguey 
+FIgura 31 
+Grégoire Oguey a apresentar as maquetes históricas à 
+Protection des Biens Culturels (PBC) 
+
+32 
+ 
+Após a visita às  instalações, foi criado o plano de evacuação em conjunto com os superiores da 
+proteção civil que se encontravam presentes para supervisionar este exercício . Posteriormente o Dr. 
+Oguey tratou de o finalizar, especificando os documentos que iriam ser transportados para outro local, 
+seguindo uma ordem de importância, sendo que os mais importantes eram os primeiros a ser evacuados 
+e só após esta primeira fase estar terminada se seguia a evacuação dos restantes . Importa referir que 
+todos os documentos estavam numerados pela ordem de saída . Na sexta feira, di a 12, deu -se então 
+início a este exercício por volta das 9h da manhã locais (8h em Portugal), tendo o Dr. Oguey e eu estado 
+a preparar tudo para a chegada da proteção civil ; assim que estes chegaram, começaram de imediato 
+a descarregar o seu material, des de computadores a comida para o lanche e almoço; após tudo estar 
+pronto foi realizada uma divisão pelos superiores da proteção civil que formaram grupos de duas pessoas 
+para os envolvidos no exercício, de modo que a tarefa fosse bem executada com a máxima organização. 
+Na FIgura 32 e na FIgura 33 podemos ver o exercício já em andamento, com dois membros da PBC 
+a proteger os documentos com um plástico e a transportar os mesmos sob a supervisão do seu chefe, 
+Arnaud Besso n, doutorado em História Antiga  pela Faculdade de Letras e Ciências Humanas da 
+Universidade de Neuchâtel.  
+  
+FIgura 32 
+Dois membros da PBC a cobrir os documentos 
+com um plástico para os proteger 
+FIgura 33 
+Dois membros da PBC a realizar o transporte de documentos 
+
+33 
+ 
+ Após o transporte dos primeiros documentos, realizou -se a habitual pausa da manhã, durante 
+a qual pudemos todos conviver antes de continuarmos a operação e ficarmos a conhecer as pessoas. A 
+minha função ao  longo deste exercício foi monitorizar e dar ajuda aos senhores da proteção civil, de 
+modo que tudo corresse bem e de uma forma bem organizada, tal como podemos ver na FIgura 34 e 
+na FIgura 35, em que está o Dr. Oguey e eu a confirmar que os documentos estavam a ser colocados 
+pela ordem correta, cuidado esse que também os elementos da proteção civil estavam a ter, tendo 
+acontecido só por uma vez a troca das caixas que transportavam os documentos. Após a primeira fase 
+estar completa, realizou-se a pausa para o almoço; a segunda fase do exercício foi bastante mais rápida, 
+e cerca de uma hora depois já tínhamos terminado de transportar todos os documentos de forma segura 
+e com tudo organizado. Reunimo-nos todos no edifício do Arquivo com o Dr. Arnaud Besson, que proferiu 
+umas palavras de agradecimento ao Dr. Oguey e a mim por toda a ajuda fornecida na realização deste 
+exercício, que caracterizou como tendo sido um sucesso. 
+  
+FIgura 34 
+Alexandre Paço, Grégoire Oguey e 3 elementos da proteção 
+civil no local destinado aos documentos 
+FIgura 35 
+Grégoire Oguey a confirmar a ordem dos documentos 
+
+34 
+ 
+No final da palestra, prosseguiu-se com a arrumação de todo o material utilizado, mas não sem 
+antes ser tirada mais uma foto, para registo, de todos os elementos da proteção civil e do Dr. Oguey, tal 
+como podemos ver na FIgura 36. No final de tudo, o Dr. Oguey e eu tratamos da arrumação de todo o 
+espaço dentro do arquivo e procedemos também à limpeza do mesmo. 
+ Esta experiência foi realmente muito enriquecedora, e foi algo que me deu bastante gosto 
+realizar, pois foi possível ter uma perceção exata de como tudo funciona na evacuação de documentos 
+de um Arquivo em conjunto com a proteção civil e como estes exercícios são de extrema importância 
+para que, em contexto real de uma catástrofe, a operação de evacuação corra com a melhor precisão e 
+organização possíveis..  
+  
+FIgura 36 
+Elementos da PBC envolvidos no exercício e Grégoire Oguey 
+
+35 
+ 
+3.6 Visita às instalações do Arquivo de Peseux e do Arquivo de Corcelles 
+Desde o final da minha primeira transcrição relativa ao Inventário do Antigo Regime de Peseux que 
+me foi dito pelo Dr. Oguey que eventualmente ir íamos visitar as instalações de Peseux , tendo visitado 
+também as instalações d e Corcelles-Cormondrèche. Esta visita foi realizada na companhia do senhor 
+Girardbille. 
+ O Arquivo de Peseux encontra -se localizado num espaço de pequena dimensão, mas bem 
+organizado, com armários móveis devidamente identificados, facilitando a procura dos documentos. Por 
+sua vez, o Arquivo de Corcelles encontra -se num espaço mais amplo, que exibia, em algumas secções 
+onde os documentos ainda não estavam nas prateleiras, alguma desorganização. 
+Foram também criadas etiquetas para estas dua s instalações, de modo a facilitar a procura dos 
+documentos, no entanto, não cheguei ao ponto de as colocar e fazer as alterações no sistema ETIC , tal 
+como foi realizado em Neuchâtel no edifício do arquivo. 
+  
+FIgura 37 
+Edifício onde se encontra localizado o Arquivo de Peseux 
+
+36 
+ 
+4. Desafios durante o estágio 
+Ao longo deste estágio, encontrei diferentes desafios, no entanto, já tinha tido a oportunidade de 
+realizar anteriormente algumas das tarefas propostas, como é o caso da edição (semi)diplomática de 
+documentos, competências adquiridas nas aulas de Património Textual: Texto e Cultura do Mestrado em 
+Humanidades Digitais, com a Professora Anabela Leal Barros, do Departamento de Estudos Portugueses 
+e Lusófonos. 
+O verdadeiro desafio ao longo destes 3 meses de estágio foi o de superar a barreira linguística, pois 
+eu possuía apenas competências elementares do francês e, tendo em conta que era um idioma que eu 
+já não praticava há alguns anos, apesar de visitar a Suíça anualmente, não tinha a necessidade de o 
+utilizar pois havia sempre alguém comigo que dominava a língua. No entanto, tendo em conta as minhas 
+dificuldades, o Dr. Oguey fazia questão de falar de uma forma mais moderada e clara, de modo que eu 
+conseguisse entender aquilo que ele me dizia, tal como o faziam a Maeva Hulmann, a estagiária, e o 
+senhor Girardbille, pelo menos numa fase inicial, pois com o passar do tempo foi sendo cada vez mais 
+fácil comunicar com eles. 
+Um outro desafio com o qual me deparei foi no âmbito da digitalização de documentos mais antigos 
+e em mau estado de conservação, uma vez que é necessário manuseá-los, nomeadamente abri-los, com 
+o máximo de cuidado para os poder digitalizar. Este constrangimento obrigou à digitalização página a 
+página, não sendo possível digitalizar frente e verso ao mesmo tempo. Foi, assim, necessário selecionar 
+a opção de digitalizar à direita ou à esquerda, e após isso, recortar a página, pois era obrigado a segurar 
+no livro, de modo que a digitalização ficasse com as páginas bem visíveis e legíveis. 
+Um out ro aspeto que posso considerar desafiante foi a criação do sistema de organização dos 
+documentos do Arquivo, porque apesar de o resultado ter sido simples de implementar, a tarefa exigiu 
+pensar e repensar sistemas de organização que melhor podiam servir a organização dos arquivos em 
+questão. Neste processo verificou-se um diálogo constante com o Dr. Oguey. 
+  
+
+37 
+ 
+5. Conclusão 
+ A minha experiência no Arquivo da Cidade de Neuchâtel proporcionou -me uma visão valiosa sobre 
+a preservação de património municipal e a comp lexidade da preservação digital. Durante este período, 
+participei numa variedade de atividades que já foram referidas e recebi ainda um certificado de trabalho 
+referente a todas as tarefas que realizei a pedido do Dr. Oguey, documento anexo a este relatório. 
+ A edição e transcrição de documentos revelou-se um processo essencial para garantir a legibilidade 
+e acessibilidade de registos históricos. Além disso, a digitalização de documentos desempenha um papel 
+fundamental na criação de cópias digitais, facilit ando a consulta e a preservação a longo prazo. Estas 
+atividades destacaram a importância de manter o equilíbrio entre a preservação dos originais e a 
+acessibilidade dos registos digitalizados. A participação no exercício com a proteção civil foi, sem dúvida 
+alguma, a melhor experiência ao longo dos três meses de estágio. Foi uma experiência que destacou a 
+necessidade de planeamento e preparação para cenários de emergência que podem ameaçar o 
+património presente no Arquivo, neste caso. Esta atividade enfatiz ou a importância da existência de 
+equipas de resposta a desastres e a necessidade de treino contínuo para garantir a segurança dos 
+documentos e a continuidade das operações dentro do Arquivo. 
+ As visitas a outras instalações de Arquivos proporcionaram -me uma visão mais ampla e diferente 
+da forma como o Arquivo funciona em diferentes locais e da importância e organização dada aos 
+mesmos. No arquivo de Peseux os documentos eram fáceis de encontrar utilizando o software ETIC, 
+devido à sua organização, ao contr ário do de Corcelles, em que a procura dos documentos era mais 
+demorada e complicada devido à falta de organização do mesmo. 
+ A implementação do novo sistema de organização e pesquisa de documentos promete melhorar 
+significativamente a acessibilidade e a e ficiência na procura de documentos dentro do Arquivo. Este 
+sistema reflete o compromisso dos Archives de Neuchâtel em inovar e otimizar as suas práticas, tendo 
+sido esta uma das principais mudanças levadas a cabo no seio do Arquivo por parte do Dr. Oguey. 
+ De uma forma geral, a experiência no Arquivo da Cidade de Neuchâtel foi enriquecedora, foi possível 
+perceber a verdadeira importância da preservação digital, realçou o papel fundamental que os arquivos 
+municipais desempenham na conservação da história e d a cultura de uma comunidade, neste caso o 
+património municipal da Cidade de Neuchâtel, tal como o património do foro privado. Foi ainda possível 
+perceber quão imperativa é a implementação de novas práticas e técnicas de preservação à medida que 
+os métodos tecnológicos evoluem, salvaguardando a longevidade dos documentos. Refiram -se, a título 
+
+38 
+ 
+de exemplo, as centenas de cassetes microfilme que já estavam também armazenadas nos arquivos, 
+pois já não eram utilizadas, devido à existência de um equipamento de OCR, que permite ter uma melhor 
+resolução e qualidade, de modo que este património seja transmitido às gerações futuras. 
+ A minha participação neste estágio, e em todas estas tarefas, permitiu enriquecer o meu 
+conhecimento da área da preservação digital e, o mais importante, ter contacto direto com o mundo da 
+Arquivística: o que significa trabalhar nesta área, conhecer metodologias e métodos, problemas e 
+desafios que se colocam.  
+
+39 
+ 
+6. Bibliografia 
+Afonso, A. (2022). O que é a Preservação Digital? E qual a sua importância?  FCCN. Consultado a 
+14 de abril de 2023. https://www.fccn.pt/noticias/preservacao-digital/  
+Archives de l’État de Neuchâtel (AEN) - République et canton de Neuchâtel. (s.d.). Consultado a 31 
+de março de 2023. https://www.ne.ch/autorites/DESC/SCNE/archives-etat/Pages/accueil.aspx 
+Arquivo Municipal de Oeiras. (s.d.). Consultado a 27 de setembro de 2023. 
+https://www.oeiras.pt/arquivo-municipal 
+Associação Portuguesa de Bibliotecários, Arquivistas, Profissionais da Informação e Documentação 
+(BAD). Grupo de trabalho de Arquivos Municipais (2023). Consultado a 25 de maio de 2023. 
+https://bad.pt/organizacao/grupos-trabalho/gt-arquivos-municipais/  
+Bluteau, R. (1712-1728). Vocabulario Portuguez e Latino. Letra A. Internet Archive. 
+https://archive.org/details/RaphaelBluteauVocabulPortuguezLatinoLetraA/page/n583/mode/2up 
+Britannica, T. Editors of Encyclopaedia (2023, 2 de maio). Dewey Decimal Classification. 
+Encyclopedia Britannica. https://www.britannica.com/science/Dewey-Decimal-Classification 
+Freitas, C., Borges, M. M., & Revez, J. (2017). Archives’ call to Digital Humanities. Association for 
+Computing Machiney Digital Library. Consultado a 23 de maio de 2023. 
+https://doi.org/10.1145/3144826.3145383 
+Gago, A. B. (2021, 7 de junho). Arquivos de família: organizar, preservar, divulgar [Apresentação 
+PowerPoint]. Consultado a 27 de abril de 2023. https://www.cim-
+altominho.pt/fotos/editor2/cimaltominho/gca/39ce1c87_a461_48c6_8911_7c00b8211c27.pdf 
+International Council on Archives (ICA). Consultado a 5 de maio de 2023. https://www.ica.org/ 
+International Council on Archives. ISAD(G): General International Standard Archival Description. 
+Second edition. (s.d.). Consultado a 5 de maio de 2023. https://www.ica.org/en/isadg-general-
+international-standard-archival-description-second-edition 
+
+40 
+ 
+International Council on Archives. What are archives? (s.d.).Consultado a 20 de abril de 2023 
+https://www.ica.org/en/what-
+archive#:~:text=Archives%20are%20the%20documentary%20by,direct%20window%20on%20past%20eve
+nts  
+Les Archives de la Ville de Neuchâtel. (s.d.). Consultado a 31 de março de 2023. 
+https://www.neuchatelville.ch/etudier/archives-de-la-ville/les-archives-role-et-histoire  
+Município de Esposende. Esposende abriu novo Arquivo Municipal. (s.d.). 
+https://www.municipio.esposende.pt/pages/717?news_id=6122 
+Portail des archives neuchâteloises. (s.d.). Consultado a 31 de março de 2023. 
+https://www.archivesne.ch/ 
+Strobino, M. (s.d.). La protection civile en Suisse. Consultado a 3 de outubro de 2023. 
+https://www.protection-civile.ch/pci/index.php 
+  
+
+41 
+ 
+7. Anexos 
+7.1 Anexo 1: Certificado do Estágio 
+Certificado de Trabalho pela Ville de Neuchâtel, assinado pelo Diretor dos Archives de Neuchâtel, 
+Grégoire Oguey e pelo Chefe do Serviço de Recursos Humanos, Françoise Riem-Vis.  
+FIgura 38 
+Certificat de Travail pela entidade acolhedora, Archives de la Ville de Neuchâtel

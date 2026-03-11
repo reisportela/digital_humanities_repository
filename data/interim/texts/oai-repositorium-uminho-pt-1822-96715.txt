@@ -1,0 +1,894 @@
+Universidade  do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+Joana da Silva Santos 
+Transformação  Digital em Museus: Visita Virtual 
+e Modelação 3D de Artefactos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maio de 2025 
+Transformação Digital em Museu: 
+Visita Virtual e Modelação 3D de Artefactos Joana da Silva Santos UMinho | 2025 
+
+ 
+
+
+ 
+ 
+Universidade  do Minho 
+Escola de Letras, Artes e Ciências Humanas 
+ 
+ 
+ 
+ 
+ 
+ 
+Joana da Silva Santos 
+Transformação Digital em  Museus: Visita Virtual e 
+Modelação 3D de Artefactos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatório de Estágio Mestrado  em Humanidades 
+Digitais 
+ 
+Trabalho  efetuado sob a orientação  do Professor  
+Doutor Luís Gonzaga Magalhães e Professor  
+Telmo Adão 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+maio de 2025 
+
+
+Despacho RT - 31 /2019 - Anexo 3 
+Declaração a incluir na Tese de Doutoramento (ou equivalente) ou no trabalho de Mestrado 
+ 
+DIREITOS DE AUTOR E CONDIÇÕES DE UTILIZAÇÃO DO TRABALHO POR TERCEIROS 
+ 
+Este é um trabalho académico que pode ser utilizado por terceiros desde que respeitadas as 
+regras e boas práticas internacionalmente aceites, no que concerne aos direitos de autor e 
+direitos conexos. 
+Assim, o presente trabalho pode ser utilizado nos termos previstos na licença abaixo indicada. 
+Caso o utilizador necessite de permissão para poder fazer um uso do trabalho em condições não 
+previstas no licenciamento indicado, deverá contactar o autor, através do RepositóriUM da 
+Universidade do Minho. 
+ 
+ 
+Atribuição-NãoComercial-SemDerivações CC 
+BY-NC-ND 
+https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+
+AGRADECIMENTOS 
+ 
+Em primeiro lugar, gostaria de expressar a minha profunda gratidão ao meu orientador, 
+Luís Gonzaga Magalhães, pela orientação e apoio ao longo deste projeto. Tal como ao professor 
+Telmo Adão, cujo conhecimento e conselhos foram fundamentais para a concretização deste 
+trabalho. 
+Aos meus colegas e amigos, especialmente à Diana, à Marta e ao Marcos deixo o meu 
+mais sincero obrigado pelo apoio emocional e pela colaboração ao longo deste percurso. A 
+partilha de ideias e o encorajamento mútuo fizeram deste desafio uma experiência mais leve e 
+gratificante. 
+Deixo um agradecimento especial a toda a equipa do Museu de Arqueologia D. Diogo de 
+Sousa, pela disponibilização de recursos e apoio técnico, o que permitiu a realização dos 
+estudos práticos deste projeto. A todos os funcionários e colaboradores, o meu muito obrigado 
+pela ajuda e pelo ambiente acolhedor. 
+
+DECLARAÇÃO DE INTEGRIDADE 
+ 
+Declaro ter atuado com integridade na elaboração do presente trabalho académico e 
+confirmo que não recorri à prática de plágio nem a qualquer forma de utilização  indevida ou 
+falsificação de informações ou resultados em nenhuma das etapas conducente à sua elaboração. 
+Mais declaro que conheço e que respeitei o Código de Conduta Ética da 
+Universidade do Minho. 
+
+RESUMO 
+ 
+Num contexto em que o metaverso se consolida como uma nova fronteira digital,  os 
+museus ampliam o seu alcance ao abraçar tecnologias imersivas e plataformas digitais para 
+chegar a públicos mais amplos e diversificados, até numa perspetiva inclusiva. Essa extensão ao 
+digital não só democratiza o acesso ao património, como também convida a uma reflexão nas 
+dinâmicas para a preservação cultural, um dos grandes pilares dessas instituições. Mais 
+concretamente, através da digitalização avançada com  recurso a  tecnologias de  inspeção e 
+recolha de dados do ambiente, cada artefacto  é eternizado no seu estado atual, garantindo que 
+este possa ser estudado com ressalva a sua integridade e perpetuação de valor histórico, 
+permitindo uma difusão mais ampla e segura do conhecimento. Essa prática não só resguarda 
+os acervos da suscetibilidade de deterioração/dano, mas, também, transforma a experiência 
+museológica, permitindo que a apreciação do património transcenda as barreiras físicas e 
+temporais, sendo que o intervalo de observadores passa a integrar mais do que especialistas e 
+estudiosos, podendo também abranger entusiastas ou visitantes que pretendam obter 
+conhecimento histórico-cultural. 
+Com estes assuntos em foco, o presente relatório tem como objetivo relatar o trabalho  
+de estágio realizado no museu de arquitetura D. Diogo de Sousa em Braga, com início no dia 6 de 
+fevereiro de 2024 e término no dia 27 de junho de 2024. 
+Este projeto focou -se na criação de uma experiência museológica digital para o Museu 
+de Arqueologia D. Diogo de Sousa, incorporando técnicas de modelação 3D e fotogrametria para 
+a digitalização de artefactos e  do espaço físico do  museu. Tal  como, o uso de tecnologias 
+imersivas como a Realidade Virtual (VR) para desenvolver um "digital  twin" do museu,  
+possibilitou-se a exploração virtual  de coleções de património, tornando  o conteúdo acessível a 
+um público mais amplo e superando barreiras  físicas e geográficas. O projeto teve como 
+propósito pôr em prática os conhecimentos e competências adquiridas no Mestrado em 
+Humanidades Digitais, bem como aprimorá-los. 
+PALAVRAS-CHAVE Humanidades Digitais, Realidade virtual (RV), Digital Museu Digital, Museu 
+Virtual, Fotogrametria 
+
+ABSTRACT 
+ 
+In a context where the metaverse is consolidating itself as a new digital frontier, 
+museums are extending their reach by embracing immersive technologies and digital platforms to 
+reach wider and more diverse audiences, even from an inclusive perspective. This  extension to 
+digital not only  democratizes access to heritage but  also invites reflection on the dynamics of 
+cultural preservation, one of the great pillars of these  institutions. More specifically, through 
+advanced digitization using environmental inspection and data collection technologies, each 
+artefact is eternalized in its current state, ensuring that it can be studied with due regard for its 
+integrity and perpetuation of historical value, allowing for a wider and safer dissemination of 
+knowledge. This practice not only protects collections from susceptibility to deterioration/damage, 
+but also transforms the museum experience, allowing the appreciation of heritage to transcend 
+physical and temporal barriers, and the range of observers to include more than specialists and 
+scholars, but also enthusiasts or visitors wishing to gain historical and cultural knowledge. 
+With these issues in mind, this report aims to describe the internship work carried out at  
+the D. Diogo de Sousa Museum of Architecture in Braga, starting on February 6, 2024, and 
+ending on June 27, 2024. 
+This project focused on creating a digital museum experience for the D. Diogo Sousa 
+Museum of Archaeology. Diogo de Sousa Archaeology Museum, incorporating 3D modelling and 
+photogrammetry techniques to digitize artefacts and the museum's physical space. As well as 
+using immersive technologies such as Virtual Reality (VR) to develop a “digital twin” of the 
+museum, virtual exploration of heritage collections was made possible, making the content 
+accessible to a wider audience and overcoming physical and geographical barriers. The purpose 
+of the project was to put into practice the knowledge and skills acquired in the Master's Degree in 
+Digital Humanities, as well as to improve them. 
+ 
+KEYWORDS Digital Humanities, Virtual Reality (VR), Digital Museum, Virtual Museum, 
+Photogrammetry 
+
+ÍNDICE 
+1 Introdução .......................................................................................................................... 1 
+1.1 Motivação e Objetivos .................................................................................................... 2 
+1.2 Estrutura do Relatório .................................................................................................... 2 
+2 Enquadramento Teórico ...................................................................................................... 3 
+3 Entidade de Acolhimento .................................................................................................. 10 
+3.1. Plano de Trabalho ....................................................................................................... 10 
+3.2. Temáticas desenvolvidas ............................................................................................. 10 
+4 Materiais, métodos e implementação ................................................................................ 13 
+4.1 Conservação digital de artefactos ................................................................................. 13 
+4.1.1 Fotogrametria com Agisoft Metashape ............................................................................. 13 
+4.1.2 Objetivo de Preservação .................................................................................................. 14 
+4.2 Modelação e desenvolvimento de um digital twin do museu .......................................... 14 
+4.2.1 Modelação do Museu ...................................................................................................... 14 
+4.2.2 Técnicas de Modelação ................................................................................................... 14 
+4.2.3 Exportação para Unity ..................................................................................................... 15 
+4.2.4 Interatividade e Navegação .............................................................................................. 15 
+4.2.5 Posicionamento de Artefactos no Digital Twin ................................................................... 15 
+4.2.6 Objetivo do Digital Twin ................................................................................................... 15 
+5 Resultados ....................................................................................................................... 17 
+5.1 Modelação 3D de artefactos ........................................................................................ 17 
+5.2 Criação do Museu Virtual ............................................................................................ 19 
+6 Considerações finais e trabalho futuro ............................................................................... 23 
+6.1 Trabalho futuro – integração de IA para interação personalizada ................................... 24 
+6.2 Trabalho futuro – reconhecimento e assistentes de voz com IA ..................................... 24 
+Referências bibliográficas ......................................................................................................... 26 
+Anexos .................................................................................................................................... 28 
+
+ÍNDICE DE FIGURAS 
+ 
+Figura 1 - A Realidade e Virtualidade ......................................................................................... 3 
+Figura 2 - Dreams of Dalí: Virtual Reality at The Dalí Museum ..................................................... 6 
+Figura 3 - Processo de Fotogrametria......................................................................................... 7 
+Figura 4 - Fluxograma de Tarefas ........................................................................................... 11 
+Figura 5 - Vaso 3D Utilizando Agisoft ....................................................................................... 17 
+Figura 6 - Jarro 3D Utilizando Agisoft ....................................................................................... 18 
+Figura 7 - Scan 3D de Estela Funerária .................................................................................... 19 
+Figura 8 - Scan 3D de Marco Miliário ....................................................................................... 19 
+Figura 9 - Recriação do Museu em 3D ..................................................................................... 19 
+Figura 10 - Recriação do Piso Inferior do Museu....................................................................... 21 
+Figura 11 - Recriação do Piso Superior do Museu..................................................................... 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+1  
+1 Introdução 
+ 
+O presente relatório de  estágio insere-se no âmbito do Mestrado em Humanidades Digitais 
+da Universidade do Minho. Tem por objetivo demonstrar as competências adquiridas não só ao 
+longo do estágio curricular, cuja realização foi feita durante o segundo semestre do segundo ano, 
+mas também colocar em prática todo o conteúdo aprendido ao longo do mestrado. 
+Com o avanço do metaverso como uma nova dimensão digital, os museus expandem seu  
+alcance ao adotar tecnologias imersivas e plataformas virtuais para alcançar audiências 
+mais amplas e diversificadas, promovendo uma abordagem inclusiva. Essa transição para o 
+digital não apenas democratiza o acesso ao patrim ónio, mas também incentiva a uma revisão 
+das práticas de preservação cultural, um dos principais propósitos  deste tipo de  
+instituições. Através de tecnologias avançadas de digitalização e captura de dados ambientais, 
+cada artefacto é imortalizado no seu estado atual, assegurando sua conservação e permitindo 
+um estudo seguro e abrangente de seu valor histórico. Dessa forma, o conhecimento pode ser 
+difundido de maneira mais ampla e segura.  Essa prática não só mantém a integridade  dos 
+acervos, mas também redefine  a experiência museológica, permitindo que a apreciação do 
+património cultural vá além das limitações físicas e temporais, abrangendo não apenas 
+especialistas e estudiosos, mas também entusiastas e visitantes em busca de enriquecimento 
+histórico e cultural. Com  estes tópicos em mente – i) digitalização do espaço 
+museológico e ii) preservação  da herança cultural de artefactos via –, preferiu-se a 
+realização da dissertação  em formato projeto de estágio, dado que a recriação digital de 
+museus representa uma oportunidade única para explorar as potencialidades da transformação 
+digital no setor cultural. Este projeto permitiu a aplicação prática de técnicas inovadoras, como a 
+modelação 3D e a fotogrametria, proporcionando uma experiência imersiva no 
+mundo dos museus digitais. 
+A área de trabalho do presente relatório foca a transformação digital em museus, uma vez 
+que é um tema que se alinha com os meus interesses pessoais e académicos, além de ser uma 
+área em crescente relevância no panorama tecnológico e cultural. Assim, o desenvolvimento do 
+projeto focou -se na recriação do Museu de Arqueologia D. Diogo de Sousa em 3D, e na 
+modelação 3D de artefactos do museu, através de técnicas de fotogrametria. 
+
+2  
+O Museu de Arqueologia D. Diogo de Sousa preserva, documenta, valoriza e divulga a 
+história da ocupação humana no território do Noroeste de Portugal. As exposições incluem 
+coleções desde a pré-história até à época romana, destacando a história de Braga como Bracara 
+Augusta, a única capital de província romana em Portugal. Aberto à comunidade, o museu apoia 
+arqueólogos, investigadores e estudantes,  constituindo um espaço de conhecimento, trabalho e 
+fruição para todos os públicos. Com esta missão em mente, o museu pretende promover a 
+acessibilidade, a inclusão e a divulgação cultural, contribuir para o aumento do conhecimento e 
+promover a investigação de materiais arqueológicos. 
+ 
+1.1 Motivação e Objetivos 
+Deste modo, ao longo do projeto, foram realizadas duas tarefas principais: a recriação do 
+espaço do museu em ambiente digital 3D, proporcionando uma visita virtual  ao mesmo, e  a 
+modelação de artefactos arqueológicos  utilizando fotogrametria, permitindo a preservação e 
+visualização detalhada dos mesmos em formato digital. A implementação dessas tarefas teve 
+como objetivo não só a preservação digital do património cultural, mas também a criação de 
+novas formas de interação e acessibilidade ao acervo do museu. 
+Os objetivos principais deste relatório centram -se na análise dos desafios e oportunidades 
+que a transformação digital oferece aos museus, com especial enfoque na recriação digital de 
+espaços e objetos através de ferramentas 3D. Assim, será realizada uma reflexão sobre os 
+processos técnicos e criativos envolvidos, assim como uma discussão sobre o impacto dessas 
+inovações na preservação e divulgação do património cultural. 
+ 
+1.2 Estrutura do Relatório 
+O presente relatório encontra -se dividido em quatro capítulos principais: o capítulo dedicado 
+ao enquadramento teórico, onde será explorada a transformação digital em museus e as 
+técnicas de modelação 3D para preservação e acessibilidade cultural; o capítulo dedicado ao 
+desenvolvimento do projeto, onde será detalhado o processo de recriação  do Museu de 
+Arqueologia D. Diogo de Sousa e a modelação 3D dos artefactos; o capítulo de desafios e soluções 
+onde irão ser analisados os principais desafios técnicos e práticos enfrentados no 
+desenvolvimento do projeto; e, finalmente, o capítulo conclusivo, que incluirá reflexões sobre as 
+aprendizagens obtidas e as competências desenvolvidas ao longo do projeto. 
+
+3  
+2 Enquadramento Teórico 
+ 
+A Realidade Aumentada (RA) é uma tecnologia que aprimora o ambiente real ao nosso redor, 
+sobrepondo conteúdos gerados por computador [Hantono et al., 2018]. Empresas utilizam RA 
+para aumentar a segurança dos funcionários por meio de simulações de treinamento virtual e 
+para visualizar o funcionamento de equipamentos antes mesmo de sua fabricação. 
+Por outro lado, a Realidade Virtual (RV) é uma inovação tecnológica avançada que 
+transformou a forma como experimentamos e interagimos com ambientes digitais [Velev & 
+Zlateva, 2017]. A utilização de ambientes virtuais, nomeadamente a realidade virtual (RV) nos 
+museus, tem um papel a desempenhar no reforço da participação dos visitantes através de 
+experiências imersivas. 
+ 
+Figura 1- A Realidade e Virtualidade 
+
+4  
+A Figura 1 ajuda a entender como tecnologias de RA e RV podem variar na sua imersão  e 
+uso de elementos reais e virtuais, fornecendo uma base teórica para classificar experiências em 
+diferentes graus de imersão. Tal como pode ser observado no Continuum de Milgram e Kishino 
+(1994): 
+• Realidade: O ponto inicial do continuum é o mundo real, onde não há elementos virtuais 
+adicionados. 
+• Realidade Aumentada (RA): Nesta fase intermediária, elementos digitais são sobrepostos 
+ao ambiente real. A RA mantém o ambiente físico predominante, mas inclui camadas de 
+conteúdo virtual. 
+• Virtualidade Aumentada (VA): Ao contrário da RA, a VA é maioritariamente um ambiente 
+virtual com alguns elementos do mundo real incorporados. Embora menos comum, é 
+uma extensão teórica que representa o oposto da RA no continuum. 
+• Realidade Virtual (RV): No extremo oposto, a RV imerge completamente o usuário em um 
+ambiente gerado por computador, sem nenhuma perceção direta do ambiente físico 
+real. 
+As pessoas podem aproveitar os sistemas de realidade virtual para vivenciar experiências 
+imersivas e memoráveis que, de outra forma, não teriam. A realidade virtual (RV) possibilita que 
+os indivíduos explorem museus de maneira interativa, ao invés de apenas ler e observar 
+infográficos. Assim, é possível visitar museus virtualmente,  mesmo sem estar fisicamente 
+presente, tornando a realidade virtual uma alternativa interessante para o turismo, especialmente 
+em ambientes museológicos. [Khan et al., 2023] 
+Além disso, a realidade virtual também pode democratizar o acesso à cultura, permitindo que 
+pessoas de diversas partes do mundo, incluindo aquelas que não têm condições de viajar, tenham 
+acesso a experiências culturais ricas. Isso pode ampliar o público dos museus, atraindo tanto os 
+entusiastas de arte quanto aqueles que buscam educação  e lazer de maneira acessível e 
+envolvente. Com o avanço da tecnologia, essas experiências  estão a tornar-se cada vez mais 
+sofisticadas, que ajudam a captar e manter a atenção do público. 
+Já existem várias iniciativas onde a interação com o público tenta ser melhorada. Como pode 
+ser visto numa colaboração entre a Universidade de Tecnologia de Lublin, na  Polónia, e os 
+museus de Samarcanda, que envolve a digitalização 3D de artefactos e o desenvolvimento de 
+uma exposição virtual interativa [Żyła, et al., 2020]. 
+
+5  
+A proposta do projeto foi desenvolver uma exposição em RV que complementasse as  
+exibições físicas dos museus da Rota da Seda, particularmente para promover acesso remoto a 
+um património disperso ao longo de milhares de quilômetros. As etapas do projeto incluíram a 
+digitalização de artefactos museológicos por meio de scaneamento 3D,  a construção de um 
+ambiente virtual  usando o motor gráfico Unity  e a aplicação do SDK de VR do Google para 
+smartphones Android. O estudo incluiu dois grupos: profissionais de museus e jovens adultos da 
+Geração Z, com o intuito de compreender diferentes perspetivas sobre a aceitação da RV como 
+meio de acesso ao património cultural. Entrevistas com os profissionais museológicos revelaram 
+um interesse em usar VR  como complemento às exposições tradicionais, mas com uma 
+preferência geral pela experiência física. O grupo de jovens adultos relatou alta satisfação ao 
+explorar a exposição virtual, no entanto, 52% dos inquiridos afirmaram que preferiam a forma 
+tradicional de ver uma exposição. 
+Podemos afirmar que a RV é uma ferramenta valiosa para expandir o alcance dos museus,  
+aumentando o interesse dos visitantes, especialmente entre os mais jovens. No entanto, destaca-
+se que a VR deve ser usada como uma extensão, e não um substituto das exposições 
+tradicionais. 
+Os museus têm adotado inovações digitais de forma crescente para melhorar o acesso  às 
+suas coleções  e promover experiências  mais ricas e  dinâmicas. Isso  inclui não só a 
+disponibilização de imagens em alta resolução e descrições detalhadas dos itens, mas também a 
+criação de plataformas interativas e outras ferramentas digitais. A inovação não se limita apenas 
+à exposição dos itens, mas também na forma como o público interage com eles. 
+Um exemplo disso é a colaboração entre o Museu Salvador Dalí e a Walt Disney, que resultou 
+na criação de um ambiente de realidade virtual baseado numa pintura de Salvador Dalí. 
+Os visitantes, tanto físicos quanto digitais, podem experimentar uma versão em RV dessa 
+obra, mergulhando num espaço totalmente virtual inspirado na estética  do artista [T. Navarrete, 
+2019]. Este exemplo é particularmente relevante para ilustrar  como a RV pode transformar uma 
+obra de arte bidimensional numa experiência envolvente e tridimensional, que permite aos 
+visitantes "entrar" no mundo surrealista do artista 
+
+6  
+ 
+Figura 2- Dreams of Dalí: Virtual Reality at The Dalí Museum (retirado de YouTube) 
+ 
+ 
+O conceito de museu digital vai além de simplesmente colocar informações sobre exposições 
+ou coleções num site. Trata-se de criar uma experiência imersiva e acessível para um público 
+global, oferecendo um espaço virtual que complementa ou até substitui a visita física. 
+Trabalhos encontrados na literatura sugerem que as experiências imersivas de RV 
+influenciam positivamente o envolvimento dos visitantes e são mais eficazes quando integram 
+elementos educativos e de entretenimento [Lee et al., 2020]. 
+Entre os objetos digitais que podem ser incluídos numa RV para museus estão os artefactos 3D, 
+que podem ser digitalizados, contribuindo também para a preservação do património cultural. Os 
+modelos digitais fornecem uma forma de conservação, particularmente  para itens frágeis ou 
+suscetíveis a fatores ambientais. A criação de espaços virtuais que exibem coleções de 
+museus utilizando fotogrametria 3D e modelação 3D por computador. 
+Estes ambientes proporcionam uma plataforma para visualizar e interagir com artefactos 
+culturais de uma forma que não seria possível num ambiente físico [Loaiza Carvajal et al., 2020]. 
+
+7  
+ 
+Figura 3- Processo de Fotogrametria 
+ 
+ 
+A fotogrametria, conforme discutido no artigo de Remondino F. et al. [2011], é uma técnica 
+importante para o registo e modelação tridimensional de objetos e sítios patrimoniais. Esta 
+tecnologia utiliza sensores óticos de sensoriamento remoto, capturando dados visuais que são 
+processados para gerar modelos 3D detalhados de estruturas, objetos e paisagens, tal como 
+pode ser visto na figura 3. 
+A técnica utiliza imagens capturadas por dispositivos como câmaras digitais. Posteriormente, 
+essas imagens são processadas para gerar modelos 3D detalhados, aplicáveis em várias áreas, 
+incluindo documentação histórica, preservação digital, simulações de desgaste e envelhecimento, 
+além de serem usadas em exposições de museus. 
+
+8  
+Em Kuçak et al., (2016), é apresentada uma avaliação exaustiva da fotogrametria em 
+comparação com a digitalização laser terrestre. A principal vantagem da fotogrametria reside na 
+sua capacidade de gerar superfícies geométricas detalhadas de objetos arquitetónicos e sítios do 
+património cultural. 
+Os scanners 3D são também alternativas adequadas, não só para a reconstrução digital de 
+artefactos, mas também para a inclusão, como demonstrado por Montusiewicz  et al., [2022], 
+que envolveram uma etapa de impressão 3D com o objetivo de criar protótipos textualmente fiéis 
+para serem tocados por participantes cegos/deficientes visuais. 
+Além disso, a utilização de scanners 3D e impressão 3D abre portas para uma nova forma 
+de interação com o património cultural. Ao criar réplicas táteis de artefactos museológicos, 
+museus podem expandir sua acessibilidade e inclusão, permitindo que um público mais amplo, 
+com diferentes necessidades, possa ter uma experiência enriquecedora e educativa. Esse 
+processo não se limita apenas a exposições físicas. Réplicas digitalizadas podem ser integradas a 
+experiências virtuais, oferecendo ainda mais oportunidades de envolvimento, como visitas 
+interativas online para aqueles que não podem visitar os museus pessoalmente [David 
+Monaghan et al., 2011]. 
+Os benefícios dessa tecnologia vão além da acessibilidade sensorial. Ao recriar cópias 
+precisas dos artefactos, as instituições também podem garantir que  seus acervos  sejam 
+preservados, mitigando os riscos de danos aos objetos originais durante exposições ou 
+manuseios. Isso fortalece as iniciativas de conservação do património cultural, enquanto permite 
+experiências educacionais interativas e inclusivas. Desta forma, a integração de scanners 3D 
+com tecnologias como a impressão 3D se mostra uma ferramenta essencial para a preservação 
+e democratização do acesso ao património histórico e artístico. 
+O uso da modelação 3D tem vindo a ganhar relevância em vários setores, como a indústria 
+mobiliária, ao tornar o processo de design mais ágil e preciso. Na prática, a modelação 3D 
+permite que designers criem e testem virtualmente móveis complexos antes do fabrico, 
+eliminando erros que poderiam surgir em fases posteriores e economizando material ao reduzir a 
+necessidade de protótipos físicos [Adão, T. et al., 2019]. A transposição destes princípios para o 
+contexto de museu poderá impactar positivamente no tipo ent idades subjacentes, que, além dos 
+métodos de conservação digital já amplamente explorados [L. Carvajal, 2020], adquirem a 
+capacidade de representação virtual (3D) ubíqua (através da Internet) e, portanto, um maior 
+alcance ao seu público-alvo. 
+
+9  
+A possibilidade de ajustar detalhes e realizar simulações acelera a criação de novos 
+produtos, que podem ser modificados e aperfeiçoados em tempo real conforme as necessidades 
+dos consumidores e as tendências do mercado. 
+As tecnologias emergentes, como a Realidade Aumentada (RA), a Realidade Virtual (RV), a 
+digitalização 3D e  a modelação 3D, têm revolucionado o acesso e a preservação do património 
+cultural, ampliando a acessibilidade e a inclusão em ambientes museológicos. Estas ferramentas 
+complementares permitem a criação de experiências interativas e educativas que vão além da 
+exibição física, oferecendo alternativas inovadoras e atraentes para um público global. Além 
+disso, ao facilitar a conservação digital e a reprodução precisa de artefactos históricos, essas 
+tecnologias fortalecem a preservação  cultural, assegurando que o património se mantenha 
+acessível para futuras gerações e promovendo novas formas de aprendizagem. 
+
+10  
+3 Entidade de Acolhimento 
+Inaugurado em 2007, o Museu de Arqueologia D. Diogo de Sousa dedica -se à preservação, 
+valorização e mediação do património arqueológico da região norte de Portugal. 
+O espólio do museu reflete a ocupação humana no norte de Portugal, com uma vasta gama de 
+artefactos que abrange desde o Paleolítico até à Idade Média. Merece especial destaque  o 
+conjunto proveniente das escavações na cidade romana de Bracara Augusta. 
+Além da sua coleção nacional, o museu dispõe de uma coleção internacional, fruto da 
+doação Bühler -Brockhaus, que contribui para a compreensão da relação entre o território 
+peninsular e o mundo mediterrânico na Antiguidade Clássica. 
+ 
+3.1. Plano de Trabalho 
+O estágio foi realizado durante um período de quatro meses, desde fevereiro até junho de 
+2024 no museu D. Diogo de Sousa. Este foi realizado sob a orientação de Óscar Santos. 
+Conforme o plano de trabalho estabelecido, as tarefas iniciais concentraram-se na 
+digitalização de artefactos, utilizando técnicas de fotogrametria para a criação de modelos 3D. 
+Este processo envolveu a captura de imagens de artefactos no estúdio de fotografia do museu, 
+equipado com luzes profissionais, garantindo assim a máxima qualidade  e detalhe dos modelos 
+3D. Durante esta  fase, foram realizadas  reuniões com a equipa do museu para a escolha e 
+deslocação dos artefactos das vitrines para o estúdio. 
+Na segunda fase do estágio, o foco foi a construção de uma experiência de visita virtual, 
+que permitisse aos utilizadores explorar o museu digitalmente. 
+ 
+3.2. Temáticas desenvolvidas 
+Ao longo do projeto, foi possível observar que este se dividiu em duas grandes áreas de 
+atuação: A criação de uma versão digital do museu e a modelação 3D de artefactos. 
+A primeira metade do projeto concentrou -se na digitalização de artefactos museológicos, 
+utilizando técnicas de fotogrametria para a criação de modelos 3D precisos. Além da captura de 
+imagens em alta resolução, houve um trabalho de pós - processamento dos modelos, garantindo 
+que os artefactos digitalizados pudessem ser utilizados tanto para conservação digital quanto 
+para exibições virtuais. 
+
+11  
+Na segunda metade do projeto, o foco esteve no desenvolvimento e implementação de 
+um sistema de visitas virtuais ao museu, com ênfase na criação de um gêmeo digital para 
+simular o ambiente museológico de forma interativa. Foi neste período  que se modelaram 
+digitalmente os espaços do museu, permitindo que o público interagisse com o património 
+cultural, independentemente de limitações físicas ou geográficas. Além disso, houve um esforço 
+significativo no desenvolvimento de experiências de Realidade Virtual (RV). Implementou -se um 
+sistema de navegação dentro do museu virtual, com uma configuração de controladores de 
+personagem e câmaras otimizadas para simular movimentos e visões realistas. 
+ 
+ 
+Figura 4- Fluxograma de Tarefas 
+ 
+Para promover a inclusão socioeconômica, geográfica e de acessibilidade, os museus 
+devem ampliar o seu alcance para pessoas que desejam visitá -los, mas enfrentam barreiras que 
+impedem essa experiência. Os gêmeos digitais, que criam réplicas  virtuais dos espaços 
+museológicos, podem ajudar a superar esse obstáculo ao configurar metaversos semelhantes a 
+museus. Esses ambientes virtuais podem ser explorados através de experiências de RV, 
+proporcionando acesso imersivo ao património cultural. Essas extensões digitais não apenas 
+democratizam o acesso ao património, mas também demonstram o potencial das tecnologias 
+modernas na preservação e promoção dos bens culturais. Ao adotar essas inovações, os museus 
+podem alcançar um público mais amplo, oferecendo experiências inclusivas e enriquecedoras 
+para a comunidade. 
+
+12  
+A conservação digital de artefactos utiliza técnicas de fotogrametria para criar modelos 
+3D precisos de itens de património cultural. Esse método envolve capturar várias fotos de um 
+artefacto a partir de diferentes ângulos e usar software para construir uma representação digital 
+detalhada. No entanto, o pós -processamento é fundamental para garantir a qualidade desses 
+modelos. Processos de limpeza, refinamento  e melhorias são necessários para aperfeiçoar os 
+scans iniciais, removendo quaisquer  imperfeições e aprimorando a fidelidade dos modelos 
+digitais. Essas réplicas digitais de alta qualidade têm diversos propósitos. Elas permitem a 
+criação de catálogos completos para especialistas estudarem, preservando detalhes inestimáveis 
+de artefactos que podem se deteriorar com o tempo. Além disso, esses modelos digitais  podem 
+ser disponibilizados ao público, permitindo que os usuários visualizem e interajam com os 
+artefactos online. Isso não só amplia o alcance do património cultural, mas também fornece 
+uma ferramenta de aprendizado interativa para fins educacionais, tornando a história e a cultura 
+acessíveis a um público global. 
+Em suma, a conservação digital de artefactos através da fotogrametria não só garante a  
+preservação visual e  estrutural de  itens culturais, como também democratiza o acesso ao 
+património. Estes modelos 3D de alta precisão facilitam tanto o estudo aprofundado por 
+especialistas quanto o envolvimento de um público global que pode interagir virtualmente com as 
+peças. Assim, esta abordagem enriquece a experiência  educativa e museológica, superando os 
+limites físicos e temporais que muitas vezes restringem o acesso a tais coleções. 
+Dando seguimento a este enquadramento, o próximo capítulo irá abordar em detalhe  os 
+materiais e métodos de implementação utilizados  no projeto, explorando as ferramentas e 
+técnicas que permitiram a criação do museu virtual e a digitalização dos artefactos, desde o uso 
+do software Unity até aos processos de modelação e desenvolvimento 3D. 
+
+13  
+4 Materiais, métodos e implementação 
+Neste capítulo, são  descritos os materiais, métodos e processos de implementação 
+utilizados para a criação de uma visita virtual ao museu e a conservação digital dos seus 
+artefactos. O projeto foi desenvolvido com o objetivo de criar uma réplica digital interativa e 
+detalhada do espaço  físico, proporcionando uma experiência imersiva para os  utilizadores, com 
+foco na preservação do património cultural. Abaixo, detalham-se as metodologias utilizadas, os 
+equipamentos e os softwares implementado para alcançar estes objetivos. 
+ 
+4.1 Conservação digital de artefactos 
+A conservação digital dos artefactos visou criar representações virtuais precisas e 
+acessíveis, que podem ser exploradas pelos utilizadores na visita virtual. Para a digitalização, 
+inicialmente utilizei um scanner 3D cedido pelo museu. Contudo, os resultados obtidos com o 
+scanner não foram satisfatórios em termos de detalhes e precisão necessários para uma 
+experiência de realidade aumentada. Em alternativa, utilizei o processo de fotogrametria com o 
+software Agisoft Metashape. 
+ 
+4.1.1 Fotogrametria com Agisoft Metashape: 
+O processo de fotogrametria começou com a captura de imagens de alta resolução de 
+cada artefacto, realizadas no estúdio de fotografia do museu, onde se garantiram condições de 
+iluminação adequadas para maximizar a qualidade das fotografias.  Cada artefacto foi capturado 
+de vários ângulos, assegurando uma cobertura abrangente com sobreposição significativa entre 
+as imagens adjacentes. 
+As imagens foram, então, importadas para o Agisoft Metashape, onde o software realizou o 
+alinhamento inicial das fotografias. Com o alinhamento bem-sucedido, foram geradas nuvens de 
+pontos densas para cada artefacto, o que permitiu acrescentar um nível detalhado de precisão 
+aos modelos. Posteriormente, estas nuvens de pontos densas  foram convertidas em malhas, 
+oferecendo uma representação fiel das formas e texturas dos artefactos sem necessidade de pós-
+processamento adicional. 
+
+14  
+4.1.2 Objetivo de Preservação 
+A digitalização dos artefactos permitiu criar uma base virtual acessível, promovendo  a 
+preservação digital e possibilitando a consulta e exploração dos mesmos no contexto da visita 
+virtual. Esta abordagem não só contribui para a conservação dos objetos históricos como 
+também proporciona aos visitantes uma experiência envolvente e enriquecedora ao explorar 
+artefactos com elevados níveis de realismo e detalhe. 
+ 
+4.2 Modelação e desenvolvimento de um digital twin do museu 
+Para criar uma réplica digital fiel do museu, foi desenvolvida um “digital twin” do espaço 
+físico. Este processo envolveu a modelação detalhada dos dois pisos do museu e a disposição 
+das exposições, garantindo uma reprodução precisa dos elementos arquitetónicos e uma 
+experiência interativa para os utilizadores. 
+ 
+4.2.1 Modelação do Museu 
+A modelação tridimensional do museu foi  realizada no Fusion 360,  um software de  
+design assistido por computador (CAD) conhecido pela sua precisão e capacidade de lidar com 
+projetos complexos. O ponto de partida para a modelação foram as plantas físicas do museu, 
+que foram digitalizadas e convertidas em formato vetorial (SVG) através de inteligência artificial, 
+com o vectorizer.ai. Este processo de vetorização permitiu obter uma base fiel da planta do 
+museu, mantendo todos os detalhes arquitetónicos essenciais. 
+Utilizando o ficheiro SVG como referência, foram modelados os dois pisos do museu, 
+apenas onde se encontram os espaços de exposição. O objetivo foi criar uma estrutura 
+tridimensional exata, respeitando as proporções e características reais do edifício, para que a 
+experiência virtual fosse o mais próxima possível da realidade. 
+ 
+4.2.2 Técnicas de Modelação 
+Para criar o modelo 3D, foram utilizadas várias técnicas de modelação no Fusion 360: 
+Extrusão: Esta técnica foi usada para levantar as paredes e outras superfícies verticais a 
+partir da planta vetorizada, criando a estrutura básica do museu. 
+Manipulação de Vértices e Arestas : Para garantir precisão, os vértices e arestas dos 
+modelos foram ajustados conforme necessário, refinando os detalhes das paredes e das divisões. 
+
+15  
+Essas técnicas permitiram criar uma representação fiel da arquitetura do museu, 
+adequada para a integração em ambientes digitais e preparação para uma experiência imersiva. 
+ 
+4.2.3 Exportação para Unity 
+Após concluir a modelação no Fusion 360, o modelo foi exportado para Unity, um  motor 
+de desenvolvimento de jogos e aplicações interativas. No Unity, o modelo foi adaptado  com 
+texturas para aumentar o realismo visual. Utilizei texturas da Unity Asset Store, escolhendo 
+materiais que recriam visualmente os pisos, paredes e outros elementos  arquitetónicos do 
+museu. Essa personalização visual foi essencial para que o ambiente virtual tivesse um aspeto 
+autêntico e permitisse uma experiência imersiva para o utilizador. 
+ 
+4.2.4 Interatividade e Navegação 
+Para permitir que os utilizadores explorem o museu virtualmente, implementei um  
+Character Controller no Unity, configurado para uma navegação em primeira pessoa. Utilizando  
+um script de PlayerMovement, os utilizadores podem controlar o movimento do personagem com 
+as teclas direcionais e a rotação da câmara com o rato, permitindo uma exploração intuitiva do 
+espaço. 
+Para garantir uma experiência de navegação controlada e realista, foram adicionados 
+Colliders a todas as paredes e objetos no museu. Estes Colliders impedem que o utilizador 
+atravesse superfícies, proporcionando uma experiência mais natural e realista.  O sistema de  
+controlo do Unity e o uso de Colliders asseguram que o utilizador interaja com o espaço virtual de 
+forma semelhante à interação no museu físico. 
+ 
+4.2.5 Posicionamento de Artefactos no Digital Twin 
+Para enriquecer a experiência, alguns dos artefactos digitalizados foram posicionados  no 
+ambiente virtual do museu nos locais correspondentes às suas posições físicas. Com isto, o 
+visitante virtual pode explorar os objetos como se estivesse a caminhar pelo museu, observando 
+as peças nas mesmas posições que ocupam no espaço físico. 
+ 
+4.2.6 Objetivo do Digital Twin 
+A criação do “digital twin” do museu teve como objetivo oferecer uma experiência 
+educativa e interativa, facilitando o acesso ao património cultural de forma inovadora. Esta réplica 
+digital permite que utilizadores, independentemente da sua localização ou condições 
+
+16  
+socioeconômicas, explorem o museu e a sua coleção de artefactos sem as restrições físicas. 
+Além disso, oferece um recurso valioso para a conservação digital do património, permitindo que 
+futuras gerações acedam virtualmente ao museu e aos seus artefactos, preservando o legado 
+cultural de forma acessível e duradoura. 
+
+17  
+5 Resultados 
+Neste capítulo, apresentam -se os resultados obtidos no processo de digitalização e criação  
+de modelos 3D dos artefactos museológicos, bem como no desenvolvimento de um museu virtual 
+interativo. O objetivo foi criar uma réplica digital precisa e imersiva do museu, promovendo a 
+acessibilidade ao património cultural e permitindo uma experiência de visita virtual detalhada. 
+ 
+5.1 Modelação 3D de artefactos 
+O uso do Agisoft Metashape para fotogrametria resultou em modelos 3D detalhados e precisos 
+dos artefactos. Os modelos capturaram pormenores superficiais, como visível na Figura 5. 
+ 
+ 
+Figura 5- Vaso 3D Utilizando Agisoft 
+Embora a fotogrametria seja uma ferramenta extremamente poderosa para a digitalização 
+de objetos e ambientes, ela apresenta algumas limitações, especialmente quando se trata de 
+imagens instáveis e com variações de luz e cor. Um dos principais desafios enfrentados durante 
+o uso da fotogrametria é a instabilidade das imagens capturadas. Para que a técnica seja eficaz, 
+é necessário que as imagens tenham uma sobreposição consistente e estejam bem alinhadas. 
+No entanto, se houver qualquer movimento da câmara ou do objeto durante a captura das fotos, 
+isso pode causar distorções e erros nos modelos 3D gerados. Pequenas vibrações na câmara ou 
+mudanças na posição dos objetos podem comprometer significativamente a precisão dos dados 
+capturados. 
+Outro problema relevante é a variação de iluminação. A fotogrametria depende fortemente  da 
+luz para captar detalhes finos dos objetos.  
+Quando há mudanças bruscas na  iluminação entre as fotos capturadas, como sombras 
+intensas, luz solar direta ou luz artificial desigual, isso pode resultar em inconsistências no 
+processamento.
+
+18  
+O software de fotogrametria pode ter dificuldades para identificar corretamente as texturas e 
+superfícies dos objetos, gerando modelos 3D com texturas distorcidas ou até mesmo 
+incompletas, como se pode ver na Figura 6. 
+ 
+Figura 6- Jarro 3D Utilizando Agisoft 
+ 
+ 
+No decorrer do projeto, também foi utilizado um scanner 3D para a captura de 
+artefactos. Durante a digitalização, o scanner foi movido ao redor dos artefactos para  
+capturar vários ângulos. O objetivo era garantir uma cobertura total do objeto, incluindo áreas 
+mais difíceis de alcançar visualmente. Um dos benefícios do scanner 3D é a sua capacidade 
+de captar com precisão a geometria dos objetos, independentemente da  complexidade da 
+superfície. Ao mover o scanner  em torno dos objetos, ele gerou nuvens de pontos 
+extremamente densas, o que permitiu a criação de modelos tridimensionais altamente 
+detalhados. 
+Apesar das vantagens significativas do scanner 3D, foi necessário lidar com o desafio da 
+sensibilidade do equipamento a movimentos bruscos. Qualquer vibração ou deslocamento 
+inesperado do scanner ou do objeto digitalizado gerava erros nos dados, exigindo paciência 
+e estabilidade durante o processo.  Um dos principais problemas enfrentados na utilização 
+de scanners 3D está relacionado à dificuldade em capturar superfícies muito escuras ou 
+com pouca luminosidade, pois absorvem ou transmitem a luz do scanner de maneiras que 
+o software pode não consegue processar corretamente .
+
+19  
+            Figura 7- Scan 3D de Estela Funerária                   Figura 8- Scan 3D de Marco Miliário 
+ 
+Nas figuras 7 e 8 podemos visualizar um modelo de um a estela funerária e de um  marco 
+miliário, ambos  objetos com dimensões bastante grandes.  
+A sua escala e a falta de iluminação dificultaram a captação de imagens. Estes casos mostram  
+bem como as condições do espaço influenciam diretamente o processo de captura de imagens, 
+sobretudo quando não é possível controlar a luz nem movimentar o artefacto. 
+ 
+5.2 Criação do Museu Virtual 
+Um museu virtual foi implementado usando o Unity. Foram modelados em software 3D 
+(Fusion 360) e importados para o Unity, dois andares do museu e as suas respetivas 
+características estruturais, como exposições. 
+ 
+ 
+Figura 9- Recriação do Museu em 3D 
+ 
+ 
+ 
+
+20  
+ 
+Esta etapa incluiu a recriação detalhada das estruturas físicas, desde as paredes, pisos e 
+tetos, até os artefactos e as exposições permanentes do museu. Uma atenção especial foi dada à 
+fidelidade na reprodução dos objetos museológicos, para garanti r que o museu virtual fosse uma 
+representação precisa do ambiente físico real. 
+Uma vez que a modelação 3D foi concluída, todo o conteúdo foi importado para o Unity, 
+onde se iniciou a fase de implementação das interações e da navegação. Para assegurar que os 
+visitantes virtuais pudessem explorar o museu de maneira realista, foram configurados colliders 
+adequados foram configurados tanto para os andares quanto para as exposições, garantindo 
+interações físicas realistas e permitindo navegação suave sem problemas como flutuação ou 
+atravessar paredes. 
+Um controlador de personagem foi configurado para permitir a movimentação realista do 
+usuário dentro do museu. Este controlador permite que o visitante virtual caminhe pelos  andares 
+do museu,  e tenha liberdade para explorar o  espaço como faria em uma visita física. Para 
+implementar esse movimento, foi utilizado um script de controlo de personagem que permite que 
+o jogador se mova de forma realista pelo museu, utilizando as teclas de movimentação para 
+andar em diferentes direções e possibilitando a rotação da câmara através do movimento do 
+rato. 
+Para proporcionar uma experiência ainda mais imersiva, o sistema de câmaras no Unity 
+foi refinado para oferecer uma perspetiva em primeira pessoa, que imita o movimento  e a visão 
+humana de maneira precisa. O movimento da câmara foi vinculado ao movimento do 
+personagem, permitindo que o jogador olhe ao redor e explore cada detalhe  do ambiente, tanto 
+na horizontal quanto na vertical. A visão em primeira pessoa proporciona uma sensação de 
+presença e controle dentro do museu, essencial para experiências de Realidade Virtual. 
+As visitas virtuais permitem que os visitantes explorem o gêmeo digital do museu a 
+qualquer momento e ao seu próprio ritmo. Além disso, este museu em estilo metaverso  visa 
+incentivar mais pessoas a visitar o espaço físico, aumentando o interesse e o envolvimento do  
+público em geral. Para garantir que o ambiente virtual represente visualmente o museu real – 
+como um gêmeo digital –, ainda é necessário dar atenção detalhada às texturas e à estética 
+geral, visando ao realismo. Isso inclui paredes, pisos, tetos e, especialmente, os artefactos e 
+exposições. 
+ 
+
+21  
+ 
+ 
+Figura 10- Recriação do Piso Inferior do Museu 
+ 
+Figura 11- Recriação do Piso Superior do Museu 
+ 
+ 
+Tanto na figura 10 como na figura 11 mostram frames do museu virtual desenvolvido,  
+que apresenta uma visão da sala de exposições do piso inferior e superior do museu, 
+respetivamente. 
+Na figura 11, podemos ver algumas estruturas expositivas com cubos semitransparentes  para 
+representar o vidro, embutidos nas paredes, onde por sua vez, algumas exibem artefactos, como 
+indicado pela leve transparência e contorno de um objeto visível em um dos cubos. 
+Este projeto mostrou como a combinação de fotogrametria, digitalização 3D e modelação pode 
+recriar ambientes e artefactos museológicos de forma envolvente e precisa. A fotogrametria com 
+Agisoft Metashape permitiu capturar os detalhes dos artefactos, ainda que exigisse condições de 
+
+
+22  
+luz e estabilidade bem controladas. Já o scanner 3D captou com exatidão  as geometrias dos 
+objetos, embora tenha encontrado dificuldades em superfícies mais escuras. Por fim, no Unity, a 
+recriação do museu com navegação em primeira pessoa tornou a experiência virtual imersiva e 
+realista, permitindo que os visitantes explorem o espaço à sua maneira. Esta abordagem mostrou -
+se promissora para tornar o património cultural mais acessível e atrativo ao público, promovendo o 
+seu envolvimento de  forma inovadora .
+
+23  
+ 
+6 Considerações finais e trabalho futuro 
+O museu virtual desenvolvido neste projeto representa um avanço significativo na forma  
+como o património cultural pode ser explorado e preservado no contexto digital. A implementação 
+de um gêmeo digital de um museu físico oferece uma oportunidade singular para preservar e 
+disseminar o acervo museológico de maneira inclusiva e inovadora. A combinação de tecnologias 
+de Realidade Virtual com a modelação 3D resultou em um ambiente interativo e imersivo, capaz 
+de despertar o interesse do público e promover a educação de forma eficaz e acessível. 
+Além disso, o projeto demonstra que a digitalização do património cultural pode ser uma 
+solução viável para enfrentar desafios relacionados ao acesso e à preservação. O museu virtual 
+representa uma solução sustentável para garantir o acesso contínuo ao conhecimento  e ao 
+património, independentemente de restrições geográficas ou físicas. 
+À medida que as tecnologias digitais continuam a evoluir, o potencial de expansão deste 
+museu virtual torna-se vasto. A implementação de sistemas de inteligência artificial (IA) poderá 
+transformar o museu em um espaço dinâmico e personalizado, capaz de adaptar -se ao 
+comportamento e às preferências dos usuários, promovendo a acessibilidade e democratização 
+do conhecimento. Com essas inovações, o museu não será apenas um reflexo do passado, mas 
+uma janela para o futuro da educação e da preservação cultural em plataformas digitais. 
+Outro ponto crucial a considerar é a capacidade do museu virtual de evoluir continuamente. 
+Ao contrário dos museus físicos, que estão limitados por espaço físico e recursos materiais, o 
+museu virtual tem potencial para expandir -se indefinidamente, integrando novas exposições, 
+recursos educativos e melhorias técnicas de forma contínua. Esta flexibilidade permite que o 
+museu permaneça constantemente atualizado, garantindo a sua relevância e atratividade a longo 
+prazo. 
+Assim, conclui-se que este projeto não só tem o potencial de ser um modelo de referência  
+para o futuro da museologia e da preservação digital, mas também de redefinir o papel dos 
+museus no século XXI. Ao proporcionar uma experiência acessível, interativa  e globalmente 
+inclusiva, o museu virtual transcende as limitações tradicionais e inaugura uma nova era de 
+envolvimento cultural e educacional.
+
+24  
+O projeto, portanto, posiciona -se como uma ferramenta poderosa para a preservação e 
+disseminação do património cultural  de forma inovadora, inclusiva e adaptada às necessidades e 
+desafios de uma sociedade cada vez mais digital. 
+O museu virtual desenvolvido até o presente momento oferece uma experiência imersiva e 
+acessível, possibilitando que um público mais amplo explore os artefactos e exposições de 
+maneira interativa. No entanto, o projeto pode ser expandido significativamente com a adição de 
+novas funcionalidades e tecnologias emergentes. 
+ 
+6.1 Trabalho futuro – integração de IA para interação personalizada 
+Uma das expansões mais promissoras para o museu virtual é a integração de 
+inteligência artificial para oferecer uma interação mais personalizada e dinâmica com os 
+visitantes. A IA poderia ser implementada em várias frentes, como assistentes virtuais que 
+auxiliam os visitantes durante a exploração do museu. Esses assistentes virtuais, baseados em 
+IA, poderiam responder  a perguntas em tempo real, fornecer explicações detalhadas  sobre os 
+artefactos e até sugerir rotas de visitação com base nas preferências dos usuários. 
+Por exemplo, um assistente virtual poderia acompanhar o visitante e fornecer 
+informações contextuais sobre os artefactos que ele está visualizando. Se o usuário demonstrar 
+interesse em um determinado tema, como artefactos históricos de uma época  específica, a IA 
+poderia sugerir outros itens relacionados dentro do museu virtual. A personalização da experiência 
+aumentaria significativamente o interesse dos visitantes,  proporcionando uma experiência 
+semelhante à de ter um guia pessoal dentro do museu. 
+ 
+6.2 Trabalho futuro – reconhecimento e assistentes de voz com IA 
+Outra implementação futura interessante seria a adição de assistentes de voz baseados 
+em IA, que permitiriam que os visitantes interagissem com o museu usando comandos  de voz. 
+Em vez de navegar pelas exposições através de controles tradicionais, os visitantes poderiam 
+simplesmente fazer perguntas, como "Quais são os artefactos mais  antigos desta coleção?" ou 
+"Conte-me mais sobre este  objeto", e  a IA responderia imediatamente com informações 
+detalhadas, tornando a experiência mais acessível e intuitiva. 
+Essa funcionalidade também contribuiria para a inclusão de pessoas com deficiência 
+motora, que poderiam navegar pelo museu de maneira natural sem a necessidade de interação 
+física direta. O reconhecimento de voz, integrado com IA, também poderia suportar diferentes 
+
+25  
+idiomas, proporcionando uma experiência global e inclusiva para visitantes de diversas origens e 
+culturas.
+
+26  
+Referências bibliográficas 
+ADÃO, T., P ÁDUA, L., M ARQUES, P., S OUSA, J. J., P ERES, E., & M AGALHÃES, L. (2019). 
+Procedural modelling of buildings composed of arbitrarily -shaped floor-plans: Background, 
+progress, contributions and challenges of a methodology oriented to cultural 
+heritage. Computers, 8(2), 38.  
+B. S. HANTONO, L. E. NUGROHO and P. I. SANTOSA. 2018. "Meta-Review of Augmented Reality 
+in Education". 10th International Conference on Information Technology and Electrical 
+Engineering (ICITEE), Bali, Indonesia, pp. 312-315, doi: 10.1109/ICITEED.2018.8534888. 
+DAVID MONAGHAN, JAMES O'SULLIVAN, NOEL E. O'CONNOR, BRIDGET KELLY, OLIVIER 
+KAZMIERCZAK, and LORRAINE COMER, 2011. Low-cost creation of a 3D interactive 
+museum exhibition. In Proceedings of the 19th ACM international conference on 
+Multimedia (MM '11). Association for Computing  Machinery, New York, NY, USA, 823 –
+824. https://doi.org/10.1145/2072298.2072477 
+LEE, H., JUNG, T.H., TOM DIECK, M.C., AND CHUNG, N. 2020. Experiencing immersive 
+virtual  reality  in  museums.  Information  &  Management  57,  5,  103229. 
+KHAN, REHMAN & HAIQAL, ALIFF. (2023). A Framework for Museum Transformation Using AR -
+VR Technologies to Support Tourism, 2454-6194. 
+KUÇAK, R.A., KILIÇ, F., AND KISA, A. 2016. Analysis of terrestrial laser scanning and 
+photogrammetry data for documentation of historical artifacts. The International Archives of 
+the Photogrammetry, Remote Sensing and Spatial Information Sciences XLII -2-W1, 155–
+158. 
+LOAIZA CARVAJAL, D.A., MORITA, M.M., AND BILMES, G.M. 2020. Virtual museums. 
+Captured reality and 3D modelling. Journal of Cultural Heritage 45, 234–239. 
+KANTAROS, A., SOULIS, E., & ALYSANDRATOU, E. (2023). Digitization of ancient artefacts and 
+fabrication of sustainable 3D-printed replicas for intended use by visitors with disabilities: 
+the case of Piraeus archaeological museum. Sustainability, 15(17), 12689. 
+MILGRAM, P.; KISHINO, F. 1994. A Taxonomy of Mixed Reality Visual Displays. IEICE 
+Transactions on Information Systems, E77-D(12):1321-1329. 
+MONTUSIEWICZ, J., BARSZCZ, M., AND KORGA, S. 2022. Preparation of 3D Models of 
+Cultural Heritage Objects to Be Recognised by Touch by the Blind—Case Studies. Applied 
+Sciences 12, 23, 11910. 
+ 
+
+27  
+RAME, R., PURWANTO, P., & SUDARNO, S. (2023). Transforming The Furniture Industry in  The 
+Digital Age. Jurnal Riset Teknologi Pencegahan Pencemaran Industri, 14, 53- 69. 
+REMONDINO, F. (2011). Heritage recording and 3D modelling with photogrammetry and 3D 
+scanning. Remote sensing, 3(6), 1104-1138. 
+TRILCE NAVARRETE (2019) Digital heritage tourism: innovations in museums, World Leisure 
+Journal, 61:3, 200-214, DOI: 10.1080/16078055.2019.1639920 
+VELEV, D., & ZLATEVA, P. 2017. Virtual reality challenges in education and training. 
+International Journal of Learning and Teaching, 3 (1), 33-37. 
+ŻYLA, K., MONTUSIEWICZ, J., SKULIMOWSKI, S. P., & KAYUMOV, R. (2020). VR 
+technologies as an extension to the museum exhibition: A case study of the Silk Road 
+museums in Samarkand. Muzeológia a kultúrne dedičstvo, 8(4), 73-93. 
+
+28  
+Anexos
